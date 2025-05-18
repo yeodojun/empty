@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 4c8eb42ac7be3451dbc6f2d7eb1722de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2115481392406553009
+    second: Lord of the Poisons asp-Spear_0
+  - first:
+      213: 5857371016635905555
+    second: Lord of the Poisons asp-Spear_1
+  - first:
+      213: -2168916307296112668
+    second: Lord of the Poisons asp-Spear_2
+  - first:
+      213: -8306094377077933177
+    second: Lord of the Poisons asp-Spear_3
+  - first:
+      213: -1923773713881959545
+    second: Lord of the Poisons asp-Spear_4
+  - first:
+      213: -752466192222852442
+    second: Lord of the Poisons asp-Spear_5
+  - first:
+      213: -1599266028519319225
+    second: Lord of the Poisons asp-Spear_6
+  - first:
+      213: 1023795538606144751
+    second: Lord of the Poisons asp-Spear_7
+  - first:
+      213: -8035972318480021655
+    second: Lord of the Poisons asp-Spear_8
+  - first:
+      213: 7787303508866609278
+    second: Lord of the Poisons asp-Spear_9
+  - first:
+      213: 7975210366220315625
+    second: Lord of the Poisons asp-Spear_10
+  - first:
+      213: 162305352031427255
+    second: Lord of the Poisons asp-Spear_11
+  - first:
+      213: 5235499555006984893
+    second: Lord of the Poisons asp-Spear_12
+  - first:
+      213: -93104031550014642
+    second: Lord of the Poisons asp-Spear_13
+  - first:
+      213: -8092261905954613018
+    second: Lord of the Poisons asp-Spear_14
+  - first:
+      213: 1910857726397508558
+    second: Lord of the Poisons asp-Spear_15
+  - first:
+      213: -6993977184333101965
+    second: Lord of the Poisons asp-Spear_16
+  - first:
+      213: 4955077696860672811
+    second: Lord of the Poisons asp-Spear_17
+  - first:
+      213: 4663051465894176599
+    second: Lord of the Poisons asp-Spear_18
+  - first:
+      213: 4459939971994523880
+    second: Lord of the Poisons asp-Spear_19
+  - first:
+      213: 495804869500414049
+    second: Lord of the Poisons asp-Spear_20
+  - first:
+      213: 9188872013618798663
+    second: Lord of the Poisons asp-Spear_21
+  - first:
+      213: -5360258994078319704
+    second: Lord of the Poisons asp-Spear_22
+  - first:
+      213: -1810765682540758412
+    second: Lord of the Poisons asp-Spear_23
+  - first:
+      213: -3635650477669147878
+    second: Lord of the Poisons asp-Spear_24
+  - first:
+      213: 4489296979270989957
+    second: Lord of the Poisons asp-Spear_25
+  - first:
+      213: -4963155781608616350
+    second: Lord of the Poisons asp-Spear_26
+  - first:
+      213: 922859605588382798
+    second: Lord of the Poisons asp-Spear_27
+  - first:
+      213: -7804899917693454012
+    second: Lord of the Poisons asp-Spear_28
+  - first:
+      213: -6627224928104839298
+    second: Lord of the Poisons asp-Spear_29
+  - first:
+      213: 8834997060327045618
+    second: Lord of the Poisons asp-Spear_30
+  - first:
+      213: -3106923854405056359
+    second: Lord of the Poisons asp-Spear_31
+  - first:
+      213: 2837147207082052713
+    second: Lord of the Poisons asp-Spear_32
+  - first:
+      213: 5343307297036811423
+    second: Lord of the Poisons asp-Spear_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e98a4c1ec44a2e0800000000000000
+      internalID: -2115481392406553009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316704ce7ef894150800000000000000
+      internalID: 5857371016635905555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef20142c1676e1e0800000000000000
+      internalID: -2168916307296112668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b766feb23dabc80800000000000000
+      internalID: -8306094377077933177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783f4d3fff16d45e0800000000000000
+      internalID: -1923773713881959545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 115
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aae0132cf3be85f0800000000000000
+      internalID: -752466192222852442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1
+        width: 118
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74991c435044ec9e0800000000000000
+      internalID: -1599266028519319225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 12
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbf393e90453e00800000000000000
+      internalID: 1023795538606144751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_8
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9674024b0cd7a7090800000000000000
+      internalID: -8035972318480021655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b52c484f021c60800000000000000
+      internalID: 7787303508866609278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_10
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 2
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2397d293adae60800000000000000
+      internalID: 7975210366220315625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_11
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5af49bdf904200800000000000000
+      internalID: 162305352031427255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_12
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db238ed3b1b38a840800000000000000
+      internalID: 5235499555006984893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_13
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bfd48606a35bef0800000000000000
+      internalID: -93104031550014642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_14
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 15
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e85622dba282bf80800000000000000
+      internalID: -8092261905954613018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbeb3e5afab48a10800000000000000
+      internalID: 1910857726397508558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_16
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37483a87ec660fe90800000000000000
+      internalID: -6993977184333101965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_17
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2357d389e8f3c440800000000000000
+      internalID: 4955077696860672811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_18
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757acf13a9c76b040800000000000000
+      internalID: 4663051465894176599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 14
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89c4656c3e4ed30800000000000000
+      internalID: 4459939971994523880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_20
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1682b74e6e371e600800000000000000
+      internalID: 495804869500414049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_21
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 5
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740e642696e658f70800000000000000
+      internalID: 9188872013618798663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_22
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab7ed148d88c95b0800000000000000
+      internalID: -5360258994078319704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_23
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ab0b0a43eded6e0800000000000000
+      internalID: -1810765682540758412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_24
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b1d0f27239b8dc0800000000000000
+      internalID: -3635650477669147878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_25
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 5
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5887eac31df2d4e30800000000000000
+      internalID: 4489296979270989957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_26
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eca40dc145f1bb0800000000000000
+      internalID: -4963155781608616350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_27
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4417a8fbe7aecc00800000000000000
+      internalID: 922859605588382798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_28
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 4
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f76280ec6fa390800000000000000
+      internalID: -7804899917693454012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_29
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7782b95a0e5704a0800000000000000
+      internalID: -6627224928104839298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_30
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 4
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9f96c34073c9a70800000000000000
+      internalID: 8834997060327045618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_31
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998cff1373df1e4d0800000000000000
+      internalID: -3106923854405056359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_32
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c0e9d5a529f5720800000000000000
+      internalID: 2837147207082052713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Poisons asp-Spear_33
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb1a53dad372a40800000000000000
+      internalID: 5343307297036811423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

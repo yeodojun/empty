@@ -1,0 +1,5555 @@
+fileFormatVersion: 2
+guid: 9e7ce80de12e74ef8bf86b204a589e23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5845775953165137372
+    second: Dagger Bandit Sprite Sheet 128x78_0
+  - first:
+      213: 5631242690795919199
+    second: Dagger Bandit Sprite Sheet 128x78_1
+  - first:
+      213: 8452438584835404372
+    second: Dagger Bandit Sprite Sheet 128x78_2
+  - first:
+      213: 9220670784002433703
+    second: Dagger Bandit Sprite Sheet 128x78_3
+  - first:
+      213: 1934773907351440019
+    second: Dagger Bandit Sprite Sheet 128x78_4
+  - first:
+      213: 6287007947521842638
+    second: Dagger Bandit Sprite Sheet 128x78_5
+  - first:
+      213: -4388309510981480666
+    second: Dagger Bandit Sprite Sheet 128x78_6
+  - first:
+      213: -5997377734901372962
+    second: Dagger Bandit Sprite Sheet 128x78_7
+  - first:
+      213: 8896399097597063937
+    second: Dagger Bandit Sprite Sheet 128x78_8
+  - first:
+      213: 1614074957734216394
+    second: Dagger Bandit Sprite Sheet 128x78_9
+  - first:
+      213: -4233990356721956998
+    second: Dagger Bandit Sprite Sheet 128x78_10
+  - first:
+      213: -8562991365923545869
+    second: Dagger Bandit Sprite Sheet 128x78_11
+  - first:
+      213: -8104528404388545587
+    second: Dagger Bandit Sprite Sheet 128x78_12
+  - first:
+      213: 1173567050802723825
+    second: Dagger Bandit Sprite Sheet 128x78_13
+  - first:
+      213: 5235194670878085163
+    second: Dagger Bandit Sprite Sheet 128x78_14
+  - first:
+      213: -7418416639922039008
+    second: Dagger Bandit Sprite Sheet 128x78_15
+  - first:
+      213: 653697677977945409
+    second: Dagger Bandit Sprite Sheet 128x78_16
+  - first:
+      213: -1401518144604506172
+    second: Dagger Bandit Sprite Sheet 128x78_17
+  - first:
+      213: -1483452540371219482
+    second: Dagger Bandit Sprite Sheet 128x78_18
+  - first:
+      213: -5445991437410110401
+    second: Dagger Bandit Sprite Sheet 128x78_19
+  - first:
+      213: -5982182246353120793
+    second: Dagger Bandit Sprite Sheet 128x78_20
+  - first:
+      213: 6216840918718321754
+    second: Dagger Bandit Sprite Sheet 128x78_21
+  - first:
+      213: 8786224354183333987
+    second: Dagger Bandit Sprite Sheet 128x78_22
+  - first:
+      213: 2567095127648007
+    second: Dagger Bandit Sprite Sheet 128x78_23
+  - first:
+      213: -7007298508518097316
+    second: Dagger Bandit Sprite Sheet 128x78_24
+  - first:
+      213: -2539632068007767394
+    second: Dagger Bandit Sprite Sheet 128x78_25
+  - first:
+      213: 1334002874344853956
+    second: Dagger Bandit Sprite Sheet 128x78_26
+  - first:
+      213: 4638127079485712612
+    second: Dagger Bandit Sprite Sheet 128x78_27
+  - first:
+      213: -1264051071559523438
+    second: Dagger Bandit Sprite Sheet 128x78_28
+  - first:
+      213: -6058668584874371678
+    second: Dagger Bandit Sprite Sheet 128x78_29
+  - first:
+      213: 2350107796234629934
+    second: Dagger Bandit Sprite Sheet 128x78_30
+  - first:
+      213: 2230278559644045482
+    second: Dagger Bandit Sprite Sheet 128x78_31
+  - first:
+      213: -2074366860574352442
+    second: Dagger Bandit Sprite Sheet 128x78_32
+  - first:
+      213: -6290174538234716136
+    second: Dagger Bandit Sprite Sheet 128x78_33
+  - first:
+      213: -8959542050617441660
+    second: Dagger Bandit Sprite Sheet 128x78_34
+  - first:
+      213: -6711270672500419590
+    second: Dagger Bandit Sprite Sheet 128x78_35
+  - first:
+      213: -8044671204680577601
+    second: Dagger Bandit Sprite Sheet 128x78_36
+  - first:
+      213: 1002980557901210419
+    second: Dagger Bandit Sprite Sheet 128x78_37
+  - first:
+      213: -8152089368427423403
+    second: Dagger Bandit Sprite Sheet 128x78_38
+  - first:
+      213: -4030795184043421829
+    second: Dagger Bandit Sprite Sheet 128x78_39
+  - first:
+      213: 4154868885227675378
+    second: Dagger Bandit Sprite Sheet 128x78_40
+  - first:
+      213: 4042814303936213581
+    second: Dagger Bandit Sprite Sheet 128x78_41
+  - first:
+      213: 3349090678149276570
+    second: Dagger Bandit Sprite Sheet 128x78_42
+  - first:
+      213: 2537659009561266758
+    second: Dagger Bandit Sprite Sheet 128x78_43
+  - first:
+      213: 5731836340608600081
+    second: Dagger Bandit Sprite Sheet 128x78_44
+  - first:
+      213: -670860104453360567
+    second: Dagger Bandit Sprite Sheet 128x78_45
+  - first:
+      213: -1137192896185788596
+    second: Dagger Bandit Sprite Sheet 128x78_46
+  - first:
+      213: -7307523692265977770
+    second: Dagger Bandit Sprite Sheet 128x78_47
+  - first:
+      213: 8350426517829439554
+    second: Dagger Bandit Sprite Sheet 128x78_48
+  - first:
+      213: 949205152659376574
+    second: Dagger Bandit Sprite Sheet 128x78_49
+  - first:
+      213: -7877109948561815987
+    second: Dagger Bandit Sprite Sheet 128x78_50
+  - first:
+      213: -4692342362185342728
+    second: Dagger Bandit Sprite Sheet 128x78_51
+  - first:
+      213: -815657324044112507
+    second: Dagger Bandit Sprite Sheet 128x78_52
+  - first:
+      213: 1415514739425453868
+    second: Dagger Bandit Sprite Sheet 128x78_53
+  - first:
+      213: 4833326938878901612
+    second: Dagger Bandit Sprite Sheet 128x78_54
+  - first:
+      213: -5767753829693175448
+    second: Dagger Bandit Sprite Sheet 128x78_55
+  - first:
+      213: 4570437187988466813
+    second: Dagger Bandit Sprite Sheet 128x78_56
+  - first:
+      213: 7664992593693796571
+    second: Dagger Bandit Sprite Sheet 128x78_57
+  - first:
+      213: 9052670579567552485
+    second: Dagger Bandit Sprite Sheet 128x78_58
+  - first:
+      213: -8218447731242723514
+    second: Dagger Bandit Sprite Sheet 128x78_59
+  - first:
+      213: -4137207058235995473
+    second: Dagger Bandit Sprite Sheet 128x78_60
+  - first:
+      213: 7737035031934646722
+    second: Dagger Bandit Sprite Sheet 128x78_61
+  - first:
+      213: 3403051234553844062
+    second: Dagger Bandit Sprite Sheet 128x78_62
+  - first:
+      213: -5658704635351239866
+    second: Dagger Bandit Sprite Sheet 128x78_63
+  - first:
+      213: 8538951048562916160
+    second: Dagger Bandit Sprite Sheet 128x78_64
+  - first:
+      213: -8922747227989037929
+    second: Dagger Bandit Sprite Sheet 128x78_65
+  - first:
+      213: -1754066779970470201
+    second: Dagger Bandit Sprite Sheet 128x78_66
+  - first:
+      213: -6898060863398328403
+    second: Dagger Bandit Sprite Sheet 128x78_67
+  - first:
+      213: -897444003545905095
+    second: Dagger Bandit Sprite Sheet 128x78_68
+  - first:
+      213: -9028765207568129111
+    second: Dagger Bandit Sprite Sheet 128x78_69
+  - first:
+      213: -3756655159748626642
+    second: Dagger Bandit Sprite Sheet 128x78_70
+  - first:
+      213: 656352106168862883
+    second: Dagger Bandit Sprite Sheet 128x78_71
+  - first:
+      213: 8564447381145810641
+    second: Dagger Bandit Sprite Sheet 128x78_72
+  - first:
+      213: 1409376235591680181
+    second: Dagger Bandit Sprite Sheet 128x78_73
+  - first:
+      213: 335874717612048164
+    second: Dagger Bandit Sprite Sheet 128x78_74
+  - first:
+      213: -8806841049016592200
+    second: Dagger Bandit Sprite Sheet 128x78_75
+  - first:
+      213: -7024993158700427204
+    second: Dagger Bandit Sprite Sheet 128x78_76
+  - first:
+      213: 4591542340171947579
+    second: Dagger Bandit Sprite Sheet 128x78_77
+  - first:
+      213: -7852345856991626799
+    second: Dagger Bandit Sprite Sheet 128x78_78
+  - first:
+      213: -6955820894782434360
+    second: Dagger Bandit Sprite Sheet 128x78_79
+  - first:
+      213: 3348864763154684017
+    second: Dagger Bandit Sprite Sheet 128x78_80
+  - first:
+      213: -4738647817362888669
+    second: Dagger Bandit Sprite Sheet 128x78_81
+  - first:
+      213: -6442164013271472125
+    second: Dagger Bandit Sprite Sheet 128x78_82
+  - first:
+      213: -7786347399073160703
+    second: Dagger Bandit Sprite Sheet 128x78_83
+  - first:
+      213: -6592072125843069449
+    second: Dagger Bandit Sprite Sheet 128x78_84
+  - first:
+      213: 3368457305220614507
+    second: Dagger Bandit Sprite Sheet 128x78_85
+  - first:
+      213: -1982308231173303858
+    second: Dagger Bandit Sprite Sheet 128x78_86
+  - first:
+      213: -3358021844324748877
+    second: Dagger Bandit Sprite Sheet 128x78_87
+  - first:
+      213: -2657937392558415483
+    second: Dagger Bandit Sprite Sheet 128x78_88
+  - first:
+      213: 7926139669173131349
+    second: Dagger Bandit Sprite Sheet 128x78_89
+  - first:
+      213: 2771636785212572394
+    second: Dagger Bandit Sprite Sheet 128x78_90
+  - first:
+      213: -1106356006762216979
+    second: Dagger Bandit Sprite Sheet 128x78_91
+  - first:
+      213: -3029019961805924339
+    second: Dagger Bandit Sprite Sheet 128x78_92
+  - first:
+      213: -4970498988558297136
+    second: Dagger Bandit Sprite Sheet 128x78_93
+  - first:
+      213: 4684227121364834630
+    second: Dagger Bandit Sprite Sheet 128x78_94
+  - first:
+      213: -4765120452548847968
+    second: Dagger Bandit Sprite Sheet 128x78_95
+  - first:
+      213: -389850173069784643
+    second: Dagger Bandit Sprite Sheet 128x78_96
+  - first:
+      213: 1300407054296791358
+    second: Dagger Bandit Sprite Sheet 128x78_97
+  - first:
+      213: -8853685959862756821
+    second: Dagger Bandit Sprite Sheet 128x78_98
+  - first:
+      213: 8971504908476026732
+    second: Dagger Bandit Sprite Sheet 128x78_99
+  - first:
+      213: -6588169407484629787
+    second: Dagger Bandit Sprite Sheet 128x78_100
+  - first:
+      213: 2886850425047049632
+    second: Dagger Bandit Sprite Sheet 128x78_101
+  - first:
+      213: -3419483983499067162
+    second: Dagger Bandit Sprite Sheet 128x78_102
+  - first:
+      213: 7850624885459292467
+    second: Dagger Bandit Sprite Sheet 128x78_103
+  - first:
+      213: -7177470542420984650
+    second: Dagger Bandit Sprite Sheet 128x78_104
+  - first:
+      213: -7593236208312287672
+    second: Dagger Bandit Sprite Sheet 128x78_105
+  - first:
+      213: 6592942966653031075
+    second: Dagger Bandit Sprite Sheet 128x78_106
+  - first:
+      213: -3686282096877730339
+    second: Dagger Bandit Sprite Sheet 128x78_107
+  - first:
+      213: 3962929641071934392
+    second: Dagger Bandit Sprite Sheet 128x78_108
+  - first:
+      213: -7525781089410962253
+    second: Dagger Bandit Sprite Sheet 128x78_109
+  - first:
+      213: -329731233926511094
+    second: Dagger Bandit Sprite Sheet 128x78_110
+  - first:
+      213: -7785907256158092798
+    second: Dagger Bandit Sprite Sheet 128x78_111
+  - first:
+      213: -7877197602047068880
+    second: Dagger Bandit Sprite Sheet 128x78_112
+  - first:
+      213: 7707995852777335498
+    second: Dagger Bandit Sprite Sheet 128x78_113
+  - first:
+      213: 1840428125359620868
+    second: Dagger Bandit Sprite Sheet 128x78_114
+  - first:
+      213: -2299136336156269827
+    second: Dagger Bandit Sprite Sheet 128x78_115
+  - first:
+      213: 8351408132272108080
+    second: Dagger Bandit Sprite Sheet 128x78_116
+  - first:
+      213: -6290401650793216211
+    second: Dagger Bandit Sprite Sheet 128x78_117
+  - first:
+      213: 6493313769986303257
+    second: Dagger Bandit Sprite Sheet 128x78_118
+  - first:
+      213: -937387356559557303
+    second: Dagger Bandit Sprite Sheet 128x78_119
+  - first:
+      213: 7865532152143120006
+    second: Dagger Bandit Sprite Sheet 128x78_120
+  - first:
+      213: -7880080078891188467
+    second: Dagger Bandit Sprite Sheet 128x78_121
+  - first:
+      213: 8379944001007444632
+    second: Dagger Bandit Sprite Sheet 128x78_122
+  - first:
+      213: 5509822140473635962
+    second: Dagger Bandit Sprite Sheet 128x78_123
+  - first:
+      213: -5883007391514193072
+    second: Dagger Bandit Sprite Sheet 128x78_124
+  - first:
+      213: -3571592144793718588
+    second: Dagger Bandit Sprite Sheet 128x78_125
+  - first:
+      213: 6642315742626123397
+    second: Dagger Bandit Sprite Sheet 128x78_126
+  - first:
+      213: 3603305826581525530
+    second: Dagger Bandit Sprite Sheet 128x78_127
+  - first:
+      213: 1220275513164441567
+    second: Dagger Bandit Sprite Sheet 128x78_128
+  - first:
+      213: -3895605404548003189
+    second: Dagger Bandit Sprite Sheet 128x78_129
+  - first:
+      213: 6838895646821812033
+    second: Dagger Bandit Sprite Sheet 128x78_130
+  - first:
+      213: -712553010608742684
+    second: Dagger Bandit Sprite Sheet 128x78_131
+  - first:
+      213: 2247141607576016232
+    second: Dagger Bandit Sprite Sheet 128x78_132
+  - first:
+      213: 6018069388560851515
+    second: Dagger Bandit Sprite Sheet 128x78_133
+  - first:
+      213: 5331617834789425682
+    second: Dagger Bandit Sprite Sheet 128x78_134
+  - first:
+      213: 5212703276295376217
+    second: Dagger Bandit Sprite Sheet 128x78_135
+  - first:
+      213: -4163338577508797995
+    second: Dagger Bandit Sprite Sheet 128x78_136
+  - first:
+      213: -7078159742084654588
+    second: Dagger Bandit Sprite Sheet 128x78_137
+  - first:
+      213: -6529525525685253503
+    second: Dagger Bandit Sprite Sheet 128x78_138
+  - first:
+      213: -7899737676898959948
+    second: Dagger Bandit Sprite Sheet 128x78_139
+  - first:
+      213: 4112143586147552113
+    second: Dagger Bandit Sprite Sheet 128x78_140
+  - first:
+      213: 9222374185663561636
+    second: Dagger Bandit Sprite Sheet 128x78_141
+  - first:
+      213: -5106554717710447275
+    second: Dagger Bandit Sprite Sheet 128x78_142
+  - first:
+      213: 2497318971950037492
+    second: Dagger Bandit Sprite Sheet 128x78_143
+  - first:
+      213: 3482838225039123047
+    second: Dagger Bandit Sprite Sheet 128x78_144
+  - first:
+      213: 4560694506878964005
+    second: Dagger Bandit Sprite Sheet 128x78_145
+  - first:
+      213: -1063512573198845562
+    second: Dagger Bandit Sprite Sheet 128x78_146
+  - first:
+      213: 2217414241056429522
+    second: Dagger Bandit Sprite Sheet 128x78_147
+  - first:
+      213: 1536656703473646718
+    second: Dagger Bandit Sprite Sheet 128x78_148
+  - first:
+      213: 4257193831441963276
+    second: Dagger Bandit Sprite Sheet 128x78_149
+  - first:
+      213: 2805570030747708685
+    second: Dagger Bandit Sprite Sheet 128x78_150
+  - first:
+      213: 4572166034049565339
+    second: Dagger Bandit Sprite Sheet 128x78_151
+  - first:
+      213: -1591915728793893979
+    second: Dagger Bandit Sprite Sheet 128x78_152
+  - first:
+      213: -8534368126577605766
+    second: Dagger Bandit Sprite Sheet 128x78_153
+  - first:
+      213: 1170601274705375002
+    second: Dagger Bandit Sprite Sheet 128x78_154
+  - first:
+      213: 5652631169027666645
+    second: Dagger Bandit Sprite Sheet 128x78_155
+  - first:
+      213: -7444473324319307710
+    second: Dagger Bandit Sprite Sheet 128x78_156
+  - first:
+      213: 7706264996719027042
+    second: Dagger Bandit Sprite Sheet 128x78_157
+  - first:
+      213: -8630619761753899082
+    second: Dagger Bandit Sprite Sheet 128x78_158
+  - first:
+      213: 690507583972971933
+    second: Dagger Bandit Sprite Sheet 128x78_159
+  - first:
+      213: -8479088907050341865
+    second: Dagger Bandit Sprite Sheet 128x78_160
+  - first:
+      213: -2761767125317983141
+    second: Dagger Bandit Sprite Sheet 128x78_161
+  - first:
+      213: -2592896870801443813
+    second: Dagger Bandit Sprite Sheet 128x78_162
+  - first:
+      213: -333760669330307103
+    second: Dagger Bandit Sprite Sheet 128x78_163
+  - first:
+      213: -2416002785390659001
+    second: Dagger Bandit Sprite Sheet 128x78_164
+  - first:
+      213: 8281348281258972376
+    second: Dagger Bandit Sprite Sheet 128x78_165
+  - first:
+      213: -6955561415813366449
+    second: Dagger Bandit Sprite Sheet 128x78_166
+  - first:
+      213: -6632798237608551049
+    second: Dagger Bandit Sprite Sheet 128x78_167
+  - first:
+      213: -7555095975413394800
+    second: Dagger Bandit Sprite Sheet 128x78_168
+  - first:
+      213: -2427650590778051985
+    second: Dagger Bandit Sprite Sheet 128x78_169
+  - first:
+      213: 3350959129088151766
+    second: Dagger Bandit Sprite Sheet 128x78_170
+  - first:
+      213: -5370154442980640856
+    second: Dagger Bandit Sprite Sheet 128x78_171
+  - first:
+      213: -446019161748345399
+    second: Dagger Bandit Sprite Sheet 128x78_172
+  - first:
+      213: 2857394400376236647
+    second: Dagger Bandit Sprite Sheet 128x78_173
+  - first:
+      213: -5816964501044745829
+    second: Dagger Bandit Sprite Sheet 128x78_174
+  - first:
+      213: 2986916729211247022
+    second: Dagger Bandit Sprite Sheet 128x78_175
+  - first:
+      213: -4146722319741825291
+    second: Dagger Bandit Sprite Sheet 128x78_176
+  - first:
+      213: 3415763350207798982
+    second: Dagger Bandit Sprite Sheet 128x78_177
+  - first:
+      213: -8897940055310051289
+    second: Dagger Bandit Sprite Sheet 128x78_178
+  - first:
+      213: 3161858469349909138
+    second: Dagger Bandit Sprite Sheet 128x78_179
+  - first:
+      213: -5086619447408948716
+    second: Dagger Bandit Sprite Sheet 128x78_180
+  - first:
+      213: 5700523190959374534
+    second: Dagger Bandit Sprite Sheet 128x78_181
+  - first:
+      213: -9087963508621350296
+    second: Dagger Bandit Sprite Sheet 128x78_182
+  - first:
+      213: -5624439950874890829
+    second: Dagger Bandit Sprite Sheet 128x78_183
+  - first:
+      213: -5435406325795852013
+    second: Dagger Bandit Sprite Sheet 128x78_184
+  - first:
+      213: -9029803706591965159
+    second: Dagger Bandit Sprite Sheet 128x78_185
+  - first:
+      213: 2578609618094163285
+    second: Dagger Bandit Sprite Sheet 128x78_186
+  - first:
+      213: 2201702464495485370
+    second: Dagger Bandit Sprite Sheet 128x78_187
+  - first:
+      213: -2606089349534716447
+    second: Dagger Bandit Sprite Sheet 128x78_188
+  - first:
+      213: -8239519415526527437
+    second: Dagger Bandit Sprite Sheet 128x78_189
+  - first:
+      213: 4046289739356058473
+    second: Dagger Bandit Sprite Sheet 128x78_190
+  - first:
+      213: -1994960970574725716
+    second: Dagger Bandit Sprite Sheet 128x78_191
+  - first:
+      213: 344500170992174585
+    second: Dagger Bandit Sprite Sheet 128x78_192
+  - first:
+      213: 1837495260951175633
+    second: Dagger Bandit Sprite Sheet 128x78_193
+  - first:
+      213: -4318893579922619424
+    second: Dagger Bandit Sprite Sheet 128x78_194
+  - first:
+      213: 8192734738024028175
+    second: Dagger Bandit Sprite Sheet 128x78_195
+  - first:
+      213: 5555664257078806339
+    second: Dagger Bandit Sprite Sheet 128x78_196
+  - first:
+      213: -4051381405985440524
+    second: Dagger Bandit Sprite Sheet 128x78_197
+  - first:
+      213: -8767510716278533644
+    second: Dagger Bandit Sprite Sheet 128x78_198
+  - first:
+      213: 3944255774741684983
+    second: Dagger Bandit Sprite Sheet 128x78_199
+  - first:
+      213: -8359730638050538205
+    second: Dagger Bandit Sprite Sheet 128x78_200
+  - first:
+      213: -2066748909197233891
+    second: Dagger Bandit Sprite Sheet 128x78_201
+  - first:
+      213: 741807621290251316
+    second: Dagger Bandit Sprite Sheet 128x78_202
+  - first:
+      213: -5788088505396433068
+    second: Dagger Bandit Sprite Sheet 128x78_203
+  - first:
+      213: -7339407134083800445
+    second: Dagger Bandit Sprite Sheet 128x78_204
+  - first:
+      213: 1310101849155829820
+    second: Dagger Bandit Sprite Sheet 128x78_205
+  - first:
+      213: -3955562587111043131
+    second: Dagger Bandit Sprite Sheet 128x78_206
+  - first:
+      213: -335991811585367536
+    second: Dagger Bandit Sprite Sheet 128x78_207
+  - first:
+      213: 8428814538958797541
+    second: Dagger Bandit Sprite Sheet 128x78_208
+  - first:
+      213: -150288587816049345
+    second: Dagger Bandit Sprite Sheet 128x78_209
+  - first:
+      213: 1274974989251040469
+    second: Dagger Bandit Sprite Sheet 128x78_210
+  - first:
+      213: 2173435053957578615
+    second: Dagger Bandit Sprite Sheet 128x78_211
+  - first:
+      213: -8694398963411355504
+    second: Dagger Bandit Sprite Sheet 128x78_212
+  - first:
+      213: 2459429416013659559
+    second: Dagger Bandit Sprite Sheet 128x78_213
+  - first:
+      213: 1223130799847526494
+    second: Dagger Bandit Sprite Sheet 128x78_214
+  - first:
+      213: 2940426785788746045
+    second: Dagger Bandit Sprite Sheet 128x78_215
+  - first:
+      213: -1334200661164569760
+    second: Dagger Bandit Sprite Sheet 128x78_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a421b2eb1afdea0800000000000000
+      internalID: -5845775953165137372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 628
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57d7e44461362e40800000000000000
+      internalID: 5631242690795919199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 628
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4527be62c181d4570800000000000000
+      internalID: 8452438584835404372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 628
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a94f893766ff70800000000000000
+      internalID: 9220670784002433703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 628
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a806c2e92b9da10800000000000000
+      internalID: 1934773907351440019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 628
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdd8141b60ff3750800000000000000
+      internalID: 6287007947521842638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 628
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f0b7100c79913c0800000000000000
+      internalID: -4388309510981480666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 628
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ed5fb9b805cca0800000000000000
+      internalID: -5997377734901372962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 550
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f06818db567b70800000000000000
+      internalID: 8896399097597063937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 550
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac20a905f98566610800000000000000
+      internalID: 1614074957734216394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 551
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7788250438dd35c0800000000000000
+      internalID: -4233990356721956998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 550
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd36ba8b42a2980800000000000000
+      internalID: -8562991365923545869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 550
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb7b581b5ee68f80800000000000000
+      internalID: -8104528404388545587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 550
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf23fc309594010800000000000000
+      internalID: 1173567050802723825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_14
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 551
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20d4bfd0d527a840800000000000000
+      internalID: 5235194670878085163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 550
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0279995de5d7c0990800000000000000
+      internalID: -7418416639922039008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 472
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1458f5e1396621900800000000000000
+      internalID: 653697677977945409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 394
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7759c4caecc8ce0800000000000000
+      internalID: -1401518144604506172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 316
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc50236c7b96be0800000000000000
+      internalID: -1483452540371219482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 316
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34f95b44a3fb64b0800000000000000
+      internalID: -5445991437410110401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 316
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1597021f40bfca0800000000000000
+      internalID: -5982182246353120793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 316
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54915990e7a64650800000000000000
+      internalID: 6216840918718321754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 292
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368cbfbaf70fee970800000000000000
+      internalID: 8786224354183333987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 313
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707203962ce190000800000000000000
+      internalID: 2567095127648007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 293
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e77acf12311ce90800000000000000
+      internalID: -7007298508518097316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 312
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92d436f61a61ccd0800000000000000
+      internalID: -2539632068007767394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_26
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 294
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1dcaedb84538210800000000000000
+      internalID: 1334002874344853956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_27
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 294
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8add34100fd5040800000000000000
+      internalID: 4638127079485712612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 311
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932eb56f30357ee0800000000000000
+      internalID: -1264051071559523438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 295
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59eb2b5094beba0800000000000000
+      internalID: -6058668584874371678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_30
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 295
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23f07ad6924d9020800000000000000
+      internalID: 2350107796234629934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_31
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 296
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d0c1988a83fe10800000000000000
+      internalID: 2230278559644045482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9f9da45e5633e0800000000000000
+      internalID: -2074366860574352442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 268
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8102051959fc4b8a0800000000000000
+      internalID: -6290174538234716136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 281
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c5c289ff49a380800000000000000
+      internalID: -8959542050617441660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_35
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 287
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af39d1691e6ccd2a0800000000000000
+      internalID: -6711270672500419590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 277
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd433e69269b5090800000000000000
+      internalID: -8044671204680577601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 266
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333235ed08d4bed00800000000000000
+      internalID: 1002980557901210419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_38
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 267
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55915a939e5fdde80800000000000000
+      internalID: -8152089368427423403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_39
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 269
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f8cbcd22dbf08c0800000000000000
+      internalID: -4030795184043421829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 276
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe9158dc3f09a930800000000000000
+      internalID: 4154868885227675378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_41
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 290
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d427cfe8036fa1830800000000000000
+      internalID: 4042814303936213581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 278
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e8af3a3c5a7e20800000000000000
+      internalID: 3349090678149276570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_43
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 267
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a08f19c63973320800000000000000
+      internalID: 2537659009561266758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_44
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 268
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11886a088c29b8f40800000000000000
+      internalID: 5731836340608600081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_45
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 270
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94473141a40a0b6f0800000000000000
+      internalID: -670860104453360567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_46
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 277
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479fb50611e730f0800000000000000
+      internalID: -1137192896185788596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_47
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 293
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6584cb63be5769a90800000000000000
+      internalID: -7307523692265977770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_48
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 279
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240d93eecaca2e370800000000000000
+      internalID: 8350426517829439554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_49
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 268
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98b37ae014c2d00800000000000000
+      internalID: 949205152659376574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_50
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 269
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46074b8c32eea290800000000000000
+      internalID: -7877109948561815987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_51
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 271
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0ec619b7371eeb0800000000000000
+      internalID: -4692342362185342728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_52
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 278
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da7ed3cf33ea4f0800000000000000
+      internalID: -815657324044112507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_53
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 280
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a8c1e72be4a310800000000000000
+      internalID: 1415514739425453868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_54
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 263
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df33b2e3d631340800000000000000
+      internalID: 4833326938878901612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_55
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 270
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8694d356372d4ffa0800000000000000
+      internalID: -5767753829693175448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_56
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 272
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca94248647d6f30800000000000000
+      internalID: 4570437187988466813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_57
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 263
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86e1137268f5a60800000000000000
+      internalID: 7664992593693796571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_58
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 279
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e0c3ddeb81ad70800000000000000
+      internalID: 9052670579567552485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_59
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 281
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479926e45532fd80800000000000000
+      internalID: -8218447731242723514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_60
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 270
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaca93b910b596c0800000000000000
+      internalID: -4137207058235995473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_61
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 271
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b7357e587f5b60800000000000000
+      internalID: 7737035031934646722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_62
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 273
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51590451111a3f20800000000000000
+      internalID: 3403051234553844062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_63
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 259
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64378018d1e3871b0800000000000000
+      internalID: -5658704635351239866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_64
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 280
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bba04ccb2708670800000000000000
+      internalID: 8538951048562916160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_65
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 275
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cac1fbba80c2480800000000000000
+      internalID: -8922747227989037929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_66
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 238
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cefb8b9e8d48a7e0800000000000000
+      internalID: -1754066779970470201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_67
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 253
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da74e16313a2540a0800000000000000
+      internalID: -6898060863398328403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_68
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 167
+        width: 67
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93887d20f63ab83f0800000000000000
+      internalID: -897444003545905095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_69
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 168
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3ee7251e163b280800000000000000
+      internalID: -9028765207568129111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_70
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 169
+        width: 69
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e277b8b290eaddbc0800000000000000
+      internalID: -3756655159748626642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_71
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 238
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a846c753c4db1900800000000000000
+      internalID: 656352106168862883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_72
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 238
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d678ba44870bd670800000000000000
+      internalID: 8564447381145810641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_73
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 238
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c155183c1f8310800000000000000
+      internalID: 1409376235591680181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_74
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 238
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ffc40b64449a400800000000000000
+      internalID: 335874717612048164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b899000ab0d7c580800000000000000
+      internalID: -8806841049016592200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 261
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389c1231f5328e90800000000000000
+      internalID: -7024993158700427204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_77
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 257
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e5d1d6e6f68bf30800000000000000
+      internalID: 4591542340171947579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9f08ceb0dd60390800000000000000
+      internalID: -7852345856991626799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 257
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3d04defb5f77f90800000000000000
+      internalID: -6955820894782434360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_80
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 259
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17858a052ce897e20800000000000000
+      internalID: 3348864763154684017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 260
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a762aae0fc3eb0800000000000000
+      internalID: -4738647817362888669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_82
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308262446f5d896a0800000000000000
+      internalID: -6442164013271472125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_83
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 261
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102257c5b4651f390800000000000000
+      internalID: -7786347399073160703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_84
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 262
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ae5de3514484a0800000000000000
+      internalID: -6592072125843069449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_85
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 262
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b698ebe721a2fbe20800000000000000
+      internalID: 3368457305220614507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_86
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 264
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1159d9a2d6d74e0800000000000000
+      internalID: -1982308231173303858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_87
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 264
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b175059ce8e561d0800000000000000
+      internalID: -3358021844324748877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_88
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 256
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581e359160c1d1bd0800000000000000
+      internalID: -2657937392558415483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_89
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 264
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558523dd80e4ffd60800000000000000
+      internalID: 7926139669173131349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_90
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 243
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2400da8f4d67620800000000000000
+      internalID: 2771636785212572394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_91
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 241
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de181d5d21f65a0f0800000000000000
+      internalID: -1106356006762216979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_92
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 241
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089df6a462c6f5d0800000000000000
+      internalID: -3029019961805924339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_93
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 240
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75b86318d350bb0800000000000000
+      internalID: -4970498988558297136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_94
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 254
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6499330bfb7b10140800000000000000
+      internalID: 4684227121364834630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_95
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 253
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a690e1f134eeddb0800000000000000
+      internalID: -4765120452548847968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_96
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 238
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90d864559f69af0800000000000000
+      internalID: -389850173069784643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_97
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 238
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b5c67359fb0210800000000000000
+      internalID: 1300407054296791358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_98
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 238
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a54814783612580800000000000000
+      internalID: -8853685959862756821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_99
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 233
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f03626e20318c70800000000000000
+      internalID: 8971504908476026732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_100
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 238
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec68ca54de1294a0800000000000000
+      internalID: -6588169407484629787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_101
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 238
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a56d989a27201820800000000000000
+      internalID: 2886850425047049632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_102
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 238
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e086682f6d8b80d0800000000000000
+      internalID: -3419483983499067162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_103
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 238
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33194aa2db503fc60800000000000000
+      internalID: 7850624885459292467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_104
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcba2dc190846c90800000000000000
+      internalID: -7177470542420984650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_105
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 238
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e79e336e76f9690800000000000000
+      internalID: -7593236208312287672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a293cf72b6de7b50800000000000000
+      internalID: 6592942966653031075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_107
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 238
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd588b1b6f1b7dcc0800000000000000
+      internalID: -3686282096877730339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_108
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb75f513872ff630800000000000000
+      internalID: 3962929641071934392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_109
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 238
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcae44f8fd0f8790800000000000000
+      internalID: -7525781089410962253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_110
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068572903f8c6bf0800000000000000
+      internalID: -329731233926511094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_111
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 256
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028f8e1a96e2f390800000000000000
+      internalID: -7785907256158092798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_112
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 238
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fc6024829ea290800000000000000
+      internalID: -7877197602047068880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_113
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 252
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2afea36d48fa60800000000000000
+      internalID: 7707995852777335498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_114
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 238
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c2b601a38a8910800000000000000
+      internalID: 1840428125359620868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_115
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 238
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df266310fa3d710e0800000000000000
+      internalID: -2299136336156269827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_116
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 238
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032336ad27926e370800000000000000
+      internalID: 8351408132272108080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_117
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 238
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2780fdc60104b8a0800000000000000
+      internalID: -6290401650793216211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 243
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915af238872ec1a50800000000000000
+      internalID: 6493313769986303257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_119
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 245
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d335b6a2bbdf2f0800000000000000
+      internalID: -937387356559557303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_120
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68687e9a1dbf72d60800000000000000
+      internalID: 7865532152143120006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_121
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 238
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffe003be454a290800000000000000
+      internalID: -7880080078891188467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_122
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 160
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e6b98baa8b4470800000000000000
+      internalID: 8379944001007444632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_123
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7473826b02d67c40800000000000000
+      internalID: 5509822140473635962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_124
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0539cc962fb5b5ea0800000000000000
+      internalID: -5883007391514193072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_125
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 242
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0befe0ed72f6ec0800000000000000
+      internalID: -3571592144793718588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_126
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 246
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0735b9fe3e2c50800000000000000
+      internalID: 6642315742626123397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_127
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 243
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14bc72ee83810230800000000000000
+      internalID: 3603305826581525530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_128
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 242
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7264a2d1a4fe010800000000000000
+      internalID: 1220275513164441567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_129
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 238
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a03dc368700f9c0800000000000000
+      internalID: -3895605404548003189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_130
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 240
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14787c45b53a8ee50800000000000000
+      internalID: 6838895646821812033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_131
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 244
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed707efc08c16f0800000000000000
+      internalID: -712553010608742684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_132
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 243
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865919fd2637f2f10800000000000000
+      internalID: 2247141607576016232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_133
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 244
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3262da493a748350800000000000000
+      internalID: 6018069388560851515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_134
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212d2c03c26bdf940800000000000000
+      internalID: 5331617834789425682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_135
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dc91ff20e375840800000000000000
+      internalID: 5212703276295376217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_136
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 238
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d178ef3f99d836c0800000000000000
+      internalID: -4163338577508797995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_137
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 160
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ad29d573355cd90800000000000000
+      internalID: -7078159742084654588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4fa911277265a0800000000000000
+      internalID: -6529525525685253503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdfaadff6e7e5290800000000000000
+      internalID: -7899737676898959948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_140
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 160
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc9b5fdc4411930800000000000000
+      internalID: 4112143586147552113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 160
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af753aa5747cff70800000000000000
+      internalID: 9222374185663561636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_142
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 167
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d06c83a8fd129b0800000000000000
+      internalID: -5106554717710447275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_143
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 173
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9fce5af5248a220800000000000000
+      internalID: 2497318971950037492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_144
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762eb9da9e6855030800000000000000
+      internalID: 3482838225039123047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_145
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 160
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521989b8d77da4f30800000000000000
+      internalID: 4560694506878964005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_146
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 169
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689325c03f4ad31f0800000000000000
+      internalID: -1063512573198845562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_147
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 168
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59f0ef086d5ce10800000000000000
+      internalID: 2217414241056429522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_148
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 174
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf448512d435510800000000000000
+      internalID: 1536656703473646718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_149
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 160
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09151feb37941b30800000000000000
+      internalID: 4257193831441963276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_150
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 160
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de23314136fe620800000000000000
+      internalID: 2805570030747708685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_151
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 172
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9281a998c8937f30800000000000000
+      internalID: 4572166034049565339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_152
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 160
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a302e8341168e9e0800000000000000
+      internalID: -1591915728793893979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_153
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 176
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a730de8e765df8980800000000000000
+      internalID: -8534368126577605766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_154
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 160
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fee6048afce3010800000000000000
+      internalID: 1170601274705375002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_155
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 160
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2f13c691e227e40800000000000000
+      internalID: 5652631169027666645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_156
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 160
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248831c34faefa890800000000000000
+      internalID: -7444473324319307710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_157
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 160
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e67a5f2722fa60800000000000000
+      internalID: 7706264996719027042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_158
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 160
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf313dbd01e93880800000000000000
+      internalID: -8630619761753899082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_159
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 160
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d951c693dfc259900800000000000000
+      internalID: 690507583972971933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_160
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 160
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a2f4c2099345a80800000000000000
+      internalID: -8479088907050341865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_161
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 82
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e1179e6b3ca9d0800000000000000
+      internalID: -2761767125317983141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_162
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1478a4a80e240cd0800000000000000
+      internalID: -2592896870801443813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_163
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e70298807e3e5bf0800000000000000
+      internalID: -333760669330307103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_164
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 99
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7f686442a87ed0800000000000000
+      internalID: -2416002785390659001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_165
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d49bb5a2624de270800000000000000
+      internalID: 8281348281258972376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_166
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 103
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df7059eb1e87f90800000000000000
+      internalID: -6955561415813366449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_167
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d518c152193f3a0800000000000000
+      internalID: -6632798237608551049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_168
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092508d2d38e62790800000000000000
+      internalID: -7555095975413394800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_169
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6238e166a04f4ed0800000000000000
+      internalID: -2427650590778051985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_170
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d622e29ff08e20800000000000000
+      internalID: 3350959129088151766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_171
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 95
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a737258cf06975b0800000000000000
+      internalID: -5370154442980640856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_172
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 100
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cde8fc7feb6fc9f0800000000000000
+      internalID: -446019161748345399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_173
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 86
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aad99611187a720800000000000000
+      internalID: 2857394400376236647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_174
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 79
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99ab2c1b9df54fa0800000000000000
+      internalID: -5816964501044745829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_175
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 78
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9de4a90f8a37920800000000000000
+      internalID: 2986916729211247022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_176
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 78
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feca9d3502e376c0800000000000000
+      internalID: -4146722319741825291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_177
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 92
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1fe56baa376f20800000000000000
+      internalID: 3415763350207798982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_178
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 82
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728568ab9aa248480800000000000000
+      internalID: -8897940055310051289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_179
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 94
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29269af868d21eb20800000000000000
+      internalID: 3161858469349909138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_180
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 82
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a88990092b869b0800000000000000
+      internalID: -5086619447408948716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_181
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 82
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08207b3a35c1f40800000000000000
+      internalID: 5700523190959374534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_182
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 89
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a69e8c65111e180800000000000000
+      internalID: -9087963508621350296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_183
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 82
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd269b0aa9f1f1b0800000000000000
+      internalID: -5624439950874890829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_184
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 82
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f605aebe8194b0800000000000000
+      internalID: -5435406325795852013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_185
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 79
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910941dee51bfa280800000000000000
+      internalID: -9029803706591965159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_186
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 78
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55588ec19cf09c320800000000000000
+      internalID: 2578609618094163285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_187
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 78
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab10b51f9b40e8e10800000000000000
+      internalID: 2201702464495485370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_188
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 82
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eded045b8f45dbd0800000000000000
+      internalID: -2606089349534716447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_189
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 17
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e6b951fb857ad80800000000000000
+      internalID: -8239519415526527437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_190
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96330ac641f472830800000000000000
+      internalID: 4046289739356058473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_191
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadff1821997054e0800000000000000
+      internalID: -1994960970574725716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_192
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5cc0d8419e7c400800000000000000
+      internalID: 344500170992174585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_193
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d165715438108910800000000000000
+      internalID: 1837495260951175633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_194
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e34ff9eb253014c0800000000000000
+      internalID: -4318893579922619424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_195
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 4
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08dce656d072b170800000000000000
+      internalID: 8192734738024028175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_196
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3474486e43fa91d40800000000000000
+      internalID: 5555664257078806339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_197
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc7d9e831a96c7c0800000000000000
+      internalID: -4051381405985440524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_198
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f199cfa47b835680800000000000000
+      internalID: -8767510716278533644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_199
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 7
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e2c4cabfccb630800000000000000
+      internalID: 3944255774741684983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_200
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 13
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4c05c6454cfb80800000000000000
+      internalID: -8359730638050538205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_201
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d117f5331de6153e0800000000000000
+      internalID: -2066748909197233891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_202
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434deaee91e6b4a00800000000000000
+      internalID: 741807621290251316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_203
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 4
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe253cb249cafa0800000000000000
+      internalID: -5788088505396433068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_204
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a7fee810352a90800000000000000
+      internalID: -7339407134083800445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_205
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 4
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30048ac0ba6e2210800000000000000
+      internalID: 1310101849155829820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_206
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 4
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfcb64d8c40b19c0800000000000000
+      internalID: -3955562587111043131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_207
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 4
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a30f3a31565bf0800000000000000
+      internalID: -335991811585367536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_208
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 4
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea79485a2a29f470800000000000000
+      internalID: 8428814538958797541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_209
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ed6d53511aedf0800000000000000
+      internalID: -150288587816049345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_210
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4d0d36ffe91b110800000000000000
+      internalID: 1274974989251040469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_211
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ff58d8aa7992e10800000000000000
+      internalID: 2173435053957578615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_212
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098775a253a475780800000000000000
+      internalID: -8694398963411355504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_213
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adf3a3f506a12220800000000000000
+      internalID: 2459429416013659559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_214
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 4
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5050c66bfe69f010800000000000000
+      internalID: 1223130799847526494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_215
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 4
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d395bf6259e7ec820800000000000000
+      internalID: 2940426785788746045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit Sprite Sheet 128x78_216
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 4
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bc13c4197fb7de0800000000000000
+      internalID: -1334200661164569760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

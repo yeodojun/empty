@@ -1,0 +1,2605 @@
+fileFormatVersion: 2
+guid: 0bdbd03d5cad44dc4b87047cf0c03585
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5539833100469376118
+    second: Guardian-AOE_0
+  - first:
+      213: -8635183557704277291
+    second: Guardian-AOE_1
+  - first:
+      213: 6253860506857755880
+    second: Guardian-AOE_2
+  - first:
+      213: -7928048192925077550
+    second: Guardian-AOE_3
+  - first:
+      213: 7143664891993003999
+    second: Guardian-AOE_4
+  - first:
+      213: 1250503531836054321
+    second: Guardian-AOE_5
+  - first:
+      213: -7308551556694903155
+    second: Guardian-AOE_6
+  - first:
+      213: 8008509556114379281
+    second: Guardian-AOE_7
+  - first:
+      213: -967341484736147900
+    second: Guardian-AOE_8
+  - first:
+      213: 5262804388491925400
+    second: Guardian-AOE_9
+  - first:
+      213: -8499226729675802002
+    second: Guardian-AOE_10
+  - first:
+      213: 6360541930279313732
+    second: Guardian-AOE_11
+  - first:
+      213: 7773635486292955095
+    second: Guardian-AOE_12
+  - first:
+      213: -7994565011653501241
+    second: Guardian-AOE_13
+  - first:
+      213: 4908494536856625124
+    second: Guardian-AOE_14
+  - first:
+      213: -8513269362780743365
+    second: Guardian-AOE_15
+  - first:
+      213: -5288835376425651863
+    second: Guardian-AOE_16
+  - first:
+      213: -2670924983822072402
+    second: Guardian-AOE_17
+  - first:
+      213: -36020083884924120
+    second: Guardian-AOE_18
+  - first:
+      213: 8058006843724732950
+    second: Guardian-AOE_19
+  - first:
+      213: -2055913583418189723
+    second: Guardian-AOE_20
+  - first:
+      213: 8883530443756044799
+    second: Guardian-AOE_21
+  - first:
+      213: -7278044313173113762
+    second: Guardian-AOE_22
+  - first:
+      213: -695070992436991919
+    second: Guardian-AOE_23
+  - first:
+      213: 8812442224879381650
+    second: Guardian-AOE_24
+  - first:
+      213: 4400332322653709079
+    second: Guardian-AOE_25
+  - first:
+      213: 6557261845915644950
+    second: Guardian-AOE_26
+  - first:
+      213: 6311306986130290762
+    second: Guardian-AOE_27
+  - first:
+      213: -4186987007959451210
+    second: Guardian-AOE_28
+  - first:
+      213: -8087689208071150777
+    second: Guardian-AOE_29
+  - first:
+      213: -6962832317878338416
+    second: Guardian-AOE_30
+  - first:
+      213: -8098969011281303148
+    second: Guardian-AOE_31
+  - first:
+      213: -2363838739982200759
+    second: Guardian-AOE_32
+  - first:
+      213: -7795757806808878878
+    second: Guardian-AOE_33
+  - first:
+      213: 3105439686615632708
+    second: Guardian-AOE_34
+  - first:
+      213: -8232254317126008969
+    second: Guardian-AOE_35
+  - first:
+      213: -5961892239764646451
+    second: Guardian-AOE_36
+  - first:
+      213: -6226759489370594390
+    second: Guardian-AOE_37
+  - first:
+      213: 9169681715552029541
+    second: Guardian-AOE_38
+  - first:
+      213: -6219416431767300205
+    second: Guardian-AOE_39
+  - first:
+      213: 7865903319893988112
+    second: Guardian-AOE_40
+  - first:
+      213: -7639334050294997531
+    second: Guardian-AOE_41
+  - first:
+      213: -1234130309064478826
+    second: Guardian-AOE_42
+  - first:
+      213: -44138161385512199
+    second: Guardian-AOE_43
+  - first:
+      213: -8863202057938723532
+    second: Guardian-AOE_44
+  - first:
+      213: -3254942253874536357
+    second: Guardian-AOE_45
+  - first:
+      213: 1806254011762977609
+    second: Guardian-AOE_46
+  - first:
+      213: 2591276403423822552
+    second: Guardian-AOE_47
+  - first:
+      213: -3854071262963642741
+    second: Guardian-AOE_48
+  - first:
+      213: 8689268598072858819
+    second: Guardian-AOE_49
+  - first:
+      213: -1073513968430066243
+    second: Guardian-AOE_50
+  - first:
+      213: 6807893175390797106
+    second: Guardian-AOE_51
+  - first:
+      213: -8491186938320191363
+    second: Guardian-AOE_52
+  - first:
+      213: 1301513489123383854
+    second: Guardian-AOE_53
+  - first:
+      213: -3273945026540829865
+    second: Guardian-AOE_54
+  - first:
+      213: 1272149599695859960
+    second: Guardian-AOE_55
+  - first:
+      213: -784488601667722122
+    second: Guardian-AOE_56
+  - first:
+      213: 8039182799820197397
+    second: Guardian-AOE_57
+  - first:
+      213: -6252034024957672199
+    second: Guardian-AOE_58
+  - first:
+      213: -4307559502668918221
+    second: Guardian-AOE_59
+  - first:
+      213: -9006544844693924931
+    second: Guardian-AOE_60
+  - first:
+      213: -2073150088612659996
+    second: Guardian-AOE_61
+  - first:
+      213: 2597105634807340311
+    second: Guardian-AOE_62
+  - first:
+      213: 2546737120082781260
+    second: Guardian-AOE_63
+  - first:
+      213: -5954152723759073653
+    second: Guardian-AOE_64
+  - first:
+      213: 4593790456102549211
+    second: Guardian-AOE_65
+  - first:
+      213: 542871887267391896
+    second: Guardian-AOE_66
+  - first:
+      213: -1610984072529130745
+    second: Guardian-AOE_67
+  - first:
+      213: 1026057223865703886
+    second: Guardian-AOE_68
+  - first:
+      213: -1070158667899481542
+    second: Guardian-AOE_69
+  - first:
+      213: -5440096799807438516
+    second: Guardian-AOE_70
+  - first:
+      213: -4307656633548859397
+    second: Guardian-AOE_71
+  - first:
+      213: 5126713747287989680
+    second: Guardian-AOE_72
+  - first:
+      213: -8065608812121471772
+    second: Guardian-AOE_73
+  - first:
+      213: -8352849366157085202
+    second: Guardian-AOE_74
+  - first:
+      213: 3306241553640633159
+    second: Guardian-AOE_75
+  - first:
+      213: 1134340578763040499
+    second: Guardian-AOE_76
+  - first:
+      213: -953303856826208923
+    second: Guardian-AOE_77
+  - first:
+      213: 7045680497612569031
+    second: Guardian-AOE_78
+  - first:
+      213: -4754291314250102056
+    second: Guardian-AOE_79
+  - first:
+      213: -3689670793295229650
+    second: Guardian-AOE_80
+  - first:
+      213: -4445706002679559165
+    second: Guardian-AOE_81
+  - first:
+      213: -6738530988905525262
+    second: Guardian-AOE_82
+  - first:
+      213: 2375311373289904436
+    second: Guardian-AOE_83
+  - first:
+      213: -3499627337030977911
+    second: Guardian-AOE_84
+  - first:
+      213: 7274302123344156440
+    second: Guardian-AOE_85
+  - first:
+      213: -277797756779920455
+    second: Guardian-AOE_86
+  - first:
+      213: 2352160479266178453
+    second: Guardian-AOE_87
+  - first:
+      213: -8388088760641589728
+    second: Guardian-AOE_88
+  - first:
+      213: 5182273519971812998
+    second: Guardian-AOE_89
+  - first:
+      213: 7128087022771145277
+    second: Guardian-AOE_90
+  - first:
+      213: 1784581690206342746
+    second: Guardian-AOE_91
+  - first:
+      213: 214199690481431044
+    second: Guardian-AOE_92
+  - first:
+      213: -8088988373500072133
+    second: Guardian-AOE_93
+  - first:
+      213: 344437221296768863
+    second: Guardian-AOE_94
+  - first:
+      213: 4261953317980239911
+    second: Guardian-AOE_95
+  - first:
+      213: -1016582425716936233
+    second: Guardian-AOE_96
+  - first:
+      213: -3030893893983732542
+    second: Guardian-AOE_97
+  - first:
+      213: -3038921501667415712
+    second: Guardian-AOE_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guardian-AOE_0
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 9
+        width: 34
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6749d648ad071ec40800000000000000
+      internalID: 5539833100469376118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_1
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 7
+        width: 15
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22eb03e4aa92880800000000000000
+      internalID: -8635183557704277291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_2
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4d9122ffc2ac650800000000000000
+      internalID: 6253860506857755880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_3
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe5825c2ae9f190800000000000000
+      internalID: -7928048192925077550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_4
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd71ca9de55632360800000000000000
+      internalID: 7143664891993003999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_5
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9575365eaa5110800000000000000
+      internalID: 1250503531836054321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_6
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 0
+        width: 25
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867290e41fc29a90800000000000000
+      internalID: -7308551556694903155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_7
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112d488a201f32f60800000000000000
+      internalID: 8008509556114379281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_8
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 0
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e8dc97b005392f0800000000000000
+      internalID: -967341484736147900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_9
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8979d6235bc390940800000000000000
+      internalID: 5262804388491925400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_10
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a3b28f15eac0a80800000000000000
+      internalID: -8499226729675802002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_11
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a64d9f2f254850800000000000000
+      internalID: 6360541930279313732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_12
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfccddc94081eb60800000000000000
+      internalID: 7773635486292955095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_13
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce50aa9a799d0190800000000000000
+      internalID: -7994565011653501241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_14
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efd84366c97e1440800000000000000
+      internalID: 4908494536856625124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39dc3aae9acad980800000000000000
+      internalID: -8513269362780743365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_16
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96131a02f384a96b0800000000000000
+      internalID: -5288835376425651863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_17
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c19dd0e7feead0800000000000000
+      internalID: -2670924983822072402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_18
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823624face7008ff0800000000000000
+      internalID: -36020083884924120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_19
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a11edf78ac3df60800000000000000
+      internalID: 8058006843724732950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_20
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56855731d7de773e0800000000000000
+      internalID: -2055913583418189723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_21
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff182732fd3a84b70800000000000000
+      internalID: 8883530443756044799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_22
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54c3c502413ffa90800000000000000
+      internalID: -7278044313173113762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_23
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586d127d9c9a56f0800000000000000
+      internalID: -695070992436991919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_24
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ca69163851c4a70800000000000000
+      internalID: 8812442224879381650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_25
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a179feee111d30800000000000000
+      internalID: 4400332322653709079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_26
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614360138e2100b50800000000000000
+      internalID: 6557261845915644950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_27
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48bcb0e344469750800000000000000
+      internalID: 6311306986130290762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_28
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 38
+        width: 9
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9b667ff75d4e5c0800000000000000
+      internalID: -4186987007959451210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_29
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 74
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743a8230481c2cf80800000000000000
+      internalID: -8087689208071150777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_30
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c7046c5ec0f5f90800000000000000
+      internalID: -6962832317878338416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_31
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4996eab289eaa9f80800000000000000
+      internalID: -8098969011281303148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_32
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940dd0da035f13fd0800000000000000
+      internalID: -2363838739982200759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_33
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 0
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bd221497efc390800000000000000
+      internalID: -7795757806808878878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_34
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 0
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b002011fcb81b20800000000000000
+      internalID: 3105439686615632708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_35
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f370f905821cd80800000000000000
+      internalID: -8232254317126008969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_36
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59bab689a134da0800000000000000
+      internalID: -5961892239764646451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_37
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 0
+        width: 27
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3e5463c3b1699a0800000000000000
+      internalID: -6226759489370594390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_38
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 0
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8fdeefe0414f70800000000000000
+      internalID: 9169681715552029541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_39
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397584a05b130b9a0800000000000000
+      internalID: -6219416431767300205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_40
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013d8d3e46d492d60800000000000000
+      internalID: 7865903319893988112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_41
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 0
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edde9bf722abf590800000000000000
+      internalID: -7639334050294997531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_42
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 0
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f2ba9c50d7fdee0800000000000000
+      internalID: -1234130309064478826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_43
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 0
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2e3997390336ff0800000000000000
+      internalID: -44138161385512199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_44
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1d0400b49ff480800000000000000
+      internalID: -8863202057938723532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_45
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 81
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b502669f34f14d2d0800000000000000
+      internalID: -3254942253874536357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_46
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 47
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba149247a111910800000000000000
+      internalID: 1806254011762977609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_47
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 0
+        width: 10
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2cde4e82016f320800000000000000
+      internalID: 2591276403423822552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_48
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 0
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec2082b96938ac0800000000000000
+      internalID: -3854071262963642741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_49
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 0
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d61290cb769870800000000000000
+      internalID: 8689268598072858819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_50
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 0
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db55e42cbbc1a11f0800000000000000
+      internalID: -1073513968430066243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_51
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 0
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d79f3f5ce7a7e50800000000000000
+      internalID: 6807893175390797106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_52
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 0
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d700df3c77e392a80800000000000000
+      internalID: -8491186938320191363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_53
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 0
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a14956f97ef0210800000000000000
+      internalID: 1301513489123383854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_54
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 1
+        width: 29
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75380ee285c9092d0800000000000000
+      internalID: -3273945026540829865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_55
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 15
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f60f125597a110800000000000000
+      internalID: 1272149599695859960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_56
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 43
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674a04fe5cfec15f0800000000000000
+      internalID: -784488601667722122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_57
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 43
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e86bbb92ae09f60800000000000000
+      internalID: 8039182799820197397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_58
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f40eb2dd205c39a0800000000000000
+      internalID: -6252034024957672199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_59
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3329f8a64797834c0800000000000000
+      internalID: -4307559502668918221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db39466be23520380800000000000000
+      internalID: -9006544844693924931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_61
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec3c2a7af0ba33e0800000000000000
+      internalID: -2073150088612659996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_62
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 12
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d5bd690d5ca0420800000000000000
+      internalID: 2597105634807340311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_63
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 11
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44e5d2eae3d75320800000000000000
+      internalID: 2546737120082781260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_64
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 14
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b867ae9e4a99e5da0800000000000000
+      internalID: -5954152723759073653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_65
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd67294b41c60cf30800000000000000
+      internalID: 4593790456102549211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_66
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 0
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8996e1fea1ba88700800000000000000
+      internalID: 542871887267391896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_67
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 6
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc61a7582a4a9e0800000000000000
+      internalID: -1610984072529130745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_68
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 7
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd1dbbdb994d3e00800000000000000
+      internalID: 1026057223865703886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_69
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32db8a8c580621f0800000000000000
+      internalID: -1070158667899481542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_70
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 7
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410dbf88c4e084b0800000000000000
+      internalID: -5440096799807438516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_71
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 4
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf717fe5d112834c0800000000000000
+      internalID: -4307656633548859397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_72
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 6
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd563c9dfeb52740800000000000000
+      internalID: 5126713747287989680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_73
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e44d30d483311090800000000000000
+      internalID: -8065608812121471772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_74
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 6
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53cdbb1c7b41c80800000000000000
+      internalID: -8352849366157085202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_75
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 6
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b2620d2122ed20800000000000000
+      internalID: 3306241553640633159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_76
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 6
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f66b731fbcfdbf00800000000000000
+      internalID: 1134340578763040499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_77
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 3
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d2dda613f25c2f0800000000000000
+      internalID: -953303856826208923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_78
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9381d351947c160800000000000000
+      internalID: 7045680497612569031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_79
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 5
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dac56f2d3d550eb0800000000000000
+      internalID: -4754291314250102056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_80
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 4
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d018356f7abccc0800000000000000
+      internalID: -3689670793295229650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_81
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 4
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c8676e1fdad42c0800000000000000
+      internalID: -4445706002679559165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_82
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 5
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff035294cdeb72a0800000000000000
+      internalID: -6738530988905525262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_83
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 6
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439d3ebeb1dc6f020800000000000000
+      internalID: 2375311373289904436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_84
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986b5029a73de6fc0800000000000000
+      internalID: -3499627337030977911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_85
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8175cc28d3383f460800000000000000
+      internalID: 7274302123344156440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_86
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 0
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b38bbb7960152cf0800000000000000
+      internalID: -277797756779920455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_87
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958f5d5e7d84a020800000000000000
+      internalID: 2352160479266178453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_88
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee285d6b5879b80800000000000000
+      internalID: -8388088760641589728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_89
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68645de3f422be740800000000000000
+      internalID: 5182273519971812998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_90
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8858816d0ce260800000000000000
+      internalID: 7128087022771145277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_91
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e4a65979b14c810800000000000000
+      internalID: 1784581690206342746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_92
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402f42ecb7df8f200800000000000000
+      internalID: 214199690481431044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_93
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 9
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f634d7ee32ebf80800000000000000
+      internalID: -8088988373500072133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_94
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5701dee3dfa7c400800000000000000
+      internalID: 344437221296768863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_95
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728728f36ff752b30800000000000000
+      internalID: 4261953317980239911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_96
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1bc3e7baf54e1f0800000000000000
+      internalID: -1016582425716936233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_97
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccf231df0a10f5d0800000000000000
+      internalID: -3030893893983732542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guardian-AOE_98
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06921d0cef493d5d0800000000000000
+      internalID: -3038921501667415712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

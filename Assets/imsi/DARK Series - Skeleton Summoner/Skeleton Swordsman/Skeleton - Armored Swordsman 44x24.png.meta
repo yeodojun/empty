@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: 230dbf49074b44d3fa606b946f9b9706
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2410303283563903460
+    second: Skeleton - Armored Swordsman 44x24_0
+  - first:
+      213: 8574662614696986190
+    second: Skeleton - Armored Swordsman 44x24_1
+  - first:
+      213: -7535399142532541917
+    second: Skeleton - Armored Swordsman 44x24_2
+  - first:
+      213: 7605979812438614952
+    second: Skeleton - Armored Swordsman 44x24_3
+  - first:
+      213: -3875597069347418389
+    second: Skeleton - Armored Swordsman 44x24_4
+  - first:
+      213: 5029724787901583222
+    second: Skeleton - Armored Swordsman 44x24_5
+  - first:
+      213: -8597934933246342533
+    second: Skeleton - Armored Swordsman 44x24_6
+  - first:
+      213: -8972930613180780870
+    second: Skeleton - Armored Swordsman 44x24_7
+  - first:
+      213: -1787229693197140702
+    second: Skeleton - Armored Swordsman 44x24_8
+  - first:
+      213: -7639744729096084104
+    second: Skeleton - Armored Swordsman 44x24_9
+  - first:
+      213: -6504059921780162113
+    second: Skeleton - Armored Swordsman 44x24_10
+  - first:
+      213: 4802915928308925960
+    second: Skeleton - Armored Swordsman 44x24_11
+  - first:
+      213: 1711817079368540680
+    second: Skeleton - Armored Swordsman 44x24_12
+  - first:
+      213: -5852520101527779692
+    second: Skeleton - Armored Swordsman 44x24_13
+  - first:
+      213: -2306259533972297818
+    second: Skeleton - Armored Swordsman 44x24_14
+  - first:
+      213: -464120169643479637
+    second: Skeleton - Armored Swordsman 44x24_15
+  - first:
+      213: -5528532982972486663
+    second: Skeleton - Armored Swordsman 44x24_16
+  - first:
+      213: -5420712995789886466
+    second: Skeleton - Armored Swordsman 44x24_17
+  - first:
+      213: 5772077333033965872
+    second: Skeleton - Armored Swordsman 44x24_18
+  - first:
+      213: -6958358291082883465
+    second: Skeleton - Armored Swordsman 44x24_19
+  - first:
+      213: 4388295901530068610
+    second: Skeleton - Armored Swordsman 44x24_20
+  - first:
+      213: 3213989623466552593
+    second: Skeleton - Armored Swordsman 44x24_21
+  - first:
+      213: 5753603722755845913
+    second: Skeleton - Armored Swordsman 44x24_22
+  - first:
+      213: 9145904856064439372
+    second: Skeleton - Armored Swordsman 44x24_23
+  - first:
+      213: 9098343859323574397
+    second: Skeleton - Armored Swordsman 44x24_24
+  - first:
+      213: 1938974231765760058
+    second: Skeleton - Armored Swordsman 44x24_25
+  - first:
+      213: 3673282080226978002
+    second: Skeleton - Armored Swordsman 44x24_26
+  - first:
+      213: -8182045888177430047
+    second: Skeleton - Armored Swordsman 44x24_27
+  - first:
+      213: 9091192731605138082
+    second: Skeleton - Armored Swordsman 44x24_28
+  - first:
+      213: 3954394709704576100
+    second: Skeleton - Armored Swordsman 44x24_29
+  - first:
+      213: 4733706703838512817
+    second: Skeleton - Armored Swordsman 44x24_30
+  - first:
+      213: 4089916001475421862
+    second: Skeleton - Armored Swordsman 44x24_31
+  - first:
+      213: -3638119783896169162
+    second: Skeleton - Armored Swordsman 44x24_32
+  - first:
+      213: -2852509768983547205
+    second: Skeleton - Armored Swordsman 44x24_33
+  - first:
+      213: -7229501628665291727
+    second: Skeleton - Armored Swordsman 44x24_34
+  - first:
+      213: 624659705441293190
+    second: Skeleton - Armored Swordsman 44x24_35
+  - first:
+      213: -2390346703559502434
+    second: Skeleton - Armored Swordsman 44x24_36
+  - first:
+      213: -7528863726433972492
+    second: Skeleton - Armored Swordsman 44x24_37
+  - first:
+      213: 3190992284625435035
+    second: Skeleton - Armored Swordsman 44x24_38
+  - first:
+      213: -9121611267266282031
+    second: Skeleton - Armored Swordsman 44x24_39
+  - first:
+      213: 8428115731764973146
+    second: Skeleton - Armored Swordsman 44x24_40
+  - first:
+      213: 8725388848781817453
+    second: Skeleton - Armored Swordsman 44x24_41
+  - first:
+      213: 727405865246520905
+    second: Skeleton - Armored Swordsman 44x24_42
+  - first:
+      213: 4614108527734190785
+    second: Skeleton - Armored Swordsman 44x24_43
+  - first:
+      213: 3332712345608114976
+    second: Skeleton - Armored Swordsman 44x24_44
+  - first:
+      213: 538432547132154356
+    second: Skeleton - Armored Swordsman 44x24_45
+  - first:
+      213: 6769608455843937977
+    second: Skeleton - Armored Swordsman 44x24_46
+  - first:
+      213: -5750900485605317471
+    second: Skeleton - Armored Swordsman 44x24_47
+  - first:
+      213: 5361401576166864150
+    second: Skeleton - Armored Swordsman 44x24_48
+  - first:
+      213: -6358415695708344341
+    second: Skeleton - Armored Swordsman 44x24_49
+  - first:
+      213: 3027545959756955770
+    second: Skeleton - Armored Swordsman 44x24_50
+  - first:
+      213: 121108128892030399
+    second: Skeleton - Armored Swordsman 44x24_51
+  - first:
+      213: 8067543095989500739
+    second: Skeleton - Armored Swordsman 44x24_52
+  - first:
+      213: -8079184345787853554
+    second: Skeleton - Armored Swordsman 44x24_53
+  - first:
+      213: 5094976412117275886
+    second: Skeleton - Armored Swordsman 44x24_54
+  - first:
+      213: 4180372535828438527
+    second: Skeleton - Armored Swordsman 44x24_55
+  - first:
+      213: 7321545852305742995
+    second: Skeleton - Armored Swordsman 44x24_56
+  - first:
+      213: 3112693969654237375
+    second: Skeleton - Armored Swordsman 44x24_57
+  - first:
+      213: -5952050983617007259
+    second: Skeleton - Armored Swordsman 44x24_58
+  - first:
+      213: -1898775328132163036
+    second: Skeleton - Armored Swordsman 44x24_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 71
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1647361fe1ec8ed0800000000000000
+      internalID: -2410303283563903460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4606d1b7325ff670800000000000000
+      internalID: 8574662614696986190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32290947762ec6790800000000000000
+      internalID: -7535399142532541917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 71
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32239575edd8960800000000000000
+      internalID: 7605979812438614952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 71
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee800dcffc173ac0800000000000000
+      internalID: -3875597069347418389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 71
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc9d4cb0c2dc540800000000000000
+      internalID: 5029724787901583222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 71
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a0ee56bbffda880800000000000000
+      internalID: -8597934933246342533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 71
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea12fd52fb97380800000000000000
+      internalID: -8972930613180780870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 95
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d34fc201c7237e0800000000000000
+      internalID: -1787229693197140702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875a09f55ac2af590800000000000000
+      internalID: -7639744729096084104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1407c06ffecb5a0800000000000000
+      internalID: -6504059921780162113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 95
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8064be0079267a240800000000000000
+      internalID: 4802915928308925960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 95
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026538609891c710800000000000000
+      internalID: 1711817079368540680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 95
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4968a93c9fba7cea0800000000000000
+      internalID: -5852520101527779692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 95
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a729b54c258effd0800000000000000
+      internalID: -2306259533972297818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 95
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6e4b2a2d1f89f0800000000000000
+      internalID: -464120169643479637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 71
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbe4ec1b84b643b0800000000000000
+      internalID: -5528532982972486663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 71
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba9902042c5c4b0800000000000000
+      internalID: -5420712995789886466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 71
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039d29ba0c98a1050800000000000000
+      internalID: 5772077333033965872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 71
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4c105002fe6f90800000000000000
+      internalID: -6958358291082883465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 47
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286900c4fdb56ec30800000000000000
+      internalID: 4388295901530068610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 47
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de38ab8826a9c20800000000000000
+      internalID: 3213989623466552593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f2a391a18e8df40800000000000000
+      internalID: 5753603722755845913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44bd3f6208ccee70800000000000000
+      internalID: 9145904856064439372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d789653f88fc34e70800000000000000
+      internalID: 9098343859323574397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38b8096ace98ea10800000000000000
+      internalID: 1938974231765760058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8acbf079e1af230800000000000000
+      internalID: 3673282080226978002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 47
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e12d337d98837e80800000000000000
+      internalID: -8182045888177430047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_28
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 48
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaffe74f976a2e70800000000000000
+      internalID: 9091192731605138082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_29
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c00a58905d0e630800000000000000
+      internalID: 3954394709704576100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60e29ba2181b140800000000000000
+      internalID: 4733706703838512817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 23
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6e02d1fec42c830800000000000000
+      internalID: 4089916001475421862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6354c86055dc28dc0800000000000000
+      internalID: -3638119783896169162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb277657a79d968d0800000000000000
+      internalID: -2852509768983547205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 23
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1c408296abab90800000000000000
+      internalID: -7229501628665291727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 23
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683145841bc3ba800800000000000000
+      internalID: 624659705441293190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 23
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e955f447658c3ded0800000000000000
+      internalID: -2390346703559502434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 23
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4497945a148790800000000000000
+      internalID: -7528863726433972492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 23
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997c16839ea84c20800000000000000
+      internalID: 3190992284625435035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_39
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 23
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd746b71e6896180800000000000000
+      internalID: -9121611267266282031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e8bbd9a9ea6f470800000000000000
+      internalID: 8428115731764973146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667bcacdeec61970800000000000000
+      internalID: 8725388848781817453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946fd8dc7c3481a00800000000000000
+      internalID: 727405865246520905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c272b6624b980040800000000000000
+      internalID: 4614108527734190785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d78a883c204e20800000000000000
+      internalID: 3332712345608114976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f122538c85e87700800000000000000
+      internalID: 538432547132154356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9befe0f060b72fd50800000000000000
+      internalID: 6769608455843937977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4afd85a72b030b0800000000000000
+      internalID: -5750900485605317471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61535add356876a40800000000000000
+      internalID: 5361401576166864150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2903fc9e52c7a0800000000000000
+      internalID: -6358415695708344341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708b708201040a20800000000000000
+      internalID: 3027545959756955770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd850a93334ea100800000000000000
+      internalID: 121108128892030399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bfb9eb3bba5ff60800000000000000
+      internalID: 8067543095989500739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e051b6294a8f0ef80800000000000000
+      internalID: -8079184345787853554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49e3f6d0ef4b640800000000000000
+      internalID: 5094976412117275886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_55
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd5ada3caaa30a30800000000000000
+      internalID: 4180372535828438527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_56
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1b65592b5b9560800000000000000
+      internalID: 7321545852305742995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8cdb37ca2823b20800000000000000
+      internalID: 3112693969654237375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_58
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617e7c6a21166da0800000000000000
+      internalID: -5952050983617007259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton - Armored Swordsman 44x24_59
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 54
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a186236e136a5e0800000000000000
+      internalID: -1898775328132163036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

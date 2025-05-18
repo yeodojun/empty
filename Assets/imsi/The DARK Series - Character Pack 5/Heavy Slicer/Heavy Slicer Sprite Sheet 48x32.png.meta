@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: a6c439a078d654db789957c5513ff564
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4132328003563381445
+    second: Heavy Slicer Sprite Sheet 48x32_0
+  - first:
+      213: 3398753892445140298
+    second: Heavy Slicer Sprite Sheet 48x32_1
+  - first:
+      213: 8891926617292160993
+    second: Heavy Slicer Sprite Sheet 48x32_2
+  - first:
+      213: -3791338446685941822
+    second: Heavy Slicer Sprite Sheet 48x32_3
+  - first:
+      213: -472096513205786164
+    second: Heavy Slicer Sprite Sheet 48x32_4
+  - first:
+      213: 7572689511236307615
+    second: Heavy Slicer Sprite Sheet 48x32_5
+  - first:
+      213: 2895411301231328969
+    second: Heavy Slicer Sprite Sheet 48x32_6
+  - first:
+      213: -1528297816217023547
+    second: Heavy Slicer Sprite Sheet 48x32_7
+  - first:
+      213: -9173253088497694248
+    second: Heavy Slicer Sprite Sheet 48x32_8
+  - first:
+      213: 5876240476104597404
+    second: Heavy Slicer Sprite Sheet 48x32_9
+  - first:
+      213: -4414717076671044049
+    second: Heavy Slicer Sprite Sheet 48x32_10
+  - first:
+      213: -7448741268151647376
+    second: Heavy Slicer Sprite Sheet 48x32_11
+  - first:
+      213: 4046647367639209458
+    second: Heavy Slicer Sprite Sheet 48x32_12
+  - first:
+      213: -9017421647853981422
+    second: Heavy Slicer Sprite Sheet 48x32_13
+  - first:
+      213: -1741316172104412652
+    second: Heavy Slicer Sprite Sheet 48x32_14
+  - first:
+      213: 37393880604386297
+    second: Heavy Slicer Sprite Sheet 48x32_15
+  - first:
+      213: -9169112584321033605
+    second: Heavy Slicer Sprite Sheet 48x32_16
+  - first:
+      213: 6961531956567508322
+    second: Heavy Slicer Sprite Sheet 48x32_17
+  - first:
+      213: -652786033246031284
+    second: Heavy Slicer Sprite Sheet 48x32_18
+  - first:
+      213: -3108305072845433113
+    second: Heavy Slicer Sprite Sheet 48x32_19
+  - first:
+      213: -3457815998449721184
+    second: Heavy Slicer Sprite Sheet 48x32_20
+  - first:
+      213: -953444830728060841
+    second: Heavy Slicer Sprite Sheet 48x32_21
+  - first:
+      213: -4867448706075134053
+    second: Heavy Slicer Sprite Sheet 48x32_22
+  - first:
+      213: -8305621745975791232
+    second: Heavy Slicer Sprite Sheet 48x32_23
+  - first:
+      213: 4160929330683139970
+    second: Heavy Slicer Sprite Sheet 48x32_24
+  - first:
+      213: -1741437212280352852
+    second: Heavy Slicer Sprite Sheet 48x32_25
+  - first:
+      213: 8777005990462428795
+    second: Heavy Slicer Sprite Sheet 48x32_26
+  - first:
+      213: -3336389296156504164
+    second: Heavy Slicer Sprite Sheet 48x32_27
+  - first:
+      213: 6507668991279414125
+    second: Heavy Slicer Sprite Sheet 48x32_28
+  - first:
+      213: 4825695141184185971
+    second: Heavy Slicer Sprite Sheet 48x32_29
+  - first:
+      213: 1603835822822715862
+    second: Heavy Slicer Sprite Sheet 48x32_30
+  - first:
+      213: -2196887738155603446
+    second: Heavy Slicer Sprite Sheet 48x32_31
+  - first:
+      213: -350332879941692183
+    second: Heavy Slicer Sprite Sheet 48x32_32
+  - first:
+      213: 218988981473370695
+    second: Heavy Slicer Sprite Sheet 48x32_33
+  - first:
+      213: -4294404562323880998
+    second: Heavy Slicer Sprite Sheet 48x32_34
+  - first:
+      213: 311642116186243354
+    second: Heavy Slicer Sprite Sheet 48x32_35
+  - first:
+      213: -1474118381248961099
+    second: Heavy Slicer Sprite Sheet 48x32_36
+  - first:
+      213: 7181722832210987181
+    second: Heavy Slicer Sprite Sheet 48x32_37
+  - first:
+      213: -5578469505593412652
+    second: Heavy Slicer Sprite Sheet 48x32_38
+  - first:
+      213: 9143991510308112520
+    second: Heavy Slicer Sprite Sheet 48x32_39
+  - first:
+      213: -7382715148956709863
+    second: Heavy Slicer Sprite Sheet 48x32_40
+  - first:
+      213: -4837033714598848215
+    second: Heavy Slicer Sprite Sheet 48x32_41
+  - first:
+      213: 4706238862826317810
+    second: Heavy Slicer Sprite Sheet 48x32_42
+  - first:
+      213: 4445519548498965542
+    second: Heavy Slicer Sprite Sheet 48x32_43
+  - first:
+      213: 2450372244231095246
+    second: Heavy Slicer Sprite Sheet 48x32_44
+  - first:
+      213: -1932432292567304266
+    second: Heavy Slicer Sprite Sheet 48x32_45
+  - first:
+      213: -303784946070968830
+    second: Heavy Slicer Sprite Sheet 48x32_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c26bcbdc6af85930800000000000000
+      internalID: 4132328003563381445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453b2668acca2f20800000000000000
+      internalID: 3398753892445140298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3a80a528766b70800000000000000
+      internalID: 8891926617292160993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc00625c5726bc0800000000000000
+      internalID: -3791338446685941822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc92ba6f8b6c279f0800000000000000
+      internalID: -472096513205786164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a01971df8971960800000000000000
+      internalID: 7572689511236307615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce7b88ec319e2820800000000000000
+      internalID: 2895411301231328969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0161cb356acae0800000000000000
+      internalID: -1528297816217023547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 127
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d907510bee02b080800000000000000
+      internalID: -9173253088497694248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 128
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9cf054999c8150800000000000000
+      internalID: 5876240476104597404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26eb2d7536cbb2c0800000000000000
+      internalID: -4414717076671044049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 127
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07347002841c0a890800000000000000
+      internalID: -7448741268151647376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5976f3754982830800000000000000
+      internalID: 4046647367639209458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211feb1a9ceabd280800000000000000
+      internalID: -9017421647853981422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d218da2a95d7e0800000000000000
+      internalID: -1741316172104412652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_15
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 159
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a23a4989d48000800000000000000
+      internalID: 37393880604386297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a1bf14fa4c0c080800000000000000
+      internalID: -9169112584321033605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2658cb34e645c9060800000000000000
+      internalID: 6961531956567508322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b806bf86d0f6f0800000000000000
+      internalID: -652786033246031284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d08731051dd4d0800000000000000
+      internalID: -3108305072845433113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0edb17bae5300d0800000000000000
+      internalID: -3457815998449721184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_21
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 95
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750858f5afea4c2f0800000000000000
+      internalID: -953444830728060841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f4ffc039537cb0800000000000000
+      internalID: -4867448706075134053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0817a50f6018cbc80800000000000000
+      internalID: -8305621745975791232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2875fd24e279eb930800000000000000
+      internalID: 4160929330683139970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf026bf41c25d7e0800000000000000
+      internalID: -1741437212280352852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 95
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b761dfc12703ec970800000000000000
+      internalID: 8777005990462428795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 95
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f0d22bc93c2b1d0800000000000000
+      internalID: -3336389296156504164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb80de772ef4a50800000000000000
+      internalID: 6507668991279414125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376ac9cc92058f240800000000000000
+      internalID: 4825695141184185971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1f461fe28f14610800000000000000
+      internalID: 1603835822822715862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ae2d3ed361381e0800000000000000
+      internalID: -2196887738155603446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e49fe11a1e532bf0800000000000000
+      internalID: -350332879941692183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742e17281510a0300800000000000000
+      internalID: 218988981473370695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad34ed4adc53764c0800000000000000
+      internalID: -4294404562323880998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1105508adc235400800000000000000
+      internalID: 311642116186243354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b528c87421ea8be0800000000000000
+      internalID: -1474118381248961099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da88f319dda9aa360800000000000000
+      internalID: 7181722832210987181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d371c86a8b4592b0800000000000000
+      internalID: -5578469505593412652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_39
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8884a19e4dbf5ee70800000000000000
+      internalID: 9143991510308112520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c4a84ffa35b8990800000000000000
+      internalID: -7382715148956709863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_41
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9295fbad6776fdcb0800000000000000
+      internalID: -4837033714598848215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_42
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7a6ee9f4bef4140800000000000000
+      internalID: 4706238862826317810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624f55ad978a1bd30800000000000000
+      internalID: 4445519548498965542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30fd0d298710220800000000000000
+      internalID: 2450372244231095246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_45
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b73801811f9e25e0800000000000000
+      internalID: -1932432292567304266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Slicer Sprite Sheet 48x32_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062459733db8cbf0800000000000000
+      internalID: -303784946070968830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

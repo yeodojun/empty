@@ -1,0 +1,4830 @@
+fileFormatVersion: 2
+guid: aed199d1a70724ca0be966f02a22db1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3355557273365936847
+    second: Golden Sprite Sheet 45x32_0
+  - first:
+      213: 7999139261191800416
+    second: Golden Sprite Sheet 45x32_1
+  - first:
+      213: -5649801159155285883
+    second: Golden Sprite Sheet 45x32_2
+  - first:
+      213: 6764625340204543511
+    second: Golden Sprite Sheet 45x32_3
+  - first:
+      213: -2657850963290527674
+    second: Golden Sprite Sheet 45x32_4
+  - first:
+      213: 4291355849364356525
+    second: Golden Sprite Sheet 45x32_5
+  - first:
+      213: -6308694518685608417
+    second: Golden Sprite Sheet 45x32_6
+  - first:
+      213: -3592466727195499931
+    second: Golden Sprite Sheet 45x32_7
+  - first:
+      213: -148941237699693456
+    second: Golden Sprite Sheet 45x32_8
+  - first:
+      213: 4065681409110573947
+    second: Golden Sprite Sheet 45x32_9
+  - first:
+      213: 7716845810833169102
+    second: Golden Sprite Sheet 45x32_10
+  - first:
+      213: 4416256977927391017
+    second: Golden Sprite Sheet 45x32_11
+  - first:
+      213: -6057680969940541582
+    second: Golden Sprite Sheet 45x32_12
+  - first:
+      213: 7071218116016394946
+    second: Golden Sprite Sheet 45x32_13
+  - first:
+      213: 2087633822551067403
+    second: Golden Sprite Sheet 45x32_14
+  - first:
+      213: -7133044774943790991
+    second: Golden Sprite Sheet 45x32_15
+  - first:
+      213: 6416602470531430605
+    second: Golden Sprite Sheet 45x32_16
+  - first:
+      213: 4952086590598361408
+    second: Golden Sprite Sheet 45x32_17
+  - first:
+      213: -1254529411468404980
+    second: Golden Sprite Sheet 45x32_18
+  - first:
+      213: 6367461479407041613
+    second: Golden Sprite Sheet 45x32_19
+  - first:
+      213: 8645126213221394782
+    second: Golden Sprite Sheet 45x32_20
+  - first:
+      213: -2642035755025930015
+    second: Golden Sprite Sheet 45x32_21
+  - first:
+      213: -7542342005150770609
+    second: Golden Sprite Sheet 45x32_22
+  - first:
+      213: -9201069922388378788
+    second: Golden Sprite Sheet 45x32_23
+  - first:
+      213: -1779152987392560924
+    second: Golden Sprite Sheet 45x32_24
+  - first:
+      213: -8980643779960890127
+    second: Golden Sprite Sheet 45x32_25
+  - first:
+      213: 8327977682264740491
+    second: Golden Sprite Sheet 45x32_26
+  - first:
+      213: 8247067160183591696
+    second: Golden Sprite Sheet 45x32_27
+  - first:
+      213: -3672032282458033912
+    second: Golden Sprite Sheet 45x32_28
+  - first:
+      213: -8584465519272916100
+    second: Golden Sprite Sheet 45x32_29
+  - first:
+      213: -1000649528413140227
+    second: Golden Sprite Sheet 45x32_30
+  - first:
+      213: -8496885927000310252
+    second: Golden Sprite Sheet 45x32_31
+  - first:
+      213: 9074807950398026396
+    second: Golden Sprite Sheet 45x32_32
+  - first:
+      213: 4661050877850665307
+    second: Golden Sprite Sheet 45x32_33
+  - first:
+      213: 295948721798821435
+    second: Golden Sprite Sheet 45x32_34
+  - first:
+      213: -246502879903326405
+    second: Golden Sprite Sheet 45x32_35
+  - first:
+      213: 2045279224099573107
+    second: Golden Sprite Sheet 45x32_36
+  - first:
+      213: -9000290143889634564
+    second: Golden Sprite Sheet 45x32_37
+  - first:
+      213: -1811628878354322293
+    second: Golden Sprite Sheet 45x32_38
+  - first:
+      213: -4409244056161951063
+    second: Golden Sprite Sheet 45x32_39
+  - first:
+      213: -7991226285313018619
+    second: Golden Sprite Sheet 45x32_40
+  - first:
+      213: 4684530731310108337
+    second: Golden Sprite Sheet 45x32_41
+  - first:
+      213: -5589438155796268982
+    second: Golden Sprite Sheet 45x32_42
+  - first:
+      213: 4903074962615289880
+    second: Golden Sprite Sheet 45x32_43
+  - first:
+      213: -4522701322242569568
+    second: Golden Sprite Sheet 45x32_44
+  - first:
+      213: -8750048835348401364
+    second: Golden Sprite Sheet 45x32_45
+  - first:
+      213: 4371888994469499303
+    second: Golden Sprite Sheet 45x32_46
+  - first:
+      213: 1062241627812915132
+    second: Golden Sprite Sheet 45x32_47
+  - first:
+      213: 1054122502842000396
+    second: Golden Sprite Sheet 45x32_48
+  - first:
+      213: 3490565019773159231
+    second: Golden Sprite Sheet 45x32_49
+  - first:
+      213: 4138674879764519305
+    second: Golden Sprite Sheet 45x32_50
+  - first:
+      213: 5509327492803368855
+    second: Golden Sprite Sheet 45x32_51
+  - first:
+      213: 1389800396301572667
+    second: Golden Sprite Sheet 45x32_52
+  - first:
+      213: -6149865772593818051
+    second: Golden Sprite Sheet 45x32_53
+  - first:
+      213: -6169682493837886921
+    second: Golden Sprite Sheet 45x32_54
+  - first:
+      213: 8580533945201354960
+    second: Golden Sprite Sheet 45x32_55
+  - first:
+      213: -8153845308492361750
+    second: Golden Sprite Sheet 45x32_56
+  - first:
+      213: -6854620258566971089
+    second: Golden Sprite Sheet 45x32_57
+  - first:
+      213: 6069682114854106290
+    second: Golden Sprite Sheet 45x32_58
+  - first:
+      213: -5882955457381666702
+    second: Golden Sprite Sheet 45x32_59
+  - first:
+      213: 6043543228025322288
+    second: Golden Sprite Sheet 45x32_60
+  - first:
+      213: 3836372739273982204
+    second: Golden Sprite Sheet 45x32_61
+  - first:
+      213: -4642950196282071439
+    second: Golden Sprite Sheet 45x32_62
+  - first:
+      213: 5215000686267047140
+    second: Golden Sprite Sheet 45x32_63
+  - first:
+      213: -7685575564905869407
+    second: Golden Sprite Sheet 45x32_64
+  - first:
+      213: -1291768145142382909
+    second: Golden Sprite Sheet 45x32_65
+  - first:
+      213: -7857520737229819792
+    second: Golden Sprite Sheet 45x32_66
+  - first:
+      213: 8717391052058357356
+    second: Golden Sprite Sheet 45x32_67
+  - first:
+      213: 4535230142504524104
+    second: Golden Sprite Sheet 45x32_68
+  - first:
+      213: 2125513106890626386
+    second: Golden Sprite Sheet 45x32_69
+  - first:
+      213: 5974822606604226748
+    second: Golden Sprite Sheet 45x32_70
+  - first:
+      213: 6957979135996459428
+    second: Golden Sprite Sheet 45x32_71
+  - first:
+      213: -2924681192131177025
+    second: Golden Sprite Sheet 45x32_72
+  - first:
+      213: -2615116515185007118
+    second: Golden Sprite Sheet 45x32_73
+  - first:
+      213: 1683113768119633058
+    second: Golden Sprite Sheet 45x32_74
+  - first:
+      213: -5015370165660535323
+    second: Golden Sprite Sheet 45x32_75
+  - first:
+      213: -2520784860715416074
+    second: Golden Sprite Sheet 45x32_76
+  - first:
+      213: -7019011595260890441
+    second: Golden Sprite Sheet 45x32_77
+  - first:
+      213: 6748701154270100216
+    second: Golden Sprite Sheet 45x32_78
+  - first:
+      213: 6694822465054770642
+    second: Golden Sprite Sheet 45x32_79
+  - first:
+      213: 4727841408682881724
+    second: Golden Sprite Sheet 45x32_80
+  - first:
+      213: 6366567068473400775
+    second: Golden Sprite Sheet 45x32_81
+  - first:
+      213: -1393598593305615795
+    second: Golden Sprite Sheet 45x32_82
+  - first:
+      213: -5862465337955574412
+    second: Golden Sprite Sheet 45x32_83
+  - first:
+      213: -7126074596458668700
+    second: Golden Sprite Sheet 45x32_84
+  - first:
+      213: 4708602436380679979
+    second: Golden Sprite Sheet 45x32_85
+  - first:
+      213: 4322945685975471345
+    second: Golden Sprite Sheet 45x32_86
+  - first:
+      213: 5355088747775706386
+    second: Golden Sprite Sheet 45x32_87
+  - first:
+      213: 167920450309004199
+    second: Golden Sprite Sheet 45x32_88
+  - first:
+      213: 810900264615960709
+    second: Golden Sprite Sheet 45x32_89
+  - first:
+      213: 6997983450821700792
+    second: Golden Sprite Sheet 45x32_90
+  - first:
+      213: 7482063029856299643
+    second: Golden Sprite Sheet 45x32_91
+  - first:
+      213: 6174658009626300200
+    second: Golden Sprite Sheet 45x32_92
+  - first:
+      213: -8432608672976986263
+    second: Golden Sprite Sheet 45x32_93
+  - first:
+      213: -2388097560228599414
+    second: Golden Sprite Sheet 45x32_94
+  - first:
+      213: -6127531395119302966
+    second: Golden Sprite Sheet 45x32_95
+  - first:
+      213: -93565088494446479
+    second: Golden Sprite Sheet 45x32_96
+  - first:
+      213: -8214291227945393568
+    second: Golden Sprite Sheet 45x32_97
+  - first:
+      213: 2370807678382183405
+    second: Golden Sprite Sheet 45x32_98
+  - first:
+      213: 8306755315805968174
+    second: Golden Sprite Sheet 45x32_99
+  - first:
+      213: 151941051705437208
+    second: Golden Sprite Sheet 45x32_100
+  - first:
+      213: 2578468292289993189
+    second: Golden Sprite Sheet 45x32_101
+  - first:
+      213: 7638425905141602799
+    second: Golden Sprite Sheet 45x32_102
+  - first:
+      213: -1647760521390319838
+    second: Golden Sprite Sheet 45x32_103
+  - first:
+      213: -5825182980189598323
+    second: Golden Sprite Sheet 45x32_104
+  - first:
+      213: 7983402691716832232
+    second: Golden Sprite Sheet 45x32_105
+  - first:
+      213: 950021523150348472
+    second: Golden Sprite Sheet 45x32_106
+  - first:
+      213: 3758134417263740341
+    second: Golden Sprite Sheet 45x32_107
+  - first:
+      213: 8085700497898015307
+    second: Golden Sprite Sheet 45x32_108
+  - first:
+      213: -3029526526841062265
+    second: Golden Sprite Sheet 45x32_109
+  - first:
+      213: 5332415071530289800
+    second: Golden Sprite Sheet 45x32_110
+  - first:
+      213: -1377803334224794809
+    second: Golden Sprite Sheet 45x32_111
+  - first:
+      213: -1658644244769669737
+    second: Golden Sprite Sheet 45x32_112
+  - first:
+      213: -4670280308651510013
+    second: Golden Sprite Sheet 45x32_113
+  - first:
+      213: -6246531190635948450
+    second: Golden Sprite Sheet 45x32_114
+  - first:
+      213: 7538319729876953021
+    second: Golden Sprite Sheet 45x32_115
+  - first:
+      213: 8941802047231757575
+    second: Golden Sprite Sheet 45x32_116
+  - first:
+      213: -1565935844047678991
+    second: Golden Sprite Sheet 45x32_117
+  - first:
+      213: 527038152388861319
+    second: Golden Sprite Sheet 45x32_118
+  - first:
+      213: 1824739214556224714
+    second: Golden Sprite Sheet 45x32_119
+  - first:
+      213: -3135176276297352151
+    second: Golden Sprite Sheet 45x32_120
+  - first:
+      213: 5849889058522725531
+    second: Golden Sprite Sheet 45x32_121
+  - first:
+      213: 6574099473976358996
+    second: Golden Sprite Sheet 45x32_122
+  - first:
+      213: -6051567928450075015
+    second: Golden Sprite Sheet 45x32_123
+  - first:
+      213: 2831500705327153635
+    second: Golden Sprite Sheet 45x32_124
+  - first:
+      213: 896886643223652000
+    second: Golden Sprite Sheet 45x32_125
+  - first:
+      213: -2024151799346512572
+    second: Golden Sprite Sheet 45x32_126
+  - first:
+      213: 3816204609365462534
+    second: Golden Sprite Sheet 45x32_127
+  - first:
+      213: -7961834894000240536
+    second: Golden Sprite Sheet 45x32_128
+  - first:
+      213: 759035536307751123
+    second: Golden Sprite Sheet 45x32_129
+  - first:
+      213: -5484252180477880048
+    second: Golden Sprite Sheet 45x32_130
+  - first:
+      213: -3859832771614461216
+    second: Golden Sprite Sheet 45x32_131
+  - first:
+      213: 8396794534116625631
+    second: Golden Sprite Sheet 45x32_132
+  - first:
+      213: 5658015379868688240
+    second: Golden Sprite Sheet 45x32_133
+  - first:
+      213: -1120172563565652375
+    second: Golden Sprite Sheet 45x32_134
+  - first:
+      213: 8129522435783341165
+    second: Golden Sprite Sheet 45x32_135
+  - first:
+      213: 4304102869011428534
+    second: Golden Sprite Sheet 45x32_136
+  - first:
+      213: -4034366030551855496
+    second: Golden Sprite Sheet 45x32_137
+  - first:
+      213: 6575982663801257193
+    second: Golden Sprite Sheet 45x32_138
+  - first:
+      213: 2456686607068009472
+    second: Golden Sprite Sheet 45x32_139
+  - first:
+      213: 2651994873995023082
+    second: Golden Sprite Sheet 45x32_140
+  - first:
+      213: -5180763209084091889
+    second: Golden Sprite Sheet 45x32_141
+  - first:
+      213: 2667117908215997700
+    second: Golden Sprite Sheet 45x32_142
+  - first:
+      213: 2872607051699482752
+    second: Golden Sprite Sheet 45x32_143
+  - first:
+      213: 3043894593914243248
+    second: Golden Sprite Sheet 45x32_144
+  - first:
+      213: 4953720420426381093
+    second: Golden Sprite Sheet 45x32_145
+  - first:
+      213: 3457330647573379162
+    second: Golden Sprite Sheet 45x32_146
+  - first:
+      213: 3230085860374496334
+    second: Golden Sprite Sheet 45x32_147
+  - first:
+      213: -1441214409571639187
+    second: Golden Sprite Sheet 45x32_148
+  - first:
+      213: 1727298747979495978
+    second: Golden Sprite Sheet 45x32_149
+  - first:
+      213: 6605117542970185898
+    second: Golden Sprite Sheet 45x32_150
+  - first:
+      213: -7172918250597543518
+    second: Golden Sprite Sheet 45x32_151
+  - first:
+      213: -4403093160081566632
+    second: Golden Sprite Sheet 45x32_152
+  - first:
+      213: -2838694362988419473
+    second: Golden Sprite Sheet 45x32_153
+  - first:
+      213: 129153664745283546
+    second: Golden Sprite Sheet 45x32_154
+  - first:
+      213: 8561147488749103342
+    second: Golden Sprite Sheet 45x32_155
+  - first:
+      213: 1581112248243306210
+    second: Golden Sprite Sheet 45x32_156
+  - first:
+      213: 3327741746623326067
+    second: Golden Sprite Sheet 45x32_157
+  - first:
+      213: -3878066710778794751
+    second: Golden Sprite Sheet 45x32_158
+  - first:
+      213: 7758541893700225667
+    second: Golden Sprite Sheet 45x32_159
+  - first:
+      213: 4522514825185771888
+    second: Golden Sprite Sheet 45x32_160
+  - first:
+      213: 4878283310307879471
+    second: Golden Sprite Sheet 45x32_161
+  - first:
+      213: -7171555525866430783
+    second: Golden Sprite Sheet 45x32_162
+  - first:
+      213: 3360629246456023771
+    second: Golden Sprite Sheet 45x32_163
+  - first:
+      213: -8121346858846029379
+    second: Golden Sprite Sheet 45x32_164
+  - first:
+      213: -1875340751530238385
+    second: Golden Sprite Sheet 45x32_165
+  - first:
+      213: -151649954944093696
+    second: Golden Sprite Sheet 45x32_166
+  - first:
+      213: 3948530511813491153
+    second: Golden Sprite Sheet 45x32_167
+  - first:
+      213: 7493043520419431365
+    second: Golden Sprite Sheet 45x32_168
+  - first:
+      213: 111008165695579981
+    second: Golden Sprite Sheet 45x32_169
+  - first:
+      213: -5272650172841160206
+    second: Golden Sprite Sheet 45x32_170
+  - first:
+      213: 5496196642110067988
+    second: Golden Sprite Sheet 45x32_171
+  - first:
+      213: 3426356546332570813
+    second: Golden Sprite Sheet 45x32_172
+  - first:
+      213: 1877963856228861331
+    second: Golden Sprite Sheet 45x32_173
+  - first:
+      213: -5708310824985829337
+    second: Golden Sprite Sheet 45x32_174
+  - first:
+      213: 2319702091255181759
+    second: Golden Sprite Sheet 45x32_175
+  - first:
+      213: -2276151839438088399
+    second: Golden Sprite Sheet 45x32_176
+  - first:
+      213: 8902560555431105565
+    second: Golden Sprite Sheet 45x32_177
+  - first:
+      213: 2221075266203475960
+    second: Golden Sprite Sheet 45x32_178
+  - first:
+      213: 137215758879581835
+    second: Golden Sprite Sheet 45x32_179
+  - first:
+      213: 2886753852730093456
+    second: Golden Sprite Sheet 45x32_180
+  - first:
+      213: -6593193944660150476
+    second: Golden Sprite Sheet 45x32_181
+  - first:
+      213: -4994857388309811549
+    second: Golden Sprite Sheet 45x32_182
+  - first:
+      213: 3807367517885707338
+    second: Golden Sprite Sheet 45x32_183
+  - first:
+      213: -57915850408270735
+    second: Golden Sprite Sheet 45x32_184
+  - first:
+      213: 3541767590983859590
+    second: Golden Sprite Sheet 45x32_185
+  - first:
+      213: 8340213571371526331
+    second: Golden Sprite Sheet 45x32_186
+  - first:
+      213: 8637279980475467281
+    second: Golden Sprite Sheet 45x32_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca7476cf85519e20800000000000000
+      internalID: 3355557273365936847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 671
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c73cd6c6a20f60800000000000000
+      internalID: 7999139261191800416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 671
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58085f897cfd791b0800000000000000
+      internalID: -5649801159155285883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 671
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e6f7908e6c0ed50800000000000000
+      internalID: 6764625340204543511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 671
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648632b71aa6d1bd0800000000000000
+      internalID: -2657850963290527674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 671
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad382e8865fd8b30800000000000000
+      internalID: 4291355849364356525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165a4992c30378a0800000000000000
+      internalID: -6308694518685608417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622a1a9b8ef42ec0800000000000000
+      internalID: -3592466727195499931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_8
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b082cbbadeedf0800000000000000
+      internalID: -148941237699693456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7302ff53b33c6830800000000000000
+      internalID: 4065681409110573947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1c2d116eb71b60800000000000000
+      internalID: 7716845810833169102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c336b252b94d30800000000000000
+      internalID: 4416256977927391017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fdc08b04bceeba0800000000000000
+      internalID: -6057680969940541582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2d67e5963022260800000000000000
+      internalID: 7071218116016394946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4f3e96e3c8fc10800000000000000
+      internalID: 2087633822551067403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178e486d195520d90800000000000000
+      internalID: -7133044774943790991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_16
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc87be843f95c0950800000000000000
+      internalID: 6416602470531430605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0413791548859b440800000000000000
+      internalID: 4952086590598361408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_18
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c075525a524079ee0800000000000000
+      internalID: -1254529411468404980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3a01ba74cd5850800000000000000
+      internalID: 6367461479407041613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59aa71bc78a9f770800000000000000
+      internalID: 8645126213221394782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86cc99a7a955bd0800000000000000
+      internalID: -2642035755025930015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_22
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1b7848e7345790800000000000000
+      internalID: -7542342005150770609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_23
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b728aa7ab3f4080800000000000000
+      internalID: -9201069922388378788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_24
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e03469c8cd2f47e0800000000000000
+      internalID: -1779152987392560924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_25
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc1c1940185e5380800000000000000
+      internalID: -8980643779960890127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_26
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 639
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8255c8149be29370800000000000000
+      internalID: 8327977682264740491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 639
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013588923e7737270800000000000000
+      internalID: 8247067160183591696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801725828125a0dc0800000000000000
+      internalID: -3672032282458033912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 607
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b0629b71addd880800000000000000
+      internalID: -8584465519272916100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 607
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfac54a3e8afc12f0800000000000000
+      internalID: -1000649528413140227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 607
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e7120944ff41a80800000000000000
+      internalID: -8496885927000310252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 607
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c927d5020c130fd70800000000000000
+      internalID: 9074807950398026396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_33
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 607
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51cf4ef3116fa040800000000000000
+      internalID: 4661050877850665307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36bc826bcb6b1400800000000000000
+      internalID: 295948721798821435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_35
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f504fcfee349cf0800000000000000
+      internalID: -246502879903326405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d01f23e9a426c10800000000000000
+      internalID: 2045279224099573107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa420abccb881380800000000000000
+      internalID: -9000290143889634564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce9d0322dcbd6e0800000000000000
+      internalID: -1811628878354322293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2e67064e73fc2c0800000000000000
+      internalID: -4409244056161951063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50537286806791190800000000000000
+      internalID: -7991226285313018619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_41
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bec32361ebc20140800000000000000
+      internalID: 4684530731310108337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48bfb58c935e62b0800000000000000
+      internalID: -5589438155796268982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818cbcd63b83b0440800000000000000
+      internalID: 4903074962615289880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaca861c132c31c0800000000000000
+      internalID: -4522701322242569568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23fcb9a1f4919680800000000000000
+      internalID: -8750048835348401364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_46
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a15bc090e11cac30800000000000000
+      internalID: 4371888994469499303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_47
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7eb6be127ddbe00800000000000000
+      internalID: 1062241627812915132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_48
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04a4a3d4def0ae00800000000000000
+      internalID: 1054122502842000396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_49
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37cbf4446af07030800000000000000
+      internalID: 3490565019773159231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_50
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989523120e68f6930800000000000000
+      internalID: 4138674879764519305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79796df3a20157c40800000000000000
+      internalID: 5509327492803368855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_52
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 575
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9042d810994310800000000000000
+      internalID: 1389800396301572667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_53
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d365638c9a947aaa0800000000000000
+      internalID: -6149865772593818051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_54
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab8d1d572e06aa0800000000000000
+      internalID: -6169682493837886921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_55
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 575
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d868ea592e241770800000000000000
+      internalID: 8580533945201354960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc3d194e8b7de80800000000000000
+      internalID: -8153845308492361750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 543
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216be1313f7fd0a0800000000000000
+      internalID: -6854620258566971089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 543
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bb6399b7db3450800000000000000
+      internalID: 6069682114854106290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_59
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 543
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270f1554e2b8b5ea0800000000000000
+      internalID: -5882955457381666702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_60
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 543
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bba2bbb8afed350800000000000000
+      internalID: 6043543228025322288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 543
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf00b6e2ea88d3530800000000000000
+      internalID: 3836372739273982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_62
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 543
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e6c8556de09fb0800000000000000
+      internalID: -4642950196282071439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9d507e776f5840800000000000000
+      internalID: 5215000686267047140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 511
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0d5f5eb9575590800000000000000
+      internalID: -7685575564905869407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_65
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 511
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7f9057b7b21ee0800000000000000
+      internalID: -1291768145142382909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 511
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b62a358a74f290800000000000000
+      internalID: -7857520737229819792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_67
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 511
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e6b12a9f46af870800000000000000
+      internalID: 8717391052058357356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_68
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 511
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84950a239cf50fe30800000000000000
+      internalID: 4535230142504524104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 511
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25517a5c8e65f7d10800000000000000
+      internalID: 2125513106890626386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_70
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 511
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb05e963185dae250800000000000000
+      internalID: 5974822606604226748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_71
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 511
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f5a3c825bf8060800000000000000
+      internalID: 6957979135996459428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_72
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 511
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb551cd83f17967d0800000000000000
+      internalID: -2924681192131177025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_73
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 511
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5e32a826d35bbd0800000000000000
+      internalID: -2615116515185007118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_74
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 511
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a40759fd0f9b5710800000000000000
+      internalID: 1683113768119633058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e536ba2863d56ab0800000000000000
+      internalID: -5015370165660535323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 479
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f500ed568f540dd0800000000000000
+      internalID: -2520784860715416074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 479
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b270267426779e90800000000000000
+      internalID: -7019011595260890441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_78
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 479
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab98391f338ad50800000000000000
+      internalID: 6748701154270100216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_79
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 479
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d505efaf89c8ec50800000000000000
+      internalID: 6694822465054770642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 479
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2fce646baac9140800000000000000
+      internalID: 4727841408682881724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd9e0b64079a5850800000000000000
+      internalID: 6366567068473400775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e8868671f8ace0800000000000000
+      internalID: -1393598593305615795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d1e17f5d654aea0800000000000000
+      internalID: -5862465337955574412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d552bf8e81b1d90800000000000000
+      internalID: -7126074596458668700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5209f7f0585140800000000000000
+      internalID: 4708602436380679979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f410eb82303efb30800000000000000
+      internalID: 4322945685975471345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_87
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ccd7f7d8115a40800000000000000
+      internalID: 5355088747775706386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_88
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab113782c2945200800000000000000
+      internalID: 167920450309004199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 447
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58064bc8e75e04b00800000000000000
+      internalID: 810900264615960709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc2a422fd4dd1160800000000000000
+      internalID: 6997983450821700792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_91
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 415
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aeaa91fa0a5d760800000000000000
+      internalID: 7482063029856299643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 415
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fcb49bebac0b550800000000000000
+      internalID: 6174658009626300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 415
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f145df61b59fa80800000000000000
+      internalID: -8432608672976986263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_94
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 415
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e891fbe5cbded0800000000000000
+      internalID: -2388097560228599414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 415
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63cd349a2a6faa0800000000000000
+      internalID: -6127531395119302966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17819e83c0793bef0800000000000000
+      internalID: -93565088494446479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_97
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 383
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06225bc36a9f00e80800000000000000
+      internalID: -8214291227945393568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_98
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 383
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31dbcb50dc6e020800000000000000
+      internalID: 2370807678382183405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 383
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d3bad2f5874370800000000000000
+      internalID: 8306755315805968174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_100
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 383
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca3bdd49dcb1200800000000000000
+      internalID: 151941051705437208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99d82204f88c320800000000000000
+      internalID: 2578468292289993189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_102
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 383
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe95b1ff3e3210a60800000000000000
+      internalID: 7638425905141602799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_103
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 383
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2271e97398af129e0800000000000000
+      internalID: -1647760521390319838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 383
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dc52251fac82fa0800000000000000
+      internalID: -5825182980189598323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_105
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 383
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebdda2437ebace60800000000000000
+      internalID: 7983402691716832232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_106
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 383
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b02a58ba872f2d00800000000000000
+      internalID: 950021523150348472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_107
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 383
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5cc2f4753972430800000000000000
+      internalID: 3758134417263740341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a096153cd263070800000000000000
+      internalID: 8085700497898015307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_109
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 351
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf30acca5f4f5d0800000000000000
+      internalID: -3029526526841062265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_110
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 351
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8085514b800a40800000000000000
+      internalID: 5332415071530289800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 351
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bae2dda2f01ece0800000000000000
+      internalID: -1377803334224794809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_112
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df1c5e8df4bf8e0800000000000000
+      internalID: -1658644244769669737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 351
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3073351bdc4df2fb0800000000000000
+      internalID: -4670280308651510013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 351
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e561fb74afcdf49a0800000000000000
+      internalID: -6246531190635948450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_115
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 351
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db762a6cadd7d9860800000000000000
+      internalID: 7538319729876953021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_116
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 351
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d0c151699a71c70800000000000000
+      internalID: 8941802047231757575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_117
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 351
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19c7285ada44ae0800000000000000
+      internalID: -1565935844047678991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d5730486a605700800000000000000
+      internalID: 527038152388861319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_119
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 319
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc5953d5a6c25910800000000000000
+      internalID: 1824739214556224714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_120
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 319
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c701f99cd9d74d0800000000000000
+      internalID: -3135176276297352151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_121
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 319
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf0bcca1bfe2150800000000000000
+      internalID: 5849889058522725531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 319
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587178f3a4eb3b50800000000000000
+      internalID: 6574099473976358996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_123
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 319
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976369a1803840ca0800000000000000
+      internalID: -6051567928450075015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_124
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e10b4ab3e28b4720800000000000000
+      internalID: 2831500705327153635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_125
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 319
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6632d66a1627c00800000000000000
+      internalID: 896886643223652000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_126
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 319
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbb74b9a4c8e3e0800000000000000
+      internalID: -2024151799346512572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_127
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 319
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ecf638fd1e5f430800000000000000
+      internalID: 3816204609365462534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8684ec6f851e18190800000000000000
+      internalID: -7961834894000240536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_129
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 287
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d885897cc2a88a00800000000000000
+      internalID: 759035536307751123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_130
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 287
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01954fbd2b504e3b0800000000000000
+      internalID: -5484252180477880048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_131
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 287
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e232836b8e1f6ac0800000000000000
+      internalID: -3859832771614461216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_132
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 287
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc86f10428678470800000000000000
+      internalID: 8396794534116625631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_133
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 287
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f15c2b20f458e40800000000000000
+      internalID: 5658015379868688240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_134
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 287
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966d7850df85470f0800000000000000
+      internalID: -1120172563565652375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_135
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 287
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643f62559dd1d070800000000000000
+      internalID: 8129522435783341165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_136
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 287
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b47a2851ce3bbb30800000000000000
+      internalID: 4304102869011428534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_137
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 287
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ecd0f587d0308c0800000000000000
+      internalID: -4034366030551855496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec30054465924b50800000000000000
+      internalID: 6575982663801257193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_139
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 255
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0049fbaf377e71220800000000000000
+      internalID: 2456686607068009472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_140
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 255
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae251aa7947cdc420800000000000000
+      internalID: 2651994873995023082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_141
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 255
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0241296f4b3a18b0800000000000000
+      internalID: -5180763209084091889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_142
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 257
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4052c454b91830520800000000000000
+      internalID: 2667117908215997700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_143
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 255
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08074dfc4ec8dd720800000000000000
+      internalID: 2872607051699482752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_144
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 255
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88df381061e3a20800000000000000
+      internalID: 3043894593914243248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_145
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 255
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527fc18f9762fb440800000000000000
+      internalID: 4953720420426381093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_146
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58beaff7e7eaff20800000000000000
+      internalID: 3457330647573379162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_147
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 223
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4442ade9f193dc20800000000000000
+      internalID: 3230085860374496334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_148
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 223
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60ee406127cffbe0800000000000000
+      internalID: -1441214409571639187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_149
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 223
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a7b464f0998f710800000000000000
+      internalID: 1727298747979495978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_150
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 223
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85070f8671aab50800000000000000
+      internalID: 6605117542970185898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_151
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 223
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a19736dadca47c90800000000000000
+      internalID: -7172918250597543518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_152
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 223
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d268791215e2c0800000000000000
+      internalID: -4403093160081566632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_153
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 223
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66eb24548eea98d0800000000000000
+      internalID: -2838694362988419473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_154
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 223
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf1594e298dac100800000000000000
+      internalID: 129153664745283546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_155
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 223
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee82e98384e4fc670800000000000000
+      internalID: 8561147488749103342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eebf82763d31f510800000000000000
+      internalID: 1581112248243306210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_157
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 193
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377a8b7cc738e2e20800000000000000
+      internalID: 3327741746623326067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d23c89fd65e2ac0800000000000000
+      internalID: -3878066710778794751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_159
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a0dfceeb0ebab60800000000000000
+      internalID: 7758541893700225667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071c2aea54333ce30800000000000000
+      internalID: 4522514825185771888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_161
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 161
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a2e9013d423b340800000000000000
+      internalID: 4878283310307879471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_162
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 161
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceddb9ee34897c90800000000000000
+      internalID: -7171555525866430783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 161
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaccc88e7a53ae20800000000000000
+      internalID: 3360629246456023771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db97fb48f0e2b4f80800000000000000
+      internalID: -8121346858846029379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_165
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 127
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed930c58379f5e0800000000000000
+      internalID: -1875340751530238385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_166
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0027a516b2b35edf0800000000000000
+      internalID: -151649954944093696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_167
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 127
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d93f6d849ffbc630800000000000000
+      internalID: 3948530511813491153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_168
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 127
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38429c163acf760800000000000000
+      internalID: 7493043520419431365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47e37ba6516a8100800000000000000
+      internalID: 111008165695579981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f196ee7a98c3d6b0800000000000000
+      internalID: -5272650172841160206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_171
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 63
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4155aa4d9b9664c40800000000000000
+      internalID: 5496196642110067988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_172
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 63
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4bcf1102ddc8f20800000000000000
+      internalID: 3426356546332570813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_173
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 63
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954b876d2edf0a10800000000000000
+      internalID: 1877963856228861331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_174
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 63
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e3317c8108c0b0800000000000000
+      internalID: -5708310824985829337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_175
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 63
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1fefdf2cc313020800000000000000
+      internalID: 2319702091255181759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_176
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d07b26fb7960e0800000000000000
+      internalID: -2276151839438088399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_177
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 63
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1410e948af3c8b70800000000000000
+      internalID: 8902560555431105565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_178
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 32
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffd675df28d2de10800000000000000
+      internalID: 2221075266203475960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_179
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 15
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866a95710d77e100800000000000000
+      internalID: 137215758879581835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_180
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 15
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa7f9955fcf0820800000000000000
+      internalID: 2886753852730093456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_181
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43776412a054084a0800000000000000
+      internalID: -6593193944660150476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_182
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeee025ba3beaab0800000000000000
+      internalID: -4994857388309811549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_183
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4430f0d59c76d430800000000000000
+      internalID: 3807367517885707338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_184
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174ec8547dd323ff0800000000000000
+      internalID: -57915850408270735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_185
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 14
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d7591ebd2e62130800000000000000
+      internalID: 3541767590983859590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_186
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ed780e046eb370800000000000000
+      internalID: 8340213571371526331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Golden Sprite Sheet 45x32_187
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 15
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11645d54168cdd770800000000000000
+      internalID: 8637279980475467281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 7744e1c71626f48fe82c8836fc5845a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5750490219729835731
+    second: sage 52x21_0
+  - first:
+      213: 6229457361335944484
+    second: sage 52x21_1
+  - first:
+      213: 1326714104067668542
+    second: sage 52x21_2
+  - first:
+      213: -6471324500104854603
+    second: sage 52x21_3
+  - first:
+      213: 2889392290794829577
+    second: sage 52x21_4
+  - first:
+      213: 4516087558379473717
+    second: sage 52x21_5
+  - first:
+      213: 7458572444765392225
+    second: sage 52x21_6
+  - first:
+      213: 5659568154590611052
+    second: sage 52x21_7
+  - first:
+      213: 3453037536146690605
+    second: sage 52x21_8
+  - first:
+      213: -1617752385624514988
+    second: sage 52x21_9
+  - first:
+      213: -8114882714241889781
+    second: sage 52x21_10
+  - first:
+      213: -4018546193898309699
+    second: sage 52x21_11
+  - first:
+      213: 3163938842703724470
+    second: sage 52x21_12
+  - first:
+      213: -5878281803200342500
+    second: sage 52x21_13
+  - first:
+      213: 7955931524812693533
+    second: sage 52x21_14
+  - first:
+      213: 7079637193516135495
+    second: sage 52x21_15
+  - first:
+      213: 2385646500169888975
+    second: sage 52x21_16
+  - first:
+      213: 3213733564231113604
+    second: sage 52x21_17
+  - first:
+      213: -3367476358997077255
+    second: sage 52x21_18
+  - first:
+      213: 9199424887665790409
+    second: sage 52x21_19
+  - first:
+      213: 5412153640069778617
+    second: sage 52x21_20
+  - first:
+      213: -2025856936719753356
+    second: sage 52x21_21
+  - first:
+      213: 5893803110812899878
+    second: sage 52x21_22
+  - first:
+      213: 4746605607713521905
+    second: sage 52x21_23
+  - first:
+      213: -8333969744756611081
+    second: sage 52x21_24
+  - first:
+      213: 7761317270155511579
+    second: sage 52x21_25
+  - first:
+      213: -6462162299457400715
+    second: sage 52x21_26
+  - first:
+      213: 46195105590587085
+    second: sage 52x21_27
+  - first:
+      213: 2565718814567704743
+    second: sage 52x21_28
+  - first:
+      213: -2825780047715208488
+    second: sage 52x21_29
+  - first:
+      213: 6859071001804324637
+    second: sage 52x21_30
+  - first:
+      213: -8597531295971034445
+    second: sage 52x21_31
+  - first:
+      213: -1100919280009583634
+    second: sage 52x21_32
+  - first:
+      213: 3653147549586537611
+    second: sage 52x21_33
+  - first:
+      213: -4468293779492938112
+    second: sage 52x21_34
+  - first:
+      213: -514510628877129208
+    second: sage 52x21_35
+  - first:
+      213: 8457276562018889445
+    second: sage 52x21_36
+  - first:
+      213: 2080281801612397795
+    second: sage 52x21_37
+  - first:
+      213: -4447894471330487026
+    second: sage 52x21_38
+  - first:
+      213: 8677223095445888545
+    second: sage 52x21_39
+  - first:
+      213: 7621921450122382352
+    second: sage 52x21_40
+  - first:
+      213: -2339915993661059682
+    second: sage 52x21_41
+  - first:
+      213: -4037168159929620834
+    second: sage 52x21_42
+  - first:
+      213: -4977213957463955089
+    second: sage 52x21_43
+  - first:
+      213: 1718740124974200175
+    second: sage 52x21_44
+  - first:
+      213: -4314615417851651552
+    second: sage 52x21_45
+  - first:
+      213: 8639146917368510839
+    second: sage 52x21_46
+  - first:
+      213: -8120432819970345994
+    second: sage 52x21_47
+  - first:
+      213: -2852415995019582039
+    second: sage 52x21_48
+  - first:
+      213: -5032226432711989257
+    second: sage 52x21_49
+  - first:
+      213: -5980644692620907820
+    second: sage 52x21_50
+  - first:
+      213: 2785649834831271816
+    second: sage 52x21_51
+  - first:
+      213: -2692554322366137782
+    second: sage 52x21_52
+  - first:
+      213: -7712725853527924924
+    second: sage 52x21_53
+  - first:
+      213: 4166704227820286030
+    second: sage 52x21_54
+  - first:
+      213: -3766593068615731596
+    second: sage 52x21_55
+  - first:
+      213: 5614040753859907566
+    second: sage 52x21_56
+  - first:
+      213: -9002806495713308011
+    second: sage 52x21_57
+  - first:
+      213: 5649416441697278063
+    second: sage 52x21_58
+  - first:
+      213: 5621044355842490956
+    second: sage 52x21_59
+  - first:
+      213: 5258373481637419006
+    second: sage 52x21_60
+  - first:
+      213: 452388961945532250
+    second: sage 52x21_61
+  - first:
+      213: 355853749609562220
+    second: sage 52x21_62
+  - first:
+      213: -1789099163054795640
+    second: sage 52x21_63
+  - first:
+      213: -1450769021186174163
+    second: sage 52x21_64
+  - first:
+      213: -5693598983413592974
+    second: sage 52x21_65
+  - first:
+      213: -3085104150600566398
+    second: sage 52x21_66
+  - first:
+      213: 5680877033075072020
+    second: sage 52x21_67
+  - first:
+      213: 6708078376023996372
+    second: sage 52x21_68
+  - first:
+      213: 4927841004424413808
+    second: sage 52x21_69
+  - first:
+      213: -6987804149592490118
+    second: sage 52x21_70
+  - first:
+      213: 7907942257506425056
+    second: sage 52x21_71
+  - first:
+      213: 6382097394156481142
+    second: sage 52x21_72
+  - first:
+      213: -5172980548277233284
+    second: sage 52x21_73
+  - first:
+      213: 6271331986443487346
+    second: sage 52x21_74
+  - first:
+      213: 5717838965587190436
+    second: sage 52x21_75
+  - first:
+      213: -1875242796484267670
+    second: sage 52x21_76
+  - first:
+      213: -8648224615502237656
+    second: sage 52x21_77
+  - first:
+      213: 5122888128780253975
+    second: sage 52x21_78
+  - first:
+      213: -5627339122342022405
+    second: sage 52x21_79
+  - first:
+      213: 2778240556540126360
+    second: sage 52x21_80
+  - first:
+      213: 2974487545775564004
+    second: sage 52x21_81
+  - first:
+      213: -2910834145829396964
+    second: sage 52x21_82
+  - first:
+      213: 5413801961631217865
+    second: sage 52x21_83
+  - first:
+      213: -9098136059959720546
+    second: sage 52x21_84
+  - first:
+      213: -8905215121208594362
+    second: sage 52x21_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sage 52x21_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 253
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2925a0dc972230b0800000000000000
+      internalID: -5750490219729835731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 253
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4250fdd077a737650800000000000000
+      internalID: 6229457361335944484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 253
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a347bc27f696210800000000000000
+      internalID: 1326714104067668542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 253
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3c7f857ac3136a0800000000000000
+      internalID: -6471324500104854603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 253
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f395dafe291820800000000000000
+      internalID: 2889392290794829577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 253
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b05c305bd5cae30800000000000000
+      internalID: 4516087558379473717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d02cd0f1c228760800000000000000
+      internalID: 7458572444765392225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c668c7c3043da8e40800000000000000
+      internalID: 5659568154590611052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d221d1a1857abef20800000000000000
+      internalID: 3453037536146690605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 232
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e5f48c6c69c89e0800000000000000
+      internalID: -1617752385624514988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a87a77a25226f80800000000000000
+      internalID: -8114882714241889781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7713f17814b38c0800000000000000
+      internalID: -4018546193898309699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 213
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7a6a3d9198eb20800000000000000
+      internalID: 3163938842703724470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 211
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d99e28d52c6ea0800000000000000
+      internalID: -5878281803200342500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 211
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10eac9c195296e60800000000000000
+      internalID: 7955931524812693533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7443c2a948cef3260800000000000000
+      internalID: 7079637193516135495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 212
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b74a2ad48b1120800000000000000
+      internalID: 2385646500169888975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_17
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 211
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bdeba46a9799c20800000000000000
+      internalID: 3213733564231113604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f21478d7125441d0800000000000000
+      internalID: -3367476358997077255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 192
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd0537d13ceaaf70800000000000000
+      internalID: 9199424887665790409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc42329f05db1b40800000000000000
+      internalID: 5412153640069778617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fde0979d5b2e3e0800000000000000
+      internalID: -2025856936719753356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 169
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a581cd3befac150800000000000000
+      internalID: 5893803110812899878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 169
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f044a0d6a45fd140800000000000000
+      internalID: 4746605607713521905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 169
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7ede22caac75c80800000000000000
+      internalID: -8333969744756611081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 169
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1749bc9fecb5bb60800000000000000
+      internalID: 7761317270155511579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 149
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5709beb60a9c156a0800000000000000
+      internalID: -6462162299457400715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 149
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcea61b243e14a000800000000000000
+      internalID: 46195105590587085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 149
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a828d70ba34b9320800000000000000
+      internalID: 2565718814567704743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 149
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d27c8aa400d8c8d0800000000000000
+      internalID: -2825780047715208488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fbab73cb0503f50800000000000000
+      internalID: 6859071001804324637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bab75686de6fa880800000000000000
+      internalID: -8597531295971034445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 127
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee366ac6fbfb8b0f0800000000000000
+      internalID: -1100919280009583634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cb135575692b230800000000000000
+      internalID: 3653147549586537611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5c394b7e6df1c0800000000000000
+      internalID: -4468293779492938112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_35
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 125
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aad9c1f471cd8f0800000000000000
+      internalID: -514510628877129208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 126
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6f5e79384e5570800000000000000
+      internalID: 8457276562018889445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 125
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec01d9d645aedc10800000000000000
+      internalID: 2080281801612397795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_38
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 125
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052ce55b87e542c0800000000000000
+      internalID: -4447894471330487026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 125
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e1ed07e60bb6870800000000000000
+      internalID: 8677223095445888545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_40
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 127
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c897c1d2186c960800000000000000
+      internalID: 7621921450122382352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 127
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dc3991dc2f68fd0800000000000000
+      internalID: -2339915993661059682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_42
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 127
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96a0e8c2f819f7c0800000000000000
+      internalID: -4037168159929620834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_43
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 127
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69ae3ea6426deab0800000000000000
+      internalID: -4977213957463955089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_44
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 126
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f653c4299013ad710800000000000000
+      internalID: 1718740124974200175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_45
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 126
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a578423286f14c0800000000000000
+      internalID: -4314615417851651552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_46
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 126
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793924695a64e770800000000000000
+      internalID: 8639146917368510839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 85
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37e37cf5d6e4f80800000000000000
+      internalID: -8120432819970345994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 106
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a52739e3ce2a68d0800000000000000
+      internalID: -2852415995019582039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 106
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7eed8a8b0f92ab0800000000000000
+      internalID: -5032226432711989257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 85
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da6180c65b700da0800000000000000
+      internalID: -5980644692620907820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 106
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8875eb904cd98a620800000000000000
+      internalID: 2785649834831271816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 85
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a7cec0c1022aad0800000000000000
+      internalID: -2692554322366137782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 85
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f1f7233b4e6f490800000000000000
+      internalID: -7712725853527924924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b8574b6b13d930800000000000000
+      internalID: 4166704227820286030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 85
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f5b37f8f5abbc0800000000000000
+      internalID: -3766593068615731596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 85
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefc268325419ed40800000000000000
+      internalID: 5614040753859907566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 85
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592dd69e03b9f0380800000000000000
+      internalID: -9002806495713308011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 85
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681e936252c66e40800000000000000
+      internalID: 5649416441697278063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_59
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c4b06f06f10e40800000000000000
+      internalID: 5621044355842490956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7155d42de79f840800000000000000
+      internalID: 5258373481637419006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5732113d55374600800000000000000
+      internalID: 452388961945532250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c600871991f30f400800000000000000
+      internalID: 355853749609562220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8849b2e4ac7db27e0800000000000000
+      internalID: -1789099163054795640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239e010345dddbe0800000000000000
+      internalID: -1450769021186174163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c8b1cf3e54cf0b0800000000000000
+      internalID: -5693598983413592974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_66
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289be50ee128f25d0800000000000000
+      internalID: -3085104150600566398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_67
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 43
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c5d11209786de40800000000000000
+      internalID: 5680877033075072020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b368fdb1e71d50800000000000000
+      internalID: 6708078376023996372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_69
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 43
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0724252e845336440800000000000000
+      internalID: 4927841004424413808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_70
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff98f1625560f90800000000000000
+      internalID: -6987804149592490118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_71
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e898fac597aebd60800000000000000
+      internalID: 7907942257506425056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_72
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa4a424c3c19850800000000000000
+      internalID: 6382097394156481142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c791ee55991e538b0800000000000000
+      internalID: -5172980548277233284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_74
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784288f63f380750800000000000000
+      internalID: 6271331986443487346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_75
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a226baae38d95f40800000000000000
+      internalID: 5717838965587190436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 22
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61f1ffac9cc9f5e0800000000000000
+      internalID: -1875242796484267670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 22
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820333f48855bf780800000000000000
+      internalID: -8648224615502237656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b33046c97281740800000000000000
+      internalID: 5122888128780253975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2352612eca7e1b0800000000000000
+      internalID: -5627339122342022405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_80
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8946821011b4e8620800000000000000
+      internalID: 2778240556540126360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_81
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4a6c2d9a0874920800000000000000
+      internalID: 2974487545775564004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_82
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ed2c144c3aa97d0800000000000000
+      internalID: -2910834145829396964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_83
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c877575330b12b40800000000000000
+      internalID: 5413801961631217865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_84
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95cdeb157decb180800000000000000
+      internalID: -9098136059959720546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sage 52x21_85
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640bce377025a6480800000000000000
+      internalID: -8905215121208594362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

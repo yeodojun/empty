@@ -1,0 +1,2930 @@
+fileFormatVersion: 2
+guid: 52579bf7c32cb47d287bc4397844804d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -88377430810972259
+    second: Dagger Bandit-Bat Fang Attack_0
+  - first:
+      213: -5505039583553426007
+    second: Dagger Bandit-Bat Fang Attack_1
+  - first:
+      213: -8998937831684559054
+    second: Dagger Bandit-Bat Fang Attack_2
+  - first:
+      213: -7756939385958991372
+    second: Dagger Bandit-Bat Fang Attack_3
+  - first:
+      213: 7916354453351363691
+    second: Dagger Bandit-Bat Fang Attack_4
+  - first:
+      213: 607124667729058132
+    second: Dagger Bandit-Bat Fang Attack_5
+  - first:
+      213: 9082986554861506779
+    second: Dagger Bandit-Bat Fang Attack_6
+  - first:
+      213: -9016087756134053503
+    second: Dagger Bandit-Bat Fang Attack_7
+  - first:
+      213: 8447290993721091657
+    second: Dagger Bandit-Bat Fang Attack_8
+  - first:
+      213: -2996780368918886749
+    second: Dagger Bandit-Bat Fang Attack_9
+  - first:
+      213: 7598285838954011069
+    second: Dagger Bandit-Bat Fang Attack_10
+  - first:
+      213: -7337190515740463250
+    second: Dagger Bandit-Bat Fang Attack_11
+  - first:
+      213: -5003381112836566183
+    second: Dagger Bandit-Bat Fang Attack_12
+  - first:
+      213: -7947493166295220569
+    second: Dagger Bandit-Bat Fang Attack_13
+  - first:
+      213: -9103247600054976527
+    second: Dagger Bandit-Bat Fang Attack_14
+  - first:
+      213: -776337629563317907
+    second: Dagger Bandit-Bat Fang Attack_15
+  - first:
+      213: 8581050600777978999
+    second: Dagger Bandit-Bat Fang Attack_16
+  - first:
+      213: -6357146949301363582
+    second: Dagger Bandit-Bat Fang Attack_17
+  - first:
+      213: -480995821548151509
+    second: Dagger Bandit-Bat Fang Attack_18
+  - first:
+      213: 627127830983850176
+    second: Dagger Bandit-Bat Fang Attack_19
+  - first:
+      213: -8272531953318575608
+    second: Dagger Bandit-Bat Fang Attack_20
+  - first:
+      213: -2032544559995940283
+    second: Dagger Bandit-Bat Fang Attack_21
+  - first:
+      213: -4022477846592075420
+    second: Dagger Bandit-Bat Fang Attack_22
+  - first:
+      213: -3365169758602008015
+    second: Dagger Bandit-Bat Fang Attack_23
+  - first:
+      213: 5277677202600808657
+    second: Dagger Bandit-Bat Fang Attack_24
+  - first:
+      213: -6620523366276304892
+    second: Dagger Bandit-Bat Fang Attack_25
+  - first:
+      213: -3947521428328409470
+    second: Dagger Bandit-Bat Fang Attack_26
+  - first:
+      213: 3502109405391188788
+    second: Dagger Bandit-Bat Fang Attack_27
+  - first:
+      213: -7846165404820671907
+    second: Dagger Bandit-Bat Fang Attack_28
+  - first:
+      213: 479650860288666646
+    second: Dagger Bandit-Bat Fang Attack_29
+  - first:
+      213: 3317623418806814223
+    second: Dagger Bandit-Bat Fang Attack_30
+  - first:
+      213: -8199143062831809409
+    second: Dagger Bandit-Bat Fang Attack_31
+  - first:
+      213: -6168950271369996193
+    second: Dagger Bandit-Bat Fang Attack_32
+  - first:
+      213: 2064286596674708991
+    second: Dagger Bandit-Bat Fang Attack_33
+  - first:
+      213: 8187774117936227600
+    second: Dagger Bandit-Bat Fang Attack_34
+  - first:
+      213: -5965232059837687228
+    second: Dagger Bandit-Bat Fang Attack_35
+  - first:
+      213: -1679932911207918721
+    second: Dagger Bandit-Bat Fang Attack_36
+  - first:
+      213: 9064820056785661002
+    second: Dagger Bandit-Bat Fang Attack_37
+  - first:
+      213: 8329553579935152778
+    second: Dagger Bandit-Bat Fang Attack_38
+  - first:
+      213: 5797865547974030077
+    second: Dagger Bandit-Bat Fang Attack_39
+  - first:
+      213: -4181907512514681620
+    second: Dagger Bandit-Bat Fang Attack_40
+  - first:
+      213: 9027325061157233101
+    second: Dagger Bandit-Bat Fang Attack_41
+  - first:
+      213: -1481111114190694553
+    second: Dagger Bandit-Bat Fang Attack_42
+  - first:
+      213: 8333723256360792676
+    second: Dagger Bandit-Bat Fang Attack_43
+  - first:
+      213: 4855868339907850637
+    second: Dagger Bandit-Bat Fang Attack_44
+  - first:
+      213: 1025367070985933687
+    second: Dagger Bandit-Bat Fang Attack_45
+  - first:
+      213: 1036950053846841766
+    second: Dagger Bandit-Bat Fang Attack_46
+  - first:
+      213: -4295123957831556141
+    second: Dagger Bandit-Bat Fang Attack_47
+  - first:
+      213: -2164652616064881954
+    second: Dagger Bandit-Bat Fang Attack_48
+  - first:
+      213: -3010370883335401458
+    second: Dagger Bandit-Bat Fang Attack_49
+  - first:
+      213: -5340417434884341593
+    second: Dagger Bandit-Bat Fang Attack_50
+  - first:
+      213: 8748604882048519500
+    second: Dagger Bandit-Bat Fang Attack_51
+  - first:
+      213: 2589342607834259839
+    second: Dagger Bandit-Bat Fang Attack_52
+  - first:
+      213: -5151849587997038022
+    second: Dagger Bandit-Bat Fang Attack_53
+  - first:
+      213: 975682306111104230
+    second: Dagger Bandit-Bat Fang Attack_54
+  - first:
+      213: 8486044416300781603
+    second: Dagger Bandit-Bat Fang Attack_55
+  - first:
+      213: -992955906598505829
+    second: Dagger Bandit-Bat Fang Attack_56
+  - first:
+      213: 4950997117367078871
+    second: Dagger Bandit-Bat Fang Attack_57
+  - first:
+      213: -6732331954470807816
+    second: Dagger Bandit-Bat Fang Attack_58
+  - first:
+      213: -8757985366791588663
+    second: Dagger Bandit-Bat Fang Attack_59
+  - first:
+      213: -3608108579179145041
+    second: Dagger Bandit-Bat Fang Attack_60
+  - first:
+      213: -3801310675561805080
+    second: Dagger Bandit-Bat Fang Attack_61
+  - first:
+      213: 1532597820317014996
+    second: Dagger Bandit-Bat Fang Attack_62
+  - first:
+      213: 823427028077863614
+    second: Dagger Bandit-Bat Fang Attack_63
+  - first:
+      213: -1839715447988398666
+    second: Dagger Bandit-Bat Fang Attack_64
+  - first:
+      213: -2308820279599009195
+    second: Dagger Bandit-Bat Fang Attack_65
+  - first:
+      213: -4788251762253342034
+    second: Dagger Bandit-Bat Fang Attack_66
+  - first:
+      213: 8095407076767134441
+    second: Dagger Bandit-Bat Fang Attack_67
+  - first:
+      213: -4398441253385259086
+    second: Dagger Bandit-Bat Fang Attack_68
+  - first:
+      213: -8921085612387115218
+    second: Dagger Bandit-Bat Fang Attack_69
+  - first:
+      213: -2454150345003062360
+    second: Dagger Bandit-Bat Fang Attack_70
+  - first:
+      213: 8927539217259596171
+    second: Dagger Bandit-Bat Fang Attack_71
+  - first:
+      213: -3157379542961710377
+    second: Dagger Bandit-Bat Fang Attack_72
+  - first:
+      213: -1578494537398808932
+    second: Dagger Bandit-Bat Fang Attack_73
+  - first:
+      213: -3282403824706926829
+    second: Dagger Bandit-Bat Fang Attack_74
+  - first:
+      213: 6918807810642608441
+    second: Dagger Bandit-Bat Fang Attack_75
+  - first:
+      213: -6541661243736712644
+    second: Dagger Bandit-Bat Fang Attack_76
+  - first:
+      213: -584381650661283442
+    second: Dagger Bandit-Bat Fang Attack_77
+  - first:
+      213: 811707795149341868
+    second: Dagger Bandit-Bat Fang Attack_78
+  - first:
+      213: 3275971903526212356
+    second: Dagger Bandit-Bat Fang Attack_79
+  - first:
+      213: -3456847461168330011
+    second: Dagger Bandit-Bat Fang Attack_80
+  - first:
+      213: -1564836252385861144
+    second: Dagger Bandit-Bat Fang Attack_81
+  - first:
+      213: 590224148991764690
+    second: Dagger Bandit-Bat Fang Attack_82
+  - first:
+      213: -6483468693886974565
+    second: Dagger Bandit-Bat Fang Attack_83
+  - first:
+      213: 8897771226915065081
+    second: Dagger Bandit-Bat Fang Attack_84
+  - first:
+      213: 9216216442114124699
+    second: Dagger Bandit-Bat Fang Attack_85
+  - first:
+      213: 8206727765836307824
+    second: Dagger Bandit-Bat Fang Attack_86
+  - first:
+      213: 588305936098332503
+    second: Dagger Bandit-Bat Fang Attack_87
+  - first:
+      213: 633983056263352997
+    second: Dagger Bandit-Bat Fang Attack_88
+  - first:
+      213: -7389511858525139804
+    second: Dagger Bandit-Bat Fang Attack_89
+  - first:
+      213: -65290947370218551
+    second: Dagger Bandit-Bat Fang Attack_90
+  - first:
+      213: 868745938347859382
+    second: Dagger Bandit-Bat Fang Attack_91
+  - first:
+      213: 9002322072236089418
+    second: Dagger Bandit-Bat Fang Attack_92
+  - first:
+      213: -1186946393247777265
+    second: Dagger Bandit-Bat Fang Attack_93
+  - first:
+      213: 3283855751125505623
+    second: Dagger Bandit-Bat Fang Attack_94
+  - first:
+      213: 2229855592626704652
+    second: Dagger Bandit-Bat Fang Attack_95
+  - first:
+      213: 917978683414685006
+    second: Dagger Bandit-Bat Fang Attack_96
+  - first:
+      213: -3814532057485478508
+    second: Dagger Bandit-Bat Fang Attack_97
+  - first:
+      213: 8471361860289048632
+    second: Dagger Bandit-Bat Fang Attack_98
+  - first:
+      213: 510971809885912790
+    second: Dagger Bandit-Bat Fang Attack_99
+  - first:
+      213: 2393203505464064320
+    second: Dagger Bandit-Bat Fang Attack_100
+  - first:
+      213: 8453353941436918135
+    second: Dagger Bandit-Bat Fang Attack_101
+  - first:
+      213: -1264717469455406404
+    second: Dagger Bandit-Bat Fang Attack_102
+  - first:
+      213: -5949046695680734670
+    second: Dagger Bandit-Bat Fang Attack_103
+  - first:
+      213: 4053052104746023475
+    second: Dagger Bandit-Bat Fang Attack_104
+  - first:
+      213: 6246383059736697061
+    second: Dagger Bandit-Bat Fang Attack_105
+  - first:
+      213: 3589322606560494623
+    second: Dagger Bandit-Bat Fang Attack_106
+  - first:
+      213: -6457655268358158078
+    second: Dagger Bandit-Bat Fang Attack_107
+  - first:
+      213: -5357358798040076789
+    second: Dagger Bandit-Bat Fang Attack_108
+  - first:
+      213: -6255690010252590866
+    second: Dagger Bandit-Bat Fang Attack_109
+  - first:
+      213: -2488197090849421612
+    second: Dagger Bandit-Bat Fang Attack_110
+  - first:
+      213: -4865867808242093413
+    second: Dagger Bandit-Bat Fang Attack_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 46
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fa956e13506cef0800000000000000
+      internalID: -88377430810972259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 34
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad65db6aab2a93b0800000000000000
+      internalID: -5505039583553426007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 47
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f2e9278b95d1380800000000000000
+      internalID: -8998937831684559054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 53
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f97dabf9b0d95490800000000000000
+      internalID: -7756939385958991372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 43
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64f614ce6a8cdd60800000000000000
+      internalID: 7916354453351363691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4591e5a2ba0fc6800800000000000000
+      internalID: 607124667729058132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd05b2ed5204d0e70800000000000000
+      internalID: 9082986554861506779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 35
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18981ef74fb60e280800000000000000
+      internalID: -9016087756134053503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 42
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9462a13376eca3570800000000000000
+      internalID: 8447290993721091657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 58
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c9b0d12c4966d0800000000000000
+      internalID: -2996780368918886749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_10
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 56
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db91cbc86b8827960800000000000000
+      internalID: 7598285838954011069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 44
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6faceb99101d2a90800000000000000
+      internalID: -7337190515740463250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 33
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9535a7d036b609ab0800000000000000
+      internalID: -5003381112836566183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 34
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aef028a215d4b190800000000000000
+      internalID: -7947493166295220569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_14
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 36
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffbb40f984caa180800000000000000
+      internalID: -9103247600054976527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_15
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 43
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611c140a05e935f0800000000000000
+      internalID: -776337629563317907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_16
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 59
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774160b9e04061770800000000000000
+      internalID: 8581050600777978999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 59
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1fedf780e6c7a0800000000000000
+      internalID: -6357146949301363582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_18
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 45
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ddc2649d82359f0800000000000000
+      internalID: -480995821548151509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8bd8a807104b800800000000000000
+      internalID: 627127830983850176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 35
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802c069a400123d80800000000000000
+      internalID: -8272531953318575608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 37
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5421a47dd73fac3e0800000000000000
+      internalID: -2032544559995940283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_22
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 44
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694005e5b94d28c0800000000000000
+      internalID: -4022477846592075420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_23
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 60
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae3a91fe38c41d0800000000000000
+      internalID: -3365169758602008015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 60
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0d23414731e3940800000000000000
+      internalID: 5277677202600808657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_25
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 46
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4007ded431d2f14a0800000000000000
+      internalID: -6620523366276304892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 29
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2861e310d269739c0800000000000000
+      internalID: -3947521428328409470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_27
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 36
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43375e003fdf99030800000000000000
+      internalID: 3502109405391188788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_28
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 38
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5274b49222dc1390800000000000000
+      internalID: -7846165404820671907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 29
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c67b78aef08a600800000000000000
+      internalID: 479650860288666646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 45
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f064f700ce09a0e20800000000000000
+      internalID: 3317623418806814223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_31
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 61
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c3d4543dac63e80800000000000000
+      internalID: -8199143062831809409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_32
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 61
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5811f5a96c736aa0800000000000000
+      internalID: -6168950271369996193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_33
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 47
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5656df8b1d5ac10800000000000000
+      internalID: 2064286596674708991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_34
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 36
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015e9b8fd21d0a170800000000000000
+      internalID: 8187774117936227600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_35
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 37
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5a96fb0d373da0800000000000000
+      internalID: -5965232059837687228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_36
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 39
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73d6fcfaedafa8e0800000000000000
+      internalID: -1679932911207918721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_37
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 25
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cab8d60d5bccd70800000000000000
+      internalID: 9064820056785661002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_38
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 46
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a3e9d59d4889370800000000000000
+      internalID: 8329553579935152778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_39
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 62
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2b77a5ff7267050800000000000000
+      internalID: 5797865547974030077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_40
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 41
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce466092641e6f5c0800000000000000
+      internalID: -4181907512514681620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_41
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc122467050874d70800000000000000
+      internalID: 9027325061157233101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_42
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 19
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d7c5f949027be0800000000000000
+      internalID: -1481111114190694553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_43
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 4
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462fbcfc52557a370800000000000000
+      internalID: 8333723256360792676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_44
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 4
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81f5441782836340800000000000000
+      internalID: 4855868339907850637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_45
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 4
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773df7e1be5da3e00800000000000000
+      internalID: 1025367070985933687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_46
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 4
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9fc59749cf36e00800000000000000
+      internalID: 1036950053846841766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_47
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 4
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32e235487a464c0800000000000000
+      internalID: -4295123957831556141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_48
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 4
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda255d1aeb95f1e0800000000000000
+      internalID: -2164652616064881954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_49
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 4
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005d9891a30936d0800000000000000
+      internalID: -3010370883335401458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a08a6143a603e5b0800000000000000
+      internalID: -5340417434884341593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_51
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d00c2c9c9496970800000000000000
+      internalID: 8748604882048519500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 23
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71aeb502613fe320800000000000000
+      internalID: 2589342607834259839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_53
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa13b6814f088b0800000000000000
+      internalID: -5151849587997038022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e26553e15a8d00800000000000000
+      internalID: 975682306111104230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_55
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3209bc58f6c74c570800000000000000
+      internalID: 8486044416300781603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 26
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f1952ddf4832f0800000000000000
+      internalID: -992955906598505829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_57
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc5a095a975b440800000000000000
+      internalID: 4950997117367078871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 27
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f691cfb1c3f192a0800000000000000
+      internalID: -6732331954470807816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_59
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 28
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c47150f5b2657680800000000000000
+      internalID: -8757985366791588663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_60
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 28
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8dcf22d5c6dedc0800000000000000
+      internalID: -3608108579179145041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_61
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea0d3ea4180f3bc0800000000000000
+      internalID: -3801310675561805080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_62
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 30
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db9887f891e44510800000000000000
+      internalID: 1532597820317014996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_63
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 22
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26903f4866d6b00800000000000000
+      internalID: 823427028077863614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_64
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 30
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b55ada1c840876e0800000000000000
+      internalID: -1839715447988398666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_65
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 9
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5527848303c65ffd0800000000000000
+      internalID: -2308820279599009195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_66
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 7
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa50c73466bc8db0800000000000000
+      internalID: -4788251762253342034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_67
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 7
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e273e258d9a85070800000000000000
+      internalID: 8095407076767134441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_68
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 6
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73c86ebf895f2c0800000000000000
+      internalID: -4398441253385259086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_69
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 20
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f51d6c6efe13480800000000000000
+      internalID: -8921085612387115218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_70
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba0bc834b11fdd0800000000000000
+      internalID: -2454150345003062360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_71
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 4
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8980233e9df4eb70800000000000000
+      internalID: 8927539217259596171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_72
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 4
+        width: 83
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da9ea0c80cbe24d0800000000000000
+      internalID: -3157379542961710377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_73
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 4
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e037ad49f081ae0800000000000000
+      internalID: -1578494537398808932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317c5f2cc1f8272d0800000000000000
+      internalID: -3282403824706926829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9310d8edb0b840060800000000000000
+      internalID: 6918807810642608441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_76
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 4
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a122e02c95735a0800000000000000
+      internalID: -6541661243736712644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_77
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89e3132cfbd3e7f0800000000000000
+      internalID: -584381650661283442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_78
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4ca4760f3c34b00800000000000000
+      internalID: 811707795149341868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40317d3e617967d20800000000000000
+      internalID: 3275971903526212356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_80
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eac95a9c8fc600d0800000000000000
+      internalID: -3456847461168330011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e123e428b5984ae0800000000000000
+      internalID: -1564836252385861144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_82
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 4
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e2828cb5e03800800000000000000
+      internalID: 590224148991764690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_83
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b954084e2971606a0800000000000000
+      internalID: -6483468693886974565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_84
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc6f8d9cb3b7b70800000000000000
+      internalID: 8897771226915065081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_85
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba355460496ef70800000000000000
+      internalID: 9216216442114124699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_86
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 22
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d12030c6724e170800000000000000
+      internalID: 8206727765836307824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_87
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 4
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f0564c1251a2800800000000000000
+      internalID: 588305936098332503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_88
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2913e0b3c5cc800800000000000000
+      internalID: 633983056263352997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_89
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac8211bd1e237990800000000000000
+      internalID: -7389511858525139804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_90
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 4
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb03f2ba3a081ff0800000000000000
+      internalID: -65290947370218551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_91
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 4
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd994ff3d76e0c00800000000000000
+      internalID: 868745938347859382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_92
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 4
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a406a457a3caeec70800000000000000
+      internalID: 9002322072236089418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_93
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ef8074b8e178fe0800000000000000
+      internalID: -1186946393247777265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_94
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75695733869929d20800000000000000
+      internalID: 3283855751125505623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_95
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 13
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01dee2e8d902fe10800000000000000
+      internalID: 2229855592626704652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_96
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e452058bfb05dbc00800000000000000
+      internalID: 917978683414685006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_97
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 4
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495fc31dd4f001bc0800000000000000
+      internalID: -3814532057485478508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_98
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830325e8ab2509570800000000000000
+      internalID: 8471361860289048632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_99
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 15
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6defc726726571700800000000000000
+      internalID: 510971809885912790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_100
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b76298ed563120800000000000000
+      internalID: 2393203505464064320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_101
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 12
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779eef73f98505570800000000000000
+      internalID: 8453353941436918135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_102
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 9
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba21eb8922d27ee0800000000000000
+      internalID: -1264717469455406404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_103
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 8
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a0db7bc8db07da0800000000000000
+      internalID: -5949046695680734670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_104
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 4
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a398f4a655f3830800000000000000
+      internalID: 4053052104746023475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_105
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 6
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e89f9e4c4c9fa650800000000000000
+      internalID: 6246383059736697061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_106
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 10
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f144154c4e5dfc130800000000000000
+      internalID: 3589322606560494623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_107
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 9
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209059f5fbcc166a0800000000000000
+      internalID: -6457655268358158078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_108
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 10
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ee184ce86d6a5b0800000000000000
+      internalID: -5357358798040076789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_109
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee04fe964135f29a0800000000000000
+      internalID: -6255690010252590866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_110
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d682cccde5287dd0800000000000000
+      internalID: -2488197090849421612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger Bandit-Bat Fang Attack_111
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92b8b54207f87cb0800000000000000
+      internalID: -4865867808242093413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

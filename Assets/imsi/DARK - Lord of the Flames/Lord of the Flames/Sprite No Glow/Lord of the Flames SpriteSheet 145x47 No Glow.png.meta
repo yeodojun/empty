@@ -1,0 +1,3930 @@
+fileFormatVersion: 2
+guid: 4db01db59ab454b48a767575c4f6f124
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6947446253493829330
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_0
+  - first:
+      213: -8163366547593310775
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_1
+  - first:
+      213: -2485935471565957921
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_2
+  - first:
+      213: -7999682710292979777
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_3
+  - first:
+      213: 7613359787888557444
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_4
+  - first:
+      213: 3793099777584460656
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_5
+  - first:
+      213: -7798805313303369842
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_6
+  - first:
+      213: 8543496856616679069
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_7
+  - first:
+      213: 6829458042700296386
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_8
+  - first:
+      213: -3916564876646968138
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_9
+  - first:
+      213: -294046792332802215
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_10
+  - first:
+      213: -1323201316632186622
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_11
+  - first:
+      213: 1355055192025444686
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_12
+  - first:
+      213: -7187004614935440666
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_13
+  - first:
+      213: -8881053936120025485
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_14
+  - first:
+      213: 1498413866938717876
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_15
+  - first:
+      213: 4248803865274000565
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_16
+  - first:
+      213: -3996657539970302078
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_17
+  - first:
+      213: -5263129411864321216
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_18
+  - first:
+      213: -176106596960453325
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_19
+  - first:
+      213: 5111123182531154478
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_20
+  - first:
+      213: 6860510100642268748
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_21
+  - first:
+      213: -6603750950732795992
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_22
+  - first:
+      213: -5037294664540269407
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_23
+  - first:
+      213: 4037545635541680693
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_24
+  - first:
+      213: 2529115248954616738
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_25
+  - first:
+      213: -6592610120743350877
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_26
+  - first:
+      213: 212086396080913393
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_27
+  - first:
+      213: 1482866346805035355
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_28
+  - first:
+      213: -814903727251468280
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_29
+  - first:
+      213: 8310112141582272369
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_30
+  - first:
+      213: -4003926503431213908
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_31
+  - first:
+      213: -1782723347616505179
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_32
+  - first:
+      213: 4185057408182478452
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_33
+  - first:
+      213: -5228283942546811870
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_34
+  - first:
+      213: -1568719932271013230
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_35
+  - first:
+      213: -6991793301744664494
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_36
+  - first:
+      213: -3837959270892766897
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_37
+  - first:
+      213: 8988335861711316392
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_38
+  - first:
+      213: -5114449802249007156
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_39
+  - first:
+      213: 4250816077073320822
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_40
+  - first:
+      213: -171476765288949808
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_41
+  - first:
+      213: -7590434408166366495
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_42
+  - first:
+      213: -2537942016582342506
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_43
+  - first:
+      213: -1624658007724804128
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_44
+  - first:
+      213: -2856987346488035985
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_45
+  - first:
+      213: -7503886542008686454
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_46
+  - first:
+      213: -8615522898886187457
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_47
+  - first:
+      213: -3464665533458867741
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_48
+  - first:
+      213: 2117675966502776593
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_49
+  - first:
+      213: 183648037667207729
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_50
+  - first:
+      213: 6609957272513068976
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_51
+  - first:
+      213: 6343922221824381587
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_52
+  - first:
+      213: -7555858994997365685
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_53
+  - first:
+      213: 5430357162411527847
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_54
+  - first:
+      213: 1244027730264854434
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_55
+  - first:
+      213: -2388108318966107543
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_56
+  - first:
+      213: 5612803638864374099
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_57
+  - first:
+      213: 6936190737691746416
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_58
+  - first:
+      213: -2294699014556262844
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_59
+  - first:
+      213: 6013213373126883881
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_60
+  - first:
+      213: 8847797981457419880
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_61
+  - first:
+      213: 3683192458958232879
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_62
+  - first:
+      213: 1050910006428219624
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_63
+  - first:
+      213: -1676576283510779046
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_64
+  - first:
+      213: 8440958661128258050
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_65
+  - first:
+      213: 7349495184567808181
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_66
+  - first:
+      213: -2978599615847229675
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_67
+  - first:
+      213: 4934708574803341382
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_68
+  - first:
+      213: 5380383822559746585
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_69
+  - first:
+      213: 7436791340268704518
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_70
+  - first:
+      213: 647160446775286086
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_71
+  - first:
+      213: 7406371099295888434
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_72
+  - first:
+      213: -93966011261281051
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_73
+  - first:
+      213: -160322049988046836
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_74
+  - first:
+      213: -6592129935007781767
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_75
+  - first:
+      213: 4001652198386154280
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_76
+  - first:
+      213: -3295147816689837368
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_77
+  - first:
+      213: -5969871290438919994
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_78
+  - first:
+      213: 6420629211351798010
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_79
+  - first:
+      213: 7386953008603718880
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_80
+  - first:
+      213: 2818741089401509362
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_81
+  - first:
+      213: -3753969585776747188
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_82
+  - first:
+      213: -7277849804038796388
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_83
+  - first:
+      213: 1002299273090592613
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_84
+  - first:
+      213: -60231475094119979
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_85
+  - first:
+      213: -7556431937876425528
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_86
+  - first:
+      213: 8136858403099607607
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_87
+  - first:
+      213: 6527197147913078244
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_88
+  - first:
+      213: -8539756432146986014
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_89
+  - first:
+      213: -5174455027248130815
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_90
+  - first:
+      213: 1534128984140007425
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_91
+  - first:
+      213: -1099421502713301913
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_92
+  - first:
+      213: -473818561638286573
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_93
+  - first:
+      213: -5989577945351175499
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_94
+  - first:
+      213: -3266658897480496112
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_95
+  - first:
+      213: -4331378623981620457
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_96
+  - first:
+      213: -1477424581179119704
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_97
+  - first:
+      213: -6094378977911959573
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_98
+  - first:
+      213: 1576052810489532800
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_99
+  - first:
+      213: -4451040823519082521
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_100
+  - first:
+      213: 2975067885087620223
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_101
+  - first:
+      213: 8449572325495454524
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_102
+  - first:
+      213: -115957454010505534
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_103
+  - first:
+      213: -9108252256843543272
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_104
+  - first:
+      213: -5614971308981060818
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_105
+  - first:
+      213: 4002040323779949117
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_106
+  - first:
+      213: 5492932203605257461
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_107
+  - first:
+      213: 4078047581771002544
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_108
+  - first:
+      213: -5194971874086034879
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_109
+  - first:
+      213: -7748753186521931384
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_110
+  - first:
+      213: -6770718061522202089
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_111
+  - first:
+      213: -1839875688237812699
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_112
+  - first:
+      213: -8908342740353213738
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_113
+  - first:
+      213: -7840257905716716735
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_114
+  - first:
+      213: 5839796816270127170
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_115
+  - first:
+      213: -8095882056538917150
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_116
+  - first:
+      213: -6521634348294908468
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_117
+  - first:
+      213: -2091497435801604143
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_118
+  - first:
+      213: 2795578028643343730
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_119
+  - first:
+      213: -7119747741948099833
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_120
+  - first:
+      213: -4883926738962159450
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_121
+  - first:
+      213: -1997381372735021386
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_122
+  - first:
+      213: -2172187217879116022
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_123
+  - first:
+      213: -2624027630893901595
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_124
+  - first:
+      213: 4197746482873546588
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_125
+  - first:
+      213: 5206104271008953629
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_126
+  - first:
+      213: 2481484425063604786
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_127
+  - first:
+      213: -2200642590003265315
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_128
+  - first:
+      213: 2288640685221604840
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_129
+  - first:
+      213: 229934611452412985
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_130
+  - first:
+      213: -3370493932411657540
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_131
+  - first:
+      213: 8448214883364710657
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_132
+  - first:
+      213: 3857834704564379529
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_133
+  - first:
+      213: 4906038427204564626
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_134
+  - first:
+      213: 4180838410403505692
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_135
+  - first:
+      213: -1891068449721390832
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_136
+  - first:
+      213: 6540683667194765683
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_137
+  - first:
+      213: -1732339614848609840
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_138
+  - first:
+      213: 6438309628186515235
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_139
+  - first:
+      213: -5665385076170483250
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_140
+  - first:
+      213: 1695272026207459814
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_141
+  - first:
+      213: 8002492812568924646
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_142
+  - first:
+      213: 4329047231772618346
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_143
+  - first:
+      213: -5036074182178797859
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_144
+  - first:
+      213: 3693179489947201536
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_145
+  - first:
+      213: -5758188835446440228
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_146
+  - first:
+      213: 2420941808169882972
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_147
+  - first:
+      213: -5321228997071428685
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_148
+  - first:
+      213: 4996762136214114331
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_149
+  - first:
+      213: -1960994125511885982
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_150
+  - first:
+      213: -3919908209384408984
+    second: Lord of the Flames SpriteSheet 145x47 No Glow_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21c16c0176b59f90800000000000000
+      internalID: -6947446253493829330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdc4675065e5be80800000000000000
+      internalID: -8163366547593310775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd494c21cde208dd0800000000000000
+      internalID: -2485935471565957921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf172985fa6bf090800000000000000
+      internalID: -7999682710292979777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_4
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3758c36618a960800000000000000
+      internalID: 7613359787888557444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073f888a62cc3a430800000000000000
+      internalID: 3793099777584460656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87af1c23e315c390800000000000000
+      internalID: -7798805313303369842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_7
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96bd4e2029909670800000000000000
+      internalID: 8543496856616679069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_8
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0f593e7eb17ce50800000000000000
+      internalID: 6829458042700296386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_9
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49fabdef095a9c0800000000000000
+      internalID: -3916564876646968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_10
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95709a310065bebf0800000000000000
+      internalID: -294046792332802215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_11
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013fc3c96b03ade0800000000000000
+      internalID: -1323201316632186622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_12
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41b9bb848f1ec210800000000000000
+      internalID: 1355055192025444686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_13
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e21eaf8161a24c90800000000000000
+      internalID: -7187004614935440666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2b7abf7820c480800000000000000
+      internalID: -8881053936120025485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_15
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6d669197f6bc410800000000000000
+      internalID: 1498413866938717876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_16
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4a6f5ba98c6fa30800000000000000
+      internalID: 4248803865274000565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_17
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ffe2184250988c0800000000000000
+      internalID: -3996657539970302078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_18
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043aae66fab95f6b0800000000000000
+      internalID: -5263129411864321216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_19
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33db19dabf75e8df0800000000000000
+      internalID: -176106596960453325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_20
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e229802647b5ee640800000000000000
+      internalID: 5111123182531154478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_21
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4603c6869d653f50800000000000000
+      internalID: 6860510100642268748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_22
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af6c6c9f73ca54a0800000000000000
+      internalID: -6603750950732795992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_23
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a45b1bf03fe71ab0800000000000000
+      internalID: -5037294664540269407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_24
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 1
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53204ea1d5e380830800000000000000
+      internalID: 4037545635541680693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_25
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 1
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aba6f94be8391320800000000000000
+      internalID: 2529115248954616738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_26
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad827a36085284a0800000000000000
+      internalID: -6592610120743350877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_27
+      rect:
+        serializedVersion: 2
+        x: 3934
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb781c147b71f200800000000000000
+      internalID: 212086396080913393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_28
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5102baf513349410800000000000000
+      internalID: 1482866346805035355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_29
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800d80ba061e0b4f0800000000000000
+      internalID: -814903727251468280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_30
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 1
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1770ca2c6f2735370800000000000000
+      internalID: 8310112141582272369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_31
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 1
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cace5301f023f68c0800000000000000
+      internalID: -4003926503431213908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_32
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 1
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e5848f8e7247e0800000000000000
+      internalID: -1782723347616505179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_33
+      rect:
+        serializedVersion: 2
+        x: 4786
+        y: 1
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47665531a8f441a30800000000000000
+      internalID: 4185057408182478452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_34
+      rect:
+        serializedVersion: 2
+        x: 4931
+        y: 1
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2245e9374776177b0800000000000000
+      internalID: -5228283942546811870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_35
+      rect:
+        serializedVersion: 2
+        x: 5077
+        y: 1
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29259e47889ca3ae0800000000000000
+      internalID: -1568719932271013230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_36
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 1
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250cd82490928fe90800000000000000
+      internalID: -6991793301744664494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_37
+      rect:
+        serializedVersion: 2
+        x: 5366
+        y: 1
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f404a064dcbac0800000000000000
+      internalID: -3837959270892766897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_38
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 1
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5253f08dbfcbc70800000000000000
+      internalID: 8988335861711316392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_39
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 20
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf816b9003d509b0800000000000000
+      internalID: -5114449802249007156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_40
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 28
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b897743beedfa30800000000000000
+      internalID: 4250816077073320822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_41
+      rect:
+        serializedVersion: 2
+        x: 5820
+        y: 1
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d718bd5acace9df0800000000000000
+      internalID: -171476765288949808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_42
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 28
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e267522f1c59a690800000000000000
+      internalID: -7590434408166366495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_43
+      rect:
+        serializedVersion: 2
+        x: 5963
+        y: 1
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6982219be2b67ccd0800000000000000
+      internalID: -2537942016582342506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_44
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 30
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7b118562e0479e0800000000000000
+      internalID: -1624658007724804128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_45
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 27
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f657bc43521f958d0800000000000000
+      internalID: -2856987346488035985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_46
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 1
+        width: 100
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88ecb482f6dcd790800000000000000
+      internalID: -7503886542008686454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_47
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 1
+        width: 95
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3625a902938f6880800000000000000
+      internalID: -8615522898886187457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_48
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 1
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e915accd090befc0800000000000000
+      internalID: -3464665533458867741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_49
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 1
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa7c4521f736d10800000000000000
+      internalID: 2117675966502776593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_50
+      rect:
+        serializedVersion: 2
+        x: 6693
+        y: 1
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af9d0dae27c8200800000000000000
+      internalID: 183648037667207729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_51
+      rect:
+        serializedVersion: 2
+        x: 6835
+        y: 1
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfb6a84e194bbb50800000000000000
+      internalID: 6609957272513068976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_52
+      rect:
+        serializedVersion: 2
+        x: 6926
+        y: 1
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3929c8236a32a0850800000000000000
+      internalID: 6343922221824381587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_53
+      rect:
+        serializedVersion: 2
+        x: 7123
+        y: 1
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44fd36d642342790800000000000000
+      internalID: -7555858994997365685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_54
+      rect:
+        serializedVersion: 2
+        x: 7268
+        y: 1
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae890561118c5b40800000000000000
+      internalID: 5430357162411527847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_55
+      rect:
+        serializedVersion: 2
+        x: 7413
+        y: 1
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af0c2921aca34110800000000000000
+      internalID: 1244027730264854434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_56
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 6
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962bedaf22cbbded0800000000000000
+      internalID: -2388108318966107543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_57
+      rect:
+        serializedVersion: 2
+        x: 8865
+        y: 1
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359e780fb2fa4ed40800000000000000
+      internalID: 5612803638864374099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_58
+      rect:
+        serializedVersion: 2
+        x: 9008
+        y: 1
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a876f9bc424060800000000000000
+      internalID: 6936190737691746416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_59
+      rect:
+        serializedVersion: 2
+        x: 9151
+        y: 1
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5fe277679720e0800000000000000
+      internalID: -2294699014556262844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_60
+      rect:
+        serializedVersion: 2
+        x: 9296
+        y: 1
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3bd714b9337350800000000000000
+      internalID: 6013213373126883881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_61
+      rect:
+        serializedVersion: 2
+        x: 9441
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e0031f261b9ca70800000000000000
+      internalID: 8847797981457419880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_62
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 0
+        width: 113
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d5a9be6045d1330800000000000000
+      internalID: 3683192458958232879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_63
+      rect:
+        serializedVersion: 2
+        x: 9741
+        y: 1
+        width: 116
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8be083515959e00800000000000000
+      internalID: 1050910006428219624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_64
+      rect:
+        serializedVersion: 2
+        x: 9892
+        y: 13
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53de76c0ca9bb8e0800000000000000
+      internalID: -1676576283510779046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_65
+      rect:
+        serializedVersion: 2
+        x: 10190
+        y: 1
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028e402e2f442570800000000000000
+      internalID: 8440958661128258050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_66
+      rect:
+        serializedVersion: 2
+        x: 10336
+        y: 1
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0bb9a5ee6aef560800000000000000
+      internalID: 7349495184567808181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_67
+      rect:
+        serializedVersion: 2
+        x: 10480
+        y: 1
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5179f414e63e9a6d0800000000000000
+      internalID: -2978599615847229675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_68
+      rect:
+        serializedVersion: 2
+        x: 10625
+        y: 1
+        width: 83
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6403a37bd4b9b7440800000000000000
+      internalID: 4934708574803341382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_69
+      rect:
+        serializedVersion: 2
+        x: 10770
+        y: 1
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a9ee28496faaa40800000000000000
+      internalID: 5380383822559746585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_70
+      rect:
+        serializedVersion: 2
+        x: 10954
+        y: 1
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603da69725ac43760800000000000000
+      internalID: 7436791340268704518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_71
+      rect:
+        serializedVersion: 2
+        x: 11040
+        y: 1
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64959be5ffc2bf800800000000000000
+      internalID: 647160446775286086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_72
+      rect:
+        serializedVersion: 2
+        x: 11183
+        y: 1
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23430403647b8c660800000000000000
+      internalID: 7406371099295888434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_73
+      rect:
+        serializedVersion: 2
+        x: 11326
+        y: 1
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec9fcd196a22bef0800000000000000
+      internalID: -93966011261281051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_74
+      rect:
+        serializedVersion: 2
+        x: 11471
+        y: 1
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00dcc8e1fb66cdf0800000000000000
+      internalID: -160322049988046836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_75
+      rect:
+        serializedVersion: 2
+        x: 11616
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c64ae20cc0484a0800000000000000
+      internalID: -6592129935007781767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_76
+      rect:
+        serializedVersion: 2
+        x: 12340
+        y: 1
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb7770979b88730800000000000000
+      internalID: 4001652198386154280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_77
+      rect:
+        serializedVersion: 2
+        x: 12486
+        y: 1
+        width: 120
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca5cc7e4884542d0800000000000000
+      internalID: -3295147816689837368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_78
+      rect:
+        serializedVersion: 2
+        x: 12631
+        y: 1
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8d59ae0b1c62da0800000000000000
+      internalID: -5969871290438919994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_79
+      rect:
+        serializedVersion: 2
+        x: 12776
+        y: 1
+        width: 101
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0de11ff38aa1950800000000000000
+      internalID: 6420629211351798010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_80
+      rect:
+        serializedVersion: 2
+        x: 12927
+        y: 1
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e352af9ab38660800000000000000
+      internalID: 7386953008603718880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_81
+      rect:
+        serializedVersion: 2
+        x: 13072
+        y: 1
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f51393261e2e1720800000000000000
+      internalID: 2818741089401509362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_82
+      rect:
+        serializedVersion: 2
+        x: 13214
+        y: 1
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d18261d8837ebc0800000000000000
+      internalID: -3753969585776747188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_83
+      rect:
+        serializedVersion: 2
+        x: 13359
+        y: 1
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b0f95b922effa90800000000000000
+      internalID: -7277849804038796388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_84
+      rect:
+        serializedVersion: 2
+        x: 13504
+        y: 1
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6233e0e1e8ed00800000000000000
+      internalID: 1002299273090592613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_85
+      rect:
+        serializedVersion: 2
+        x: 13649
+        y: 1
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d997b2eac30a2ff0800000000000000
+      internalID: -60231475094119979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_86
+      rect:
+        serializedVersion: 2
+        x: 13794
+        y: 1
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4857d2039222790800000000000000
+      internalID: -7556431937876425528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_87
+      rect:
+        serializedVersion: 2
+        x: 13939
+        y: 1
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73287605b9debe070800000000000000
+      internalID: 8136858403099607607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_88
+      rect:
+        serializedVersion: 2
+        x: 14084
+        y: 1
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e54d443933459a50800000000000000
+      internalID: 6527197147913078244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_89
+      rect:
+        serializedVersion: 2
+        x: 14229
+        y: 1
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb858145c0bc7980800000000000000
+      internalID: -8539756432146986014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_90
+      rect:
+        serializedVersion: 2
+        x: 14372
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10514a27194a038b0800000000000000
+      internalID: -5174455027248130815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_91
+      rect:
+        serializedVersion: 2
+        x: 14516
+        y: 1
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cb43de225a4510800000000000000
+      internalID: 1534128984140007425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_92
+      rect:
+        serializedVersion: 2
+        x: 14659
+        y: 1
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f850e7f11eb0f0800000000000000
+      internalID: -1099421502713301913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_93
+      rect:
+        serializedVersion: 2
+        x: 14682
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b30915788ac69f0800000000000000
+      internalID: -473818561638286573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_94
+      rect:
+        serializedVersion: 2
+        x: 14807
+        y: 1
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b244d4c79eb0eca0800000000000000
+      internalID: -5989577945351175499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_95
+      rect:
+        serializedVersion: 2
+        x: 14951
+        y: 1
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c4e4d4a0f7aa2d0800000000000000
+      internalID: -3266658897480496112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_96
+      rect:
+        serializedVersion: 2
+        x: 15096
+        y: 1
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713fad1171ad3e3c0800000000000000
+      internalID: -4331378623981620457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_97
+      rect:
+        serializedVersion: 2
+        x: 15240
+        y: 1
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a76360db222f7be0800000000000000
+      internalID: -1477424581179119704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_98
+      rect:
+        serializedVersion: 2
+        x: 15385
+        y: 1
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef03f6eb9a6c6ba0800000000000000
+      internalID: -6094378977911959573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_99
+      rect:
+        serializedVersion: 2
+        x: 15530
+        y: 1
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0811c7c4ea34fd510800000000000000
+      internalID: 1576052810489532800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_100
+      rect:
+        serializedVersion: 2
+        x: 15678
+        y: 1
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7026124f9ba32c0800000000000000
+      internalID: -4451040823519082521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_101
+      rect:
+        serializedVersion: 2
+        x: 15823
+        y: 1
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf1599a70994920800000000000000
+      internalID: 2975067885087620223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_102
+      rect:
+        serializedVersion: 2
+        x: 15968
+        y: 1
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bb0252349e24570800000000000000
+      internalID: 8449572325495454524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_103
+      rect:
+        serializedVersion: 2
+        x: 16113
+        y: 1
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c625a85f49046ef0800000000000000
+      internalID: -115957454010505534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_104
+      rect:
+        serializedVersion: 2
+        x: 16259
+        y: 1
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc03a74dcf89180800000000000000
+      internalID: -9108252256843543272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_105
+      rect:
+        serializedVersion: 2
+        x: 16405
+        y: 1
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7c28085d9312b0800000000000000
+      internalID: -5614971308981060818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_106
+      rect:
+        serializedVersion: 2
+        x: 16550
+        y: 1
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3271b3887a1a8730800000000000000
+      internalID: 4002040323779949117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_107
+      rect:
+        serializedVersion: 2
+        x: 16696
+        y: 1
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fce1338cb0da3c40800000000000000
+      internalID: 5492932203605257461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_108
+      rect:
+        serializedVersion: 2
+        x: 16858
+        y: 16
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f9905ba2289830800000000000000
+      internalID: 4078047581771002544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_109
+      rect:
+        serializedVersion: 2
+        x: 16985
+        y: 1
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e4faca90c7e7b0800000000000000
+      internalID: -5194971874086034879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_110
+      rect:
+        serializedVersion: 2
+        x: 17129
+        y: 1
+        width: 765
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8812f211806e67490800000000000000
+      internalID: -7748753186521931384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_111
+      rect:
+        serializedVersion: 2
+        x: 4841
+        y: 11
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d5acbbc39902a0800000000000000
+      internalID: -6770718061522202089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_112
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52435b34fc27776e0800000000000000
+      internalID: -1839875688237812699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_113
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 23
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da11dfd9753f5480800000000000000
+      internalID: -8908342740353213738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_114
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 13
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b9e4669fec13390800000000000000
+      internalID: -7840257905716716735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_115
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240fc3a83402b0150800000000000000
+      internalID: 5839796816270127170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_116
+      rect:
+        serializedVersion: 2
+        x: 5818
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6f984d926a5af80800000000000000
+      internalID: -8095882056538917150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_117
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 22
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc555e20d108e75a0800000000000000
+      internalID: -6521634348294908468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_118
+      rect:
+        serializedVersion: 2
+        x: 7551
+        y: 1
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfa762d92289f2e0800000000000000
+      internalID: -2091497435801604143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_119
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 1
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d5c2bc763ebc620800000000000000
+      internalID: 2795578028643343730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_120
+      rect:
+        serializedVersion: 2
+        x: 7733
+        y: 16
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7034bc69623913d90800000000000000
+      internalID: -7119747741948099833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_121
+      rect:
+        serializedVersion: 2
+        x: 7842
+        y: 1
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e02fc18ec83cb0800000000000000
+      internalID: -4883926738962159450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_122
+      rect:
+        serializedVersion: 2
+        x: 7988
+        y: 1
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be952d5930e744e0800000000000000
+      internalID: -1997381372735021386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_123
+      rect:
+        serializedVersion: 2
+        x: 8132
+        y: 1
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07dbaceb37dad1e0800000000000000
+      internalID: -2172187217879116022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_124
+      rect:
+        serializedVersion: 2
+        x: 8276
+        y: 1
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e852cbb5c4959bd0800000000000000
+      internalID: -2624027630893901595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_125
+      rect:
+        serializedVersion: 2
+        x: 8420
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b2d08f24614a30800000000000000
+      internalID: 4197746482873546588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_126
+      rect:
+        serializedVersion: 2
+        x: 8564
+        y: 1
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f129504ccf3840800000000000000
+      internalID: 5206104271008953629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_127
+      rect:
+        serializedVersion: 2
+        x: 8718
+        y: 1
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a497efe0007220800000000000000
+      internalID: 2481484425063604786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_128
+      rect:
+        serializedVersion: 2
+        x: 9928
+        y: 1
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd08241593fb571e0800000000000000
+      internalID: -2200642590003265315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_129
+      rect:
+        serializedVersion: 2
+        x: 10073
+        y: 1
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ede325d392e2cf10800000000000000
+      internalID: 2288640685221604840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_130
+      rect:
+        serializedVersion: 2
+        x: 11757
+        y: 0
+        width: 128
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93440359f44e03300800000000000000
+      internalID: 229934611452412985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_131
+      rect:
+        serializedVersion: 2
+        x: 11902
+        y: 1
+        width: 133
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb26ef840a99931d0800000000000000
+      internalID: -3370493932411657540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_132
+      rect:
+        serializedVersion: 2
+        x: 12049
+        y: 1
+        width: 131
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092f150da61e3570800000000000000
+      internalID: 8448214883364710657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_133
+      rect:
+        serializedVersion: 2
+        x: 12194
+        y: 1
+        width: 130
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fdbbf5938c98530800000000000000
+      internalID: 3857834704564379529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_134
+      rect:
+        serializedVersion: 2
+        x: 16846
+        y: 17
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b1fbc4ffb51440800000000000000
+      internalID: 4906038427204564626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_135
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e86b1262550a30800000000000000
+      internalID: 4180838410403505692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_136
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 11
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0196868a34391c5e0800000000000000
+      internalID: -1891068449721390832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_137
+      rect:
+        serializedVersion: 2
+        x: 9904
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371e75b242d25ca50800000000000000
+      internalID: 6540683667194765683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_138
+      rect:
+        serializedVersion: 2
+        x: 9922
+        y: 11
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d19c927c4e75f7e0800000000000000
+      internalID: -1732339614848609840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_139
+      rect:
+        serializedVersion: 2
+        x: 10042
+        y: 5
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d806ce78795950800000000000000
+      internalID: 6438309628186515235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_140
+      rect:
+        serializedVersion: 2
+        x: 12668
+        y: 3
+        width: 84
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec91f0b2a428061b0800000000000000
+      internalID: -5665385076170483250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_141
+      rect:
+        serializedVersion: 2
+        x: 16841
+        y: 5
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e990c70de0d68710800000000000000
+      internalID: 1695272026207459814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_142
+      rect:
+        serializedVersion: 2
+        x: 16856
+        y: 1
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e199c260d09e0f60800000000000000
+      internalID: 8002492812568924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_143
+      rect:
+        serializedVersion: 2
+        x: 16996
+        y: 1
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ee1b1658dd31c30800000000000000
+      internalID: 4329047231772618346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_144
+      rect:
+        serializedVersion: 2
+        x: 17013
+        y: 1
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd687bca6354c1ab0800000000000000
+      internalID: -5036074182178797859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_145
+      rect:
+        serializedVersion: 2
+        x: 17155
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000bf06cd2fc04330800000000000000
+      internalID: 3693179489947201536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_146
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 1
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde389923cdc610b0800000000000000
+      internalID: -5758188835446440228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_147
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 5
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559bd17fb9e89120800000000000000
+      internalID: 2420941808169882972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_148
+      rect:
+        serializedVersion: 2
+        x: 6042
+        y: 1
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3ac059b623726b0800000000000000
+      internalID: -5321228997071428685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_149
+      rect:
+        serializedVersion: 2
+        x: 9897
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b101a2c50b0185540800000000000000
+      internalID: 4996762136214114331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_150
+      rect:
+        serializedVersion: 2
+        x: 16841
+        y: 1
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7c3e8b3629c4e0800000000000000
+      internalID: -1960994125511885982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lord of the Flames SpriteSheet 145x47 No Glow_151
+      rect:
+        serializedVersion: 2
+        x: 17140
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868318b8040b999c0800000000000000
+      internalID: -3919908209384408984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
