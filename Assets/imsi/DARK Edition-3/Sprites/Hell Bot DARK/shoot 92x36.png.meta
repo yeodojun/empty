@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shoot 92x36_0: -2597800493948358596
+      shoot 92x36_1: -1853887431465037203
+      shoot 92x36_10: 717495003455260289
+      shoot 92x36_11: 8338563487883826351
+      shoot 92x36_2: 6030266363684923156
+      shoot 92x36_3: 3782070182318232381
+      shoot 92x36_4: -5489865317095016860
+      shoot 92x36_5: -1030935498404142144
+      shoot 92x36_6: -8859580466950228190
+      shoot 92x36_7: 7553233637877095336
+      shoot 92x36_8: 3794634718727171560
+      shoot 92x36_9: 4593561825607234675
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      block spikes grass triangle_0: 6697433793464329736
+      block spikes grass triangle_1: 3857443984965563049
+      block spikes grass triangle_2: 207867024023899864
+      block spikes grass triangle_3: -8746265232189308816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Get Up_0: -3134401050426825391
+      Golden-Get Up_1: 7762657397411511398
+      Golden-Get Up_2: -6573399367490885956
+      Golden-Get Up_3: -4685852107167168498
+      Golden-Get Up_4: 533900929830002680
+      Golden-Get Up_5: -3640066236622722838
+      Golden-Get Up_6: -2220975095176317830
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Glitch Samurai-Wall SIt_0: -5596193153665981967
+      Glitch Samurai-Wall SIt_1: -6950741995785703481
+      Glitch Samurai-Wall SIt_2: -1708874753873454468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

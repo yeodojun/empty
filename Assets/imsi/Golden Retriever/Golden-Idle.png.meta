@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Idle_0: -8911988297118070315
+      Golden-Idle_1: 4000597767528173994
+      Golden-Idle_10: -1822446517789138907
+      Golden-Idle_11: 8594917985373677916
+      Golden-Idle_2: 3752260028764990282
+      Golden-Idle_3: 6294972815946816920
+      Golden-Idle_4: 1025852003049963125
+      Golden-Idle_5: 6637456148184239955
+      Golden-Idle_6: 3420428758725023557
+      Golden-Idle_7: 8782511954293883859
+      Golden-Idle_8: 2390900154873689510
+      Golden-Idle_9: 8861656928421934556
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Range Poison 44x28 with glow_0: 6775962808491527441
+      Range Poison 44x28 with glow_1: -3820037272686251294
+      Range Poison 44x28 with glow_10: 6018499142280193654
+      Range Poison 44x28 with glow_11: 6662900033257851839
+      Range Poison 44x28 with glow_12: 5768794519718977877
+      Range Poison 44x28 with glow_13: 2756034288045257092
+      Range Poison 44x28 with glow_14: 2286140554473144298
+      Range Poison 44x28 with glow_15: -8562143446738805469
+      Range Poison 44x28 with glow_16: 2819308269272136666
+      Range Poison 44x28 with glow_17: 59475508613549615
+      Range Poison 44x28 with glow_18: 7378228363211192006
+      Range Poison 44x28 with glow_19: -3720564551923161891
+      Range Poison 44x28 with glow_2: 2805480277992647727
+      Range Poison 44x28 with glow_20: 3350127926435824154
+      Range Poison 44x28 with glow_21: -8372268521768432476
+      Range Poison 44x28 with glow_22: -299714376684255712
+      Range Poison 44x28 with glow_23: 4712187617776992902
+      Range Poison 44x28 with glow_3: 5090020290154765467
+      Range Poison 44x28 with glow_4: 24026316610100824
+      Range Poison 44x28 with glow_5: -5339553207853558265
+      Range Poison 44x28 with glow_6: -2315349906618110677
+      Range Poison 44x28 with glow_7: 4799733230245850962
+      Range Poison 44x28 with glow_8: 2582568017515006079
+      Range Poison 44x28 with glow_9: 2316877797333528519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

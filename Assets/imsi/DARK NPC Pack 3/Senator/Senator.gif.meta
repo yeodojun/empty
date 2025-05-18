@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Senator_0: -4002124526379789319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

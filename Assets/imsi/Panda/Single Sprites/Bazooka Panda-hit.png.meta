@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bazooka Panda-hit_0: 559104698847657719
+      Bazooka Panda-hit_1: 2432887216987251416
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

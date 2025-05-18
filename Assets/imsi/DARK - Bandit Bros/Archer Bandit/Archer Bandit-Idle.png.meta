@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Archer Bandit-Idle_0: -9152720145847288841
+      Archer Bandit-Idle_1: 5541212833013976497
+      Archer Bandit-Idle_2: 7888289262746794706
+      Archer Bandit-Idle_3: 2800690188763991435
+      Archer Bandit-Idle_4: 8927139192079749731
+      Archer Bandit-Idle_5: -5431523289359781619
+      Archer Bandit-Idle_6: 7223125132547698487
+      Archer Bandit-Idle_7: 3041408378583692267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

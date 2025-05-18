@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Herb Shop_0: -5375669757639552809
+      Herb Shop_1: -284242014617523588
+      Herb Shop_2: 8336756250342117656
+      Herb Shop_3: 3613742813727089399
+      Herb Shop_4: 2433646818579650953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

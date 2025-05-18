@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      heal with VFX_0: -8749006698015882671
+      heal with VFX_1: 3434463433897045880
+      heal with VFX_10: -7983244831142520871
+      heal with VFX_11: 1706200136753715510
+      heal with VFX_12: 7318481937507996511
+      heal with VFX_13: 1289665637053609354
+      heal with VFX_14: 3811857612266963740
+      heal with VFX_15: -4045374894622137529
+      heal with VFX_16: 1778000674388592789
+      heal with VFX_17: 4665853195832793307
+      heal with VFX_18: -7992155026348558100
+      heal with VFX_19: 7955279120825420200
+      heal with VFX_2: 6267850322254345000
+      heal with VFX_3: -4410903610640333820
+      heal with VFX_4: 5743663110644370904
+      heal with VFX_5: -3959299300845762839
+      heal with VFX_6: 8009679231805447057
+      heal with VFX_7: 7509177427866942729
+      heal with VFX_8: -2481097292432463500
+      heal with VFX_9: 7603415420238958504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Ledge Climb_0: -7165066663113204477
+      Doggo-Ledge Climb_1: -4402638287052768621
+      Doggo-Ledge Climb_2: 485495981839628730
+      Doggo-Ledge Climb_3: 2445569294002206317
+      Doggo-Ledge Climb_4: -2444225712837896870
+      Doggo-Ledge Climb_5: 7416526571650081891
+      Doggo-Ledge Climb_6: 3832319101713359892
+      Doggo-Ledge Climb_7: 8733904387434587358
+      Doggo-Ledge Climb_8: 2202341676947785670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Sit_0: 8413000649804054449
+      Golden-Sit_1: -3595658064753440518
+      Golden-Sit_2: 4043980769365277527
+      Golden-Sit_3: 9109410650801420025
+      Golden-Sit_4: 7665976398577350627
+      Golden-Sit_5: -798025291320762855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

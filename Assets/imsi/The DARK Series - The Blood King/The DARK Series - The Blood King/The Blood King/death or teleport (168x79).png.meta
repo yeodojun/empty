@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      death or teleport (168x79)_0: 1973825400771222782
+      death or teleport (168x79)_1: 3860549158160761477
+      death or teleport (168x79)_2: 2713265009845811703
+      death or teleport (168x79)_3: 7767238673607984507
+      death or teleport (168x79)_4: 384103587005919023
+      death or teleport (168x79)_5: -2732458338892618023
+      death or teleport (168x79)_6: 8704260249668164597
+      death or teleport (168x79)_7: 2003770332125375064
+      death or teleport (168x79)_8: 3529719511763167421
+      death or teleport (168x79)_9: -6212815675008836846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

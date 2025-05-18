@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tri energy square energy skulls_0: -736541821416871869
+      tri energy square energy skulls_1: 5603182783229083129
+      tri energy square energy skulls_2: 2305419678589466750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

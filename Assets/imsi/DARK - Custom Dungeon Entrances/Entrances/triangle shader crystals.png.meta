@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      triangle shader crystals_0: -3767100619638114842
+      triangle shader crystals_1: -3640637926076644842
+      triangle shader crystals_2: -4454282232301992559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

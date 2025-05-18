@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sparks Hit 2_0: -3341508870183962744
+      Sparks Hit 2_1: 5354819019075263395
+      Sparks Hit 2_2: 4380014861342442200
+      Sparks Hit 2_3: 7190437485713236425
+      Sparks Hit 2_4: -224383154490226687
+      Sparks Hit 2_5: 7339928337648851239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

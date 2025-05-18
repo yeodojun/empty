@@ -1772,7 +1772,73 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Melee attack_0: -6193399887318986423
+      Melee attack_1: 8130784611143781891
+      Melee attack_10: -6037291364596681958
+      Melee attack_11: -7694373426052256954
+      Melee attack_12: -2265364625598456690
+      Melee attack_13: 6276615734900645239
+      Melee attack_14: -8238275272008404192
+      Melee attack_15: -8743118362594904521
+      Melee attack_16: 4550164857457918870
+      Melee attack_17: -3847834653107696420
+      Melee attack_18: -1520042395467033844
+      Melee attack_19: -4829216325059655667
+      Melee attack_2: -4634655096819504166
+      Melee attack_20: -1719797457471986441
+      Melee attack_21: 6348300042917671129
+      Melee attack_22: -3361906843707903395
+      Melee attack_23: -966000043632222464
+      Melee attack_24: 5599513190342103534
+      Melee attack_25: 1519499615285777411
+      Melee attack_26: -6749550957801599464
+      Melee attack_27: -1762675113347338969
+      Melee attack_28: -6239552321188962461
+      Melee attack_29: -1832504574282155322
+      Melee attack_3: 7493908773611343833
+      Melee attack_30: 5564372241596569254
+      Melee attack_31: -6363628550440518461
+      Melee attack_32: -2402849254874225445
+      Melee attack_33: -8121899237430814873
+      Melee attack_34: 2663206548105577890
+      Melee attack_35: 3909110683906637699
+      Melee attack_36: 6785134937655092897
+      Melee attack_37: 5997028659139728530
+      Melee attack_38: 3127010408193621484
+      Melee attack_39: -161424181747914274
+      Melee attack_4: 2663374258117085951
+      Melee attack_40: 1559403941683175978
+      Melee attack_41: 7450537671915731478
+      Melee attack_42: -890593151488064222
+      Melee attack_43: -8542530700581428185
+      Melee attack_44: -7787924022519346729
+      Melee attack_45: -2896966066522216466
+      Melee attack_46: -4917149344995463206
+      Melee attack_47: 733148134756891094
+      Melee attack_48: 5647174023812003311
+      Melee attack_49: 8361333118354171367
+      Melee attack_5: 1233477841185272454
+      Melee attack_50: 1577350674716724197
+      Melee attack_51: -7848462830924345935
+      Melee attack_52: -4986970238414343359
+      Melee attack_53: 3588722245615138746
+      Melee attack_54: 5560989414434839638
+      Melee attack_55: 9096930346363854933
+      Melee attack_56: 8437726093333677203
+      Melee attack_57: -5306418320525546785
+      Melee attack_58: 4247957925233807445
+      Melee attack_59: -7310213565318200084
+      Melee attack_6: 9148213554607921890
+      Melee attack_60: -881881911211592334
+      Melee attack_61: -7104076042917897465
+      Melee attack_62: -2420542941455799750
+      Melee attack_63: 1967969298967042477
+      Melee attack_64: 6999081165129259649
+      Melee attack_65: 4196608210192937651
+      Melee attack_7: 6061554646808921907
+      Melee attack_8: 3421524272807716073
+      Melee attack_9: 8066958191391682948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

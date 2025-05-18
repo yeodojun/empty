@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bloody spikes skulls hex block_0: -2805504728817423123
+      bloody spikes skulls hex block_1: -933896378449681682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

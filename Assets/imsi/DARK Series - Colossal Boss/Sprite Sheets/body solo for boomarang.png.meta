@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      body solo for boomarang_0: 8199013178708342996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

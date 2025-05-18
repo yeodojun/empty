@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wasp 16x16 Sprite Sheet_0: 406727622145131219
+      Wasp 16x16 Sprite Sheet_1: 3457758536668065124
+      Wasp 16x16 Sprite Sheet_10: 6101043749327038930
+      Wasp 16x16 Sprite Sheet_11: -7522964427576820682
+      Wasp 16x16 Sprite Sheet_12: -6063209934440478470
+      Wasp 16x16 Sprite Sheet_13: 7823673287448691572
+      Wasp 16x16 Sprite Sheet_14: -7177582148296731822
+      Wasp 16x16 Sprite Sheet_2: 393964867909249072
+      Wasp 16x16 Sprite Sheet_3: -4713430998316286163
+      Wasp 16x16 Sprite Sheet_4: 3402910362058367875
+      Wasp 16x16 Sprite Sheet_5: -4411216796276062291
+      Wasp 16x16 Sprite Sheet_6: -8280936565002574995
+      Wasp 16x16 Sprite Sheet_7: -1905817147576754523
+      Wasp 16x16 Sprite Sheet_8: 537619950678178166
+      Wasp 16x16 Sprite Sheet_9: 9062586878784082657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

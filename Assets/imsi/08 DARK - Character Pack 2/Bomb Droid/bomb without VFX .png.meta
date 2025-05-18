@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bomb without VFX _0: -8963308271284326500
+      bomb without VFX _1: 4499316732624984889
+      bomb without VFX _10: 6307818848078523673
+      bomb without VFX _11: -4810222195101592273
+      bomb without VFX _12: 338368315692343865
+      bomb without VFX _13: -4923844642917342408
+      bomb without VFX _14: -8676795897384215338
+      bomb without VFX _15: -6968853865174298286
+      bomb without VFX _2: -7236217925304014546
+      bomb without VFX _3: -53972380877625993
+      bomb without VFX _4: -7341929509656623630
+      bomb without VFX _5: -7577780999955479330
+      bomb without VFX _6: 1795235377430713587
+      bomb without VFX _7: -1730752919674589881
+      bomb without VFX _8: 4983150139971346693
+      bomb without VFX _9: 5840444389184533255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

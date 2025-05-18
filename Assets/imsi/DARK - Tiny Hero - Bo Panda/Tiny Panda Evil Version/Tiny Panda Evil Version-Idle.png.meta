@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiny Panda Evil Version-Idle_0: 3654398513281777189
+      Tiny Panda Evil Version-Idle_1: 1509526029207726483
+      Tiny Panda Evil Version-Idle_2: -5086426205593847101
+      Tiny Panda Evil Version-Idle_3: -7219725132579307676
+      Tiny Panda Evil Version-Idle_4: 8208122085162423974
+      Tiny Panda Evil Version-Idle_5: -7876410764611791023
+      Tiny Panda Evil Version-Idle_6: 4795360643004581442
+      Tiny Panda Evil Version-Idle_7: 3364576495264498046
+      Tiny Panda Evil Version-Idle_8: 4878995201126518687
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

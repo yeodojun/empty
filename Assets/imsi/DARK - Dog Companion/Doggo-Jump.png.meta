@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Jump_0: -2856351865226951882
+      Doggo-Jump_1: 5880404707692713554
+      Doggo-Jump_2: -2100636676862718586
+      Doggo-Jump_3: 591986247949463135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

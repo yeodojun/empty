@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      City Background Layer (works with peaks of lightning pack)_0: 8678291737228907612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

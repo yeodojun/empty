@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Wake Up Transition_0: -6793550702852306938
+      Doggo-Wake Up Transition_1: 6095009598668639525
+      Doggo-Wake Up Transition_2: -2679904202404116129
+      Doggo-Wake Up Transition_3: -6193040242791199515
+      Doggo-Wake Up Transition_4: 6493744722905760767
+      Doggo-Wake Up Transition_5: -718534539380645137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

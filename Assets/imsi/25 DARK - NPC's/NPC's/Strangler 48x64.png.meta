@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Strangler 48x64_0: -705276423316660637
+      Strangler 48x64_1: -9094621894043160136
+      Strangler 48x64_10: -7940640198883661694
+      Strangler 48x64_11: 4675938478692514495
+      Strangler 48x64_12: -8579817302251367318
+      Strangler 48x64_13: -3951398385050175604
+      Strangler 48x64_14: -5642606563658084090
+      Strangler 48x64_15: 1772061033181819045
+      Strangler 48x64_16: -6624522700450254124
+      Strangler 48x64_17: 1915250165138186252
+      Strangler 48x64_18: -1266884388639382928
+      Strangler 48x64_19: -4558010846697454443
+      Strangler 48x64_2: 4505981876664224359
+      Strangler 48x64_20: -5766131523823596409
+      Strangler 48x64_3: 4422795335952460271
+      Strangler 48x64_4: 5194780010274195308
+      Strangler 48x64_5: 2454879402854022876
+      Strangler 48x64_6: 4064575822890481323
+      Strangler 48x64_7: -7112669609003305201
+      Strangler 48x64_8: -3840302019506836474
+      Strangler 48x64_9: -6039041260856697942
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

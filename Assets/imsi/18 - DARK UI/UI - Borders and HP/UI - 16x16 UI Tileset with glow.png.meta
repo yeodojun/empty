@@ -1472,7 +1472,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI - 16x16 UI Tileset with glow_0: 8317790125833002227
+      UI - 16x16 UI Tileset with glow_1: 2774736308354196284
+      UI - 16x16 UI Tileset with glow_10: -3242101865731524551
+      UI - 16x16 UI Tileset with glow_11: 9042007955481211995
+      UI - 16x16 UI Tileset with glow_12: -3572574745166014081
+      UI - 16x16 UI Tileset with glow_13: 9196089863789689162
+      UI - 16x16 UI Tileset with glow_14: 4696813666716880002
+      UI - 16x16 UI Tileset with glow_15: -801684221640514405
+      UI - 16x16 UI Tileset with glow_16: 3627719965184137890
+      UI - 16x16 UI Tileset with glow_17: 5128709416832988578
+      UI - 16x16 UI Tileset with glow_18: 1146459572385991393
+      UI - 16x16 UI Tileset with glow_19: 1204344597998863585
+      UI - 16x16 UI Tileset with glow_2: -2488117582359032759
+      UI - 16x16 UI Tileset with glow_20: 7380342752234579957
+      UI - 16x16 UI Tileset with glow_21: 7814241780688499570
+      UI - 16x16 UI Tileset with glow_22: -6527841765906461509
+      UI - 16x16 UI Tileset with glow_23: -1466032665246578895
+      UI - 16x16 UI Tileset with glow_24: -8281539683540231120
+      UI - 16x16 UI Tileset with glow_25: 3034736811186613642
+      UI - 16x16 UI Tileset with glow_26: -3498209129231296327
+      UI - 16x16 UI Tileset with glow_27: 4682394350223159947
+      UI - 16x16 UI Tileset with glow_28: 8261338749659054298
+      UI - 16x16 UI Tileset with glow_29: -7616264784884718992
+      UI - 16x16 UI Tileset with glow_3: 5866012805022981724
+      UI - 16x16 UI Tileset with glow_30: 7835767167086674573
+      UI - 16x16 UI Tileset with glow_31: -4570566808284746927
+      UI - 16x16 UI Tileset with glow_32: -3273531639770966936
+      UI - 16x16 UI Tileset with glow_33: -205301993847257591
+      UI - 16x16 UI Tileset with glow_34: 3719546920180506863
+      UI - 16x16 UI Tileset with glow_35: -4101200549940229365
+      UI - 16x16 UI Tileset with glow_36: 1493630679320866723
+      UI - 16x16 UI Tileset with glow_37: 6154191733943127024
+      UI - 16x16 UI Tileset with glow_38: 7117816873123845501
+      UI - 16x16 UI Tileset with glow_39: -7492070166787144582
+      UI - 16x16 UI Tileset with glow_4: -1870278678913844073
+      UI - 16x16 UI Tileset with glow_40: 3899732112678537583
+      UI - 16x16 UI Tileset with glow_41: -6774106366963692134
+      UI - 16x16 UI Tileset with glow_42: 689156279777037710
+      UI - 16x16 UI Tileset with glow_43: 2558397072217987302
+      UI - 16x16 UI Tileset with glow_44: -7650644357109832376
+      UI - 16x16 UI Tileset with glow_45: -7101080212337898771
+      UI - 16x16 UI Tileset with glow_46: 2041223758419464532
+      UI - 16x16 UI Tileset with glow_47: -3063067580019023530
+      UI - 16x16 UI Tileset with glow_48: -5417695655763730495
+      UI - 16x16 UI Tileset with glow_49: 583165609115880453
+      UI - 16x16 UI Tileset with glow_5: -7579315240171891244
+      UI - 16x16 UI Tileset with glow_50: -1152040104269094545
+      UI - 16x16 UI Tileset with glow_51: -2690554056833244427
+      UI - 16x16 UI Tileset with glow_52: -7720192230868584100
+      UI - 16x16 UI Tileset with glow_53: -6630621455692041494
+      UI - 16x16 UI Tileset with glow_6: -8483385844010540172
+      UI - 16x16 UI Tileset with glow_7: -1405301240570986242
+      UI - 16x16 UI Tileset with glow_8: 754188711778184492
+      UI - 16x16 UI Tileset with glow_9: -2799192364392351008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

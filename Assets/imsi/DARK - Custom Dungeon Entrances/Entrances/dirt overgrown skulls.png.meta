@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dirt overgrown skulls_0: -5858721223879273652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

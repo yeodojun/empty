@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skull hex bloody_0: 4634752235822055495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

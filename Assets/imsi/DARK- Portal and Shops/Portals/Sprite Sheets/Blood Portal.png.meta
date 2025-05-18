@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blood Portal_0: -5032074898421814521
+      Blood Portal_1: -2915675259536306766
+      Blood Portal_10: 8429918297317617206
+      Blood Portal_11: -2914516602040676001
+      Blood Portal_2: -1457366400947534357
+      Blood Portal_3: 2106145921428575838
+      Blood Portal_4: 7742390506984396869
+      Blood Portal_5: 7916615955448068146
+      Blood Portal_6: 3330692000043922322
+      Blood Portal_7: 4035225407375949045
+      Blood Portal_8: -4124611192350264396
+      Blood Portal_9: -5826345610088358077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

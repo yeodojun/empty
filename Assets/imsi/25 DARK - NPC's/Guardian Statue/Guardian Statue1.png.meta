@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guardian Statue1_0: -6567187834261977415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

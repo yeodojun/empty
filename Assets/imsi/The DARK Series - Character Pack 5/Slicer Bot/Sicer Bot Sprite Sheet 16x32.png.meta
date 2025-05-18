@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sicer Bot Sprite Sheet 16x32_0: 4941148316686096409
+      Sicer Bot Sprite Sheet 16x32_1: -5687303696828981084
+      Sicer Bot Sprite Sheet 16x32_2: 6221174174444812990
+      Sicer Bot Sprite Sheet 16x32_3: -2911231828038549393
+      Sicer Bot Sprite Sheet 16x32_4: -7026374187729134745
+      Sicer Bot Sprite Sheet 16x32_5: -6343284113469785701
+      Sicer Bot Sprite Sheet 16x32_6: -2018276334284837902
+      Sicer Bot Sprite Sheet 16x32_7: -6093671825059203222
+      Sicer Bot Sprite Sheet 16x32_8: -3573566173191374017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

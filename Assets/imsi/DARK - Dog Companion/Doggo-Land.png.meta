@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Land_0: 7702633326747564620
+      Doggo-Land_1: 1913983737723401001
+      Doggo-Land_2: 8037521884982439751
+      Doggo-Land_3: -5861114014665395844
+      Doggo-Land_4: 8135061318632077502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guns Sprite Sheet 32x32_0: -338875319788380661
+      Guns Sprite Sheet 32x32_1: 1044555518920072801
+      Guns Sprite Sheet 32x32_10: 3093853123094688086
+      Guns Sprite Sheet 32x32_11: 6881121488376387805
+      Guns Sprite Sheet 32x32_12: 5314489977321099041
+      Guns Sprite Sheet 32x32_13: 2057812565692145891
+      Guns Sprite Sheet 32x32_14: -4413447812132359074
+      Guns Sprite Sheet 32x32_15: -5954157559891873756
+      Guns Sprite Sheet 32x32_16: -9061347768945096812
+      Guns Sprite Sheet 32x32_2: 3959785178764885993
+      Guns Sprite Sheet 32x32_3: 7075607314656734812
+      Guns Sprite Sheet 32x32_4: -3941115050483881140
+      Guns Sprite Sheet 32x32_5: 3667560830143571162
+      Guns Sprite Sheet 32x32_6: -8876590518819507452
+      Guns Sprite Sheet 32x32_7: -4375896529144221170
+      Guns Sprite Sheet 32x32_8: -1022645004904672344
+      Guns Sprite Sheet 32x32_9: -5156795336948892500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

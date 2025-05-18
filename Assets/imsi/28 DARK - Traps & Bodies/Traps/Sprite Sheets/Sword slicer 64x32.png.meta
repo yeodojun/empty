@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sword slicer 64x32_0: -76511411803495563
+      Sword slicer 64x32_1: 1109208203531179439
+      Sword slicer 64x32_10: 6430993416258248610
+      Sword slicer 64x32_11: 3173464120613376627
+      Sword slicer 64x32_12: 314696663353016620
+      Sword slicer 64x32_13: 5338927319263630435
+      Sword slicer 64x32_14: -6339828511606168738
+      Sword slicer 64x32_2: -4283030912819139241
+      Sword slicer 64x32_3: -5537751914588525765
+      Sword slicer 64x32_4: 2142458475100671295
+      Sword slicer 64x32_5: 2062913138576299667
+      Sword slicer 64x32_6: 689367096862028073
+      Sword slicer 64x32_7: -7545492165756583194
+      Sword slicer 64x32_8: 7150979143508978694
+      Sword slicer 64x32_9: 7505396589647874425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

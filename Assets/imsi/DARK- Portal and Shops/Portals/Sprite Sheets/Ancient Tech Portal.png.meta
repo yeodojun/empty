@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ancient Tech Portal_0: 6709526696378330890
+      Ancient Tech Portal_1: 756996465495896069
+      Ancient Tech Portal_2: 5107604282763427795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

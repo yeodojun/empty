@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Walk_0: -4107217751028823540
+      Doggo-Walk_1: -3496302681853686462
+      Doggo-Walk_2: 3877834599323089073
+      Doggo-Walk_3: -6059447974894144666
+      Doggo-Walk_4: -5937569534001923380
+      Doggo-Walk_5: 8050506926587204753
+      Doggo-Walk_6: 177107613986222567
+      Doggo-Walk_7: -6346694464636521345
+      Doggo-Walk_8: -2274229113893175316
+      Doggo-Walk_9: -2280013089220396480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

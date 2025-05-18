@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Run_0: 4938949570387939541
+      Golden-Run_1: 164823985560420842
+      Golden-Run_2: 7681413628706611210
+      Golden-Run_3: -4716138959359855156
+      Golden-Run_4: 5564718678161434458
+      Golden-Run_5: -1841981255165985317
+      Golden-Run_6: 554338920452420276
+      Golden-Run_7: -2544563819747498985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

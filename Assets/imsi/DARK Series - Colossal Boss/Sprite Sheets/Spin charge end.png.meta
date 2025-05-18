@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spin charge end_0: 41007494126509363
+      Spin charge end_1: 3328654516868366284
+      Spin charge end_2: -1786753611301112323
+      Spin charge end_3: 6092128592688629922
+      Spin charge end_4: 7016811286486207262
+      Spin charge end_5: 3906729398796010710
+      Spin charge end_6: 3779217108370711397
+      Spin charge end_7: -7025849675711718227
+      Spin charge end_8: 7231956618617641663
+      Spin charge end_9: -7419581825104224994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

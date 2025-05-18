@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guardian-Laser_0: 70443092196360939
+      Guardian-Laser_1: 6329797807343689600
+      Guardian-Laser_10: 875034756662776409
+      Guardian-Laser_11: -6412550052006642044
+      Guardian-Laser_12: 4336935827098990764
+      Guardian-Laser_13: 6089032898716743344
+      Guardian-Laser_14: 4872131115425714238
+      Guardian-Laser_15: 3201150398853259324
+      Guardian-Laser_16: 6699767227200695959
+      Guardian-Laser_17: -8850344356905987709
+      Guardian-Laser_18: -7616495417219004006
+      Guardian-Laser_19: 3726035458533252335
+      Guardian-Laser_2: 9108782771661261891
+      Guardian-Laser_20: -5618569436956381797
+      Guardian-Laser_21: 4899680947649766133
+      Guardian-Laser_22: 4512112913802848768
+      Guardian-Laser_23: -6824339927160060652
+      Guardian-Laser_24: 2181530383593783859
+      Guardian-Laser_25: 3345895489140024478
+      Guardian-Laser_26: -6239512693705319014
+      Guardian-Laser_27: -3262898179802699022
+      Guardian-Laser_28: 251084520424721609
+      Guardian-Laser_29: -6462454393611736730
+      Guardian-Laser_3: -7446948329119521963
+      Guardian-Laser_30: -5049638123105239771
+      Guardian-Laser_31: -6758093869251484635
+      Guardian-Laser_32: 1983006533105138212
+      Guardian-Laser_33: -4706639496416905539
+      Guardian-Laser_34: -5270157865939517317
+      Guardian-Laser_35: -920324881055448702
+      Guardian-Laser_36: 3056671592305659650
+      Guardian-Laser_37: -6896899249927688282
+      Guardian-Laser_4: 9076949580406742596
+      Guardian-Laser_5: -2366185966079190274
+      Guardian-Laser_6: -7381859951472053188
+      Guardian-Laser_7: -2867011493247253399
+      Guardian-Laser_8: 2695424102641746477
+      Guardian-Laser_9: 767298519293225273
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      itch Gif_0: -6955517568343646838
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

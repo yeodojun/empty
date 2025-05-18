@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX for double slash (80x32)_0: 7581877891422671446
+      VFX for double slash (80x32)_1: -738750173204080317
+      VFX for double slash (80x32)_10: 6274065342797738361
+      VFX for double slash (80x32)_11: -8610643393348227403
+      VFX for double slash (80x32)_12: -6877661030265474817
+      VFX for double slash (80x32)_13: 8135940135491297472
+      VFX for double slash (80x32)_14: -13282576322598608
+      VFX for double slash (80x32)_15: 1205747361947547746
+      VFX for double slash (80x32)_16: 7902609878786481593
+      VFX for double slash (80x32)_2: -3605795589729913279
+      VFX for double slash (80x32)_3: 3850144995087152127
+      VFX for double slash (80x32)_4: 2768500100074318469
+      VFX for double slash (80x32)_5: 1647606907347267262
+      VFX for double slash (80x32)_6: 5638931058405628168
+      VFX for double slash (80x32)_7: -8587999355364884692
+      VFX for double slash (80x32)_8: -6573740218146141099
+      VFX for double slash (80x32)_9: -4754947375436427599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

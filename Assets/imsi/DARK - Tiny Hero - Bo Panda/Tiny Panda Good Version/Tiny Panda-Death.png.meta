@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiny Panda-Death_0: -2034127264015711840
+      Tiny Panda-Death_1: 6229670475760219454
+      Tiny Panda-Death_2: -5814103961136276675
+      Tiny Panda-Death_3: -2039125648220975043
+      Tiny Panda-Death_4: 5898412484343028779
+      Tiny Panda-Death_5: 4476510448125886266
+      Tiny Panda-Death_6: 2808834829163714176
+      Tiny Panda-Death_7: -3414839056575346490
+      Tiny Panda-Death_8: 6583459902395762911
+      Tiny Panda-Death_9: -8748016501325141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

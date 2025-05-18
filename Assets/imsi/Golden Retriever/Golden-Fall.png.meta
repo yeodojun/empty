@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Fall_0: 2860807991173820968
+      Golden-Fall_1: 4697205105848898318
+      Golden-Fall_2: 4176795489229476917
+      Golden-Fall_3: -9212432231638465870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Sit_0: 8033548997697219891
+      Doggo-Sit_1: -5658322736604046490
+      Doggo-Sit_2: -2489655629749514998
+      Doggo-Sit_3: -8158067876782617457
+      Doggo-Sit_4: -4238839259693377606
+      Doggo-Sit_5: -3301226340824015187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

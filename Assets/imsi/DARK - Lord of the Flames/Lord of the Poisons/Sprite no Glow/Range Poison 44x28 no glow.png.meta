@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Range Poison 44x28 no glow_0: -6217059202731853129
+      Range Poison 44x28 no glow_1: 8686480369679980577
+      Range Poison 44x28 no glow_2: -1194984458519119688
+      Range Poison 44x28 no glow_3: -5621185768965163397
+      Range Poison 44x28 no glow_4: -3946782191044400233
+      Range Poison 44x28 no glow_5: -5722011038836961596
+      Range Poison 44x28 no glow_6: -2393294413674496842
+      Range Poison 44x28 no glow_7: -6930594027476788708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

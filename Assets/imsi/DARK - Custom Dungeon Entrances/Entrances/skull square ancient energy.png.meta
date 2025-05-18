@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skull square ancient energy_0: 8880840679626376323
+      skull square ancient energy_1: 3657380196570650985
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

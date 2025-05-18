@@ -1047,7 +1047,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset Add on_0: 5416298037742526417
+      Tileset Add on_1: 5916893109820011830
+      Tileset Add on_10: 909825789531296555
+      Tileset Add on_11: -3761896497201500159
+      Tileset Add on_12: 3619342741673170435
+      Tileset Add on_13: -1446102151077817448
+      Tileset Add on_14: 7706471812431928908
+      Tileset Add on_15: 9109669214595291606
+      Tileset Add on_16: 1998652865253405053
+      Tileset Add on_17: -1029458720090273071
+      Tileset Add on_18: 3776352139913614770
+      Tileset Add on_19: 6219801956603243474
+      Tileset Add on_2: 8821138004202175250
+      Tileset Add on_20: 2614419943423679715
+      Tileset Add on_21: 6611122613588811931
+      Tileset Add on_22: -4651674303710290872
+      Tileset Add on_23: -4064220365329824371
+      Tileset Add on_24: 7488366231485461480
+      Tileset Add on_25: -8199295993165744142
+      Tileset Add on_26: 932611468107679595
+      Tileset Add on_27: -8394685579119890973
+      Tileset Add on_28: 3534130153831664085
+      Tileset Add on_29: 8872015691154858840
+      Tileset Add on_3: 3208319436447221884
+      Tileset Add on_30: -792722011637904319
+      Tileset Add on_31: 6707496837984661944
+      Tileset Add on_32: -8287666459832514320
+      Tileset Add on_33: 3415361641242959690
+      Tileset Add on_34: 5304995891840877825
+      Tileset Add on_35: 6181387526271001165
+      Tileset Add on_36: -4925886587988162253
+      Tileset Add on_4: 7131045328894890913
+      Tileset Add on_5: -245500993718457336
+      Tileset Add on_6: -2265839771722625236
+      Tileset Add on_7: -263030333694612669
+      Tileset Add on_8: -7935654912712183656
+      Tileset Add on_9: 2296153274434669515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

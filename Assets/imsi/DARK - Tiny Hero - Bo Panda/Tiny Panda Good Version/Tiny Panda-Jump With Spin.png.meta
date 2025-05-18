@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiny Panda-Jump With Spin_0: -6732955413005412557
+      Tiny Panda-Jump With Spin_1: 8944219066972517858
+      Tiny Panda-Jump With Spin_2: 3129323917180375834
+      Tiny Panda-Jump With Spin_3: -4644808919375440259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

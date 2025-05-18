@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bloody dirt_0: -2695063858668861372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

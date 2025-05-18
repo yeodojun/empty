@@ -847,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Special With VFX_0: 2764347267934640230
+      Special With VFX_1: 8065834849628459552
+      Special With VFX_10: -4305957192803728916
+      Special With VFX_11: -3512578767603785654
+      Special With VFX_12: -1699516304249681340
+      Special With VFX_13: -3925688209691951079
+      Special With VFX_14: 8941441357557477220
+      Special With VFX_15: -5101486129519216244
+      Special With VFX_16: 3059588797495265606
+      Special With VFX_17: -1163250573840923037
+      Special With VFX_18: -2337710200055328092
+      Special With VFX_19: -6288566707528846776
+      Special With VFX_2: -3650691295204921615
+      Special With VFX_20: -8365231712040268126
+      Special With VFX_21: -7995153380050048292
+      Special With VFX_22: -6449403825464749381
+      Special With VFX_23: 5930596776555050393
+      Special With VFX_24: -7193466322608665739
+      Special With VFX_25: 4152966277512416212
+      Special With VFX_26: -3070638859116092929
+      Special With VFX_27: 6615132992617018393
+      Special With VFX_28: -1574277797652264223
+      Special With VFX_3: 8518858672527431672
+      Special With VFX_4: -1269898045840124233
+      Special With VFX_5: -2401487879583596472
+      Special With VFX_6: 1817426977851657935
+      Special With VFX_7: 8136122310370051210
+      Special With VFX_8: -7318790310583222867
+      Special With VFX_9: 2666676125793826604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

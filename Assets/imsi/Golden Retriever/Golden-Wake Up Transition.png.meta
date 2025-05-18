@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Wake Up Transition_0: 2039700622835347176
+      Golden-Wake Up Transition_1: -5603681987412232642
+      Golden-Wake Up Transition_2: -7036579203996380396
+      Golden-Wake Up Transition_3: -2870167055527326764
+      Golden-Wake Up Transition_4: 5084430310971878073
+      Golden-Wake Up Transition_5: 1234058410173413099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

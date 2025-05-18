@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Walk_0: -2939303362473251609
+      Golden-Walk_1: 5854929766544595995
+      Golden-Walk_2: -7261314146203708802
+      Golden-Walk_3: 4445468480268525479
+      Golden-Walk_4: -3567583947457648226
+      Golden-Walk_5: -3113208579424618343
+      Golden-Walk_6: -6447076450048107034
+      Golden-Walk_7: 3038081220716381477
+      Golden-Walk_8: 5743474764497314608
+      Golden-Walk_9: 5807163331989566466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

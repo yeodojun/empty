@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bazooka Panda-Walk_0: -1405032695190724020
+      Bazooka Panda-Walk_1: -1091339008419849079
+      Bazooka Panda-Walk_10: -6421478143544245627
+      Bazooka Panda-Walk_11: -5744298429039250339
+      Bazooka Panda-Walk_2: 194859770347642703
+      Bazooka Panda-Walk_3: -6325534573756649621
+      Bazooka Panda-Walk_4: 9138028989153189882
+      Bazooka Panda-Walk_5: 6805448860426955353
+      Bazooka Panda-Walk_6: 9011647313747613198
+      Bazooka Panda-Walk_7: 122562239395391666
+      Bazooka Panda-Walk_8: -6215714112670839586
+      Bazooka Panda-Walk_9: -1942562350915698303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

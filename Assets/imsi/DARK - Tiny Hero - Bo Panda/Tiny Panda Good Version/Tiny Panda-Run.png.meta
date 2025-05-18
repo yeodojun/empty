@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiny Panda-Run_0: 3197934806454798429
+      Tiny Panda-Run_1: -2466033182022630185
+      Tiny Panda-Run_2: 5118604179545867810
+      Tiny Panda-Run_3: 8523891044690783258
+      Tiny Panda-Run_4: 4800778752756884098
+      Tiny Panda-Run_5: -9075593855973872461
+      Tiny Panda-Run_6: 4591356112973309281
+      Tiny Panda-Run_7: 1739293691919140490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

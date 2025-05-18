@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      drumsticks_0: 5342828070160005507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

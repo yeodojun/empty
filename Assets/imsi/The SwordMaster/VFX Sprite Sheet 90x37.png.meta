@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX Sprite Sheet 90x37_0: 6063489059707127144
+      VFX Sprite Sheet 90x37_1: -4965811406635853355
+      VFX Sprite Sheet 90x37_10: 490994137016921650
+      VFX Sprite Sheet 90x37_11: 6657461613148379998
+      VFX Sprite Sheet 90x37_12: -3444974777608641888
+      VFX Sprite Sheet 90x37_13: 8917469709787627950
+      VFX Sprite Sheet 90x37_14: 1346991022455498737
+      VFX Sprite Sheet 90x37_15: -1438097903443268786
+      VFX Sprite Sheet 90x37_2: -1280625806657205939
+      VFX Sprite Sheet 90x37_3: 3250909860836148577
+      VFX Sprite Sheet 90x37_4: 26334492308721799
+      VFX Sprite Sheet 90x37_5: -6438586734026019693
+      VFX Sprite Sheet 90x37_6: -3793813505702776104
+      VFX Sprite Sheet 90x37_7: -2090469962556394312
+      VFX Sprite Sheet 90x37_8: 4404122671370150488
+      VFX Sprite Sheet 90x37_9: 1606740935034533510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

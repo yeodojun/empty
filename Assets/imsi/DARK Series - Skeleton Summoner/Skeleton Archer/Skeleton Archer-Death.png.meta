@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Archer-Death_0: -2263011768922231748
+      Skeleton Archer-Death_1: 8919087530369398104
+      Skeleton Archer-Death_10: -2240246154791874892
+      Skeleton Archer-Death_11: 7401302398340419013
+      Skeleton Archer-Death_12: -5128728301035487506
+      Skeleton Archer-Death_13: -598251757101535547
+      Skeleton Archer-Death_14: -6015708986275657247
+      Skeleton Archer-Death_15: 1034739050227509660
+      Skeleton Archer-Death_16: 2452005957545097581
+      Skeleton Archer-Death_17: -5211510602668555841
+      Skeleton Archer-Death_18: 2962661751468280273
+      Skeleton Archer-Death_19: -6860094068952253091
+      Skeleton Archer-Death_2: 6498645642301441340
+      Skeleton Archer-Death_20: -8810344587680188739
+      Skeleton Archer-Death_3: 1611609137251078727
+      Skeleton Archer-Death_4: -5617290992287090397
+      Skeleton Archer-Death_5: 3991471335082041567
+      Skeleton Archer-Death_6: 144485351469208883
+      Skeleton Archer-Death_7: 3042402492764871196
+      Skeleton Archer-Death_8: 1889630048238918482
+      Skeleton Archer-Death_9: -6931134667679071534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Idle_0: 1863436079622737428
+      Doggo-Idle_1: 375174633540977357
+      Doggo-Idle_10: 8891007567049483620
+      Doggo-Idle_11: 4514398659248069311
+      Doggo-Idle_2: 700903322796623533
+      Doggo-Idle_3: -5760563212026671571
+      Doggo-Idle_4: -2411172617083627326
+      Doggo-Idle_5: 719392464750193941
+      Doggo-Idle_6: -6130984168528919663
+      Doggo-Idle_7: 2146507107322125061
+      Doggo-Idle_8: -4198619109699257949
+      Doggo-Idle_9: -671319891043585869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -2072,7 +2072,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      range attack_0: -4012159870975733497
+      range attack_1: -1352383708291284983
+      range attack_10: 3868936326779063478
+      range attack_11: 2487055907017408809
+      range attack_12: -3469134718405692560
+      range attack_13: -718140537151601928
+      range attack_14: -3428663487877288005
+      range attack_15: 3328376944504988899
+      range attack_16: 1801017294831815343
+      range attack_17: -8987236995428831528
+      range attack_18: -8113502346389996154
+      range attack_19: -4941588050979064167
+      range attack_2: -7408822433711471922
+      range attack_20: 1947724414012156328
+      range attack_21: -2778581829371565952
+      range attack_22: -2394649905689207732
+      range attack_23: 1996711940705769717
+      range attack_24: 2788607258560884099
+      range attack_25: 7550829917494520530
+      range attack_26: -7058973480898505128
+      range attack_27: 2259785153995670152
+      range attack_28: 1482815192060152410
+      range attack_29: 5975139540197217130
+      range attack_3: 3785727982739203506
+      range attack_30: -2612128455936179594
+      range attack_31: -4497931355249256846
+      range attack_32: -5843724573325383432
+      range attack_33: 584457033984601606
+      range attack_34: -6023536744410874643
+      range attack_35: -1056936013215101919
+      range attack_36: -8029693853698939758
+      range attack_37: -6542503179065357060
+      range attack_38: 1987794506934376167
+      range attack_39: -292430707724588665
+      range attack_4: -5694152494699531375
+      range attack_40: 1474329718643030213
+      range attack_41: 2367366343837222964
+      range attack_42: 4051748116892830494
+      range attack_43: 3509000593979281938
+      range attack_44: 3523857562626824185
+      range attack_45: 5542181874525107474
+      range attack_46: -8648054273504737110
+      range attack_47: 7930277117679436659
+      range attack_48: -962466820523902068
+      range attack_49: 2167160901552059480
+      range attack_5: -3832985553800775335
+      range attack_50: 4747595873769069349
+      range attack_51: 5747365562552284798
+      range attack_52: 4624680457270610681
+      range attack_53: -2232713824203514225
+      range attack_54: 2821683740698002336
+      range attack_55: -5720321604326106551
+      range attack_56: 3367814858369662076
+      range attack_57: -6931915246619413133
+      range attack_58: 7575881636354218431
+      range attack_59: -4671701081094690186
+      range attack_6: 3591304152567125498
+      range attack_60: 1056219351029489082
+      range attack_61: 3884711239116808577
+      range attack_62: -6706642289457906559
+      range attack_63: 2358583212963780049
+      range attack_64: 6600705151494946716
+      range attack_65: -905302510438286516
+      range attack_66: -4412892108048534701
+      range attack_67: 2603306594631229599
+      range attack_68: 1243221082512928316
+      range attack_69: -852392488815636823
+      range attack_7: -391774811950193941
+      range attack_70: 3363246621962478176
+      range attack_71: -1758735372816905816
+      range attack_72: -2463157857056987293
+      range attack_73: -6263722124585503850
+      range attack_74: 951062246511210088
+      range attack_75: -2286172520467244952
+      range attack_76: 274140703875901154
+      range attack_77: -8689446471979924160
+      range attack_8: -8061926149670555313
+      range attack_9: 2719958603215867229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

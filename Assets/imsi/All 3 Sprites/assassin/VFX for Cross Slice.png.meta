@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX for Cross Slice_0: -3959560159822221020
+      VFX for Cross Slice_1: -2418621829089570105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

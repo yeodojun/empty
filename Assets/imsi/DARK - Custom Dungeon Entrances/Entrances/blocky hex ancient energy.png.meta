@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blocky hex ancient energy_0: -5682408347985466319
+      blocky hex ancient energy_1: 7521932590864765601
+      blocky hex ancient energy_2: 7020803046071687154
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

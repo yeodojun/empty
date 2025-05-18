@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      deah 16x16_0: -6116030778478213940
+      deah 16x16_1: 3600518683052838891
+      deah 16x16_2: 4048363753946170862
+      deah 16x16_3: 2327796249533022898
+      deah 16x16_4: 8182595951819112958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lord of The Flames-Idle_0: -7198171895207089258
+      Lord of The Flames-Idle_1: 6581482292759224819
+      Lord of The Flames-Idle_10: 1159296278684634987
+      Lord of The Flames-Idle_11: 6426620880679281553
+      Lord of The Flames-Idle_2: 2304444146892322416
+      Lord of The Flames-Idle_3: -6928279325065547299
+      Lord of The Flames-Idle_4: -4825453698109930676
+      Lord of The Flames-Idle_5: -8483547211690981132
+      Lord of The Flames-Idle_6: -7073811335815777189
+      Lord of The Flames-Idle_7: 4132996795691746231
+      Lord of The Flames-Idle_8: 4673355634581981808
+      Lord of The Flames-Idle_9: -842351409452765805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

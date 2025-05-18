@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX for Sweep_0: -4636816388343496333
+      VFX for Sweep_1: -2431790320456734165
+      VFX for Sweep_2: 6175585665456708230
+      VFX for Sweep_3: -5184364358704814458
+      VFX for Sweep_4: -6721895474145944754
+      VFX for Sweep_5: 8392207151709851668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      The Circle 35x37_0: -8153196938514939783
+      The Circle 35x37_1: -1113435776705136830
+      The Circle 35x37_2: -9195310704423976485
+      The Circle 35x37_3: -4701373062174838503
+      The Circle 35x37_4: 2804749119919868119
+      The Circle 35x37_5: -7287758351172777305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

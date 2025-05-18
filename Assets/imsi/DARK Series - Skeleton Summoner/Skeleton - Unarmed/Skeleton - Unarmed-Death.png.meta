@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton - Unarmed-Death_0: -8798139455458424238
+      Skeleton - Unarmed-Death_1: -4765018445394202129
+      Skeleton - Unarmed-Death_10: 6562735049344603800
+      Skeleton - Unarmed-Death_11: -4874099944995258357
+      Skeleton - Unarmed-Death_12: 2488672455233515797
+      Skeleton - Unarmed-Death_13: 840285491762214879
+      Skeleton - Unarmed-Death_14: -5729161298754260039
+      Skeleton - Unarmed-Death_15: -6915970402043061335
+      Skeleton - Unarmed-Death_16: -5415302146747543848
+      Skeleton - Unarmed-Death_17: -1821249623095072225
+      Skeleton - Unarmed-Death_18: 8958883969701759590
+      Skeleton - Unarmed-Death_19: 6796935869624172650
+      Skeleton - Unarmed-Death_2: -37486769690302419
+      Skeleton - Unarmed-Death_20: 6754284339465864419
+      Skeleton - Unarmed-Death_3: -5032623577624282841
+      Skeleton - Unarmed-Death_4: -4235016181405929545
+      Skeleton - Unarmed-Death_5: 6448261895053317987
+      Skeleton - Unarmed-Death_6: 4923347169972110885
+      Skeleton - Unarmed-Death_7: -7466393971954257122
+      Skeleton - Unarmed-Death_8: -4546186986213934280
+      Skeleton - Unarmed-Death_9: 3665595752905706326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

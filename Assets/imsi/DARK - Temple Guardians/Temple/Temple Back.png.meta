@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Temple Back_0: 311195987067435437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

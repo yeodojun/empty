@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      land & roll particles_0: -9076147339745359491
+      land & roll particles_1: -2571590707503568475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

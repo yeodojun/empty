@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spike Ejector 16x32_0: -859511570036528663
+      Spike Ejector 16x32_1: 2156892136515430777
+      Spike Ejector 16x32_10: -938734757004815167
+      Spike Ejector 16x32_11: 1714193030499345728
+      Spike Ejector 16x32_12: -8583101398533659259
+      Spike Ejector 16x32_13: -8632671829649943540
+      Spike Ejector 16x32_14: -8639910897066162089
+      Spike Ejector 16x32_15: -191601500946541626
+      Spike Ejector 16x32_2: 4921117713760755148
+      Spike Ejector 16x32_3: -1010625853185097875
+      Spike Ejector 16x32_4: -522674834957644186
+      Spike Ejector 16x32_5: 8152817788795744951
+      Spike Ejector 16x32_6: 1408165071104707247
+      Spike Ejector 16x32_7: 4131164692622310328
+      Spike Ejector 16x32_8: -435635324812356373
+      Spike Ejector 16x32_9: 5957777726978792704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

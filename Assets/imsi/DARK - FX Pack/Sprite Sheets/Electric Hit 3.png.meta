@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Electric Hit 3_0: -532920208944238326
+      Electric Hit 3_1: 1379000831087081295
+      Electric Hit 3_10: 8377024990450699989
+      Electric Hit 3_2: -460973874837589935
+      Electric Hit 3_3: 7662635829251585083
+      Electric Hit 3_4: 4593308541524810711
+      Electric Hit 3_5: 6967861880861089663
+      Electric Hit 3_6: -6470149906293577747
+      Electric Hit 3_7: 1618095191390397499
+      Electric Hit 3_8: -4224350933256474932
+      Electric Hit 3_9: -1751974509044708850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Ledge Climb_0: -8096593980712553166
+      Golden-Ledge Climb_1: -3981067663766769997
+      Golden-Ledge Climb_2: -8154168783683945069
+      Golden-Ledge Climb_3: 2230654982813284607
+      Golden-Ledge Climb_4: -3368855158108641242
+      Golden-Ledge Climb_5: 8561866579692255915
+      Golden-Ledge Climb_6: -3041557850697783091
+      Golden-Ledge Climb_7: 4433993987744533707
+      Golden-Ledge Climb_8: -702850757917949193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

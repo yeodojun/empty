@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blocky skull overgrown shader_0: 881238491796028651
+      blocky skull overgrown shader_1: -2632429926035219380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bazooka Panda-Melee_0: 5599731236880238934
+      Bazooka Panda-Melee_1: 2996037358940149621
+      Bazooka Panda-Melee_10: 300529351007787757
+      Bazooka Panda-Melee_11: 83954278183865265
+      Bazooka Panda-Melee_12: 6845865141602916858
+      Bazooka Panda-Melee_13: -6228083479480505597
+      Bazooka Panda-Melee_2: 1606461004609718938
+      Bazooka Panda-Melee_3: 7279155680077668954
+      Bazooka Panda-Melee_4: 7207876075354305794
+      Bazooka Panda-Melee_5: -362277712868667954
+      Bazooka Panda-Melee_6: -4223929467166513726
+      Bazooka Panda-Melee_7: -7729311824969135623
+      Bazooka Panda-Melee_8: 3389686509628007003
+      Bazooka Panda-Melee_9: 4766062247157107580
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

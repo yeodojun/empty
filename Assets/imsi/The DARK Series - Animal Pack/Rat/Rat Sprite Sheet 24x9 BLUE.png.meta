@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rat Sprite Sheet 24x9 BLUE_0: 6228545216473944671
+      Rat Sprite Sheet 24x9 BLUE_1: 524588227021812369
+      Rat Sprite Sheet 24x9 BLUE_10: -2166088984348346382
+      Rat Sprite Sheet 24x9 BLUE_11: 6550555837533107832
+      Rat Sprite Sheet 24x9 BLUE_12: 7740945344943949534
+      Rat Sprite Sheet 24x9 BLUE_13: -7524033108212452175
+      Rat Sprite Sheet 24x9 BLUE_14: -3622128511630774977
+      Rat Sprite Sheet 24x9 BLUE_15: -5700753221117816420
+      Rat Sprite Sheet 24x9 BLUE_2: -8391605811049402678
+      Rat Sprite Sheet 24x9 BLUE_3: 7780529367991752800
+      Rat Sprite Sheet 24x9 BLUE_4: -2975960305582885072
+      Rat Sprite Sheet 24x9 BLUE_5: 4535590683860175255
+      Rat Sprite Sheet 24x9 BLUE_6: 4554921574027387483
+      Rat Sprite Sheet 24x9 BLUE_7: 6361716896624006273
+      Rat Sprite Sheet 24x9 BLUE_8: 782500265105855336
+      Rat Sprite Sheet 24x9 BLUE_9: 1535715200719639016
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

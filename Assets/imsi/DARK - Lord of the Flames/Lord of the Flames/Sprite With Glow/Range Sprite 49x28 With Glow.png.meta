@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Range Sprite 49x28 With Glow_0: -5568284787452415906
+      Range Sprite 49x28 With Glow_1: -7041497436984162868
+      Range Sprite 49x28 With Glow_10: 1560662587689940213
+      Range Sprite 49x28 With Glow_11: 4085903138066875244
+      Range Sprite 49x28 With Glow_12: 203205569876392231
+      Range Sprite 49x28 With Glow_13: 1684638491398499909
+      Range Sprite 49x28 With Glow_14: -2889931695740497243
+      Range Sprite 49x28 With Glow_15: 9418792324078377
+      Range Sprite 49x28 With Glow_16: -3449393904398937320
+      Range Sprite 49x28 With Glow_17: 6772110462898014487
+      Range Sprite 49x28 With Glow_18: -5469412892739791129
+      Range Sprite 49x28 With Glow_19: 2654264642085553669
+      Range Sprite 49x28 With Glow_2: 5582385401458304643
+      Range Sprite 49x28 With Glow_20: 1303659993487809736
+      Range Sprite 49x28 With Glow_21: -8987622356909249489
+      Range Sprite 49x28 With Glow_22: 7170403254982008906
+      Range Sprite 49x28 With Glow_23: -7079461154411812157
+      Range Sprite 49x28 With Glow_3: 3948413113450445121
+      Range Sprite 49x28 With Glow_4: 5652380111172367977
+      Range Sprite 49x28 With Glow_5: 7790940805791910589
+      Range Sprite 49x28 With Glow_6: -3727050004044917725
+      Range Sprite 49x28 With Glow_7: -3843534693037275351
+      Range Sprite 49x28 With Glow_8: -6564494878576750439
+      Range Sprite 49x28 With Glow_9: 5111677564894403473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

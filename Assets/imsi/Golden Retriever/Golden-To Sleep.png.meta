@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-To Sleep_0: 4742106100439774132
+      Golden-To Sleep_1: 3329991266520604288
+      Golden-To Sleep_2: 356717572695038839
+      Golden-To Sleep_3: 2795553880995704794
+      Golden-To Sleep_4: 7597956237434793242
+      Golden-To Sleep_5: 7794156749870704227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

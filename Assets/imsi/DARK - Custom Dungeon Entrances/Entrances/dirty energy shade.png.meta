@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dirty energy shade_0: -4719125564383974021
+      dirty energy shade_1: -7939286976084886696
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

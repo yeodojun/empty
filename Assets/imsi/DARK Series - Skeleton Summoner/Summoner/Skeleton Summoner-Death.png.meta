@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Summoner-Death_0: 8527805873367737827
+      Skeleton Summoner-Death_1: -7017806341814696933
+      Skeleton Summoner-Death_10: 619755027835199652
+      Skeleton Summoner-Death_11: -2995089874062107873
+      Skeleton Summoner-Death_12: 8031285953131466523
+      Skeleton Summoner-Death_13: -6678092999729218761
+      Skeleton Summoner-Death_14: -7399776618652139837
+      Skeleton Summoner-Death_15: 4208084650964358361
+      Skeleton Summoner-Death_16: 1768477180853841930
+      Skeleton Summoner-Death_2: 5726006838142853478
+      Skeleton Summoner-Death_3: 7417431919364138205
+      Skeleton Summoner-Death_4: -2715331009860670975
+      Skeleton Summoner-Death_5: -1009536525081482807
+      Skeleton Summoner-Death_6: 3494447415823460786
+      Skeleton Summoner-Death_7: 9137639273589178862
+      Skeleton Summoner-Death_8: -5110845901593948646
+      Skeleton Summoner-Death_9: -5448027330142984685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

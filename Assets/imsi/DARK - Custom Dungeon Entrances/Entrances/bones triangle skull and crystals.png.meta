@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bones triangle skull and crystals_0: 8357550071825390735
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

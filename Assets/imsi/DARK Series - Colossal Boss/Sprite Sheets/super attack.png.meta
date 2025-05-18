@@ -2072,7 +2072,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      super attack_0: 4168875971113094736
+      super attack_1: -1534632342795991938
+      super attack_10: -5099783860545978692
+      super attack_11: -8101698805432805433
+      super attack_12: -4060744027127668817
+      super attack_13: -7135114583045252314
+      super attack_14: -7216466741822013357
+      super attack_15: -2295434202149428472
+      super attack_16: -5984120805139367532
+      super attack_17: 2779458859009159898
+      super attack_18: -4602733148324005961
+      super attack_19: -7959801488479109900
+      super attack_2: 21776581979515615
+      super attack_20: -4258847676854360670
+      super attack_21: -2169328749894782595
+      super attack_22: -7213689198796241350
+      super attack_23: -2583393205983485714
+      super attack_24: 4485362639842031376
+      super attack_25: 7553034583552188861
+      super attack_26: -3017370212399898990
+      super attack_27: 3396858413914702368
+      super attack_28: -8617452002757237022
+      super attack_29: 7224986322979070816
+      super attack_3: 3421271147480101189
+      super attack_30: -4530012529709809696
+      super attack_31: 6000193204471486365
+      super attack_32: 2765200541658900199
+      super attack_33: -3076329172078999972
+      super attack_34: 2012059656767712707
+      super attack_35: 3153228603741724218
+      super attack_36: -5207467360944567523
+      super attack_37: -8660676073865887764
+      super attack_38: 7747214536532882099
+      super attack_39: -3780539436252537209
+      super attack_4: 628341036410412967
+      super attack_40: -5507772199280590353
+      super attack_41: -880498042873112661
+      super attack_42: 8647983443656931226
+      super attack_43: 7560984852323306265
+      super attack_44: 9095846760018568102
+      super attack_45: -2784220349518850077
+      super attack_46: 1673131622750823852
+      super attack_47: 5370547805519238221
+      super attack_48: -8768690997460113112
+      super attack_49: -3029871276145664133
+      super attack_5: 9148150756529997144
+      super attack_50: 4733414874112930936
+      super attack_51: -6284773806796339816
+      super attack_52: 8319832316781694652
+      super attack_53: 6668064668124686107
+      super attack_54: -5146113023276610689
+      super attack_55: 5001709733955740844
+      super attack_56: -2807056568278486019
+      super attack_57: 7343200021286631503
+      super attack_58: 3091955505015565337
+      super attack_59: -6359340479926941742
+      super attack_6: -163289712061169495
+      super attack_60: 4067435370938949939
+      super attack_61: 1624697135325924282
+      super attack_62: -2990798237765637089
+      super attack_63: -3206250095126461697
+      super attack_64: -3557306394208446152
+      super attack_65: 5390318630899731861
+      super attack_66: -1042126126717954063
+      super attack_67: 8065774855427703020
+      super attack_68: -6318354597262735328
+      super attack_69: -4489857247927703020
+      super attack_7: -4743361121460734853
+      super attack_70: -4782436549208277852
+      super attack_71: 2469485573932361350
+      super attack_72: -810916707453578836
+      super attack_73: 5407202315162771999
+      super attack_74: -8917461385068966544
+      super attack_75: 3050201832096072942
+      super attack_76: 8837032226280695756
+      super attack_77: -6742972471663356878
+      super attack_8: -3287828017997912891
+      super attack_9: 241809708382114354
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

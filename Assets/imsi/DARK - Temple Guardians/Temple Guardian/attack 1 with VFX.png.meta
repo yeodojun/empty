@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      attack 1 with VFX_0: 8383086920520650989
+      attack 1 with VFX_1: 5861473912609603257
+      attack 1 with VFX_10: 1086287572366169301
+      attack 1 with VFX_11: 629516240404268013
+      attack 1 with VFX_12: 7281677481409871834
+      attack 1 with VFX_13: 2801821673556641329
+      attack 1 with VFX_14: 345621256847315241
+      attack 1 with VFX_15: -4444786200174184290
+      attack 1 with VFX_16: 7569489308031783394
+      attack 1 with VFX_2: 925941728350480733
+      attack 1 with VFX_3: 3933778295072892699
+      attack 1 with VFX_4: 6222916577589405101
+      attack 1 with VFX_5: -8968626835354902968
+      attack 1 with VFX_6: -6899741715844158718
+      attack 1 with VFX_7: 6896167530543742419
+      attack 1 with VFX_8: 1761636307387751782
+      attack 1 with VFX_9: 763333690172007895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

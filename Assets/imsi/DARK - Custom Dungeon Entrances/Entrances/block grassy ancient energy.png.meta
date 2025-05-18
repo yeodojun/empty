@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      block grassy ancient energy_0: 6655652475900541722
+      block grassy ancient energy_1: -6615869811247190073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

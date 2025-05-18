@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hot wheel dark_0: 181436952802233726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX for special_0: 739788646088069752
+      VFX for special_1: -6811589174490532855
+      VFX for special_10: -3100794784753525510
+      VFX for special_11: 8925836066411732067
+      VFX for special_12: 3834613420141728589
+      VFX for special_13: -5818802420221901310
+      VFX for special_14: 4226454179200937682
+      VFX for special_15: -5231604413148980333
+      VFX for special_16: 4345813146498270301
+      VFX for special_17: 7909110293123383401
+      VFX for special_18: 864238261465998753
+      VFX for special_19: 4987521493612134570
+      VFX for special_2: -4912950003861711888
+      VFX for special_20: -7173393998245374167
+      VFX for special_21: 1638643453317894832
+      VFX for special_3: 5795382979362973392
+      VFX for special_4: 7847783571228738504
+      VFX for special_5: 6486623412569036654
+      VFX for special_6: -901014443173727425
+      VFX for special_7: 6516412105137668210
+      VFX for special_8: -1875102157500396069
+      VFX for special_9: 2963767262922701667
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

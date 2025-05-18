@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Circular Saw 16x16_0: 7255864134939025166
+      Circular Saw 16x16_1: 8583671817603675251
+      Circular Saw 16x16_10: -1255956497695157748
+      Circular Saw 16x16_11: -6913927006518229293
+      Circular Saw 16x16_12: 1191232003227310287
+      Circular Saw 16x16_13: 5982246030385462055
+      Circular Saw 16x16_14: -8082245410888968444
+      Circular Saw 16x16_15: -1207040530130677228
+      Circular Saw 16x16_16: 3343034818639560777
+      Circular Saw 16x16_2: 6941993533103621206
+      Circular Saw 16x16_3: -5674626637095798285
+      Circular Saw 16x16_4: 7732087172086382671
+      Circular Saw 16x16_5: 1943083707184607262
+      Circular Saw 16x16_6: 6626577398993459325
+      Circular Saw 16x16_7: -1915279558428388218
+      Circular Saw 16x16_8: -6912496586934811172
+      Circular Saw 16x16_9: 6273731397778112815
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

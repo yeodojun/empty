@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grassy Portal_0: -6122095502900138349
+      Grassy Portal_1: 2813721816843393874
+      Grassy Portal_2: -4063428468919512
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

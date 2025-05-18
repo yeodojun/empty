@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UI - Ammo 16x16_0: 2816779865330025791
+      UI - Ammo 16x16_1: -1460558224459118080
+      UI - Ammo 16x16_10: -5207524425237082572
+      UI - Ammo 16x16_11: -5078367451379661888
+      UI - Ammo 16x16_2: -5817436697945091109
+      UI - Ammo 16x16_3: 3185168258572155836
+      UI - Ammo 16x16_4: 2021179200091608804
+      UI - Ammo 16x16_5: -6932982219186290286
+      UI - Ammo 16x16_6: -7828839056056721095
+      UI - Ammo 16x16_7: 6860063747351510588
+      UI - Ammo 16x16_8: -3405659543011364128
+      UI - Ammo 16x16_9: -1246512121069953948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1722,7 +1722,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      top down tileset_0: 846166280531908999
+      top down tileset_1: -8338467672454456367
+      top down tileset_10: 170619260867398385
+      top down tileset_11: -4954877804914262621
+      top down tileset_12: -1831979316428561194
+      top down tileset_13: -3027650544004953936
+      top down tileset_14: 2229843441749878719
+      top down tileset_15: 787086555519531453
+      top down tileset_16: -8955879507599905146
+      top down tileset_17: 7741006960793099321
+      top down tileset_18: 4578065714986212942
+      top down tileset_19: -6510210518318876866
+      top down tileset_2: 4950653424698845922
+      top down tileset_20: 1017013093467126075
+      top down tileset_21: 3803068352928765902
+      top down tileset_22: -4403947744258628755
+      top down tileset_23: -4512158626615758912
+      top down tileset_24: -3426294634442427718
+      top down tileset_25: -5106111549611567442
+      top down tileset_26: -2289740679530248497
+      top down tileset_27: -7587197639518415728
+      top down tileset_28: -7895327030702124930
+      top down tileset_29: 4485286507067979322
+      top down tileset_3: 7461285010286931697
+      top down tileset_30: 3320842476970907324
+      top down tileset_31: -7894447960574095458
+      top down tileset_32: 126377079634661497
+      top down tileset_33: -2491504765635985346
+      top down tileset_34: -5432172236246720160
+      top down tileset_35: -9156830198539258920
+      top down tileset_36: 7785651897135957037
+      top down tileset_37: 6370303145646389780
+      top down tileset_38: 8607884956647611535
+      top down tileset_39: -8751407258073450392
+      top down tileset_4: 8856750453820747354
+      top down tileset_40: 8092694154744869598
+      top down tileset_41: 3635873735120866073
+      top down tileset_42: 6208372165511681631
+      top down tileset_43: 1893373011875658560
+      top down tileset_44: -4561808771797149776
+      top down tileset_45: -541641697857144022
+      top down tileset_46: 8847595539110145752
+      top down tileset_47: -3858011902860101275
+      top down tileset_48: 795499286302426514
+      top down tileset_49: -5863289305655207479
+      top down tileset_5: 3562074554908613004
+      top down tileset_50: 1990708827646186810
+      top down tileset_51: 450957865078690850
+      top down tileset_52: -6281062291980411379
+      top down tileset_53: -6754365406794755966
+      top down tileset_54: 3703540635960045429
+      top down tileset_55: -511821010492282264
+      top down tileset_56: 472545950040889191
+      top down tileset_57: 5847736440708096727
+      top down tileset_58: -2471738607308581136
+      top down tileset_59: -7672337107818645868
+      top down tileset_6: 6286977082444200475
+      top down tileset_60: 5202149356839087340
+      top down tileset_61: -7679342178626796488
+      top down tileset_62: 6614302986626723688
+      top down tileset_63: 4869197687414485423
+      top down tileset_7: 3529814395084872144
+      top down tileset_8: 3895287698420258229
+      top down tileset_9: -3670259113162920111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX Sprite Sheet 60x41_0: -4643043561874817065
+      VFX Sprite Sheet 60x41_1: 7051628734523214467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

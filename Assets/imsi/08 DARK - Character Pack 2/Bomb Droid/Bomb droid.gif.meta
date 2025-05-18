@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bomb droid_0: 452366267405173409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

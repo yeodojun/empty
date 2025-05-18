@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mask merchants 81x60_0: 8647071160194018055
+      mask merchants 81x60_1: 2040726528220380374
+      mask merchants 81x60_2: -3486446574164632213
+      mask merchants 81x60_3: 1327431490263593877
+      mask merchants 81x60_4: -8930406509852037234
+      mask merchants 81x60_5: -1283894230806082394
+      mask merchants 81x60_6: -2358892842116982593
+      mask merchants 81x60_7: -413968366138276451
+      mask merchants 81x60_8: 8855432113061093131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

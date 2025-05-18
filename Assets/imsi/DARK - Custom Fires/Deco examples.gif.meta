@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Deco examples_0: 2358557618526449089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

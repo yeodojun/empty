@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shield Spritesheet 50x49_0: -8092633091548305945
+      Shield Spritesheet 50x49_1: -7988073783283314585
+      Shield Spritesheet 50x49_10: -143526414323574611
+      Shield Spritesheet 50x49_11: 6119746092635222900
+      Shield Spritesheet 50x49_12: -8979418538944414895
+      Shield Spritesheet 50x49_13: 6583339810977975418
+      Shield Spritesheet 50x49_14: -7840081890408281608
+      Shield Spritesheet 50x49_15: 1212861346998011901
+      Shield Spritesheet 50x49_16: -6507057839004588800
+      Shield Spritesheet 50x49_17: -1626596320346798069
+      Shield Spritesheet 50x49_18: 6034697643209923197
+      Shield Spritesheet 50x49_19: 1539371137603493575
+      Shield Spritesheet 50x49_2: 2373577498423634652
+      Shield Spritesheet 50x49_20: 8251783879610530308
+      Shield Spritesheet 50x49_21: -6833170880880164469
+      Shield Spritesheet 50x49_22: -8212843293332411563
+      Shield Spritesheet 50x49_23: -3579124047523810807
+      Shield Spritesheet 50x49_3: -7981260037064783364
+      Shield Spritesheet 50x49_4: -5383149769213670092
+      Shield Spritesheet 50x49_5: -6209201316314313834
+      Shield Spritesheet 50x49_6: -2068477081835883568
+      Shield Spritesheet 50x49_7: 6870016323623485561
+      Shield Spritesheet 50x49_8: 8281324039135943224
+      Shield Spritesheet 50x49_9: 7880110041603193351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

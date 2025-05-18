@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Archer Bandit-Fall_0: 8175089475698589630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

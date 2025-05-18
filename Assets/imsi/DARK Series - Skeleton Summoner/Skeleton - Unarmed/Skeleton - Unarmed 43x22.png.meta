@@ -1572,7 +1572,65 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton - Unarmed 43x22_0: 1913103332737726772
+      Skeleton - Unarmed 43x22_1: 4090506703852201137
+      Skeleton - Unarmed 43x22_10: -8003855987800393324
+      Skeleton - Unarmed 43x22_11: 7694580202689495187
+      Skeleton - Unarmed 43x22_12: -8108335395164975067
+      Skeleton - Unarmed 43x22_13: -947230434479855401
+      Skeleton - Unarmed 43x22_14: -5963787092343318593
+      Skeleton - Unarmed 43x22_15: 2017119841684932006
+      Skeleton - Unarmed 43x22_16: -1497726232498068245
+      Skeleton - Unarmed 43x22_17: 5337707368251675769
+      Skeleton - Unarmed 43x22_18: -8975409890219580345
+      Skeleton - Unarmed 43x22_19: 1958652907258593381
+      Skeleton - Unarmed 43x22_2: -8742903715239948243
+      Skeleton - Unarmed 43x22_20: -3453248818817900762
+      Skeleton - Unarmed 43x22_21: 6731856406108996000
+      Skeleton - Unarmed 43x22_22: 1611501271400360118
+      Skeleton - Unarmed 43x22_23: 1661470770149812616
+      Skeleton - Unarmed 43x22_24: -2129567458291440048
+      Skeleton - Unarmed 43x22_25: 5759863598954948720
+      Skeleton - Unarmed 43x22_26: -3398743483539566151
+      Skeleton - Unarmed 43x22_27: -2815476217550836251
+      Skeleton - Unarmed 43x22_28: -317196594881423308
+      Skeleton - Unarmed 43x22_29: -6844855362113930964
+      Skeleton - Unarmed 43x22_3: 4317340390241597987
+      Skeleton - Unarmed 43x22_30: -5698424995966210960
+      Skeleton - Unarmed 43x22_31: 1265971502206586133
+      Skeleton - Unarmed 43x22_32: -61153521231650189
+      Skeleton - Unarmed 43x22_33: -5157373957812828348
+      Skeleton - Unarmed 43x22_34: -94646884056438432
+      Skeleton - Unarmed 43x22_35: -1206889052204782208
+      Skeleton - Unarmed 43x22_36: 3562757724095636279
+      Skeleton - Unarmed 43x22_37: -5898072815237197026
+      Skeleton - Unarmed 43x22_38: 7608809111621785684
+      Skeleton - Unarmed 43x22_39: 6784255424185124399
+      Skeleton - Unarmed 43x22_4: 4137056942409451539
+      Skeleton - Unarmed 43x22_40: -6653078060541411923
+      Skeleton - Unarmed 43x22_41: -5451330343853966637
+      Skeleton - Unarmed 43x22_42: 8616279429472628656
+      Skeleton - Unarmed 43x22_43: 3606116383181417086
+      Skeleton - Unarmed 43x22_44: 4908459306337723
+      Skeleton - Unarmed 43x22_45: -6801152553333463685
+      Skeleton - Unarmed 43x22_46: 4653679882592432011
+      Skeleton - Unarmed 43x22_47: 6366669252746050991
+      Skeleton - Unarmed 43x22_48: 1046329025977337301
+      Skeleton - Unarmed 43x22_49: -2624237844703499733
+      Skeleton - Unarmed 43x22_5: -8313033817675031182
+      Skeleton - Unarmed 43x22_50: -8073989617519615224
+      Skeleton - Unarmed 43x22_51: -4578687224797447696
+      Skeleton - Unarmed 43x22_52: 4091967185857108576
+      Skeleton - Unarmed 43x22_53: 8122912033717342561
+      Skeleton - Unarmed 43x22_54: 8045909384706577170
+      Skeleton - Unarmed 43x22_55: -104244625995254927
+      Skeleton - Unarmed 43x22_56: 6871021389599355455
+      Skeleton - Unarmed 43x22_57: 9036539210958964052
+      Skeleton - Unarmed 43x22_6: 5099822847221493604
+      Skeleton - Unarmed 43x22_7: 5960837331869111091
+      Skeleton - Unarmed 43x22_8: 3800650044325393872
+      Skeleton - Unarmed 43x22_9: 4837131976121278412
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

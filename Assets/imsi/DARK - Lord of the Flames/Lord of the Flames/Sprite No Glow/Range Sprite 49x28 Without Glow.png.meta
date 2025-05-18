@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Range Sprite 49x28 Without Glow_0: 2904496766094147890
+      Range Sprite 49x28 Without Glow_1: 4722372890214056385
+      Range Sprite 49x28 Without Glow_2: 4621397692529463992
+      Range Sprite 49x28 Without Glow_3: -2358746595316447951
+      Range Sprite 49x28 Without Glow_4: 2371212001236258755
+      Range Sprite 49x28 Without Glow_5: -1293111236017715457
+      Range Sprite 49x28 Without Glow_6: -1259041202045031798
+      Range Sprite 49x28 Without Glow_7: -4224632321098231408
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dagger Bandit-Idle_0: 7644896100245704172
+      Dagger Bandit-Idle_1: 1699380030795298918
+      Dagger Bandit-Idle_2: -5454654128420157163
+      Dagger Bandit-Idle_3: -2818604930876829610
+      Dagger Bandit-Idle_4: 7246956544852006787
+      Dagger Bandit-Idle_5: -1678601571120837472
+      Dagger Bandit-Idle_6: -2364351119497260847
+      Dagger Bandit-Idle_7: 6521550595496898683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Merchant 1 - Scavenger Merchant 199x106_0: -1016830282447010573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Doggo-Stand_0: -6081371547631835033
+      Doggo-Stand_1: 997816748530808677
+      Doggo-Stand_2: 9059375714646622264
+      Doggo-Stand_3: 5015083134996393887
+      Doggo-Stand_4: -9211499654319995508
+      Doggo-Stand_5: -6787776962148647777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

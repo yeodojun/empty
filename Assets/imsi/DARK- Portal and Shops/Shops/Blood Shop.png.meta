@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blood Shop_0: -2305062657283403313
+      Blood Shop_1: -8039101447351985170
+      Blood Shop_2: -682512524332845633
+      Blood Shop_3: -3226689724333129030
+      Blood Shop_4: -8575266903361959383
+      Blood Shop_5: -7853722381712140910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

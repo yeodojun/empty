@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guardian-death_0: -5558595550538590799
+      Guardian-death_1: -8286188004641857366
+      Guardian-death_10: -24252537234285846
+      Guardian-death_11: -3688908558135715642
+      Guardian-death_12: 2412877339233379306
+      Guardian-death_13: -1876349667932062634
+      Guardian-death_14: 3151903932383508007
+      Guardian-death_15: 1095209909115482641
+      Guardian-death_16: -7378931687220859686
+      Guardian-death_17: 4230538450310605664
+      Guardian-death_18: 8194950651793655192
+      Guardian-death_2: -7442823326964617634
+      Guardian-death_3: 5835557526663468559
+      Guardian-death_4: 5166869718615331848
+      Guardian-death_5: 8310157148505335779
+      Guardian-death_6: -5295730565423764422
+      Guardian-death_7: -8458216400894983006
+      Guardian-death_8: -7836054966779722833
+      Guardian-death_9: 1207541594313386471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

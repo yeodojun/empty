@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dark orb 89x28_0: -4581270725492221533
+      dark orb 89x28_1: -4198241546335173459
+      dark orb 89x28_10: 3964630008113563176
+      dark orb 89x28_11: 3690670816783332606
+      dark orb 89x28_12: 6394827348997516338
+      dark orb 89x28_13: 6322022581588904272
+      dark orb 89x28_14: -207434881161604246
+      dark orb 89x28_15: -5805772559153422099
+      dark orb 89x28_16: 2187177663772249010
+      dark orb 89x28_17: -7362160814893376048
+      dark orb 89x28_2: -7704366329779263359
+      dark orb 89x28_3: -5361782749129126537
+      dark orb 89x28_4: -3378522623017168099
+      dark orb 89x28_5: 7290342171123622778
+      dark orb 89x28_6: 4957200091859235093
+      dark orb 89x28_7: -89952337904806663
+      dark orb 89x28_8: -3679643288773642791
+      dark orb 89x28_9: -3022164103771050705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

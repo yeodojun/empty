@@ -1022,7 +1022,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guardian-Idle_0: 9006351624103961876
+      Guardian-Idle_1: 31418247213296911
+      Guardian-Idle_10: -9197967707957716010
+      Guardian-Idle_11: -6733418691196843473
+      Guardian-Idle_12: 1929987722355095216
+      Guardian-Idle_13: -140535595632083733
+      Guardian-Idle_14: 1390505162643709948
+      Guardian-Idle_15: 5272058798409654958
+      Guardian-Idle_16: -3173007283166818359
+      Guardian-Idle_17: 94448045555782830
+      Guardian-Idle_18: -4050070953313120526
+      Guardian-Idle_19: -6307651453901786786
+      Guardian-Idle_2: -4163059447570921360
+      Guardian-Idle_20: 2540204349519463254
+      Guardian-Idle_21: 1374961911676771182
+      Guardian-Idle_22: 883502131140124390
+      Guardian-Idle_23: -6638352343152003627
+      Guardian-Idle_24: -4448914451221684455
+      Guardian-Idle_25: -309802166701064337
+      Guardian-Idle_26: -7352606063017145152
+      Guardian-Idle_27: -5905524490075386610
+      Guardian-Idle_28: 3678761939669814240
+      Guardian-Idle_29: -6121966600957734414
+      Guardian-Idle_3: -841597560836719
+      Guardian-Idle_30: 7045590106765772847
+      Guardian-Idle_31: -7877026515733626978
+      Guardian-Idle_32: -121044211126832170
+      Guardian-Idle_33: 1888928733977683053
+      Guardian-Idle_34: -2748670430954258760
+      Guardian-Idle_35: -1719601380875794307
+      Guardian-Idle_4: 2051279777576879996
+      Guardian-Idle_5: 9099248834129902573
+      Guardian-Idle_6: -4451527483671517198
+      Guardian-Idle_7: 5949796527824190086
+      Guardian-Idle_8: -451400162243492252
+      Guardian-Idle_9: 140402428403345058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

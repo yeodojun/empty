@@ -1172,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      special attack_0: 2843717873889133268
+      special attack_1: -5542597584167835310
+      special attack_10: 1410329894523719851
+      special attack_11: 1125694631118353825
+      special attack_12: -6589015712858955365
+      special attack_13: -8589729791263755858
+      special attack_14: 9137961297068215964
+      special attack_15: 9198039325300767360
+      special attack_16: -113788634993661941
+      special attack_17: 4574768754216942295
+      special attack_18: 3533244024682138561
+      special attack_19: 6672610647631633567
+      special attack_2: -8529668789036509766
+      special attack_20: -1796957485318331529
+      special attack_21: 3018815161410145292
+      special attack_22: 2327533520674310096
+      special attack_23: -1576873215315485734
+      special attack_24: -2053577135368777483
+      special attack_25: 6339017394765798652
+      special attack_26: 7308690187184286445
+      special attack_27: -475719578976829450
+      special attack_28: -2788135646895332713
+      special attack_29: 5868831891533230120
+      special attack_3: 1998094618463207622
+      special attack_30: -5500749004051756391
+      special attack_31: -2851966452077348263
+      special attack_32: 7636895130213022221
+      special attack_33: -5611991979438066020
+      special attack_34: -3124070343333206661
+      special attack_35: 4585806456731676926
+      special attack_36: -6789510098133107134
+      special attack_37: -1568848990819565879
+      special attack_38: -7193146272244246516
+      special attack_39: -2428984167825825158
+      special attack_4: -4239190625771434637
+      special attack_40: 4553844183092502039
+      special attack_41: 4770245232040973686
+      special attack_5: -3266434640743709392
+      special attack_6: -735692461024084763
+      special attack_7: 3801765110822319086
+      special attack_8: -4476512142094485923
+      special attack_9: -8119001592464660527
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lord of the Poisons asp-Idle_0: 6137540292035813741
+      Lord of the Poisons asp-Idle_1: 4298853433290581831
+      Lord of the Poisons asp-Idle_10: -7368066874787375901
+      Lord of the Poisons asp-Idle_11: -3481569676460054283
+      Lord of the Poisons asp-Idle_2: 5028543540210198150
+      Lord of the Poisons asp-Idle_3: 1610863618975104381
+      Lord of the Poisons asp-Idle_4: -7238016198017734959
+      Lord of the Poisons asp-Idle_5: 6053805753321758225
+      Lord of the Poisons asp-Idle_6: 6020820853349726542
+      Lord of the Poisons asp-Idle_7: 1194167433781518887
+      Lord of the Poisons asp-Idle_8: 4807267173763908616
+      Lord of the Poisons asp-Idle_9: 268878384923888706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

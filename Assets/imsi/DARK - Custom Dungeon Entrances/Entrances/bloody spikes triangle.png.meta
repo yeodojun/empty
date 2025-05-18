@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bloody spikes triangle_0: 8687449522271931548
+      bloody spikes triangle_1: -4692080906041259986
+      bloody spikes triangle_2: -7019496390851486217
+      bloody spikes triangle_3: 6481416431226510012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

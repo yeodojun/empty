@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Electric Hit 1_0: 7993362969640317897
+      Electric Hit 1_1: 3547889505628404166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

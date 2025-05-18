@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Golden-Jump_0: 2439661412120228428
+      Golden-Jump_1: 6966625362098756831
+      Golden-Jump_2: 6201489233799950921
+      Golden-Jump_3: -8009818749234835941
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

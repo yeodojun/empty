@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sliders with Glow 35x16_0: 5875143810996715810
+      Sliders with Glow 35x16_1: 1577122216544333065
+      Sliders with Glow 35x16_2: 8668863813748916445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

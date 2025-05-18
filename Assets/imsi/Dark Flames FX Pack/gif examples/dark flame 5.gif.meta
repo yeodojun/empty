@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dark flame 5_0: 4986305826765409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

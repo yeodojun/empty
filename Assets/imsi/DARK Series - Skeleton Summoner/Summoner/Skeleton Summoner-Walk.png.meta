@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton Summoner-Walk_0: 4589239828618562334
+      Skeleton Summoner-Walk_1: -7893312503528064511
+      Skeleton Summoner-Walk_10: 4421017928155164976
+      Skeleton Summoner-Walk_11: -2767125575648546669
+      Skeleton Summoner-Walk_2: -6337578203892780840
+      Skeleton Summoner-Walk_3: 1769167571725098634
+      Skeleton Summoner-Walk_4: -456377751853847753
+      Skeleton Summoner-Walk_5: 6686192392046770314
+      Skeleton Summoner-Walk_6: 7637313287171248031
+      Skeleton Summoner-Walk_7: 5555840707634840681
+      Skeleton Summoner-Walk_8: -7096095634289971644
+      Skeleton Summoner-Walk_9: -7031186634256502131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

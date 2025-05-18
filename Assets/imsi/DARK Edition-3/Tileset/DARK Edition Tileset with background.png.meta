@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DARK Edition Tileset with background_0: -928377691330882265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

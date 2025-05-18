@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      attack left right 11x28 with shadows_0: -7994599714557242531
+      attack left right 11x28 with shadows_1: 130860578925327055
+      attack left right 11x28 with shadows_10: 7361540449343311810
+      attack left right 11x28 with shadows_11: -4765365016298478188
+      attack left right 11x28 with shadows_12: 8776079913055380865
+      attack left right 11x28 with shadows_13: -4826796040495999039
+      attack left right 11x28 with shadows_2: -5769418145377880233
+      attack left right 11x28 with shadows_3: -2675612378025114537
+      attack left right 11x28 with shadows_4: 5730262072968680386
+      attack left right 11x28 with shadows_5: 2949146807572625782
+      attack left right 11x28 with shadows_6: -1734895567258004368
+      attack left right 11x28 with shadows_7: -3466021017529246394
+      attack left right 11x28 with shadows_8: 2926780148336027612
+      attack left right 11x28 with shadows_9: -9218367324316372867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

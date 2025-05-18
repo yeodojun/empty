@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bear trap 32x19_0: -487756600272076020
+      Bear trap 32x19_1: 842034526666456952
+      Bear trap 32x19_10: -6854653328039180423
+      Bear trap 32x19_11: 94865041326456355
+      Bear trap 32x19_2: 319883729857525548
+      Bear trap 32x19_3: 4449322790892069917
+      Bear trap 32x19_4: -4329368190253823637
+      Bear trap 32x19_5: 7647193430178610412
+      Bear trap 32x19_6: -246952113421815293
+      Bear trap 32x19_7: -6475478951395722211
+      Bear trap 32x19_8: -3330415463741321047
+      Bear trap 32x19_9: 7335335947707512657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

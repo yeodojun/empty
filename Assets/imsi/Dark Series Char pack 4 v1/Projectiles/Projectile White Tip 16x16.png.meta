@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Projectile White Tip 16x16_0: 831253177486224549
+      Projectile White Tip 16x16_1: 5621773388622451323
+      Projectile White Tip 16x16_2: 3740537468054840415
+      Projectile White Tip 16x16_3: 9198318861317075374
+      Projectile White Tip 16x16_4: -2404635564451952732
+      Projectile White Tip 16x16_5: -8017647926249493519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

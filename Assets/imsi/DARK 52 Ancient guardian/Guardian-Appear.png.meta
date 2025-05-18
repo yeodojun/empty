@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guardian-Appear_0: 4129465653924841835
+      Guardian-Appear_1: 4976093403501737240
+      Guardian-Appear_2: -7727049447510933762
+      Guardian-Appear_3: 5352873826794782072
+      Guardian-Appear_4: 2732021524591339216
+      Guardian-Appear_5: -2392689740016597980
+      Guardian-Appear_6: -8125734448210814499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

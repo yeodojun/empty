@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiny Panda-Fall With Spin_0: 7156443083322589962
+      Tiny Panda-Fall With Spin_1: 2356557364148462839
+      Tiny Panda-Fall With Spin_2: 7097455067772740224
+      Tiny Panda-Fall With Spin_3: 1589900963370530299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

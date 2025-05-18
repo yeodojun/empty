@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Spin charge_0: 5621820502732693464
+      Spin charge_1: -618398058779192093
+      Spin charge_10: 3470001255513142210
+      Spin charge_11: -8102099836789530893
+      Spin charge_12: -1578568254480947598
+      Spin charge_13: -2784323232046763124
+      Spin charge_14: 7495823493399354901
+      Spin charge_15: 6085203133133930151
+      Spin charge_16: -4210921204351549930
+      Spin charge_17: 4830601790523339322
+      Spin charge_18: 1382654264301969660
+      Spin charge_19: 2164613996346005936
+      Spin charge_2: 3500246057318423219
+      Spin charge_3: 7148996461265311006
+      Spin charge_4: 582353554069120798
+      Spin charge_5: 8221458096945747119
+      Spin charge_6: 4662573818181751689
+      Spin charge_7: -2691456089166107617
+      Spin charge_8: 5897660666307038397
+      Spin charge_9: 3162370970222243573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

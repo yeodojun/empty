@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX Sprite Sheet 90x37_0: 6063489059707127144
+      VFX Sprite Sheet 90x37_1: -4965811406635853355
+      VFX Sprite Sheet 90x37_10: 490994137016921650
+      VFX Sprite Sheet 90x37_11: 6657461613148379998
+      VFX Sprite Sheet 90x37_12: -3444974777608641888
+      VFX Sprite Sheet 90x37_13: 8917469709787627950
+      VFX Sprite Sheet 90x37_14: 1346991022455498737
+      VFX Sprite Sheet 90x37_15: -1438097903443268786
+      VFX Sprite Sheet 90x37_16: -8706703128783766291
+      VFX Sprite Sheet 90x37_17: 2151862986261922312
+      VFX Sprite Sheet 90x37_18: -2247244808558116924
+      VFX Sprite Sheet 90x37_19: 3783974652682990436
+      VFX Sprite Sheet 90x37_2: -1280625806657205939
+      VFX Sprite Sheet 90x37_20: 33232351568706445
+      VFX Sprite Sheet 90x37_21: 369608116842164441
+      VFX Sprite Sheet 90x37_22: 5128226156880492643
+      VFX Sprite Sheet 90x37_23: -895438922793954291
+      VFX Sprite Sheet 90x37_24: 5496343875257995450
+      VFX Sprite Sheet 90x37_25: -23795096268221865
+      VFX Sprite Sheet 90x37_26: 5395688313332504620
+      VFX Sprite Sheet 90x37_27: -8746986569747028308
+      VFX Sprite Sheet 90x37_28: -5587046292937090709
+      VFX Sprite Sheet 90x37_29: 5452809208284970199
+      VFX Sprite Sheet 90x37_3: 3250909860836148577
+      VFX Sprite Sheet 90x37_30: 2953735836716099783
+      VFX Sprite Sheet 90x37_31: -2014869820673557553
+      VFX Sprite Sheet 90x37_4: 26334492308721799
+      VFX Sprite Sheet 90x37_5: -6438586734026019693
+      VFX Sprite Sheet 90x37_6: -3793813505702776104
+      VFX Sprite Sheet 90x37_7: -2090469962556394312
+      VFX Sprite Sheet 90x37_8: 4404122671370150488
+      VFX Sprite Sheet 90x37_9: 1606740935034533510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

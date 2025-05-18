@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton - Armored Swordsman-Attack_0: 5459803016792408110
+      Skeleton - Armored Swordsman-Attack_1: -6755637648846625431
+      Skeleton - Armored Swordsman-Attack_10: -39682450367723793
+      Skeleton - Armored Swordsman-Attack_2: 3546589349778498696
+      Skeleton - Armored Swordsman-Attack_3: 7994686884312722996
+      Skeleton - Armored Swordsman-Attack_4: 8053594819641548051
+      Skeleton - Armored Swordsman-Attack_5: 6447418799027877769
+      Skeleton - Armored Swordsman-Attack_6: -7342065215719956297
+      Skeleton - Armored Swordsman-Attack_7: -1809168184993797641
+      Skeleton - Armored Swordsman-Attack_8: 7121422902523926496
+      Skeleton - Armored Swordsman-Attack_9: 1550810532680809962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

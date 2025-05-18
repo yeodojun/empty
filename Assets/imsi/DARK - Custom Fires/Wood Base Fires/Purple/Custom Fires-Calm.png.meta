@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Custom Fires-Calm_0: 7604675336328216467
+      Custom Fires-Calm_1: -3872888565414848570
+      Custom Fires-Calm_10: 7008959692722503500
+      Custom Fires-Calm_11: -6577754706968116951
+      Custom Fires-Calm_12: 4086042735640058686
+      Custom Fires-Calm_2: -920970449516857382
+      Custom Fires-Calm_3: 1745004813782439752
+      Custom Fires-Calm_4: 9077622198390575109
+      Custom Fires-Calm_5: 8679551910671504550
+      Custom Fires-Calm_6: 7244817115804846072
+      Custom Fires-Calm_7: 8530415842714186514
+      Custom Fires-Calm_8: 6361209242477239530
+      Custom Fires-Calm_9: 8514840559398300157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

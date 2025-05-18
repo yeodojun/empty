@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orb mage gif_0: -958451052654702207
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

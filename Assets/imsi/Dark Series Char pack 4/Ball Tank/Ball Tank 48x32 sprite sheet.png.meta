@@ -1422,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ball Tank 48x32 sprite sheet_0: -8090400823333399398
+      Ball Tank 48x32 sprite sheet_1: -3789770499383628283
+      Ball Tank 48x32 sprite sheet_10: 720609998497987593
+      Ball Tank 48x32 sprite sheet_11: -3426601793318015167
+      Ball Tank 48x32 sprite sheet_12: -1820524609606686652
+      Ball Tank 48x32 sprite sheet_13: -3418711579406362203
+      Ball Tank 48x32 sprite sheet_14: -4282832872187434772
+      Ball Tank 48x32 sprite sheet_15: 7124655929946492360
+      Ball Tank 48x32 sprite sheet_16: 2859930753182537433
+      Ball Tank 48x32 sprite sheet_17: -4620975099819185535
+      Ball Tank 48x32 sprite sheet_18: 5145610071964886325
+      Ball Tank 48x32 sprite sheet_19: -3665971407790637005
+      Ball Tank 48x32 sprite sheet_2: 8819055980161417679
+      Ball Tank 48x32 sprite sheet_20: -5934629188402977301
+      Ball Tank 48x32 sprite sheet_21: -4120820587964525325
+      Ball Tank 48x32 sprite sheet_22: 634327875841424143
+      Ball Tank 48x32 sprite sheet_23: -8844231620608471170
+      Ball Tank 48x32 sprite sheet_24: 6127451942198695471
+      Ball Tank 48x32 sprite sheet_25: 5126403799019817120
+      Ball Tank 48x32 sprite sheet_26: 8897909322083930724
+      Ball Tank 48x32 sprite sheet_27: 644310794748022555
+      Ball Tank 48x32 sprite sheet_28: -4963794321606122627
+      Ball Tank 48x32 sprite sheet_29: -2629687303631751186
+      Ball Tank 48x32 sprite sheet_3: -6116033101463664395
+      Ball Tank 48x32 sprite sheet_30: 376177279735473731
+      Ball Tank 48x32 sprite sheet_31: -561333514847455464
+      Ball Tank 48x32 sprite sheet_32: 1250207622446140399
+      Ball Tank 48x32 sprite sheet_33: 2013569782046248314
+      Ball Tank 48x32 sprite sheet_34: -2107652208995628715
+      Ball Tank 48x32 sprite sheet_35: -4030001258731515126
+      Ball Tank 48x32 sprite sheet_36: 8075481489424146893
+      Ball Tank 48x32 sprite sheet_37: 4715268637503431945
+      Ball Tank 48x32 sprite sheet_38: 8549911442090272217
+      Ball Tank 48x32 sprite sheet_39: -3004504605621772853
+      Ball Tank 48x32 sprite sheet_4: -2779064105833223240
+      Ball Tank 48x32 sprite sheet_40: 8964772868760062185
+      Ball Tank 48x32 sprite sheet_41: 576154930594295140
+      Ball Tank 48x32 sprite sheet_42: -3538494222195104263
+      Ball Tank 48x32 sprite sheet_43: -6438310643555097928
+      Ball Tank 48x32 sprite sheet_44: -4761540649667273484
+      Ball Tank 48x32 sprite sheet_45: -1972624000973510013
+      Ball Tank 48x32 sprite sheet_46: -5387574013637711477
+      Ball Tank 48x32 sprite sheet_47: -5148292271199062059
+      Ball Tank 48x32 sprite sheet_48: -8767049172002398340
+      Ball Tank 48x32 sprite sheet_49: 5043845727299095991
+      Ball Tank 48x32 sprite sheet_5: 2880189163858084215
+      Ball Tank 48x32 sprite sheet_50: 3933348359500440325
+      Ball Tank 48x32 sprite sheet_51: 1658466267439307072
+      Ball Tank 48x32 sprite sheet_6: -6378850467525269378
+      Ball Tank 48x32 sprite sheet_7: 8589443677686315318
+      Ball Tank 48x32 sprite sheet_8: -6786143558010903662
+      Ball Tank 48x32 sprite sheet_9: 4603036269600404932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

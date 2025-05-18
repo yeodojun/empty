@@ -847,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VFX for Sweep_0: -4636816388343496333
+      VFX for Sweep_1: -2431790320456734165
+      VFX for Sweep_10: 401789532117327181
+      VFX for Sweep_11: 7052217123245275003
+      VFX for Sweep_12: -6960960794072478999
+      VFX for Sweep_13: -6983267067401892956
+      VFX for Sweep_14: -8658751125449126810
+      VFX for Sweep_15: -933094459508400010
+      VFX for Sweep_16: -4648637439933719230
+      VFX for Sweep_17: 5992424620666411466
+      VFX for Sweep_18: -101916793241825863
+      VFX for Sweep_19: -493677764852840103
+      VFX for Sweep_2: 6175585665456708230
+      VFX for Sweep_20: 4563559955465265018
+      VFX for Sweep_21: -5543177782167544918
+      VFX for Sweep_22: 7470642062662899605
+      VFX for Sweep_23: 6018393892598949583
+      VFX for Sweep_24: -6601272137207673166
+      VFX for Sweep_25: -7171171554100575866
+      VFX for Sweep_26: -8660565762823242816
+      VFX for Sweep_27: -4195876364685733012
+      VFX for Sweep_28: 5226193283374295505
+      VFX for Sweep_3: -5184364358704814458
+      VFX for Sweep_4: -6721895474145944754
+      VFX for Sweep_5: 8392207151709851668
+      VFX for Sweep_6: 7367267068688880928
+      VFX for Sweep_7: -9136504574855439831
+      VFX for Sweep_8: -1204199861114067448
+      VFX for Sweep_9: -1258469692754296339
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

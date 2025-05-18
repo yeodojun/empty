@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slam with VFX_0: 5998015394367658159
+      slam with VFX_1: -3119658686257376714
+      slam with VFX_10: 8734148725337445866
+      slam with VFX_11: -1465091850186218247
+      slam with VFX_2: -2893321875916852659
+      slam with VFX_3: -2255440277003348529
+      slam with VFX_4: 6457928125749586587
+      slam with VFX_5: 68791777257461233
+      slam with VFX_6: 6470269225043919196
+      slam with VFX_7: 6356163287540304531
+      slam with VFX_8: 1302140007598450784
+      slam with VFX_9: -860792920405314139
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

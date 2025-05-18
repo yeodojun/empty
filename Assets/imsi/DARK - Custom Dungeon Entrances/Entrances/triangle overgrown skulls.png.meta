@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      triangle overgrown skulls_0: -9073364758513396532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

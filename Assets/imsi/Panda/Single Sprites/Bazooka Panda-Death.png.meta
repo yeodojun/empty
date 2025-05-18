@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bazooka Panda-Death_0: -7193780347978375877
+      Bazooka Panda-Death_1: 5241795260647308324
+      Bazooka Panda-Death_2: 7057176131419869470
+      Bazooka Panda-Death_3: -4955017987436855158
+      Bazooka Panda-Death_4: 8019518745036805515
+      Bazooka Panda-Death_5: -2675328570810654654
+      Bazooka Panda-Death_6: 4452603205809973062
+      Bazooka Panda-Death_7: 5679796341746227481
+      Bazooka Panda-Death_8: -1198896765511795209
+      Bazooka Panda-Death_9: -2207024146606321052
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

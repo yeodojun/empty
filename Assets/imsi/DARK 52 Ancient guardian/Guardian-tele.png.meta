@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guardian-tele_0: -3832579074903065918
+      Guardian-tele_1: -6896893829495301034
+      Guardian-tele_2: 1504292758015625899
+      Guardian-tele_3: 6556604836369850915
+      Guardian-tele_4: -8763684620074401848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

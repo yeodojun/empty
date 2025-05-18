@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tri bloody square bloody skulls_0: 3498981824312116331
+      tri bloody square bloody skulls_1: 104764353741286684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton - Unarmed-Run_0: 711692304528985871
+      Skeleton - Unarmed-Run_1: 827788752991916874
+      Skeleton - Unarmed-Run_2: 6341182975011824718
+      Skeleton - Unarmed-Run_3: -1010809496631645483
+      Skeleton - Unarmed-Run_4: 4718531147711651879
+      Skeleton - Unarmed-Run_5: 4401206031931719430
+      Skeleton - Unarmed-Run_6: -1439818870828201945
+      Skeleton - Unarmed-Run_7: 8338689062311659308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

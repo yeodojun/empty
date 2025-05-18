@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Archer Bandit-Jump_0: 660592829714394898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

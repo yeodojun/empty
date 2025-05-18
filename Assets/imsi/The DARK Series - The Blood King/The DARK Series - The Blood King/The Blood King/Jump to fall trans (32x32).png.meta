@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jump to fall trans (32x32)_0: -838660129005449165
+      Jump to fall trans (32x32)_1: -705810355330888771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

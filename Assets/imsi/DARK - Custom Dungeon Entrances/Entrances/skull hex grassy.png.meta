@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skull hex grassy_0: 4527273294514801908
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

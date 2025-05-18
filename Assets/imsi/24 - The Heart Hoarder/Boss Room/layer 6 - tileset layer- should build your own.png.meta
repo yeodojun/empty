@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      layer 6 - tileset layer- should build your own_0: -1918775335799457382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

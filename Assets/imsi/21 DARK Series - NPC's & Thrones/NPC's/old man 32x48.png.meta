@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      old man 32x48_0: -5319511175342068238
+      old man 32x48_1: 5568597956358658304
+      old man 32x48_10: 1822472644130866937
+      old man 32x48_11: 289504359770021425
+      old man 32x48_12: 2852910634213619180
+      old man 32x48_13: -3484998921561530248
+      old man 32x48_14: 4492404112866167819
+      old man 32x48_15: 4405164635198864419
+      old man 32x48_16: 2489536116284283703
+      old man 32x48_17: -7055004135733244958
+      old man 32x48_2: -2711301859391598485
+      old man 32x48_3: -7654227377638058663
+      old man 32x48_4: 6498079236763666498
+      old man 32x48_5: -1769783766698369558
+      old man 32x48_6: -7857831242930492305
+      old man 32x48_7: 8690898271985275804
+      old man 32x48_8: 107947002323805243
+      old man 32x48_9: -7235455624730223889
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

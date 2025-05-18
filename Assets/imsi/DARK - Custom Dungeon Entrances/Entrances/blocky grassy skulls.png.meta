@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blocky grassy skulls_0: -7022279044900773616
+      blocky grassy skulls_1: 8533714797117717542
+      blocky grassy skulls_2: -1227295478812155339
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
