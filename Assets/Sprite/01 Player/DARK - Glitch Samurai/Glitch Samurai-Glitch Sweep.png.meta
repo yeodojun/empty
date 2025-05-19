@@ -88,7 +88,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -160,6 +160,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -167,10 +180,10 @@ TextureImporter:
       name: Glitch Samurai-Glitch Sweep_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 29
-        width: 15
-        height: 13
+        x: 0
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +202,10 @@ TextureImporter:
       name: Glitch Samurai-Glitch Sweep_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 29
-        width: 15
-        height: 8
+        x: 140
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +224,10 @@ TextureImporter:
       name: Glitch Samurai-Glitch Sweep_2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 10
-        width: 23
-        height: 32
+        x: 280
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,10 +246,10 @@ TextureImporter:
       name: Glitch Samurai-Glitch Sweep_3
       rect:
         serializedVersion: 2
-        x: 177
-        y: 29
-        width: 15
-        height: 8
+        x: 420
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,10 +268,10 @@ TextureImporter:
       name: Glitch Samurai-Glitch Sweep_4
       rect:
         serializedVersion: 2
-        x: 279
-        y: 29
-        width: 15
-        height: 13
+        x: 560
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,10 +290,10 @@ TextureImporter:
       name: Glitch Samurai-Glitch Sweep_5
       rect:
         serializedVersion: 2
-        x: 316
-        y: 29
-        width: 15
-        height: 8
+        x: 700
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,275 +308,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_6
-      rect:
-        serializedVersion: 2
-        x: 419
-        y: 29
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a42b67d9f9fa3eae0800000000000000
-      internalID: -1521179149044633014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_7
-      rect:
-        serializedVersion: 2
-        x: 456
-        y: 29
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8555a5e6f32fe0e0800000000000000
-      internalID: -2238530946458102388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_8
-      rect:
-        serializedVersion: 2
-        x: 559
-        y: 28
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a73922698e1a40640800000000000000
-      internalID: 5045335502885131130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_9
-      rect:
-        serializedVersion: 2
-        x: 596
-        y: 28
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a17b00db542adabc0800000000000000
-      internalID: -3770178892631853286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_10
-      rect:
-        serializedVersion: 2
-        x: 699
-        y: 28
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2def68539b59d350800000000000000
-      internalID: 6041961063496281388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_11
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 28
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f43a31f80630c010800000000000000
-      internalID: 1207024112170054897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_12
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 0
-        width: 83
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b9b53ba42339a810800000000000000
-      internalID: 1777007760558635445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_13
-      rect:
-        serializedVersion: 2
-        x: 178
-        y: 0
-        width: 42
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f60cff531efd21e0800000000000000
-      internalID: -2220839682055600399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_14
-      rect:
-        serializedVersion: 2
-        x: 299
-        y: 0
-        width: 59
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d40941abf2bdf32b0800000000000000
-      internalID: -5602518413393751987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_15
-      rect:
-        serializedVersion: 2
-        x: 442
-        y: 0
-        width: 55
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35f59fcf6c42228f0800000000000000
-      internalID: -566850166028935341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_16
-      rect:
-        serializedVersion: 2
-        x: 595
-        y: 0
-        width: 42
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcc94b8ecaf016850800000000000000
-      internalID: 6368388583391534287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Glitch Sweep_17
-      rect:
-        serializedVersion: 2
-        x: 737
-        y: 0
-        width: 40
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 602527b918b4a0990800000000000000
-      internalID: -7419034416108645882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 12f4a09763abc8641834ce62cd165a0f
     internalID: 0
     vertices: []
     indices: 
@@ -575,22 +324,10 @@ TextureImporter:
     nameFileIdTable:
       Glitch Samurai-Glitch Sweep_0: -1997011121411283090
       Glitch Samurai-Glitch Sweep_1: 6148769535100311719
-      Glitch Samurai-Glitch Sweep_10: 6041961063496281388
-      Glitch Samurai-Glitch Sweep_11: 1207024112170054897
-      Glitch Samurai-Glitch Sweep_12: 1777007760558635445
-      Glitch Samurai-Glitch Sweep_13: -2220839682055600399
-      Glitch Samurai-Glitch Sweep_14: -5602518413393751987
-      Glitch Samurai-Glitch Sweep_15: -566850166028935341
-      Glitch Samurai-Glitch Sweep_16: 6368388583391534287
-      Glitch Samurai-Glitch Sweep_17: -7419034416108645882
       Glitch Samurai-Glitch Sweep_2: -1011032477082478236
       Glitch Samurai-Glitch Sweep_3: 1250491542530680840
       Glitch Samurai-Glitch Sweep_4: 2246859778379268562
       Glitch Samurai-Glitch Sweep_5: 7890947064577590100
-      Glitch Samurai-Glitch Sweep_6: -1521179149044633014
-      Glitch Samurai-Glitch Sweep_7: -2238530946458102388
-      Glitch Samurai-Glitch Sweep_8: 5045335502885131130
-      Glitch Samurai-Glitch Sweep_9: -3770178892631853286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

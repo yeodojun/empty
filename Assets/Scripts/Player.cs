@@ -26,6 +26,13 @@ public class Player : MonoBehaviour
     private bool isJumping = false;
     private float targetY = 0f;
 
+    private float lastAttackTime = -1f;
+    private int nextAttackIndex = 1;
+    private const float attackDelay = 0.2f;
+    private const float comboResetTime = 0.5f;
+    private bool canAttack = true;
+
+
 
     void Awake()
     {
@@ -45,6 +52,9 @@ public class Player : MonoBehaviour
 
         // 공격 키 처리
         inputActions.Player.Attack.performed += ctx => Attack();
+
+        // 공격 키 처리
+        inputActions.Player.Skill.performed += ctx => Skill();
 
         inputActions.Player.Jump.started += ctx => OnJumpStart();    // 눌렀을 때
         inputActions.Player.Jump.canceled += ctx => OnJumpCancel();  // 뗐을 때
@@ -162,11 +172,39 @@ public class Player : MonoBehaviour
 
     void Attack()
     {
-        // 공격 애니메이션 실행
-        animator.SetTrigger("attack");
+        float currentTime = Time.time;
 
-        // 추후에 공격 로직 (히트박스, 데미지 등) 추가 가능
+        // 딜레이 중이면 무시
+        if (!canAttack) return;
+
+        // 콤보 유지 시간 넘었으면 초기화
+        if (currentTime - lastAttackTime > comboResetTime)
+        {
+            nextAttackIndex = 1;
+        }
+
+        // 트리거 실행
+        string triggerName = $"Attack{nextAttackIndex}";
+        animator.SetTrigger(triggerName);
+
+        // 다음 공격 번호 설정
+        nextAttackIndex = (nextAttackIndex == 1) ? 2 : 1;
+        lastAttackTime = currentTime;
+
+        // 딜레이 설정
+        canAttack = false;
+        Invoke(nameof(ResetAttackDelay), attackDelay);
     }
+    void ResetAttackDelay()
+    {
+        canAttack = true;
+    }
+
+    void Skill()
+    {
+        animator.SetTrigger("Skill");
+    }
+
 
     // 디버그용: 땅 체크 영역 표시
     void OnDrawGizmosSelected()

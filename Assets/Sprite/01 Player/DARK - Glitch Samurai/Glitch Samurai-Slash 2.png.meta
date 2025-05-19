@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -154,6 +154,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -161,10 +174,10 @@ TextureImporter:
       name: Glitch Samurai-Slash 2_0
       rect:
         serializedVersion: 2
-        x: 84
-        y: 28
-        width: 15
-        height: 8
+        x: 0
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +196,10 @@ TextureImporter:
       name: Glitch Samurai-Slash 2_1
       rect:
         serializedVersion: 2
-        x: 121
-        y: 28
-        width: 15
-        height: 13
+        x: 140
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +218,10 @@ TextureImporter:
       name: Glitch Samurai-Slash 2_2
       rect:
         serializedVersion: 2
-        x: 225
-        y: 28
-        width: 15
-        height: 8
+        x: 280
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +240,10 @@ TextureImporter:
       name: Glitch Samurai-Slash 2_3
       rect:
         serializedVersion: 2
-        x: 262
-        y: 28
-        width: 15
-        height: 13
+        x: 420
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +262,10 @@ TextureImporter:
       name: Glitch Samurai-Slash 2_4
       rect:
         serializedVersion: 2
-        x: 365
-        y: 28
-        width: 15
-        height: 8
+        x: 560
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,253 +280,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_5
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 28
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed6cb339abe937900800000000000000
-      internalID: 681062492834350814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_6
-      rect:
-        serializedVersion: 2
-        x: 505
-        y: 28
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e918d83461f6c750800000000000000
-      internalID: 6325008139441150436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_7
-      rect:
-        serializedVersion: 2
-        x: 542
-        y: 28
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33e7ec11f154531f0800000000000000
-      internalID: -1065869737058206157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_8
-      rect:
-        serializedVersion: 2
-        x: 644
-        y: 28
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a6a8943b5618b7b70800000000000000
-      internalID: 8897847762600168042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_9
-      rect:
-        serializedVersion: 2
-        x: 681
-        y: 28
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bca9c5b8f73e6c600800000000000000
-      internalID: 488327746554731211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_10
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 0
-        width: 73
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e3da26e386c2c500800000000000000
-      internalID: 415112385476088807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_11
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 0
-        width: 47
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7758bcc24a2875ce0800000000000000
-      internalID: -1416519916146948745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_12
-      rect:
-        serializedVersion: 2
-        x: 251
-        y: 8
-        width: 12
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 990a05e3c3f872480800000000000000
-      internalID: -8924006647705067367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_13
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 0
-        width: 55
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5fd0687c4e27cf6a0800000000000000
-      internalID: -6414125442356867595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_14
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 0
-        width: 52
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3a00890691feb7f0800000000000000
-      internalID: -594772474059552196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Slash 2_15
-      rect:
-        serializedVersion: 2
-        x: 620
-        y: 0
-        width: 51
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01762f11e154620b0800000000000000
-      internalID: -5753835478466795760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5a5bcf3b18404994b8f0023bdfb20f1d
     internalID: 0
     vertices: []
     indices: 
@@ -525,20 +296,9 @@ TextureImporter:
     nameFileIdTable:
       Glitch Samurai-Slash 2_0: -3638905432645078489
       Glitch Samurai-Slash 2_1: 4289702035089205923
-      Glitch Samurai-Slash 2_10: 415112385476088807
-      Glitch Samurai-Slash 2_11: -1416519916146948745
-      Glitch Samurai-Slash 2_12: -8924006647705067367
-      Glitch Samurai-Slash 2_13: -6414125442356867595
-      Glitch Samurai-Slash 2_14: -594772474059552196
-      Glitch Samurai-Slash 2_15: -5753835478466795760
       Glitch Samurai-Slash 2_2: 5945972082148218773
       Glitch Samurai-Slash 2_3: -8680263697918025191
       Glitch Samurai-Slash 2_4: 3788484640635280290
-      Glitch Samurai-Slash 2_5: 681062492834350814
-      Glitch Samurai-Slash 2_6: 6325008139441150436
-      Glitch Samurai-Slash 2_7: -1065869737058206157
-      Glitch Samurai-Slash 2_8: 8897847762600168042
-      Glitch Samurai-Slash 2_9: 488327746554731211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
