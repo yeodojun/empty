@@ -133,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -147,7 +147,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -171,7 +171,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -205,6 +205,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -212,19 +225,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 30
-        width: 15
-        height: 8
+        x: 0
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c74353d7f1542960800000000000000
+      spriteID: 5c2f7aaebedf6eb44ab2661334773322
       internalID: 7576270597988239305
       vertices: []
       indices: 
@@ -234,19 +247,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 30
-        width: 15
-        height: 13
+        x: 140
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4e024b6e59f6bca90800000000000000
+      spriteID: 71ad89563c405e340bda0b6b4bb2c05e
       internalID: -7292612481985011484
       vertices: []
       indices: 
@@ -256,19 +269,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_2
       rect:
         serializedVersion: 2
-        x: 202
-        y: 30
-        width: 15
-        height: 8
+        x: 280
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 113a516e827de8350800000000000000
+      spriteID: d90ec510a43b01d4db6802117bb852c8
       internalID: 6020986322499773201
       vertices: []
       indices: 
@@ -278,19 +291,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_3
       rect:
         serializedVersion: 2
-        x: 239
-        y: 30
-        width: 15
-        height: 13
+        x: 420
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75a16e2b4ffe34bd0800000000000000
+      spriteID: 438d6e5c255fcea4188172c1d9c6e0e0
       internalID: -2647008321711236521
       vertices: []
       indices: 
@@ -300,19 +313,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_4
       rect:
         serializedVersion: 2
-        x: 342
-        y: 31
-        width: 15
-        height: 8
+        x: 560
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0fd865fc982378280800000000000000
+      spriteID: 0d171463150443f40824f2b8cb681549
       internalID: -9041202159452516880
       vertices: []
       indices: 
@@ -322,19 +335,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_5
       rect:
         serializedVersion: 2
-        x: 379
-        y: 31
-        width: 15
-        height: 13
+        x: 700
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1d509139b71bc1210800000000000000
+      spriteID: a6fcf0be0d72af34eaf05db9fc028c56
       internalID: 1305113136337585617
       vertices: []
       indices: 
@@ -344,19 +357,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_6
       rect:
         serializedVersion: 2
-        x: 482
-        y: 31
-        width: 15
-        height: 8
+        x: 840
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2f2a300ca0c5e140800000000000000
+      spriteID: 8e06fc8d3815a3b48ace1751c93c5d90
       internalID: 4748413227102777130
       vertices: []
       indices: 
@@ -366,19 +379,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_7
       rect:
         serializedVersion: 2
-        x: 519
-        y: 31
-        width: 15
-        height: 13
+        x: 980
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e08cb9f7d1d0ccec0800000000000000
+      spriteID: 87fdd636ce5facc4aa7ed740bc6740e7
       internalID: -3545444386301294578
       vertices: []
       indices: 
@@ -388,19 +401,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_8
       rect:
         serializedVersion: 2
-        x: 622
-        y: 31
-        width: 15
-        height: 8
+        x: 1120
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b246853e9eb79fbf0800000000000000
+      spriteID: bc64922a38d0780488c6917bb7e7ae1c
       internalID: -290064456516869077
       vertices: []
       indices: 
@@ -410,19 +423,19 @@ TextureImporter:
       name: Glitch Samurai-Idle_9
       rect:
         serializedVersion: 2
-        x: 659
-        y: 31
-        width: 15
-        height: 13
+        x: 1260
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1a6fb7a955dfbe440800000000000000
+      spriteID: 98e47a35bd2e1914f9d156d90d757e35
       internalID: 4966341558211966625
       vertices: []
       indices: 
@@ -432,504 +445,20 @@ TextureImporter:
       name: Glitch Samurai-Idle_10
       rect:
         serializedVersion: 2
-        x: 762
-        y: 30
-        width: 15
-        height: 8
+        x: 1400
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 751f43420f8e6ffe0800000000000000
+      spriteID: a91de1c7488e3dd44a5a35722b733696
       internalID: -1155480136276709033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_11
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 30
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4c6451bb9dcb0c30800000000000000
-      internalID: 4326777935598218318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_12
-      rect:
-        serializedVersion: 2
-        x: 902
-        y: 29
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d79b94f3d7cb581a0800000000000000
-      internalID: -6807828015581906563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_13
-      rect:
-        serializedVersion: 2
-        x: 939
-        y: 29
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9194df911fb486fb0800000000000000
-      internalID: -4654386715992176359
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_14
-      rect:
-        serializedVersion: 2
-        x: 1042
-        y: 29
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 102b9a41ab12b0900800000000000000
-      internalID: 651651654179467777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_15
-      rect:
-        serializedVersion: 2
-        x: 1079
-        y: 29
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be32af6b9def40150800000000000000
-      internalID: 5838071228010210283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_16
-      rect:
-        serializedVersion: 2
-        x: 1182
-        y: 29
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 59b1b371e3e5163d0800000000000000
-      internalID: -3215185038195090539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_17
-      rect:
-        serializedVersion: 2
-        x: 1219
-        y: 29
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 436dad779bbe519e0800000000000000
-      internalID: -1651154506549111244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_18
-      rect:
-        serializedVersion: 2
-        x: 1322
-        y: 29
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a9a70662b58904a0800000000000000
-      internalID: -6626618375436523095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_19
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 29
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1837ab7bf2e502930800000000000000
-      internalID: 4116393618455556993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_20
-      rect:
-        serializedVersion: 2
-        x: 1462
-        y: 30
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b949e7974fbc3fa0800000000000000
-      internalID: -5819566304257291853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_21
-      rect:
-        serializedVersion: 2
-        x: 1499
-        y: 30
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d28b0c960ce1e5710800000000000000
-      internalID: 1683817122439936045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_22
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 0
-        width: 28
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e07decedf483e2a0800000000000000
-      internalID: -6709372793715330846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_23
-      rect:
-        serializedVersion: 2
-        x: 186
-        y: 0
-        width: 28
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c89d93fd84e50e30800000000000000
-      internalID: 4469229503563798724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_24
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 0
-        width: 28
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b59980b0cea6e4ef0800000000000000
-      internalID: -122042577862485669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_25
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 0
-        width: 28
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8658abd426212f2c0800000000000000
-      internalID: -4399433672567388824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_26
-      rect:
-        serializedVersion: 2
-        x: 606
-        y: 0
-        width: 28
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 562f379f001c58f30800000000000000
-      internalID: 4577276806221263461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_27
-      rect:
-        serializedVersion: 2
-        x: 746
-        y: 0
-        width: 28
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be2dd45392f7498f0800000000000000
-      internalID: -534662640785566997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_28
-      rect:
-        serializedVersion: 2
-        x: 886
-        y: 0
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8a6c290ffcdfb910800000000000000
-      internalID: 1855444559428610701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_29
-      rect:
-        serializedVersion: 2
-        x: 1026
-        y: 0
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0eb16da6c380d8f70800000000000000
-      internalID: 9191011470116527072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_30
-      rect:
-        serializedVersion: 2
-        x: 1166
-        y: 0
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f24a9a6c5fcac2a0800000000000000
-      internalID: -6716327898437238030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_31
-      rect:
-        serializedVersion: 2
-        x: 1306
-        y: 0
-        width: 28
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d808cde56fa8c4a60800000000000000
-      internalID: 7659649857008468109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Idle_32
-      rect:
-        serializedVersion: 2
-        x: 1446
-        y: 0
-        width: 28
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c49ba75b425506260800000000000000
-      internalID: 7088759429633063244
       vertices: []
       indices: 
       edges: []
@@ -938,7 +467,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e81b19c2c9ff4d24c944dc82def9fe76
     internalID: 0
     vertices: []
     indices: 
@@ -951,30 +480,8 @@ TextureImporter:
       Glitch Samurai-Idle_0: 7576270597988239305
       Glitch Samurai-Idle_1: -7292612481985011484
       Glitch Samurai-Idle_10: -1155480136276709033
-      Glitch Samurai-Idle_11: 4326777935598218318
-      Glitch Samurai-Idle_12: -6807828015581906563
-      Glitch Samurai-Idle_13: -4654386715992176359
-      Glitch Samurai-Idle_14: 651651654179467777
-      Glitch Samurai-Idle_15: 5838071228010210283
-      Glitch Samurai-Idle_16: -3215185038195090539
-      Glitch Samurai-Idle_17: -1651154506549111244
-      Glitch Samurai-Idle_18: -6626618375436523095
-      Glitch Samurai-Idle_19: 4116393618455556993
       Glitch Samurai-Idle_2: 6020986322499773201
-      Glitch Samurai-Idle_20: -5819566304257291853
-      Glitch Samurai-Idle_21: 1683817122439936045
-      Glitch Samurai-Idle_22: -6709372793715330846
-      Glitch Samurai-Idle_23: 4469229503563798724
-      Glitch Samurai-Idle_24: -122042577862485669
-      Glitch Samurai-Idle_25: -4399433672567388824
-      Glitch Samurai-Idle_26: 4577276806221263461
-      Glitch Samurai-Idle_27: -534662640785566997
-      Glitch Samurai-Idle_28: 1855444559428610701
-      Glitch Samurai-Idle_29: 9191011470116527072
       Glitch Samurai-Idle_3: -2647008321711236521
-      Glitch Samurai-Idle_30: -6716327898437238030
-      Glitch Samurai-Idle_31: 7659649857008468109
-      Glitch Samurai-Idle_32: 7088759429633063244
       Glitch Samurai-Idle_4: -9041202159452516880
       Glitch Samurai-Idle_5: 1305113136337585617
       Glitch Samurai-Idle_6: 4748413227102777130

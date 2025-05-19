@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,6 +142,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -149,10 +162,10 @@ TextureImporter:
       name: Glitch Samurai-Fall_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 32
-        width: 15
-        height: 8
+        x: 0
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +184,10 @@ TextureImporter:
       name: Glitch Samurai-Fall_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 32
-        width: 15
-        height: 13
+        x: 140
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +206,10 @@ TextureImporter:
       name: Glitch Samurai-Fall_2
       rect:
         serializedVersion: 2
-        x: 202
-        y: 32
-        width: 15
-        height: 8
+        x: 280
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +228,10 @@ TextureImporter:
       name: Glitch Samurai-Fall_3
       rect:
         serializedVersion: 2
-        x: 239
-        y: 32
-        width: 15
-        height: 13
+        x: 420
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,187 +246,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_4
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 32
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f103ca8c85ae8cd50800000000000000
-      internalID: 6757908907914178591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_5
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 32
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e1507d8b5c64acd80800000000000000
-      internalID: -8229687554042559202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_6
-      rect:
-        serializedVersion: 2
-        x: 482
-        y: 32
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7f40a015cd111b20800000000000000
-      internalID: 3103294350459686778
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_7
-      rect:
-        serializedVersion: 2
-        x: 519
-        y: 32
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ec3eab0451408ac0800000000000000
-      internalID: -3855009451800118048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_8
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 1
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2e532a467d71c920800000000000000
-      internalID: 3008823973063646765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_9
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 1
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc9410d2c354792d0800000000000000
-      internalID: -3272070479505962549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_10
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 1
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 777e7ac88962f7930800000000000000
-      internalID: 4143072618840844151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Fall_11
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 1
-        width: 28
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1798aabc658d12d0800000000000000
-      internalID: -3306339849385502949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bb88026af669eca4fb026f43aebd9433
     internalID: 0
     vertices: []
     indices: 
@@ -425,16 +262,8 @@ TextureImporter:
     nameFileIdTable:
       Glitch Samurai-Fall_0: -3351674123245031275
       Glitch Samurai-Fall_1: 3831752186555448751
-      Glitch Samurai-Fall_10: 4143072618840844151
-      Glitch Samurai-Fall_11: -3306339849385502949
       Glitch Samurai-Fall_2: 7974347208056910953
       Glitch Samurai-Fall_3: -3352384461283712579
-      Glitch Samurai-Fall_4: 6757908907914178591
-      Glitch Samurai-Fall_5: -8229687554042559202
-      Glitch Samurai-Fall_6: 3103294350459686778
-      Glitch Samurai-Fall_7: -3855009451800118048
-      Glitch Samurai-Fall_8: 3008823973063646765
-      Glitch Samurai-Fall_9: -3272070479505962549
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

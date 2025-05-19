@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -133,6 +133,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,10 +153,10 @@ TextureImporter:
       name: Glitch Samurai-Land_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 25
-        width: 15
-        height: 8
+        x: 0
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +175,10 @@ TextureImporter:
       name: Glitch Samurai-Land_1
       rect:
         serializedVersion: 2
-        x: 101
-        y: 25
-        width: 15
-        height: 13
+        x: 140
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +197,10 @@ TextureImporter:
       name: Glitch Samurai-Land_2
       rect:
         serializedVersion: 2
-        x: 204
-        y: 27
-        width: 15
-        height: 8
+        x: 280
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,143 +215,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Land_3
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 27
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 051830dcf41ffb2e0800000000000000
-      internalID: -2107700775541833392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Land_4
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 27
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c946cdb59ecd0540800000000000000
-      internalID: 4975860305843603905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Land_5
-      rect:
-        serializedVersion: 2
-        x: 381
-        y: 27
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0582cb12839733f0800000000000000
-      internalID: -921105411753212662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Land_6
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 0
-        width: 29
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2dcdfebb488724130800000000000000
-      internalID: 3549531967805447378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Land_7
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 0
-        width: 29
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9cce3d2a3badd6430800000000000000
-      internalID: 3777916127499513033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Land_8
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 0
-        width: 29
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73b10a8ebd14f9240800000000000000
-      internalID: 4800628140556688183
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 65552a8de861b8e43af0bb525862eab3
     internalID: 0
     vertices: []
     indices: 
@@ -351,12 +232,6 @@ TextureImporter:
       Glitch Samurai-Land_0: -4103600272667461321
       Glitch Samurai-Land_1: 4183915219190070329
       Glitch Samurai-Land_2: 5924470763641112750
-      Glitch Samurai-Land_3: -2107700775541833392
-      Glitch Samurai-Land_4: 4975860305843603905
-      Glitch Samurai-Land_5: -921105411753212662
-      Glitch Samurai-Land_6: 3549531967805447378
-      Glitch Samurai-Land_7: 3777916127499513033
-      Glitch Samurai-Land_8: 4800628140556688183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

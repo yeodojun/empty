@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -142,6 +142,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -149,10 +162,10 @@ TextureImporter:
       name: Glitch Samurai-Jump_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 32
-        width: 15
-        height: 8
+        x: 0
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +184,10 @@ TextureImporter:
       name: Glitch Samurai-Jump_1
       rect:
         serializedVersion: 2
-        x: 99
-        y: 32
-        width: 15
-        height: 13
+        x: 140
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +206,10 @@ TextureImporter:
       name: Glitch Samurai-Jump_2
       rect:
         serializedVersion: 2
-        x: 202
-        y: 32
-        width: 15
-        height: 8
+        x: 280
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +228,10 @@ TextureImporter:
       name: Glitch Samurai-Jump_3
       rect:
         serializedVersion: 2
-        x: 239
-        y: 32
-        width: 15
-        height: 13
+        x: 420
+        y: 0
+        width: 140
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,187 +246,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_4
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 32
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a827f2c67570f060800000000000000
-      internalID: 6985212174989207714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_5
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 32
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 949225628b8cab400800000000000000
-      internalID: 340805415062350153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_6
-      rect:
-        serializedVersion: 2
-        x: 482
-        y: 32
-        width: 15
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 911f8bdfda4d5c510800000000000000
-      internalID: 1568893888959672601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_7
-      rect:
-        serializedVersion: 2
-        x: 519
-        y: 32
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c159acde311c996b0800000000000000
-      internalID: -5288983996031920868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_8
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 0
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4adae456ff88a3850800000000000000
-      internalID: 6357544454484569508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_9
-      rect:
-        serializedVersion: 2
-        x: 194
-        y: 0
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8438459930c2f230800000000000000
-      internalID: 3671207999810581644
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_10
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 0
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7173bdea03a1e2710800000000000000
-      internalID: 1670301308195387159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Glitch Samurai-Jump_11
-      rect:
-        serializedVersion: 2
-        x: 474
-        y: 0
-        width: 23
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8529804bf6cb02a80800000000000000
-      internalID: -8493581709272903080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2013676b1051a4045979dff509ecad1f
     internalID: 0
     vertices: []
     indices: 
@@ -425,16 +262,8 @@ TextureImporter:
     nameFileIdTable:
       Glitch Samurai-Jump_0: -2877991606081864477
       Glitch Samurai-Jump_1: 7900139347811169863
-      Glitch Samurai-Jump_10: 1670301308195387159
-      Glitch Samurai-Jump_11: -8493581709272903080
       Glitch Samurai-Jump_2: 3171622452374527705
       Glitch Samurai-Jump_3: -6779033866646103874
-      Glitch Samurai-Jump_4: 6985212174989207714
-      Glitch Samurai-Jump_5: 340805415062350153
-      Glitch Samurai-Jump_6: 1568893888959672601
-      Glitch Samurai-Jump_7: -5288983996031920868
-      Glitch Samurai-Jump_8: 6357544454484569508
-      Glitch Samurai-Jump_9: 3671207999810581644
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
