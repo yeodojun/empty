@@ -28,11 +28,20 @@ public class Player : MonoBehaviour
 
     private float lastAttackTime = -1f;
     private int nextAttackIndex = 1;
-    private const float attackDelay = 0.2f;
+    private const float attackDelay = 0.3f;
     private const float comboResetTime = 0.5f;
     private bool canAttack = true;
 
     private bool isUsingSkill = false;
+
+    public Transform wallCheck;
+    public float wallCheckDistance = 0.5f;
+    public LayerMask wallLayer;
+
+    private bool isWallSliding = false;
+    private float wallSlideSpeed = 1f;
+    private bool isFacingRight = true;
+
 
     void Start()
     {
@@ -65,6 +74,7 @@ public class Player : MonoBehaviour
         if (isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            isJumpHeld = true;
         }
     }
 
@@ -92,28 +102,89 @@ public class Player : MonoBehaviour
         }
         wasGroundedLastFrame = isGrounded;
 
+        if (animator.GetBool("isFalling") && isGrounded)
+        {
+            animator.SetBool("isFalling", false);  // Fall 애니메이션 종료
+            animator.SetTrigger("land");           // land 트리거도 실행 (선택)
+        }
+        // 점프 키를 떼면 상승 멈춤 (가변 점프 구현)
+        if (!isJumpHeld && rb.linearVelocity.y > 0f && !isGrounded)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+        }
+
         // 애니메이션 설정
         animator.SetBool("isRunning", Mathf.Abs(moveInput.x) > 0.1f);
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
-        animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
+        if (!isWallSliding)
+        {
+            animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
+        }
 
-        // 스프라이트 반전
         if (moveInput.x > 0.01f)
+        {
             transform.localScale = new Vector3(10, 10, 10);
+            isFacingRight = true;
+        }
         else if (moveInput.x < -0.01f)
+        {
             transform.localScale = new Vector3(-10, 10, 10);
+            isFacingRight = false;
+        }
+
+        bool touchingWall = Physics2D.Raycast(
+            wallCheck.position,
+            isFacingRight ? Vector2.right : Vector2.left,
+            wallCheckDistance,
+            wallLayer
+        );
+
+        float inputX = moveInput.x;
+        bool sameDirAsWall = (isFacingRight && inputX > 0) || (!isFacingRight && inputX < 0);
+
+        if (!isGrounded && rb.linearVelocity.y < -0.5f && touchingWall && sameDirAsWall)
+        {
+            if (!isWallSliding)
+            {
+                isWallSliding = true;
+                animator.ResetTrigger("wallSlide");
+                animator.SetTrigger("wallSlide");
+            }
+            animator.SetBool("isFalling", false);
+            animator.SetBool("isJumping", false);
+
+            // 중력에 맡기되 제한 없음
+        }
+        else
+        {
+            if (isWallSliding)
+            {
+                isWallSliding = false;
+                animator.ResetTrigger("wallSlide");
+                animator.SetBool("isFalling", true);
+            }
+        }
+
+
+
+
     }
 
     void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
         isJumpPressed = false;
+        if (isWallSliding)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlideSpeed, float.MaxValue));
+        }
     }
 
     void Attack()
     {
         float currentTime = Time.time;
-        if (!canAttack) return;
+
+        if (!canAttack || isWallSliding) return;
 
         if (currentTime - lastAttackTime > comboResetTime)
         {
@@ -156,6 +227,7 @@ public class Player : MonoBehaviour
         isUsingSkill = false;
     }
 
+
     void OnDrawGizmosSelected()
     {
         if (groundCheck != null)
@@ -168,6 +240,12 @@ public class Player : MonoBehaviour
         {
             Gizmos.color = Color.blue;
             Gizmos.DrawWireSphere(headCheck.position, headCheckRadius);
+        }
+        if (wallCheck != null)
+        {
+            Gizmos.color = Color.green;
+            Vector3 dir = Vector3.right * (isFacingRight ? 1 : -1);
+            Gizmos.DrawLine(wallCheck.position, wallCheck.position + dir * wallCheckDistance);
         }
     }
 }
