@@ -14,7 +14,14 @@ public class Player : MonoBehaviour
 
     public float moveSpeed = 5f;                 // 이동 속도
     public float jumpHeight = 2f;
-    public float fallSpeed = 8f;
+    public float fallSpeed = 7f;
+    private float fallTimer = 0f;
+    private const float fallThreshold = 2f;
+    private const float normalFallSpeed = 7f;
+    private const float fastFallSpeed = 10f;
+    public Transform headCheck;            // 머리 위 위치 (빈 오브젝트)
+    public float headCheckRadius = 0.1f;   // 충돌 감지 반경
+    public LayerMask ceilingLayer;         // 충돌할 벽/천장 레이어
 
     public Transform groundCheck;                // 땅 체크 위치 기준
     public float groundCheckRadius = 0.2f;       // 바닥 판정 범위
@@ -31,6 +38,8 @@ public class Player : MonoBehaviour
     private const float attackDelay = 0.2f;
     private const float comboResetTime = 0.5f;
     private bool canAttack = true;
+
+    private bool isUsingSkill = false;
 
 
 
@@ -131,17 +140,15 @@ public class Player : MonoBehaviour
         }
         isJumpPressed = false;
 
-        // 점프 중: 위로 이동
         if (isJumping)
         {
-            // 목표 지점 도달 OR 버튼을 뗐으면 종료
             if (!isJumpHeld || transform.position.y >= targetY)
             {
                 isJumping = false;
+                fallTimer = 0f;
             }
             else
             {
-                // 계속 위로 이동
                 transform.position = Vector3.MoveTowards(transform.position,
                                                          new Vector3(transform.position.x, targetY, transform.position.z),
                                                          fallSpeed * Time.deltaTime);
@@ -149,9 +156,28 @@ public class Player : MonoBehaviour
         }
         else if (!isGrounded)
         {
-            // 수동 낙하
+            // 낙하 중 시간 누적
+            fallTimer += Time.deltaTime;
+
+            // 낙하 2초 이상이면 빠르게 떨어지게 설정
+            fallSpeed = (fallTimer >= fallThreshold) ? fastFallSpeed : normalFallSpeed;
+
+            // 낙하 적용
             transform.position += Vector3.down * fallSpeed * Time.deltaTime;
         }
+        else
+        {
+            // 착지 시 초기화
+            fallSpeed = normalFallSpeed;
+            fallTimer = 0f;
+        }
+        // 머리 위에 벽이 있으면 점프 강제 중단
+        if (isJumping && Physics2D.OverlapCircle(headCheck.position, headCheckRadius, ceilingLayer))
+        {
+            isJumping = false;
+        }
+
+
     }
 
     void FixedUpdate()
@@ -185,6 +211,8 @@ public class Player : MonoBehaviour
 
         // 트리거 실행
         string triggerName = $"Attack{nextAttackIndex}";
+        animator.ResetTrigger("Attack1");
+        animator.ResetTrigger("Attack2");
         animator.SetTrigger(triggerName);
 
         // 다음 공격 번호 설정
@@ -199,12 +227,35 @@ public class Player : MonoBehaviour
     {
         canAttack = true;
     }
+    public void OnAttackEnd()
+    {
+        if (!isGrounded)
+        {
+            // 공중일 경우 상태에 따라 점프 또는 낙하
+            animator.SetBool("isJumping", isJumping);
+            animator.SetBool("isFalling", !isJumping);
+        }
+        else
+        {
+            // 지상일 경우 점프/낙하 해제
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
+        }
+    }
 
     void Skill()
     {
+        // 스킬 사용 중이면 무시
+        if (isUsingSkill) return;
+
+        isUsingSkill = true;
         animator.SetTrigger("Skill");
     }
 
+    public void EndSkill()
+    {
+        isUsingSkill = false;
+    }
 
     // 디버그용: 땅 체크 영역 표시
     void OnDrawGizmosSelected()
@@ -214,5 +265,14 @@ public class Player : MonoBehaviour
             Gizmos.color = Color.red;
             Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
         }
+
+        if (headCheck != null)
+        {
+            Gizmos.color = Color.blue;
+            Gizmos.DrawWireSphere(headCheck.position, headCheckRadius);
+        }
     }
+
+
+
 }
