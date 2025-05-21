@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ccb683da408973940878cb84156e6b29
+guid: 4d8e565eb2532464c81d41e7b5e7086d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1515635696694372916
-    second: N_Fall3_0
+      213: 7916870736140315767
+    second: N_Fall5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: N_Fall3_0
+      name: N_Fall5_0
       rect:
         serializedVersion: 2
         x: 699
-        y: 809
+        y: 799
         width: 262
-        height: 212
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc551a13d5167fae0800000000000000
-      internalID: -1515635696694372916
+      spriteID: 77c24583dff5edd60800000000000000
+      internalID: 7916870736140315767
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      N_Fall3_0: -1515635696694372916
+      N_Fall5_0: 7916870736140315767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
