@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 97cfda9fb0377594281efece891593dd
+guid: 96971ddbd1a4c194788d5f8216c2ce8b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6700714167760446637
-    second: N_Jump_4_0
+      213: -6785372361229585609
+    second: N_Wall_Jump_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: N_Jump_4_0
+      name: N_Wall_Jump_1_0
       rect:
         serializedVersion: 2
         x: 709
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da4e9ce9808bdfc50800000000000000
-      internalID: 6700714167760446637
+      spriteID: 7333824b9c385d1a0800000000000000
+      internalID: -6785372361229585609
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      N_Jump_4_0: 6700714167760446637
+      N_Wall_Jump_1_0: -6785372361229585609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

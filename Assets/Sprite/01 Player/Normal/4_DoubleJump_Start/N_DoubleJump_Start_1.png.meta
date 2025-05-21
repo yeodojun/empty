@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 97cfda9fb0377594281efece891593dd
+guid: ac3b852db3e745245a515e2f1b69d2e5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6700714167760446637
-    second: N_Jump_4_0
+      213: 9068470609474528555
+    second: N_DoubleJump_Start_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: N_Jump_4_0
+      name: N_DoubleJump_Start_1_0
       rect:
         serializedVersion: 2
         x: 709
         y: 799
-        width: 252
-        height: 222
+        width: 262
+        height: 192
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da4e9ce9808bdfc50800000000000000
-      internalID: 6700714167760446637
+      spriteID: b25acc5f8fda9dd70800000000000000
+      internalID: 9068470609474528555
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      N_Jump_4_0: 6700714167760446637
+      N_DoubleJump_Start_1_0: 9068470609474528555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

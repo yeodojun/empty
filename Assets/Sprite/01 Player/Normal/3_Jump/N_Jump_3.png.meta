@@ -3,8 +3,8 @@ guid: c678d0aaa0b150148ae50e01904b5756
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6795099583575833749
-    second: N_Jump3_0
+      213: 149441239007366251
+    second: N_Jump_3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: N_Jump3_0
+      name: N_Jump_3_0
       rect:
         serializedVersion: 2
         x: 709
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59c317cb11b0d4e50800000000000000
-      internalID: 6795099583575833749
+      spriteID: b6c04ddd30ce21200800000000000000
+      internalID: 149441239007366251
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      N_Jump3_0: 6795099583575833749
+      N_Jump_3_0: 149441239007366251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
