@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: b28d51b72e2506443b4596874bc6d1f2
+guid: aeb788f0d4a8ceb43805e2a7d1da67f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1180081113683952330
-    second: G_Wall_Slide_2_0
-  - first:
-      213: -9154080004648130890
-    second: G_Wall_Slide_2_1
+      213: -3155431820792430978
+    second: N_DoubleJump_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,34 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: G_Wall_Slide_2_0
+      name: N_DoubleJump_1_0
       rect:
         serializedVersion: 2
-        x: 849
-        y: 1099
-        width: 112
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac28743458d706010800000000000000
-      internalID: 1180081113683952330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: G_Wall_Slide_2_1
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 799
-        width: 142
+        x: 709
+        y: 769
+        width: 262
         height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -153,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b621757cbc26f080800000000000000
-      internalID: -9154080004648130890
+      spriteID: e7ef3b82a77a534d0800000000000000
+      internalID: -3155431820792430978
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      G_Wall_Slide_2_0: 1180081113683952330
-      G_Wall_Slide_2_1: -9154080004648130890
+      N_DoubleJump_1_0: -3155431820792430978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

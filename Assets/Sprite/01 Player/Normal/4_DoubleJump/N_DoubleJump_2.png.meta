@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d42d2a69fcfbc0c4b934147c536027c6
+guid: 01a9ecfde5fdaa846b72a9e14cd25b8b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 419203941916783629
-    second: N_Fall6_0
+      213: -7416324292012211680
+    second: N_DoubleJump_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: N_Fall6_0
+      name: N_DoubleJump_2_0
       rect:
         serializedVersion: 2
-        x: 699
-        y: 799
+        x: 709
+        y: 779
         width: 262
-        height: 222
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d04b46e93cf41d500800000000000000
-      internalID: 419203941916783629
+      spriteID: 022038b895ce31990800000000000000
+      internalID: -7416324292012211680
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      N_Fall6_0: 419203941916783629
+      N_DoubleJump_2_0: -7416324292012211680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

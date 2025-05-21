@@ -1,16 +1,25 @@
 fileFormatVersion: 2
-guid: 6c11e91f5d11edf40970b1fc3f5a9190
+guid: 2ed6300837f576c4f83dbe098edbea8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7318366160517306626
-    second: G_Wall_Slide_4_0
+      213: 6312602390287285925
+    second: G_WallSlide_1_0
   - first:
-      213: -6372594104245324268
-    second: G_Wall_Slide_4_1
+      213: 8280494686751871952
+    second: G_WallSlide_1_1
   - first:
-      213: -8038077172110894180
-    second: G_Wall_Slide_4_2
+      213: -8520758234437360539
+    second: G_WallSlide_1_2
+  - first:
+      213: 113540562634602782
+    second: G_WallSlide_1_3
+  - first:
+      213: 7240241527672552374
+    second: G_WallSlide_1_4
+  - first:
+      213: -2847408371056103422
+    second: G_WallSlide_1_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: G_Wall_Slide_4_0
+      name: G_WallSlide_1_0
       rect:
         serializedVersion: 2
         x: 849
         y: 1099
-        width: 82
-        height: 62
+        width: 122
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,41 +143,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef6602a50c0ff6a90800000000000000
-      internalID: -7318366160517306626
+      spriteID: 5aefa59ad6eda9750800000000000000
+      internalID: 6312602390287285925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: G_Wall_Slide_4_1
+      name: G_WallSlide_1_1
       rect:
         serializedVersion: 2
         x: 799
-        y: 799
-        width: 142
-        height: 222
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41675b6fc6fff87a0800000000000000
-      internalID: -6372594104245324268
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: G_Wall_Slide_4_2
-      rect:
-        serializedVersion: 2
-        x: 829
-        y: 1009
-        width: 12
+        y: 1069
+        width: 22
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -178,8 +165,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9b57274663037090800000000000000
-      internalID: -8038077172110894180
+      spriteID: 0d3da50bb0a3ae270800000000000000
+      internalID: 8280494686751871952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WallSlide_1_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1059
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564606bd78f20c980800000000000000
+      internalID: -8520758234437360539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WallSlide_1_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1009
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19fe674a80639100800000000000000
+      internalID: 113540562634602782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WallSlide_1_4
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1019
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb34f81f418a7460800000000000000
+      internalID: 7240241527672552374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WallSlide_1_5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 799
+        width: 142
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2003ab83c29fb78d0800000000000000
+      internalID: -2847408371056103422
       vertices: []
       indices: 
       edges: []
@@ -198,9 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      G_Wall_Slide_4_0: -7318366160517306626
-      G_Wall_Slide_4_1: -6372594104245324268
-      G_Wall_Slide_4_2: -8038077172110894180
+      G_WallSlide_1_0: 6312602390287285925
+      G_WallSlide_1_1: 8280494686751871952
+      G_WallSlide_1_2: -8520758234437360539
+      G_WallSlide_1_3: 113540562634602782
+      G_WallSlide_1_4: 7240241527672552374
+      G_WallSlide_1_5: -2847408371056103422
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
