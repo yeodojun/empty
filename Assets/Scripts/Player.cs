@@ -105,7 +105,7 @@ public class Player : MonoBehaviour
         if (animator.GetBool("isFalling") && isGrounded)
         {
             animator.SetBool("isFalling", false);  // Fall 애니메이션 종료
-            animator.SetTrigger("land");           // land 트리거도 실행 (선택)
+            animator.SetTrigger("land");           // land 트리거도 실행
         }
         // 점프 키를 떼면 상승 멈춤 (가변 점프 구현)
         if (!isJumpHeld && rb.linearVelocity.y > 0f && !isGrounded)
@@ -123,12 +123,12 @@ public class Player : MonoBehaviour
 
         if (moveInput.x > 0.01f)
         {
-            transform.localScale = new Vector3(10, 10, 10);
+            transform.localScale = new Vector3(1, 1, 1);
             isFacingRight = true;
         }
         else if (moveInput.x < -0.01f)
         {
-            transform.localScale = new Vector3(-10, 10, 10);
+            transform.localScale = new Vector3(-1, 1, 1);
             isFacingRight = false;
         }
 
@@ -227,6 +227,10 @@ public class Player : MonoBehaviour
         isUsingSkill = false;
     }
 
+    public void landEnd()
+    {
+        animator.ResetTrigger("land");
+    }
 
     void OnDrawGizmosSelected()
     {
