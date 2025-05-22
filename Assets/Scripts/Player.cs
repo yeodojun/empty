@@ -1,6 +1,5 @@
+using System.Collections;
 using UnityEngine;
-using UnityEngine.InputSystem;
-
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(Animator))]
 public class Player : MonoBehaviour
@@ -9,7 +8,6 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private Vector2 moveInput;
-    private bool isJumpPressed;
     private bool isJumpHeld = false;
 
     public float moveSpeed = 5f;
@@ -34,6 +32,9 @@ public class Player : MonoBehaviour
 
     private bool isUsingSkill = false;
 
+    private bool canDoubleJump = false;
+
+    // 벽 관련
     public Transform wallCheck;
     public float wallCheckDistance = 0.5f;
     public LayerMask wallLayer;
@@ -41,7 +42,18 @@ public class Player : MonoBehaviour
     private bool isWallSliding = false;
     private float wallSlideSpeed = 1f;
     private bool isFacingRight = true;
+    private bool isWallJumping = false;
+    private float wallJumpForce = 18f;
+    private float wallJumpDuration = 0.2f;
 
+    // 대쉬 관련
+    private bool isDashing = false;
+    private bool canDash = true;
+    private float dashCooldown = 0.5f;
+    private float dashSpeed = 20f;
+    private float dashDistance = 3f;
+    private float dashTraveled = 0f;
+    private Vector2 dashDir;
 
     void Start()
     {
@@ -58,12 +70,14 @@ public class Player : MonoBehaviour
         inputActions.Player.Move.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
         inputActions.Player.Move.canceled += ctx => moveInput = Vector2.zero;
 
-        inputActions.Player.Jump.performed += ctx => isJumpPressed = true;
         inputActions.Player.Jump.started += ctx => OnJumpStart();
         inputActions.Player.Jump.canceled += ctx => OnJumpCancel();
 
         inputActions.Player.Attack.performed += ctx => Attack();
         inputActions.Player.Skill.performed += ctx => Skill();
+
+        inputActions.Player.Dash.performed += ctx => TryDash();
+
     }
 
     void OnEnable() => inputActions.Enable();
@@ -71,12 +85,27 @@ public class Player : MonoBehaviour
 
     void OnJumpStart()
     {
+        if (isWallSliding)
+        {
+            PerformWallJump();
+            return;
+        }
+
         if (isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             isJumpHeld = true;
         }
+        else if (canDoubleJump)
+        {
+            // 더블 점프는 기존 점프력의 2/3로
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce * 2f / 3f);
+            isJumpHeld = true;
+            canDoubleJump = false; // 한 번만 가능
+            animator.SetTrigger("DoubleJump");
+        }
     }
+
 
     void OnJumpCancel()
     {
@@ -108,29 +137,58 @@ public class Player : MonoBehaviour
             animator.SetTrigger("land");           // land 트리거도 실행
         }
         // 점프 키를 떼면 상승 멈춤 (가변 점프 구현)
-        if (!isJumpHeld && rb.linearVelocity.y > 0f && !isGrounded)
+        if (!isWallJumping && !isJumpHeld && rb.linearVelocity.y > 0f && !isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
         }
-
         // 애니메이션 설정
-        animator.SetBool("isRunning", Mathf.Abs(moveInput.x) > 0.1f);
-        animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
-        if (!isWallSliding)
+        if (isGrounded)
         {
-            animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
+            animator.SetBool("isRunning", Mathf.Abs(moveInput.x) > 0.1f);
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
+            animator.ResetTrigger("DoubleJump");
+        }
+        else if (isWallSliding)
+        {
+            animator.SetBool("isRunning", false);
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
+            animator.ResetTrigger("wallSlide");
+            animator.ResetTrigger("WallJump");
+            animator.SetTrigger("wallSlide"); // 벽 슬라이드 애니메이션 유지
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+
+            if (isWallJumping)
+            {
+                animator.SetBool("isJumping", false);
+                animator.SetBool("isFalling", false);
+            }
+            else
+            {
+                animator.SetBool("isJumping", rb.linearVelocity.y > 0.1f);
+                animator.SetBool("isFalling", rb.linearVelocity.y < -0.1f);
+            }
         }
 
-        if (moveInput.x > 0.01f)
+
+        if (!isWallJumping)  // 벽점프 중에는 방향 고정
         {
-            transform.localScale = new Vector3(1, 1, 1);
-            isFacingRight = true;
+            if (moveInput.x > 0.01f)
+            {
+                transform.localScale = new Vector3(1, 1, 1);
+                isFacingRight = true;
+            }
+            else if (moveInput.x < -0.01f)
+            {
+                transform.localScale = new Vector3(-1, 1, 1);
+                isFacingRight = false;
+            }
         }
-        else if (moveInput.x < -0.01f)
-        {
-            transform.localScale = new Vector3(-1, 1, 1);
-            isFacingRight = false;
-        }
+
 
         bool touchingWall = Physics2D.Raycast(
             wallCheck.position,
@@ -142,6 +200,8 @@ public class Player : MonoBehaviour
         float inputX = moveInput.x;
         bool sameDirAsWall = (isFacingRight && inputX > 0) || (!isFacingRight && inputX < 0);
 
+        if (isWallJumping)
+            return;
         if (!isGrounded && rb.linearVelocity.y < -0.5f && touchingWall && sameDirAsWall)
         {
             if (!isWallSliding)
@@ -165,20 +225,49 @@ public class Player : MonoBehaviour
             }
         }
 
-
-
+        if (isGrounded)
+        {
+            canDoubleJump = true; // 착지하면 초기화
+        }
 
     }
 
     void FixedUpdate()
     {
+        if (isWallJumping)
+            return;
+        if (isDashing)
+        {
+            float moveStep = dashSpeed * Time.fixedDeltaTime;
+            rb.linearVelocity = dashDir * dashSpeed;
+            dashTraveled += moveStep;
+
+            if (dashTraveled >= dashDistance)
+            {
+                rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);  // 이동 중지
+                isDashing = false;
+
+                // 애니메이션 전환
+                animator.SetBool("isRunning", Mathf.Abs(moveInput.x) > 0.1f);
+                animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
+                animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
+                animator.SetBool("wallSlide", isWallSliding);
+
+                // 쿨타임 시작
+                Invoke(nameof(ResetDash), dashCooldown);
+            }
+
+            return; // 대쉬 중이면 일반 이동 무시
+        }
+
         rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
-        isJumpPressed = false;
+
         if (isWallSliding)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlideSpeed, float.MaxValue));
         }
     }
+
 
     void Attack()
     {
@@ -230,6 +319,50 @@ public class Player : MonoBehaviour
     public void landEnd()
     {
         animator.ResetTrigger("land");
+    }
+
+    void TryDash()
+    {
+        if (!canDash || isDashing || isWallSliding) return;
+
+        isDashing = true;
+        canDash = false;
+        dashTraveled = 0f;
+        animator.SetTrigger("Dash");
+
+        // 입력 방향 또는 바라보는 방향
+        dashDir = moveInput.x != 0 ? new Vector2(Mathf.Sign(moveInput.x), 0) : (isFacingRight ? Vector2.right : Vector2.left);
+    }
+
+    void ResetDash()
+    {
+        canDash = true;
+    }
+
+    void PerformWallJump()
+    {
+        isWallJumping = true;
+        isWallSliding = false;
+
+        animator.ResetTrigger("wallSlide");
+        animator.SetTrigger("WallJump");
+
+        // 벽 방향 기억
+        int wallDir = isFacingRight ? 1 : -1;
+
+        // x 방향 힘을 줄이고 y 방향을 강조
+        Vector2 jumpDir = new Vector2(-wallDir * 0.3f * wallJumpForce, 0.8f * wallJumpForce);
+        rb.linearVelocity = jumpDir;
+
+        Invoke(nameof(EndWallJump), wallJumpDuration);
+    }
+
+
+
+    void EndWallJump()
+    {
+        isWallJumping = false;
+        rb.gravityScale = 3f; // 원래 중력 복구
     }
 
     void OnDrawGizmosSelected()

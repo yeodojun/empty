@@ -43,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -57,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 192
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,7 +81,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -135,10 +135,10 @@ TextureImporter:
       name: G_Wall_Jump_Dust_4_0
       rect:
         serializedVersion: 2
-        x: 799
-        y: 979
-        width: 12
-        height: 12
+        x: 0
+        y: 0
+        width: 1920
+        height: 1920
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,55 +153,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: G_Wall_Jump_Dust_4_1
-      rect:
-        serializedVersion: 2
-        x: 819
-        y: 919
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ee404c8292c50990800000000000000
-      internalID: -7420310876348985631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: G_Wall_Jump_Dust_4_2
-      rect:
-        serializedVersion: 2
-        x: 839
-        y: 729
-        width: 22
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1fc4b909bc2927e0800000000000000
-      internalID: -1789850203659645157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 940ef9311bb7f24478cc81d6672d35db
     internalID: 0
     vertices: []
     indices: 
@@ -212,8 +168,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       G_Wall_Jump_Dust_4_0: 6090343378761340718
-      G_Wall_Jump_Dust_4_1: -7420310876348985631
-      G_Wall_Jump_Dust_4_2: -1789850203659645157
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
