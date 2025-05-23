@@ -53,7 +53,7 @@ public class Enemy : MonoBehaviour
         if (player != null)
         {
             player.ApplyKnockback(transform.position, 5f); // 공격자 기준 반대 방향으로 넉백
-            player.TakeDamage(1);                           
+            player.TakeDamage(1);
         }
     }
 
