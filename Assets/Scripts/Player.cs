@@ -25,11 +25,20 @@ public class Player : MonoBehaviour
     private bool isGrounded;
     private bool wasGroundedLastFrame = true;
 
+    // 공격 관련
     private float lastAttackTime = -1f;
     private int nextAttackIndex = 1;
     private const float attackDelay = 0.3f;
     private const float comboResetTime = 0.5f;
     private bool canAttack = true;
+    public Transform attackPoint;     // 검 끝 위치
+    public float attackRange = 0.5f;  // 공격 범위
+    public LayerMask enemyLayer;      // 공격 대상 레이어
+    public int attackDamage = 1;
+
+    private bool isKnockbacked = false;
+    private float knockbackTimer = 0f;
+    private float knockbackDuration = 0.2f;
 
     private bool isUsingSkill = false;
     private bool canDoubleJump = false;
@@ -62,6 +71,8 @@ public class Player : MonoBehaviour
     private float dashTraveled = 0f;
     private Vector2 dashDir;
 
+    // 생존 관련
+    public int health = 4;
     void Start()
     {
         rb.gravityScale = 3f;
@@ -264,6 +275,14 @@ public class Player : MonoBehaviour
             return;
         }
 
+        if (isKnockbacked)
+        {
+            knockbackTimer -= Time.fixedDeltaTime;
+            if (knockbackTimer <= 0f)
+                isKnockbacked = false;
+            return;
+        }
+
         rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
 
         if (isWallSliding)
@@ -271,6 +290,24 @@ public class Player : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlideSpeed, float.MaxValue));
         }
     }
+
+    public void AttackHitbox()
+    {
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            var enemyScript = enemy.GetComponent<Enemy>();
+            if (enemyScript != null)
+            {
+                enemyScript.TakeDamage(attackDamage);
+
+                // 넉백
+                ApplyKnockback(enemy.transform.position, 3f);
+            }
+        }
+    }
+
 
     void Attack()
     {
@@ -298,6 +335,16 @@ public class Player : MonoBehaviour
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
         animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
     }
+
+    public void ApplyKnockback(Vector2 sourcePosition, float knockbackForce = 3f)
+    {
+        float direction = transform.position.x > sourcePosition.x ? 1f : -1f;
+        rb.linearVelocity = new Vector2(direction * knockbackForce, rb.linearVelocity.y);
+
+        isKnockbacked = true;
+        knockbackTimer = knockbackDuration;
+    }
+
 
     void Skill()
     {
@@ -332,7 +379,7 @@ public class Player : MonoBehaviour
         animator.ResetTrigger("wallSlide");
         animator.SetTrigger("WallJump");
 
-        // ✅ 벽 방향: 마지막 슬라이딩 방향 기준 (입력 무시)
+        // 벽 방향: 마지막 슬라이딩 방향 기준 (입력 무시)
         int wallDir = lastWallSlideDir != 0 ? lastWallSlideDir : (isFacingRight ? 1 : -1);
 
         Vector2 jumpDir = new Vector2(-wallDir * 0.3f * wallJumpForce, 0.8f * wallJumpForce);
@@ -353,6 +400,18 @@ public class Player : MonoBehaviour
         wallSlideExitTimer = wallSlideExitDelay;
     }
 
+
+    public void TakeDamage(int amount)
+    {
+        animator.SetTrigger("Hit");
+        health -= amount;
+
+        if (health <= 0)
+        {
+            animator.SetTrigger("Death");
+        }
+    }
+
     void OnDrawGizmosSelected()
     {
         if (groundCheck != null)
@@ -370,6 +429,11 @@ public class Player : MonoBehaviour
             Gizmos.color = Color.green;
             Vector3 dir = Vector3.right * (isFacingRight ? 1 : -1);
             Gizmos.DrawLine(wallCheck.position, wallCheck.position + dir * wallCheckDistance);
+        }
+        if (attackPoint != null)
+        {
+            Gizmos.color = Color.yellow;
+            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
     }
 }
