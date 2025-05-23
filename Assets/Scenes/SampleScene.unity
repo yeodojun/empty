@@ -954,7 +954,7 @@ GameObject:
   - component: {fileID: 1773907561}
   - component: {fileID: 1773907560}
   - component: {fileID: 1773907564}
-  - component: {fileID: 1773907563}
+  - component: {fileID: 1773907565}
   m_Layer: 0
   m_Name: Test Enemy
   m_TagString: Untagged
@@ -1054,8 +1054,35 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &1773907563
-CapsuleCollider2D:
+--- !u!50 &1773907564
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1773907559}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 3
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!61 &1773907565
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1088,36 +1115,18 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.13541667, y: 0.13020833}
-  m_Direction: 0
---- !u!50 &1773907564
-Rigidbody2D:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1773907559}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDamping: 0
-  m_AngularDamping: 0.05
-  m_GravityScale: 3
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Offset: {x: -0.00035604835, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.13541667, y: 0.13020833}
+    newSize: {x: 0.13541667, y: 0.13020833}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.12900755, y: 0.13020833}
+  m_EdgeRadius: 0
 --- !u!1001 &1892037832
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1314,6 +1323,10 @@ PrefabInstance:
     - target: {fileID: 3849300120982564652, guid: e61d039790e3cde4ba92142093b9e038, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0.055
+      objectReference: {fileID: 0}
+    - target: {fileID: 5975172682830057089, guid: e61d039790e3cde4ba92142093b9e038, type: 3}
+      propertyPath: wallCheckDistance
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 6364874615216919436, guid: e61d039790e3cde4ba92142093b9e038, type: 3}
       propertyPath: m_Name

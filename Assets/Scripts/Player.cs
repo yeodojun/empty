@@ -47,9 +47,11 @@ public class Player : MonoBehaviour
     private float wallJumpDuration = 0.3f;
     private bool isExitingWallSlide = false;
     private float wallSlideExitTimer = 0f;
-    private const float wallSlideExitDelay = 0.1f;
+    private const float wallSlideExitDelay = 0.05f;
     private float wallJumpBufferTime = 0.15f;
     private float lastWallSlideTime = -999f;
+    private int lastWallSlideDir = 0; // 1 = 오른쪽 벽, -1 = 왼쪽 벽
+
 
     // 대쉬 관련
     private bool isDashing = false;
@@ -135,7 +137,40 @@ public class Player : MonoBehaviour
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
         animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
 
-        if (isGrounded) animator.ResetTrigger("DoubleJump");
+        // 애니메이션 설정
+        if (isGrounded)
+        {
+            animator.SetBool("isRunning", Mathf.Abs(moveInput.x) > 0.1f);
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
+            animator.ResetTrigger("DoubleJump");
+            if (isWallSliding)
+            {
+                isWallSliding = false;
+                animator.ResetTrigger("wallSlide");
+            }
+        }
+        else if (isWallSliding)
+        {
+            animator.SetBool("isRunning", false);
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
+            animator.ResetTrigger("WallJump");
+            animator.SetTrigger("wallSlide");
+        }
+        else if (isWallJumping && !isExitingWallSlide)
+        {
+            isExitingWallSlide = true;
+            wallSlideExitTimer = wallSlideExitDelay;
+            animator.SetBool("isJumping", false);
+            animator.SetBool("isFalling", false);
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+            animator.SetBool("isJumping", rb.linearVelocity.y > 0.1f);
+            animator.SetBool("isFalling", rb.linearVelocity.y < -0.1f);
+        }
 
         if (!isWallJumping && !isExitingWallSlide)
         {
@@ -176,11 +211,16 @@ public class Player : MonoBehaviour
 
                 animator.SetBool("isFalling", false);
                 animator.SetBool("isJumping", false);
+                lastWallSlideDir = isFacingRight ? 1 : -1;
             }
         }
         else
         {
-            isWallSliding = false;
+            if (isWallSliding)
+            {
+                isWallSliding = false;
+                animator.ResetTrigger("wallSlide");
+            }
         }
 
         if (isGrounded)
@@ -292,17 +332,15 @@ public class Player : MonoBehaviour
         animator.ResetTrigger("wallSlide");
         animator.SetTrigger("WallJump");
 
-        // 벽 점프 시, 벽이 있는 방향 감지
-        bool wallOnRight = Physics2D.Raycast(
-            wallCheck.position,
-            Vector2.right,
-            wallCheckDistance,
-            wallLayer
-        );
+        // ✅ 벽 방향: 마지막 슬라이딩 방향 기준 (입력 무시)
+        int wallDir = lastWallSlideDir != 0 ? lastWallSlideDir : (isFacingRight ? 1 : -1);
 
-        int wallDir = wallOnRight ? 1 : -1;
         Vector2 jumpDir = new Vector2(-wallDir * 0.3f * wallJumpForce, 0.8f * wallJumpForce);
         rb.linearVelocity = jumpDir;
+
+        // 시선 전환
+        isFacingRight = wallDir == -1;
+        transform.localScale = new Vector3(isFacingRight ? 4 : -4, 4, 4);
 
         Invoke(nameof(EndWallJump), wallJumpDuration);
     }
