@@ -5,14 +5,28 @@ public class PlayerModeSwitcher : MonoBehaviour
     public GameObject normalPlayer;
     public GameObject glitchPlayer;
 
+    private PlayerInputActions inputActions;
     private bool isGlitch = false;
 
-    void Update()
+    private float lastSwitchTime = -Mathf.Infinity;
+    private float switchCooldown = 3f;
+
+    void Awake()
     {
-        if (Input.GetKeyDown(KeyCode.C))
-        {
-            ToggleMode();
-        }
+        inputActions = new PlayerInputActions();
+        inputActions.Player.ModeSwitch.performed += ctx => TryToggleMode();
+    }
+
+    void OnEnable() => inputActions.Enable();
+    void OnDisable() => inputActions.Disable();
+
+    void TryToggleMode()
+    {
+        if (Time.time - lastSwitchTime < switchCooldown)
+            return;
+
+        ToggleMode();
+        lastSwitchTime = Time.time;
     }
 
     void ToggleMode()
@@ -22,7 +36,7 @@ public class PlayerModeSwitcher : MonoBehaviour
         Transform from = isGlitch ? normalPlayer.transform : glitchPlayer.transform;
         Transform to = isGlitch ? glitchPlayer.transform : normalPlayer.transform;
 
-        // 위치, 속도 동기화
+        // 위치 및 속도 동기화
         to.position = from.position;
 
         Rigidbody2D fromRb = from.GetComponent<Rigidbody2D>();
@@ -37,5 +51,4 @@ public class PlayerModeSwitcher : MonoBehaviour
         normalPlayer.SetActive(!isGlitch);
         glitchPlayer.SetActive(isGlitch);
     }
-
 }
