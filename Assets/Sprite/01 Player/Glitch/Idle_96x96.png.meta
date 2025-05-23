@@ -143,7 +143,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_0
+      name: Idle_96x96_0
       rect:
         serializedVersion: 2
         x: 0
@@ -151,7 +151,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -165,7 +165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_1
+      name: Idle_96x96_1
       rect:
         serializedVersion: 2
         x: 96
@@ -173,7 +173,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_2
+      name: Idle_96x96_2
       rect:
         serializedVersion: 2
         x: 192
@@ -195,7 +195,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,7 +209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_3
+      name: Idle_96x96_3
       rect:
         serializedVersion: 2
         x: 288
@@ -217,7 +217,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_4
+      name: Idle_96x96_4
       rect:
         serializedVersion: 2
         x: 0
@@ -239,7 +239,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -253,7 +253,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_5
+      name: Idle_96x96_5
       rect:
         serializedVersion: 2
         x: 96
@@ -261,7 +261,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,7 +275,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_6
+      name: Idle_96x96_6
       rect:
         serializedVersion: 2
         x: 192
@@ -283,7 +283,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -297,7 +297,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_7
+      name: Idle_96x96_7
       rect:
         serializedVersion: 2
         x: 288
@@ -305,7 +305,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,7 +319,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_8
+      name: Idle_96x96_8
       rect:
         serializedVersion: 2
         x: 0
@@ -327,7 +327,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_9
+      name: Idle_96x96_9
       rect:
         serializedVersion: 2
         x: 96
@@ -349,7 +349,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,7 +363,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_G_96x96_Idle_10
+      name: Idle_96x96_10
       rect:
         serializedVersion: 2
         x: 192
@@ -371,7 +371,7 @@ TextureImporter:
         width: 96
         height: 96
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -398,17 +398,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_G_96x96_Idle_0: -4143951107698635167
-      Player_G_96x96_Idle_1: -5132827644322255822
-      Player_G_96x96_Idle_10: -7103889770522605345
-      Player_G_96x96_Idle_2: -7778276676469974623
-      Player_G_96x96_Idle_3: 5791383697725614800
-      Player_G_96x96_Idle_4: 3659846630503193149
-      Player_G_96x96_Idle_5: 5015303794743904901
-      Player_G_96x96_Idle_6: -1538719773220076362
-      Player_G_96x96_Idle_7: -5639217628270652023
-      Player_G_96x96_Idle_8: 6897667616069789770
-      Player_G_96x96_Idle_9: 2161265072335675652
+      Idle_96x96_0: -4143951107698635167
+      Idle_96x96_1: -5132827644322255822
+      Idle_96x96_10: -7103889770522605345
+      Idle_96x96_2: -7778276676469974623
+      Idle_96x96_3: 5791383697725614800
+      Idle_96x96_4: 3659846630503193149
+      Idle_96x96_5: 5015303794743904901
+      Idle_96x96_6: -1538719773220076362
+      Idle_96x96_7: -5639217628270652023
+      Idle_96x96_8: 6897667616069789770
+      Idle_96x96_9: 2161265072335675652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
