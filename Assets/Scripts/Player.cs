@@ -73,10 +73,14 @@ public class Player : MonoBehaviour
 
     // 생존 관련
     public int health = 4;
+    public HealthUIController healthUI;
+    public PlayerModeSwitcher switcher;
     void Start()
     {
         rb.gravityScale = 3f;
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        healthUI.SetMaxHealth(4); // 최초 초기화
+        healthUI.UpdateHealthUI(health);
     }
 
     void Awake()
@@ -404,12 +408,7 @@ public class Player : MonoBehaviour
     public void TakeDamage(int amount)
     {
         animator.SetTrigger("Hit");
-        health -= amount;
-
-        if (health <= 0)
-        {
-            animator.SetTrigger("Death");
-        }
+        switcher.ApplyDamage(amount);
     }
 
     void OnDrawGizmosSelected()

@@ -4,6 +4,7 @@ public class PlayerModeSwitcher : MonoBehaviour
 {
     public GameObject normalPlayer;
     public GameObject glitchPlayer;
+    public HealthUIController healthUI;
 
     private PlayerInputActions inputActions;
     private bool isGlitch = false;
@@ -11,14 +12,35 @@ public class PlayerModeSwitcher : MonoBehaviour
     private float lastSwitchTime = -Mathf.Infinity;
     private float switchCooldown = 3f;
 
+    public int maxHealth = 4;
+    public int currentHealth = 4;
+
     void Awake()
     {
         inputActions = new PlayerInputActions();
         inputActions.Player.ModeSwitch.performed += ctx => TryToggleMode();
     }
 
-    void OnEnable() => inputActions.Enable();
+    void OnEnable()
+    {
+        inputActions.Enable();
+        healthUI.SetMaxHealth(maxHealth);
+        healthUI.UpdateHealthUI(currentHealth);
+    }
     void OnDisable() => inputActions.Disable();
+
+    public void ApplyDamage(int amount)
+    {
+        currentHealth -= amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
+        healthUI.UpdateHealthUI(currentHealth);
+
+        if (currentHealth <= 0)
+        {
+            Debug.Log("플레이어 사망");
+            // 죽음 처리 필요 시 여기서
+        }
+    }
 
     void TryToggleMode()
     {
