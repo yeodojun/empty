@@ -72,7 +72,7 @@ public class Player : MonoBehaviour
     private Vector2 dashDir;
 
     // 생존 관련
-    public int health = 4;
+    public PlayerModeSwitcher switcher;
     void Start()
     {
         rb.gravityScale = 3f;
@@ -403,13 +403,7 @@ public class Player : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
-        animator.SetTrigger("Hit");
-        health -= amount;
-
-        if (health <= 0)
-        {
-            animator.SetTrigger("Death");
-        }
+        switcher.ApplyDamage(amount);
     }
 
     void OnDrawGizmosSelected()
