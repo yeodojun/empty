@@ -43,9 +43,17 @@ public class HealthUIController : MonoBehaviour
             if (i < currentHealth)
             {
                 if (i == currentHealth - 1 && currentHealth == 1)
+                {
                     activeHearts[i].SetTremble();
+                }
+                else if (currentHealth > lastHealth && i >= lastHealth)
+                {
+                    activeHearts[i].SetFix(); // 새로 찬 하트
+                }
                 else
-                    activeHearts[i].SetIdle();
+                {
+                    activeHearts[i].SetIdle(); // 기존에 차 있던 하트
+                }
             }
             else
             {
@@ -54,11 +62,13 @@ public class HealthUIController : MonoBehaviour
                 else if (currentHealth > lastHealth && i < currentHealth)
                     activeHearts[i].SetFix();    // 새로 찬 하트만 애니메이션 재생
                 else if (currentHealth <= i)
-                    activeHearts[i].SetNone();    // 닳아있는 하트는 None 상태로 유지
+                    activeHearts[i].SetNone();   // 닳아있는 하트는 None 상태로 유지
             }
         }
+
         lastHealth = currentHealth;
     }
+
 
     public void ClearHearts()
     {

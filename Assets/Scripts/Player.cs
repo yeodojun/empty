@@ -73,6 +73,13 @@ public class Player : MonoBehaviour
 
     // 생존 관련
     public PlayerModeSwitcher switcher;
+
+    // 힐 관련
+    private Coroutine healCoroutine;
+    private bool isHealing = false;
+    private float healCooldown = 0.5f;
+    private float lastHealTime = -Mathf.Infinity;
+
     void Start()
     {
         rb.gravityScale = 3f;
@@ -84,6 +91,7 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         inputActions = new PlayerInputActions();
+        switcher = GetComponentInParent<PlayerModeSwitcher>();
 
         inputActions.Player.Move.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
         inputActions.Player.Move.canceled += ctx => moveInput = Vector2.zero;
@@ -92,6 +100,8 @@ public class Player : MonoBehaviour
         inputActions.Player.Attack.performed += ctx => Attack();
         inputActions.Player.Skill.performed += ctx => Skill();
         inputActions.Player.Dash.performed += ctx => TryDash();
+        inputActions.Player.Heal.started += ctx => StartHeal();
+        inputActions.Player.Heal.canceled += ctx => CancelHeal();
     }
 
     void OnEnable() => inputActions.Enable();
@@ -403,8 +413,73 @@ public class Player : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
+        if (isHealing)
+            StopHealing();
         switcher.ApplyDamage(amount);
     }
+
+    void StartHeal()
+    {
+        if (isHealing || !isGrounded || Time.time - lastHealTime < healCooldown)
+            return;
+
+        if (moveInput.sqrMagnitude > 0.01f) // 이동 중 체크
+            return;
+        animator.ResetTrigger("HealStop");
+        healCoroutine = StartCoroutine(HealRoutine());
+    }
+
+    void CancelHeal()
+    {
+        if (isHealing)
+            StopHealing();
+    }
+
+    IEnumerator HealRoutine()
+    {
+        isHealing = true;
+        animator.SetTrigger("Heal");
+
+        float healDuration = 2f;
+        float timer = 0f;
+
+        while (timer < healDuration)
+        {
+            if (!isGrounded || moveInput.sqrMagnitude > 0.01f)
+            {
+                StopHealing();
+                yield break;
+            }
+
+            timer += Time.deltaTime;
+            yield return null;
+        }
+
+        if (switcher != null && switcher.currentHealth < switcher.maxHealth)
+        {
+            switcher.currentHealth++;
+            switcher.healthUI.UpdateHealthUI(switcher.currentHealth);
+            animator.SetTrigger("HealStop");
+            // 에너지 30 감소 처리
+        }
+
+        lastHealTime = Time.time;
+        isHealing = false;
+        healCoroutine = null;
+    }
+
+    void StopHealing()
+    {
+        if (healCoroutine != null)
+        {
+            StopCoroutine(healCoroutine);
+            animator.SetTrigger("HealStop");
+            healCoroutine = null;
+        }
+        isHealing = false;
+    }
+
+
 
     void OnDrawGizmosSelected()
     {
