@@ -455,12 +455,18 @@ public class Player : MonoBehaviour
             yield return null;
         }
 
-        if (switcher != null && switcher.currentHealth < switcher.maxHealth)
+        if (switcher != null)
         {
-            switcher.currentHealth++;
-            switcher.healthUI.UpdateHealthUI(switcher.currentHealth);
-            animator.SetTrigger("HealStop");
-            // 에너지 30 감소 처리
+            if (switcher.currentHealth < switcher.maxHealth && switcher.SpendMana(30))
+            {
+                switcher.currentHealth++;
+                switcher.healthUI.UpdateHealthUI(switcher.currentHealth);
+                animator.SetTrigger("HealStop");
+            }
+            else
+            {
+                StopHealing();
+            }
         }
 
         lastHealTime = Time.time;

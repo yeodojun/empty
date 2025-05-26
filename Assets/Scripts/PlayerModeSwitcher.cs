@@ -7,6 +7,7 @@ public class PlayerModeSwitcher : MonoBehaviour
     public HealthUIController healthUI;
 
     private PlayerInputActions inputActions;
+
     private bool isGlitch = false;
 
     private float lastSwitchTime = -Mathf.Infinity;
@@ -14,6 +15,10 @@ public class PlayerModeSwitcher : MonoBehaviour
 
     public int maxHealth = 4;
     public int currentHealth = 4;
+
+    public BatteryUI batteryUI; // BatteryUI 연결
+    public int maxMana = 100;
+    public int currentMana = 100;
 
     void Awake()
     {
@@ -54,7 +59,18 @@ public class PlayerModeSwitcher : MonoBehaviour
             animator.SetTrigger("Hit");
     }
 
+    public bool SpendMana(int amount)
+    {
+        if (currentMana < amount) return false;
+        currentMana -= amount;
+        batteryUI?.SpendMana(amount);
+        return true;
+    }
 
+    public void SyncManaUI()
+    {
+        batteryUI?.GainMana(0); // 강제 업데이트
+    }
 
     void TryToggleMode()
     {
@@ -84,5 +100,7 @@ public class PlayerModeSwitcher : MonoBehaviour
 
         normalPlayer.SetActive(!isGlitch);
         glitchPlayer.SetActive(isGlitch);
+
+        SyncManaUI();
     }
 }
