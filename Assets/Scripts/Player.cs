@@ -348,6 +348,7 @@ public class Player : MonoBehaviour
     public void AttackHit()
     {
         if (switcher.GainMana(10))
+        {}
     }
 
     public void ApplyKnockback(Vector2 sourcePosition, float knockbackForce = 3f)
