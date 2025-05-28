@@ -310,14 +310,13 @@ public class Player : MonoBehaviour
             var enemyScript = enemy.GetComponent<Enemy>();
             if (enemyScript != null)
             {
-                enemyScript.TakeDamage(attackDamage);
+                enemyScript.TakeDamage(attackDamage, this);
 
                 // 넉백
                 ApplyKnockback(enemy.transform.position, 3f);
             }
         }
     }
-
 
     void Attack()
     {
@@ -344,6 +343,11 @@ public class Player : MonoBehaviour
     {
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
         animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
+    }
+
+    public void AttackHit()
+    {
+        if (switcher.GainMana(10))
     }
 
     public void ApplyKnockback(Vector2 sourcePosition, float knockbackForce = 3f)

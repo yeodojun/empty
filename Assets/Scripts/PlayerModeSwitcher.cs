@@ -67,6 +67,14 @@ public class PlayerModeSwitcher : MonoBehaviour
         return true;
     }
 
+    public bool GainMana(int amount)
+    {
+        if (currentMana == maxMana) return false;
+        currentMana += amount;
+        batteryUI?.GainMana(amount);
+        return true;
+    }
+
     public void SyncManaUI()
     {
         batteryUI?.GainMana(0); // 강제 업데이트

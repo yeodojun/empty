@@ -15,11 +15,12 @@ public class Enemy : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    public void TakeDamage(int amount)
+    public void TakeDamage(int amount, Player sourceplayer)
     {
         if (isDying || isHitProcessing) return; // 중복 방지
 
         health -= amount;
+        sourceplayer.AttackHit();
 
         if (health <= 0)
         {
