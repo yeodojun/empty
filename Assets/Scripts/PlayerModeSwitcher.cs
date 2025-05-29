@@ -93,22 +93,30 @@ public class PlayerModeSwitcher : MonoBehaviour
     {
         isGlitch = !isGlitch;
 
-        Transform from = isGlitch ? normalPlayer.transform : glitchPlayer.transform;
-        Transform to = isGlitch ? glitchPlayer.transform : normalPlayer.transform;
+        GameObject fromObj = isGlitch ? normalPlayer : glitchPlayer;
+        GameObject toObj = isGlitch ? glitchPlayer : normalPlayer;
+
+        Transform from = fromObj.transform;
+        Transform to = toObj.transform;
 
         to.position = from.position;
 
-        Rigidbody2D fromRb = from.GetComponent<Rigidbody2D>();
-        Rigidbody2D toRb = to.GetComponent<Rigidbody2D>();
+        // 먼저 켜주고 물리 정보 복사
+        toObj.SetActive(true);
+
+        // 컴포넌트 캐싱 방식 (최적화)
+        var fromRb = from.GetComponent<Rigidbody2D>();
+        var toRb = to.GetComponent<Rigidbody2D>();
+
         toRb.linearVelocity = fromRb.linearVelocity;
 
         Vector3 scale = to.localScale;
         scale.x = Mathf.Sign(from.localScale.x) * Mathf.Abs(scale.x);
         to.localScale = scale;
 
-        normalPlayer.SetActive(!isGlitch);
-        glitchPlayer.SetActive(isGlitch);
+        fromObj.SetActive(false);
 
         SyncManaUI();
     }
+
 }

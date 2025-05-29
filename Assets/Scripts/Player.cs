@@ -293,12 +293,17 @@ public class Player : MonoBehaviour
             return;
         }
 
-        rb.linearVelocity = new Vector2(moveInput.x * moveSpeed, rb.linearVelocity.y);
+        Vector2 velocity = rb.linearVelocity;
+        float targetX = moveInput.x * moveSpeed;
+
+        const float maxFallSpeed = -12f;
+        if (!isWallSliding && velocity.y < maxFallSpeed)
+            velocity.y = maxFallSpeed;
 
         if (isWallSliding)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Clamp(rb.linearVelocity.y, -wallSlideSpeed, float.MaxValue));
-        }
+            velocity.y = Mathf.Max(velocity.y, -wallSlideSpeed);
+
+        rb.linearVelocity = new Vector2(targetX, velocity.y);
     }
 
     public void AttackHitbox()
@@ -348,7 +353,7 @@ public class Player : MonoBehaviour
     public void AttackHit()
     {
         if (switcher.GainMana(10))
-        {}
+        { }
     }
 
     public void ApplyKnockback(Vector2 sourcePosition, float knockbackForce = 3f)
