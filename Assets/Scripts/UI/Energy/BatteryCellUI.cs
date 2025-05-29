@@ -15,12 +15,11 @@ public class BatteryCellUI : MonoBehaviour
         transform.SetParent(parent);
         RectTransform rt = GetComponent<RectTransform>();
 
-        rt.anchorMin = new Vector2(0, 1);
-        rt.anchorMax = new Vector2(0, 1);
-        rt.pivot = new Vector2(0, 1);
+        rt.anchorMin = new Vector2(0.5f, 0.5f);
+        rt.anchorMax = new Vector2(0.5f, 0.5f);
+        rt.pivot = new Vector2(0.5f, 0.5f);
 
-        Vector2 visualOffset = new Vector2(0f, -2f);
-        rt.anchoredPosition = anchoredPos + visualOffset;
+        rt.anchoredPosition = anchoredPos;
 
         rt.localScale = Vector3.one;
         gameObject.SetActive(true);

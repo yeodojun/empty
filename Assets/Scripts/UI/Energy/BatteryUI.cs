@@ -41,28 +41,44 @@ public class BatteryUI : MonoBehaviour
     private void UpdateUI()
     {
         int desiredCells = currentMana / 10;
-
         float spacing = 20f;
-        float totalCellWidth = spacing * desiredCells;
-        float startX = cellParent.rect.width - totalCellWidth;
 
-        while (cells.Count > desiredCells)
+        // 셀 없으면 초기 생성
+        if (cells.Count == 0)
         {
-            var last = cells[^1];
-            cellPool.Return(last);
-            cells.RemoveAt(cells.Count - 1);
+            for (int i = 0; i < maxMana / 10; i++)
+            {
+                var cell = cellPool.Get();
+
+                // 중심 정렬 계산
+                float offsetX = 2f;
+                float startX = -((maxMana / 10 - 1) * spacing) / 2f + offsetX;
+                float x = startX + i * spacing;
+
+                Vector2 pos = new Vector2(x, 0);
+                cell.Activate(pos, cellParent, false);
+                cells.Add(cell);
+            }
         }
-
-        while (cells.Count < desiredCells)
+        // 현재 상태 업데이트
+        int totalCells = cells.Count;
+        for (int i = 0; i < totalCells; i++)
         {
-            var cell = cellPool.Get();
-            float x = startX + cells.Count * spacing;
-            Vector2 pos = new Vector2(x, 0);
-            cell.Activate(pos, cellParent, true);
-            cells.Add(cell);
+            var cell = cells[i]; // ← 순서대로 접근
+
+            if (i < desiredCells)
+            {
+                if (!cell.gameObject.activeSelf)
+                    cell.Activate(cell.GetComponent<RectTransform>().anchoredPosition, cellParent, true);
+                else
+                    cell.Activate(cell.GetComponent<RectTransform>().anchoredPosition, cellParent, false);
+            }
+            else
+            {
+                cell.Deactivate();
+            }
         }
     }
-
 
     public void ResetBattery()
     {
