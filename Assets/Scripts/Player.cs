@@ -73,6 +73,9 @@ public class Player : MonoBehaviour
 
     // 생존 관련
     public PlayerModeSwitcher switcher;
+    private bool isInvincible = false;
+    public bool IsInvincible => isInvincible;
+    private float invincibleDuration = 0.5f;
 
     // 힐 관련
     private Coroutine healCoroutine;
@@ -423,21 +426,40 @@ public class Player : MonoBehaviour
 
     public void TakeDamage(int amount)
     {
+        if (isInvincible) return;
+
         if (isHealing)
             StopHealing();
+
+        isInvincible = true;
+        StartCoroutine(InvincibilityTimer());
+
         switcher.ApplyDamage(amount);
+    }
+
+    private IEnumerator InvincibilityTimer()
+    {
+        yield return new WaitForSeconds(invincibleDuration);
+        isInvincible = false;
     }
 
     void StartHeal()
     {
+        // 기본 조건
         if (isHealing || !isGrounded || Time.time - lastHealTime < healCooldown)
             return;
 
         if (moveInput.sqrMagnitude > 0.01f) // 이동 중 체크
             return;
+
+        // 마나 부족 시 힐 불가
+        if (switcher == null || switcher.currentMana < 30)
+            return;
+
         animator.ResetTrigger("HealStop");
         healCoroutine = StartCoroutine(HealRoutine());
     }
+
 
     void CancelHeal()
     {
@@ -473,7 +495,7 @@ public class Player : MonoBehaviour
                 switcher.healthUI.UpdateHealthUI(switcher.currentHealth);
                 animator.SetTrigger("HealStop");
             }
-            else
+            else if (switcher.SpendMana(30))
             {
                 StopHealing();
             }

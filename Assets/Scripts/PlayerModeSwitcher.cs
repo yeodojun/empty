@@ -82,12 +82,19 @@ public class PlayerModeSwitcher : MonoBehaviour
 
     void TryToggleMode()
     {
+        GameObject active = isGlitch ? glitchPlayer : normalPlayer;
+        Player player = active.GetComponent<Player>();
+
+        if (player != null && player.IsInvincible)
+            return;
+
         if (Time.time - lastSwitchTime < switchCooldown)
             return;
 
         ToggleMode();
         lastSwitchTime = Time.time;
     }
+
 
     void ToggleMode()
     {
