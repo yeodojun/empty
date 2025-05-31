@@ -34,7 +34,7 @@ public class Player : MonoBehaviour
     public Transform attackPoint;     // 검 끝 위치
     public float attackRange = 0.5f;  // 공격 범위
     public LayerMask enemyLayer;      // 공격 대상 레이어
-    public int attackDamage = 1;
+    public int attackDamage = 10;
 
     private bool isKnockbacked = false;
     private float knockbackTimer = 0f;
