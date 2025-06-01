@@ -70,6 +70,8 @@ public class Player : MonoBehaviour
     private float dashDistance = 3f;
     private float dashTraveled = 0f;
     private Vector2 dashDir;
+    private float dashDuration = 0.2f;
+    private float dashTimer = 0f;
 
     // 생존 관련
     public PlayerModeSwitcher switcher;
@@ -231,6 +233,7 @@ public class Player : MonoBehaviour
                     isWallSliding = true;
                     animator.ResetTrigger("wallSlide");
                     animator.SetTrigger("wallSlide");
+                    canDoubleJump = true;
                 }
 
                 animator.SetBool("isFalling", false);
@@ -269,15 +272,15 @@ public class Player : MonoBehaviour
 
         if (isDashing)
         {
-            float moveStep = dashSpeed * Time.fixedDeltaTime;
             rb.linearVelocity = dashDir * dashSpeed;
-            dashTraveled += moveStep;
+            dashTimer -= Time.fixedDeltaTime;
 
-            if (dashTraveled >= dashDistance)
+            if (dashTimer <= 0f)
             {
                 rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
                 isDashing = false;
 
+                animator.ResetTrigger("Dash");
                 animator.SetBool("isRunning", Mathf.Abs(moveInput.x) > 0.1f);
                 animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
                 animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
@@ -285,8 +288,10 @@ public class Player : MonoBehaviour
 
                 Invoke(nameof(ResetDash), dashCooldown);
             }
+
             return;
         }
+
 
         if (isKnockbacked)
         {
@@ -387,6 +392,8 @@ public class Player : MonoBehaviour
         isDashing = true;
         canDash = false;
         dashTraveled = 0f;
+        dashTimer = dashDuration;
+
         animator.SetTrigger("Dash");
 
         dashDir = moveInput.x != 0 ? new Vector2(Mathf.Sign(moveInput.x), 0) : (isFacingRight ? Vector2.right : Vector2.left);
