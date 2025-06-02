@@ -225,8 +225,9 @@ public class Player : MonoBehaviour
         if (!isGrounded && rb.linearVelocity.y < -0.5f && touchingWall)
         {
             lastWallSlideTime = Time.time;
+            bool isDownInput = moveInput.y < -0.1f;
 
-            if (!isWallJumping && !isExitingWallSlide && sameDirAsWall)
+            if (!isWallJumping && !isExitingWallSlide && sameDirAsWall && !isDownInput)
             {
                 if (!isWallSliding)
                 {
@@ -239,6 +240,14 @@ public class Player : MonoBehaviour
                 animator.SetBool("isFalling", false);
                 animator.SetBool("isJumping", false);
                 lastWallSlideDir = isFacingRight ? 1 : -1;
+            }
+            else
+            {
+                if (isWallSliding)
+                {
+                    isWallSliding = false;
+                    animator.ResetTrigger("wallSlide");
+                }
             }
         }
         else
@@ -267,9 +276,6 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (isWallJumping)
-            return;
-
         if (isDashing)
         {
             rb.linearVelocity = dashDir * dashSpeed;
@@ -292,7 +298,6 @@ public class Player : MonoBehaviour
             return;
         }
 
-
         if (isKnockbacked)
         {
             knockbackTimer -= Time.fixedDeltaTime;
@@ -301,17 +306,32 @@ public class Player : MonoBehaviour
             return;
         }
 
-        Vector2 velocity = rb.linearVelocity;
-        float targetX = moveInput.x * moveSpeed;
+        if (isWallJumping)
+        {
+            // 벽 점프 중엔 기존 벡터 유지 (X를 덮어쓰지 않음!)
+            Vector2 velocity = rb.linearVelocity;
 
-        const float maxFallSpeed = -12f;
-        if (!isWallSliding && velocity.y < maxFallSpeed)
-            velocity.y = maxFallSpeed;
+            // 중력에 의한 낙하속도만 제한
+            const float maxFallSpeed = -12f;
+            if (velocity.y < maxFallSpeed)
+                velocity.y = maxFallSpeed;
 
-        if (isWallSliding)
-            velocity.y = Mathf.Max(velocity.y, -wallSlideSpeed);
+            rb.linearVelocity = new Vector2(velocity.x, velocity.y);
+        }
+        else
+        {
+            Vector2 velocity = rb.linearVelocity;
+            float targetX = moveInput.x * moveSpeed;
 
-        rb.linearVelocity = new Vector2(targetX, velocity.y);
+            const float maxFallSpeed = -12f;
+            if (!isWallSliding && velocity.y < maxFallSpeed)
+                velocity.y = maxFallSpeed;
+
+            if (isWallSliding)
+                velocity.y = Mathf.Max(velocity.y, -wallSlideSpeed);
+
+            rb.linearVelocity = new Vector2(targetX, velocity.y);
+        }
     }
 
     public void AttackHitbox()
@@ -334,7 +354,7 @@ public class Player : MonoBehaviour
     void Attack()
     {
         float currentTime = Time.time;
-        if (!canAttack || isWallSliding) return;
+        if (!canAttack || (isWallSliding && !isWallJumping)) return;
 
         if (currentTime - lastAttackTime > comboResetTime)
             nextAttackIndex = 1;
