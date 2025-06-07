@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sprite Sheet Vertical 192x384_0: 9005463065129963576
+      Sprite Sheet Vertical 192x384_1: 4633680961849334115
+      Sprite Sheet Vertical 192x384_2: 5243143683532467261
+      Sprite Sheet Vertical 192x384_3: 5709199282892912948
+      Sprite Sheet Vertical 192x384_4: -8261903145803681746
+      Sprite Sheet Vertical 192x384_5: 3136806542778559476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

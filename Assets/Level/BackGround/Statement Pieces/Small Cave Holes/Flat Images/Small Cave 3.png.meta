@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Small Cave 3_0: -6009902138361251977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

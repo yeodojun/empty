@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cloudy BG_0: 4681062207825048823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dense atmostphere4_0: 7532759693139203869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

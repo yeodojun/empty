@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fog1_0: 1318883831799855257
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

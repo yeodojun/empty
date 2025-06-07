@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Parallax Scifi Dark background_0: 4998852787666118059
+      Parallax Scifi Dark background_1: 8145345457868744892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

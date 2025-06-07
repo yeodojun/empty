@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Distant Lightning (32x32)_0: -5915941020873496922
+      Distant Lightning (32x32)_1: -8346524597428173130
+      Distant Lightning (32x32)_10: -4744796095794829171
+      Distant Lightning (32x32)_11: 792775841159546362
+      Distant Lightning (32x32)_12: 9169977039653837751
+      Distant Lightning (32x32)_13: -1337401301372423593
+      Distant Lightning (32x32)_14: 5071852258230355652
+      Distant Lightning (32x32)_15: -5326982260318172828
+      Distant Lightning (32x32)_16: -4900061525050987444
+      Distant Lightning (32x32)_17: -2702334934265451416
+      Distant Lightning (32x32)_2: 4352589595817508720
+      Distant Lightning (32x32)_3: -3900665396449661286
+      Distant Lightning (32x32)_4: 4414620537397325188
+      Distant Lightning (32x32)_5: -6109906404671050906
+      Distant Lightning (32x32)_6: -2246182325712829900
+      Distant Lightning (32x32)_7: 8651575292973469849
+      Distant Lightning (32x32)_8: 5417244389620661277
+      Distant Lightning (32x32)_9: 8300162765159827318
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

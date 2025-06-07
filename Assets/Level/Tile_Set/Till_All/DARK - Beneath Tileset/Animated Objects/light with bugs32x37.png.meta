@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      light with bugs32x37_0: -7476344344245043314
+      light with bugs32x37_1: 2895927409298464295
+      light with bugs32x37_2: -3127748306051993631
+      light with bugs32x37_3: -295098369667399894
+      light with bugs32x37_4: -3267571268632970809
+      light with bugs32x37_5: 6524812164300029237
+      light with bugs32x37_6: -8040043818148134682
+      light with bugs32x37_7: 1806553347855457567
+      light with bugs32x37_8: -7663553544276288167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

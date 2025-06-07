@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blinding Spider_0: 8901342548675556796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

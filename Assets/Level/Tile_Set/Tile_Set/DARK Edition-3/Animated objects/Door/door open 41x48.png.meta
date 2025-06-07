@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      door open 41x48_0: -947285603466191823
+      door open 41x48_1: -3913163859742695827
+      door open 41x48_10: -249191278329994053
+      door open 41x48_11: -5961295735154936861
+      door open 41x48_12: 4826527258294893653
+      door open 41x48_13: -4808947654709123485
+      door open 41x48_14: -2625469041084824071
+      door open 41x48_15: -4467263458029049515
+      door open 41x48_16: -4219032961090540285
+      door open 41x48_17: -2147769524120328798
+      door open 41x48_18: 8109083570340821084
+      door open 41x48_19: -7048100853605000566
+      door open 41x48_2: -1493428896492997272
+      door open 41x48_20: -1931779521021217265
+      door open 41x48_21: 2104636762328871555
+      door open 41x48_3: 5331618560527984959
+      door open 41x48_4: -5150334206372044453
+      door open 41x48_5: 3944962967907292882
+      door open 41x48_6: -430159742645000536
+      door open 41x48_7: -6296705113189887389
+      door open 41x48_8: -7810746891446013627
+      door open 41x48_9: -5156955676777308641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

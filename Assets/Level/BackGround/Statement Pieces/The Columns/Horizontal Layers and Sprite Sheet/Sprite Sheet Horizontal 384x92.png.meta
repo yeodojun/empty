@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sprite Sheet Horizontal 384x92_0: 5734640080195786260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
