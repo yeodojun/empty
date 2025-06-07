@@ -198,6 +198,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -984,7 +997,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      victorian tileset_0: 1099888379614613586
+      victorian tileset_1: -5338392816851284351
+      victorian tileset_10: 4767472758515063675
+      victorian tileset_11: 2674775886093553418
+      victorian tileset_12: -9044010343316158654
+      victorian tileset_13: -1505299616465198564
+      victorian tileset_14: 5820662870363724131
+      victorian tileset_15: -396939503800975533
+      victorian tileset_16: 7711964305678380603
+      victorian tileset_17: -3841190726301362904
+      victorian tileset_18: 2195635203523981690
+      victorian tileset_19: -4948505574553853598
+      victorian tileset_2: 8739307914059130910
+      victorian tileset_20: 4718368582662022351
+      victorian tileset_21: 1092970554114876517
+      victorian tileset_22: -7962707484605655863
+      victorian tileset_23: 2975406506653099687
+      victorian tileset_24: -2262807693065571660
+      victorian tileset_25: 5798551531739489713
+      victorian tileset_26: -8223943861651149424
+      victorian tileset_27: -9042412741718903306
+      victorian tileset_28: 15439491351468887
+      victorian tileset_29: 5725893925948521869
+      victorian tileset_3: -4925556316990548080
+      victorian tileset_30: -7202911670082428227
+      victorian tileset_31: 5021102691697835561
+      victorian tileset_32: -3638471769866129938
+      victorian tileset_33: -1700720617947771090
+      victorian tileset_34: -4767700939595716649
+      victorian tileset_4: 7403761549449531445
+      victorian tileset_5: 8412162258186642548
+      victorian tileset_6: 5459232029322353531
+      victorian tileset_7: 5022892254096087193
+      victorian tileset_8: -7867881634068650436
+      victorian tileset_9: 4327942412104830107
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

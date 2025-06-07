@@ -219,6 +219,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1159,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tree Tileset3_0: -6719442780651062999
+      Tree Tileset3_1: 865004270383329237
+      Tree Tileset3_10: -7495107513826756206
+      Tree Tileset3_11: -5573716262134239135
+      Tree Tileset3_12: 1175890573258600222
+      Tree Tileset3_13: 6404335758639983537
+      Tree Tileset3_14: 111460103596227837
+      Tree Tileset3_15: 8161651127141850356
+      Tree Tileset3_16: -8281054815979909501
+      Tree Tileset3_17: 335864448850275054
+      Tree Tileset3_18: -707445994297824303
+      Tree Tileset3_19: 5563761239448842012
+      Tree Tileset3_2: 8892362045038828657
+      Tree Tileset3_20: 1253098210977054140
+      Tree Tileset3_21: -5770143819304722537
+      Tree Tileset3_22: 933629590214483594
+      Tree Tileset3_23: 8204895798697666532
+      Tree Tileset3_24: -7065138995505177163
+      Tree Tileset3_25: -4243546929494452561
+      Tree Tileset3_26: -689023849203982470
+      Tree Tileset3_27: -8431761305711116115
+      Tree Tileset3_28: -2264937310230459690
+      Tree Tileset3_29: -369744231026906567
+      Tree Tileset3_3: 4523329861158726629
+      Tree Tileset3_30: 5400954446102647954
+      Tree Tileset3_31: 1411084740819869176
+      Tree Tileset3_32: -705678639144454533
+      Tree Tileset3_33: -2197978271920201832
+      Tree Tileset3_34: -6561857316046542126
+      Tree Tileset3_35: 6046876641718260409
+      Tree Tileset3_36: 6278419157511945426
+      Tree Tileset3_37: 7087903340123966252
+      Tree Tileset3_38: -5562970187020305190
+      Tree Tileset3_39: 2238620597302553300
+      Tree Tileset3_4: -7965756564722664177
+      Tree Tileset3_40: 3596580767217513848
+      Tree Tileset3_41: 7872830955575149133
+      Tree Tileset3_5: -8573958473211629845
+      Tree Tileset3_6: 7919644192809346830
+      Tree Tileset3_7: 8041232630493831323
+      Tree Tileset3_8: 4836137552727498863
+      Tree Tileset3_9: -7967477828790966400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -819,6 +819,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -6159,7 +6172,249 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Air Attack Slam Sprite sheet 246x121_0: -100592902882747926
+      Air Attack Slam Sprite sheet 246x121_1: -1726361942085084761
+      Air Attack Slam Sprite sheet 246x121_10: -4990998123003074987
+      Air Attack Slam Sprite sheet 246x121_100: 6996621604909543648
+      Air Attack Slam Sprite sheet 246x121_101: -145474743623529442
+      Air Attack Slam Sprite sheet 246x121_102: 8239711697792656114
+      Air Attack Slam Sprite sheet 246x121_103: -6412957903265552809
+      Air Attack Slam Sprite sheet 246x121_104: -5412656475139087929
+      Air Attack Slam Sprite sheet 246x121_105: 4503762008431233665
+      Air Attack Slam Sprite sheet 246x121_106: 4019948694215826840
+      Air Attack Slam Sprite sheet 246x121_107: 5521472065612228579
+      Air Attack Slam Sprite sheet 246x121_108: -1410988930040352116
+      Air Attack Slam Sprite sheet 246x121_109: -2727255982447791163
+      Air Attack Slam Sprite sheet 246x121_11: -8260797757126888466
+      Air Attack Slam Sprite sheet 246x121_110: -4411103624878447961
+      Air Attack Slam Sprite sheet 246x121_111: 798067881707175230
+      Air Attack Slam Sprite sheet 246x121_112: -3623100606059149582
+      Air Attack Slam Sprite sheet 246x121_113: 8013420140099419341
+      Air Attack Slam Sprite sheet 246x121_114: 8465016179296804347
+      Air Attack Slam Sprite sheet 246x121_115: 1402018291196094148
+      Air Attack Slam Sprite sheet 246x121_116: 3237394908011581536
+      Air Attack Slam Sprite sheet 246x121_117: 5147730431592668401
+      Air Attack Slam Sprite sheet 246x121_118: 825307379333231325
+      Air Attack Slam Sprite sheet 246x121_119: 8160676639637525023
+      Air Attack Slam Sprite sheet 246x121_12: 1333011092185196956
+      Air Attack Slam Sprite sheet 246x121_120: 2793449512765609637
+      Air Attack Slam Sprite sheet 246x121_121: 6879001681893349521
+      Air Attack Slam Sprite sheet 246x121_122: -4809772803095962886
+      Air Attack Slam Sprite sheet 246x121_123: 8502919803111175724
+      Air Attack Slam Sprite sheet 246x121_124: -127858234915785320
+      Air Attack Slam Sprite sheet 246x121_125: 3832790548203981956
+      Air Attack Slam Sprite sheet 246x121_126: -1409272276656077628
+      Air Attack Slam Sprite sheet 246x121_127: 2144861439301955909
+      Air Attack Slam Sprite sheet 246x121_128: 4488483008071529563
+      Air Attack Slam Sprite sheet 246x121_129: 3450704368660316897
+      Air Attack Slam Sprite sheet 246x121_13: -4495280090676336474
+      Air Attack Slam Sprite sheet 246x121_130: -7615543419584151221
+      Air Attack Slam Sprite sheet 246x121_131: -6325804567313457123
+      Air Attack Slam Sprite sheet 246x121_132: -5937115714102635466
+      Air Attack Slam Sprite sheet 246x121_133: 3599745480742287418
+      Air Attack Slam Sprite sheet 246x121_134: -2395022403192888613
+      Air Attack Slam Sprite sheet 246x121_135: -2035588067372779035
+      Air Attack Slam Sprite sheet 246x121_136: -7219425523375794732
+      Air Attack Slam Sprite sheet 246x121_137: -1931419208568829330
+      Air Attack Slam Sprite sheet 246x121_138: -346147920046716337
+      Air Attack Slam Sprite sheet 246x121_139: 583214310826027471
+      Air Attack Slam Sprite sheet 246x121_14: 6806531769668957844
+      Air Attack Slam Sprite sheet 246x121_140: 5664953114201940706
+      Air Attack Slam Sprite sheet 246x121_141: -3102695883508714138
+      Air Attack Slam Sprite sheet 246x121_142: -8307011584192025332
+      Air Attack Slam Sprite sheet 246x121_143: -8282665691813971865
+      Air Attack Slam Sprite sheet 246x121_144: -862304713737342505
+      Air Attack Slam Sprite sheet 246x121_145: 2239923495268081609
+      Air Attack Slam Sprite sheet 246x121_146: 1224360723476388001
+      Air Attack Slam Sprite sheet 246x121_147: -8731344143182625784
+      Air Attack Slam Sprite sheet 246x121_148: 1846581796728721625
+      Air Attack Slam Sprite sheet 246x121_149: -1023346940620698429
+      Air Attack Slam Sprite sheet 246x121_15: 5681735066086579084
+      Air Attack Slam Sprite sheet 246x121_150: 1932218891003436934
+      Air Attack Slam Sprite sheet 246x121_151: 5022225963569089997
+      Air Attack Slam Sprite sheet 246x121_152: -3488296098025629288
+      Air Attack Slam Sprite sheet 246x121_153: 7144477822843609547
+      Air Attack Slam Sprite sheet 246x121_154: -3931210930058736890
+      Air Attack Slam Sprite sheet 246x121_155: 7536881356022898697
+      Air Attack Slam Sprite sheet 246x121_156: -4441709714064507114
+      Air Attack Slam Sprite sheet 246x121_157: 7013316171752067122
+      Air Attack Slam Sprite sheet 246x121_158: 3149660429735302222
+      Air Attack Slam Sprite sheet 246x121_159: 7769762622782591912
+      Air Attack Slam Sprite sheet 246x121_16: -1062912324615115988
+      Air Attack Slam Sprite sheet 246x121_160: -2617086035603301384
+      Air Attack Slam Sprite sheet 246x121_161: 180146326622537451
+      Air Attack Slam Sprite sheet 246x121_162: 8883757534362897923
+      Air Attack Slam Sprite sheet 246x121_163: 4661935031358566070
+      Air Attack Slam Sprite sheet 246x121_164: 6827337826769014308
+      Air Attack Slam Sprite sheet 246x121_165: 2899852193337913844
+      Air Attack Slam Sprite sheet 246x121_166: -2611744106550047064
+      Air Attack Slam Sprite sheet 246x121_167: 6351791138646941124
+      Air Attack Slam Sprite sheet 246x121_168: 5152105062077328036
+      Air Attack Slam Sprite sheet 246x121_169: 6239853579830469313
+      Air Attack Slam Sprite sheet 246x121_17: 2723620956408996287
+      Air Attack Slam Sprite sheet 246x121_170: -6812079277304294782
+      Air Attack Slam Sprite sheet 246x121_171: -2076263714541397843
+      Air Attack Slam Sprite sheet 246x121_172: 6930517693992677772
+      Air Attack Slam Sprite sheet 246x121_173: -6935155808624815280
+      Air Attack Slam Sprite sheet 246x121_174: -9216584053270453592
+      Air Attack Slam Sprite sheet 246x121_175: 426332964409778224
+      Air Attack Slam Sprite sheet 246x121_176: -6454011649205997673
+      Air Attack Slam Sprite sheet 246x121_177: -8755355852436038098
+      Air Attack Slam Sprite sheet 246x121_178: -2126230937482798569
+      Air Attack Slam Sprite sheet 246x121_179: -7166784313542172112
+      Air Attack Slam Sprite sheet 246x121_18: 5249683278740182828
+      Air Attack Slam Sprite sheet 246x121_180: 7482223491020863341
+      Air Attack Slam Sprite sheet 246x121_181: 1511928666557895159
+      Air Attack Slam Sprite sheet 246x121_182: 7943478849075150384
+      Air Attack Slam Sprite sheet 246x121_183: -7576837599227772576
+      Air Attack Slam Sprite sheet 246x121_184: -8433249552766082247
+      Air Attack Slam Sprite sheet 246x121_185: -5579385997624041858
+      Air Attack Slam Sprite sheet 246x121_186: -5711195687223771267
+      Air Attack Slam Sprite sheet 246x121_187: 7637973398196227547
+      Air Attack Slam Sprite sheet 246x121_188: -8949482982730422165
+      Air Attack Slam Sprite sheet 246x121_189: 8118904430553788679
+      Air Attack Slam Sprite sheet 246x121_19: -6017688533453212353
+      Air Attack Slam Sprite sheet 246x121_190: 1779739484511545642
+      Air Attack Slam Sprite sheet 246x121_191: -508989251437401648
+      Air Attack Slam Sprite sheet 246x121_192: 2362113572265917185
+      Air Attack Slam Sprite sheet 246x121_193: 7032784208345069221
+      Air Attack Slam Sprite sheet 246x121_194: 2629994564295292846
+      Air Attack Slam Sprite sheet 246x121_195: -1778128904897459490
+      Air Attack Slam Sprite sheet 246x121_196: -8005511492546207031
+      Air Attack Slam Sprite sheet 246x121_197: 2361615100095842353
+      Air Attack Slam Sprite sheet 246x121_198: -4120544374200404236
+      Air Attack Slam Sprite sheet 246x121_199: -7548021709654371278
+      Air Attack Slam Sprite sheet 246x121_2: -2207623607958097128
+      Air Attack Slam Sprite sheet 246x121_20: 199101680802392408
+      Air Attack Slam Sprite sheet 246x121_200: 6592603505944991185
+      Air Attack Slam Sprite sheet 246x121_201: -8770045137802028280
+      Air Attack Slam Sprite sheet 246x121_202: 1361238914725098262
+      Air Attack Slam Sprite sheet 246x121_203: 7548550479041640145
+      Air Attack Slam Sprite sheet 246x121_204: 6878771353044996175
+      Air Attack Slam Sprite sheet 246x121_205: -3205171919338318578
+      Air Attack Slam Sprite sheet 246x121_206: 6319206414512440645
+      Air Attack Slam Sprite sheet 246x121_207: -6272299312971002972
+      Air Attack Slam Sprite sheet 246x121_208: -6114180675686362749
+      Air Attack Slam Sprite sheet 246x121_209: -5889082390654521517
+      Air Attack Slam Sprite sheet 246x121_21: 7916134200306510105
+      Air Attack Slam Sprite sheet 246x121_210: 5567280298971217301
+      Air Attack Slam Sprite sheet 246x121_211: -6344673304557882793
+      Air Attack Slam Sprite sheet 246x121_212: 6418588061713767385
+      Air Attack Slam Sprite sheet 246x121_213: -2352481930296065314
+      Air Attack Slam Sprite sheet 246x121_214: 1890212436406076752
+      Air Attack Slam Sprite sheet 246x121_215: 1405852565082941628
+      Air Attack Slam Sprite sheet 246x121_216: 6645453007312149131
+      Air Attack Slam Sprite sheet 246x121_217: 6473329910833000384
+      Air Attack Slam Sprite sheet 246x121_218: -3790048667593674844
+      Air Attack Slam Sprite sheet 246x121_219: -1697301431752404911
+      Air Attack Slam Sprite sheet 246x121_22: -7983721110836044588
+      Air Attack Slam Sprite sheet 246x121_220: -2061131395072761866
+      Air Attack Slam Sprite sheet 246x121_221: 9210217919819883460
+      Air Attack Slam Sprite sheet 246x121_222: -4337991306371241421
+      Air Attack Slam Sprite sheet 246x121_223: -3458564067172879857
+      Air Attack Slam Sprite sheet 246x121_224: 3454202562559108729
+      Air Attack Slam Sprite sheet 246x121_225: -3644625764397797493
+      Air Attack Slam Sprite sheet 246x121_226: -1168409661831880302
+      Air Attack Slam Sprite sheet 246x121_227: -3768468359564769963
+      Air Attack Slam Sprite sheet 246x121_228: -6823456126335367880
+      Air Attack Slam Sprite sheet 246x121_229: -4469002836471170978
+      Air Attack Slam Sprite sheet 246x121_23: -6408737459564436246
+      Air Attack Slam Sprite sheet 246x121_230: -1397300067657636669
+      Air Attack Slam Sprite sheet 246x121_231: 5159607059270364368
+      Air Attack Slam Sprite sheet 246x121_232: -3356262547168835367
+      Air Attack Slam Sprite sheet 246x121_233: 1633897859121799974
+      Air Attack Slam Sprite sheet 246x121_234: 1840331659439091218
+      Air Attack Slam Sprite sheet 246x121_235: -2477329481086445786
+      Air Attack Slam Sprite sheet 246x121_236: 996357143843805323
+      Air Attack Slam Sprite sheet 246x121_237: -497901416809135824
+      Air Attack Slam Sprite sheet 246x121_238: 7519768355431223272
+      Air Attack Slam Sprite sheet 246x121_239: 2051792481780931643
+      Air Attack Slam Sprite sheet 246x121_24: -4604285210302732120
+      Air Attack Slam Sprite sheet 246x121_240: 1141026334672141243
+      Air Attack Slam Sprite sheet 246x121_241: 2857536462283052830
+      Air Attack Slam Sprite sheet 246x121_25: 4312433003615339535
+      Air Attack Slam Sprite sheet 246x121_26: -8852152487135763505
+      Air Attack Slam Sprite sheet 246x121_27: -9015157514952228469
+      Air Attack Slam Sprite sheet 246x121_28: 7293221726815388033
+      Air Attack Slam Sprite sheet 246x121_29: 1821948317591717651
+      Air Attack Slam Sprite sheet 246x121_3: 961156771622511428
+      Air Attack Slam Sprite sheet 246x121_30: 1114800363511314953
+      Air Attack Slam Sprite sheet 246x121_31: 2562593879626283229
+      Air Attack Slam Sprite sheet 246x121_32: -3587229411373589482
+      Air Attack Slam Sprite sheet 246x121_33: 3843786295773840388
+      Air Attack Slam Sprite sheet 246x121_34: 7691275249979953999
+      Air Attack Slam Sprite sheet 246x121_35: -4423312571192118895
+      Air Attack Slam Sprite sheet 246x121_36: 8512261411080882377
+      Air Attack Slam Sprite sheet 246x121_37: -3058483525716343544
+      Air Attack Slam Sprite sheet 246x121_38: 5399476367445078125
+      Air Attack Slam Sprite sheet 246x121_39: -4581184178600739974
+      Air Attack Slam Sprite sheet 246x121_4: 8018939366197802435
+      Air Attack Slam Sprite sheet 246x121_40: 8103665389672533019
+      Air Attack Slam Sprite sheet 246x121_41: -1337922345916208915
+      Air Attack Slam Sprite sheet 246x121_42: 2589667416953891681
+      Air Attack Slam Sprite sheet 246x121_43: 2485462566503178782
+      Air Attack Slam Sprite sheet 246x121_44: 2914272781493582994
+      Air Attack Slam Sprite sheet 246x121_45: -8600216217088482937
+      Air Attack Slam Sprite sheet 246x121_46: -3816437321209545232
+      Air Attack Slam Sprite sheet 246x121_47: 4166672193222998193
+      Air Attack Slam Sprite sheet 246x121_48: -8021200537879629615
+      Air Attack Slam Sprite sheet 246x121_49: 5300115158952856863
+      Air Attack Slam Sprite sheet 246x121_5: -8651548896928864045
+      Air Attack Slam Sprite sheet 246x121_50: 7640331195963067738
+      Air Attack Slam Sprite sheet 246x121_51: 6773745862228855348
+      Air Attack Slam Sprite sheet 246x121_52: -8127167348028844041
+      Air Attack Slam Sprite sheet 246x121_53: -835941241729540139
+      Air Attack Slam Sprite sheet 246x121_54: -5359163267550241770
+      Air Attack Slam Sprite sheet 246x121_55: -7427963630723784967
+      Air Attack Slam Sprite sheet 246x121_56: 5319619005290176551
+      Air Attack Slam Sprite sheet 246x121_57: -2596538396197709779
+      Air Attack Slam Sprite sheet 246x121_58: -6685297228898890459
+      Air Attack Slam Sprite sheet 246x121_59: 7666724499238856928
+      Air Attack Slam Sprite sheet 246x121_6: -2824926340054467990
+      Air Attack Slam Sprite sheet 246x121_60: 4692510460416535065
+      Air Attack Slam Sprite sheet 246x121_61: -8666886031986314084
+      Air Attack Slam Sprite sheet 246x121_62: -1336371029123454992
+      Air Attack Slam Sprite sheet 246x121_63: 7717688652520831405
+      Air Attack Slam Sprite sheet 246x121_64: -3509743275535961741
+      Air Attack Slam Sprite sheet 246x121_65: -7266710361743294907
+      Air Attack Slam Sprite sheet 246x121_66: 8691483404098702306
+      Air Attack Slam Sprite sheet 246x121_67: -3672379415383460768
+      Air Attack Slam Sprite sheet 246x121_68: -9061083156892437056
+      Air Attack Slam Sprite sheet 246x121_69: -8069502983886406903
+      Air Attack Slam Sprite sheet 246x121_7: -4427826409728244761
+      Air Attack Slam Sprite sheet 246x121_70: -5349691827142429142
+      Air Attack Slam Sprite sheet 246x121_71: -6417489874802508300
+      Air Attack Slam Sprite sheet 246x121_72: 1074977941693781115
+      Air Attack Slam Sprite sheet 246x121_73: -7707344442841545696
+      Air Attack Slam Sprite sheet 246x121_74: -2723707016601481049
+      Air Attack Slam Sprite sheet 246x121_75: 548612726908479076
+      Air Attack Slam Sprite sheet 246x121_76: 3033039485432252149
+      Air Attack Slam Sprite sheet 246x121_77: 5517882042939584722
+      Air Attack Slam Sprite sheet 246x121_78: -1440011896137053214
+      Air Attack Slam Sprite sheet 246x121_79: -6445758672374019312
+      Air Attack Slam Sprite sheet 246x121_8: -7355433107881750676
+      Air Attack Slam Sprite sheet 246x121_80: 8015026489081117307
+      Air Attack Slam Sprite sheet 246x121_81: -6198347490902226496
+      Air Attack Slam Sprite sheet 246x121_82: -398428543825550835
+      Air Attack Slam Sprite sheet 246x121_83: 302926088389851926
+      Air Attack Slam Sprite sheet 246x121_84: 4094672972810609267
+      Air Attack Slam Sprite sheet 246x121_85: -6314803318939975431
+      Air Attack Slam Sprite sheet 246x121_86: -4329924664342326516
+      Air Attack Slam Sprite sheet 246x121_87: 2225575227595734949
+      Air Attack Slam Sprite sheet 246x121_88: 8530042407921625027
+      Air Attack Slam Sprite sheet 246x121_89: 3119043498323214370
+      Air Attack Slam Sprite sheet 246x121_9: -3241342649461007958
+      Air Attack Slam Sprite sheet 246x121_90: 1217477657757809548
+      Air Attack Slam Sprite sheet 246x121_91: -959030113636711778
+      Air Attack Slam Sprite sheet 246x121_92: -3435019693980548774
+      Air Attack Slam Sprite sheet 246x121_93: -6841731435596363903
+      Air Attack Slam Sprite sheet 246x121_94: 478393664220879066
+      Air Attack Slam Sprite sheet 246x121_95: 3525461310931922257
+      Air Attack Slam Sprite sheet 246x121_96: 395651937211177712
+      Air Attack Slam Sprite sheet 246x121_97: 7165660729113459815
+      Air Attack Slam Sprite sheet 246x121_98: 273889934082667417
+      Air Attack Slam Sprite sheet 246x121_99: -5615805793216844671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

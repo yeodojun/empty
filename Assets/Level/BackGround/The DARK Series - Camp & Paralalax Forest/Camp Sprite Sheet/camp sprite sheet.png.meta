@@ -180,6 +180,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -834,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      camp sprite sheet_0: 3815665990340081308
+      camp sprite sheet_1: -5440558087761993232
+      camp sprite sheet_10: 5761234464196269603
+      camp sprite sheet_11: -5716915513942484404
+      camp sprite sheet_12: 90095886684415495
+      camp sprite sheet_13: 6658216581125828934
+      camp sprite sheet_14: 3032603717410337373
+      camp sprite sheet_15: -5742853988688623012
+      camp sprite sheet_16: -8795100640931408335
+      camp sprite sheet_17: 3871570465843560516
+      camp sprite sheet_18: 3350896351298844203
+      camp sprite sheet_19: 2741296811463024516
+      camp sprite sheet_2: -8490805927014210297
+      camp sprite sheet_20: -2298877954574941850
+      camp sprite sheet_21: 7541072250548848985
+      camp sprite sheet_22: 4844393555337557588
+      camp sprite sheet_23: 5131811553012361723
+      camp sprite sheet_24: -1564970405569315636
+      camp sprite sheet_25: -1400166722024018201
+      camp sprite sheet_26: 5566898854398512234
+      camp sprite sheet_27: 4234501127745258860
+      camp sprite sheet_28: 7292892521578087364
+      camp sprite sheet_3: -4077780758982867640
+      camp sprite sheet_4: 7811009450407190601
+      camp sprite sheet_5: -5837779456203263534
+      camp sprite sheet_6: -3204125399891208720
+      camp sprite sheet_7: 6512121209945411955
+      camp sprite sheet_8: -3103437422834456548
+      camp sprite sheet_9: -2309350257995546103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

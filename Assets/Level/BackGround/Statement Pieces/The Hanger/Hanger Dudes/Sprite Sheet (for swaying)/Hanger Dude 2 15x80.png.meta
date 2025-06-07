@@ -171,6 +171,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -759,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hanger Dude 2 15x80_0: -5320101487269634020
+      Hanger Dude 2 15x80_1: -975110502957814945
+      Hanger Dude 2 15x80_10: -8799988915737958459
+      Hanger Dude 2 15x80_11: -2561160690825083165
+      Hanger Dude 2 15x80_12: -6838273009517405654
+      Hanger Dude 2 15x80_13: 475081392165152707
+      Hanger Dude 2 15x80_14: -3851050962809419315
+      Hanger Dude 2 15x80_15: -2602989971766369639
+      Hanger Dude 2 15x80_16: 121734174359408275
+      Hanger Dude 2 15x80_17: 3654642078740457324
+      Hanger Dude 2 15x80_18: -5124073858819310616
+      Hanger Dude 2 15x80_19: 3738740281719934511
+      Hanger Dude 2 15x80_2: -2294768068367664271
+      Hanger Dude 2 15x80_20: -8380245396659235644
+      Hanger Dude 2 15x80_21: 3028681412782902845
+      Hanger Dude 2 15x80_22: 70407438442375928
+      Hanger Dude 2 15x80_23: 1854914162158723
+      Hanger Dude 2 15x80_24: 1885040183389805709
+      Hanger Dude 2 15x80_25: 8596018128562836884
+      Hanger Dude 2 15x80_3: -4085138642718410225
+      Hanger Dude 2 15x80_4: -1572934300432200681
+      Hanger Dude 2 15x80_5: -7974760931348517180
+      Hanger Dude 2 15x80_6: 7868585882573143183
+      Hanger Dude 2 15x80_7: 8616794675642165314
+      Hanger Dude 2 15x80_8: 8276182460627387351
+      Hanger Dude 2 15x80_9: -15639673687352139
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

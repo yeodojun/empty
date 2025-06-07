@@ -219,6 +219,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1159,7 +1172,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tree Tileset5_0: 2011356897372695003
+      Tree Tileset5_1: 1685523227402841830
+      Tree Tileset5_10: -4334600820197584693
+      Tree Tileset5_11: 6504303427718341843
+      Tree Tileset5_12: 9207716459606512621
+      Tree Tileset5_13: -2449325033177909357
+      Tree Tileset5_14: 5411229876099701392
+      Tree Tileset5_15: -4904929780946728022
+      Tree Tileset5_16: 7796470267423930624
+      Tree Tileset5_17: 2161207162769950646
+      Tree Tileset5_18: -2205791469810692002
+      Tree Tileset5_19: -7013140784082307931
+      Tree Tileset5_2: -232981939245565421
+      Tree Tileset5_20: 7089611783146926693
+      Tree Tileset5_21: 338696295445896506
+      Tree Tileset5_22: 3199758480478707675
+      Tree Tileset5_23: 3853878907034222457
+      Tree Tileset5_24: -8237044845897740240
+      Tree Tileset5_25: -3294294888059471403
+      Tree Tileset5_26: 8803885253583582432
+      Tree Tileset5_27: 1020538996430078746
+      Tree Tileset5_28: 1928757045188608725
+      Tree Tileset5_29: 6363764033117100904
+      Tree Tileset5_3: 2406592271297789839
+      Tree Tileset5_30: -8847980388398310465
+      Tree Tileset5_31: -2976390589455807523
+      Tree Tileset5_32: 4595244435033211605
+      Tree Tileset5_33: -4649379729537399854
+      Tree Tileset5_34: -5642710935319342119
+      Tree Tileset5_35: 7093126564150972785
+      Tree Tileset5_36: 7515426477635923724
+      Tree Tileset5_37: -3199354265199528556
+      Tree Tileset5_38: 4305045741427075899
+      Tree Tileset5_39: 275400113404870614
+      Tree Tileset5_4: -8131633178058884636
+      Tree Tileset5_40: 5305909504422102599
+      Tree Tileset5_41: -8205655693262927749
+      Tree Tileset5_5: 5549030357338630338
+      Tree Tileset5_6: 6907253896067034217
+      Tree Tileset5_7: -4678343139517269048
+      Tree Tileset5_8: 2677898660672827561
+      Tree Tileset5_9: 3522150264881114310
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -213,6 +213,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1109,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dark Farm Crops Sprite Sheet_0: 4685598241501723562
+      Dark Farm Crops Sprite Sheet_1: 1682553127037937570
+      Dark Farm Crops Sprite Sheet_10: -333106873882479403
+      Dark Farm Crops Sprite Sheet_11: -4364644399362075212
+      Dark Farm Crops Sprite Sheet_12: -6570726719098193738
+      Dark Farm Crops Sprite Sheet_13: -4151657819225487379
+      Dark Farm Crops Sprite Sheet_14: -3999563036837950138
+      Dark Farm Crops Sprite Sheet_15: 3615440170498028024
+      Dark Farm Crops Sprite Sheet_16: 884537230374031907
+      Dark Farm Crops Sprite Sheet_17: 7235234231118727055
+      Dark Farm Crops Sprite Sheet_18: -5902186592783267696
+      Dark Farm Crops Sprite Sheet_19: -3964027833183585931
+      Dark Farm Crops Sprite Sheet_2: 3186953867728892372
+      Dark Farm Crops Sprite Sheet_20: 3644853132479897601
+      Dark Farm Crops Sprite Sheet_21: 7297309120670371954
+      Dark Farm Crops Sprite Sheet_22: -1994303327215048165
+      Dark Farm Crops Sprite Sheet_23: 9099530756567359318
+      Dark Farm Crops Sprite Sheet_24: 4086408994662737873
+      Dark Farm Crops Sprite Sheet_25: 4809782339943431496
+      Dark Farm Crops Sprite Sheet_26: 4062596494350886169
+      Dark Farm Crops Sprite Sheet_27: 920166192859610479
+      Dark Farm Crops Sprite Sheet_28: 4323672792659250018
+      Dark Farm Crops Sprite Sheet_29: -754107339648476343
+      Dark Farm Crops Sprite Sheet_3: -3458128482459759716
+      Dark Farm Crops Sprite Sheet_30: 5036181478978488166
+      Dark Farm Crops Sprite Sheet_31: -482421783124979915
+      Dark Farm Crops Sprite Sheet_32: -3741399080797312339
+      Dark Farm Crops Sprite Sheet_33: 2830920773576354678
+      Dark Farm Crops Sprite Sheet_34: 2955950193819055081
+      Dark Farm Crops Sprite Sheet_35: 1396536850934184953
+      Dark Farm Crops Sprite Sheet_36: -888694276243784391
+      Dark Farm Crops Sprite Sheet_37: 5175384469883043806
+      Dark Farm Crops Sprite Sheet_38: -5617153058745610551
+      Dark Farm Crops Sprite Sheet_39: -6640051015840175223
+      Dark Farm Crops Sprite Sheet_4: -3641110146732330793
+      Dark Farm Crops Sprite Sheet_5: -1374364058158339201
+      Dark Farm Crops Sprite Sheet_6: 3334949143171178088
+      Dark Farm Crops Sprite Sheet_7: -3322383152026711090
+      Dark Farm Crops Sprite Sheet_8: -244606286070918646
+      Dark Farm Crops Sprite Sheet_9: 8444005653755926265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

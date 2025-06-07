@@ -123,6 +123,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -359,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flower glow 16x16_0: 7036718319060672103
+      flower glow 16x16_1: 652339734243908985
+      flower glow 16x16_2: 1540314625548436136
+      flower glow 16x16_3: 8376228728666218381
+      flower glow 16x16_4: 5122661673120044246
+      flower glow 16x16_5: 5278508553861363813
+      flower glow 16x16_6: 3594679834859946011
+      flower glow 16x16_7: 619229773897289541
+      flower glow 16x16_8: 8395982582350855528
+      flower glow 16x16_9: -7695838205289038683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

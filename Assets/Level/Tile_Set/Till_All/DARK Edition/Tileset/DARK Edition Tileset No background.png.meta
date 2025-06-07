@@ -258,6 +258,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1484,7 +1497,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DARK Edition Tileset No background_0: -7564577288890169325
+      DARK Edition Tileset No background_1: 3382810596217212595
+      DARK Edition Tileset No background_10: 8153912443200054360
+      DARK Edition Tileset No background_11: 4387155571963018151
+      DARK Edition Tileset No background_12: -6722115251288313471
+      DARK Edition Tileset No background_13: 2431831081081095223
+      DARK Edition Tileset No background_14: -4309524976447103259
+      DARK Edition Tileset No background_15: 2791357942232321606
+      DARK Edition Tileset No background_16: -851251897502159624
+      DARK Edition Tileset No background_17: 1891880550797528243
+      DARK Edition Tileset No background_18: 8952502563619256559
+      DARK Edition Tileset No background_19: -486935419155249777
+      DARK Edition Tileset No background_2: -4607804090648136831
+      DARK Edition Tileset No background_20: -541408125483136965
+      DARK Edition Tileset No background_21: 2045116303403259445
+      DARK Edition Tileset No background_22: -151678497137649392
+      DARK Edition Tileset No background_23: 6943732125791095040
+      DARK Edition Tileset No background_24: 3577152856552261180
+      DARK Edition Tileset No background_25: -7772176250103342808
+      DARK Edition Tileset No background_26: 126794602253659966
+      DARK Edition Tileset No background_27: 7164494211788328766
+      DARK Edition Tileset No background_28: -2405367310408360408
+      DARK Edition Tileset No background_29: 5381331570479265841
+      DARK Edition Tileset No background_3: -6530478769977837860
+      DARK Edition Tileset No background_30: -4296466514487924189
+      DARK Edition Tileset No background_31: 8106503380845949143
+      DARK Edition Tileset No background_32: 7629428416197399025
+      DARK Edition Tileset No background_33: -2868481769850659981
+      DARK Edition Tileset No background_34: -9186064563362665531
+      DARK Edition Tileset No background_35: 2843263537140111070
+      DARK Edition Tileset No background_36: 6146576549233402274
+      DARK Edition Tileset No background_37: 1449971225749097289
+      DARK Edition Tileset No background_38: -2995538092084758826
+      DARK Edition Tileset No background_39: 5820271340657659532
+      DARK Edition Tileset No background_4: 3703072487232229422
+      DARK Edition Tileset No background_40: -3428152694106209088
+      DARK Edition Tileset No background_41: -905871449708126166
+      DARK Edition Tileset No background_42: 6314444319486696091
+      DARK Edition Tileset No background_43: 4741572887251888327
+      DARK Edition Tileset No background_44: 3343301543662189493
+      DARK Edition Tileset No background_45: 8116734986567807926
+      DARK Edition Tileset No background_46: -3474529205712219239
+      DARK Edition Tileset No background_47: 7424831909176845812
+      DARK Edition Tileset No background_48: 70299063568026812
+      DARK Edition Tileset No background_49: -8954985226306988603
+      DARK Edition Tileset No background_5: 1251112050883063296
+      DARK Edition Tileset No background_50: -1024582534831150104
+      DARK Edition Tileset No background_51: -4819443097824581037
+      DARK Edition Tileset No background_52: 8975916507280743937
+      DARK Edition Tileset No background_53: 1888392714588501006
+      DARK Edition Tileset No background_54: 6682046249545519128
+      DARK Edition Tileset No background_6: 2898297861214493673
+      DARK Edition Tileset No background_7: -4630817262063491129
+      DARK Edition Tileset No background_8: 3800527543983933366
+      DARK Edition Tileset No background_9: 1538378083802493165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

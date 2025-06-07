@@ -165,6 +165,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -709,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bubble Maker Orb thing (8x20)_0: -3886600132474935892
+      Bubble Maker Orb thing (8x20)_1: 3679048547435888289
+      Bubble Maker Orb thing (8x20)_10: -815948200438949912
+      Bubble Maker Orb thing (8x20)_11: -5357236529855023941
+      Bubble Maker Orb thing (8x20)_12: 1102309634956868124
+      Bubble Maker Orb thing (8x20)_13: -102971514323764803
+      Bubble Maker Orb thing (8x20)_14: 3160009384631029197
+      Bubble Maker Orb thing (8x20)_15: -3283553667006394682
+      Bubble Maker Orb thing (8x20)_16: -7355048109538651514
+      Bubble Maker Orb thing (8x20)_17: -1595113648282967104
+      Bubble Maker Orb thing (8x20)_18: -2078656833560178133
+      Bubble Maker Orb thing (8x20)_19: -855772251364007832
+      Bubble Maker Orb thing (8x20)_2: -7114450893274318110
+      Bubble Maker Orb thing (8x20)_20: 8910977532354338652
+      Bubble Maker Orb thing (8x20)_21: 705158729038287346
+      Bubble Maker Orb thing (8x20)_22: -2124912648990227272
+      Bubble Maker Orb thing (8x20)_23: -1809226515429988447
+      Bubble Maker Orb thing (8x20)_3: -607840237894961546
+      Bubble Maker Orb thing (8x20)_4: -2172735803268750048
+      Bubble Maker Orb thing (8x20)_5: -5174286570731928097
+      Bubble Maker Orb thing (8x20)_6: -8233586399494259968
+      Bubble Maker Orb thing (8x20)_7: 8988666516188011061
+      Bubble Maker Orb thing (8x20)_8: -5932896168595374813
+      Bubble Maker Orb thing (8x20)_9: -8625757855353534885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
