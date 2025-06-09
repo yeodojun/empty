@@ -11,8 +11,8 @@ public class Player : MonoBehaviour
     private Vector2 moveInput;
     private bool isJumpHeld = false;
 
-    public float moveSpeed = 5f;
-    public float jumpForce = 15f;
+    public float moveSpeed;
+    public float jumpForce;
 
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
@@ -129,7 +129,7 @@ public class Player : MonoBehaviour
         }
         else if (canDoubleJump)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce * 2f / 3f);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce * 2.7f / 3f);
             isJumpHeld = true;
             canDoubleJump = false;
             animator.SetTrigger("DoubleJump");
