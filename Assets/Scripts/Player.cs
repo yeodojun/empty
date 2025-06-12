@@ -67,8 +67,6 @@ public class Player : MonoBehaviour
     private bool canDash = true;
     private float dashCooldown = 0.5f;
     private float dashSpeed = 20f;
-    private float dashDistance = 3f;
-    private float dashTraveled = 0f;
     private Vector2 dashDir;
     private float dashDuration = 0.2f;
     private float dashTimer = 0f;
@@ -444,7 +442,6 @@ public class Player : MonoBehaviour
 
         isDashing = true;
         canDash = false;
-        dashTraveled = 0f;
         dashTimer = dashDuration;
 
         animator.SetTrigger("Dash");
@@ -611,6 +608,7 @@ public class Player : MonoBehaviour
         animator.SetTrigger("GuardEnd"); // 상태 복구
         isParrying = false;
         isControlLocked = false;
+        isParryBlocked = false;
     }
 
     public void OnIncomingAttack(Vector2 attackerPos)
@@ -695,7 +693,7 @@ public class Player : MonoBehaviour
             hasBlockedThisParry = true;
             parryCollider.enabled = false;
             isParrying = false;
-            isParryBlocked = true;
+            isParryBlocked = false;
         }
     }
 }

@@ -53,7 +53,7 @@ public class Enemy : MonoBehaviour
         Player player = collision.gameObject.GetComponent<Player>();
         if (player != null)
         {
-            if (player.IsInvincible || player.WasParryBlocked()) return; // ★ 패리 성공 시 무시
+            if (player.IsInvincible || player.WasParryBlocked()) return; // 패리 성공 시 무시
 
             player.ApplyKnockback(transform.position, 5f);
             player.TakeDamage(1);
