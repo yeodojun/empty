@@ -85,6 +85,17 @@ public class Player : MonoBehaviour
     private float healCooldown = 0.5f;
     private float lastHealTime = -Mathf.Infinity;
 
+    // 패링 관련
+    [SerializeField] private Collider2D parryCollider;
+    private bool isParrying = false;
+    private float parryStartTime;
+    private bool isPerfectParryWindow = false;
+    private bool isGuardSuccessWindow = false;
+    private bool hasBlockedThisParry = false;
+    private bool isParryBlocked = false; // 이 패리에서 적 공격을 막았는지
+    public bool WasParryBlocked() => isParryBlocked;
+    private bool isControlLocked = false;
+
     void Start()
     {
         rb.gravityScale = 3f;
@@ -107,6 +118,8 @@ public class Player : MonoBehaviour
         inputActions.Player.Dash.performed += ctx => TryDash();
         inputActions.Player.Heal.started += ctx => StartHeal();
         inputActions.Player.Heal.canceled += ctx => CancelHeal();
+        inputActions.Player.Guard.performed += ctx => TryParry();
+
     }
 
     void OnEnable() => inputActions.Enable();
@@ -116,6 +129,7 @@ public class Player : MonoBehaviour
     {
         bool recentlyWallSliding = (Time.time - lastWallSlideTime) <= wallJumpBufferTime;
 
+        if (isParrying) return;
         if (isWallSliding || recentlyWallSliding)
         {
             PerformWallJump();
@@ -137,6 +151,19 @@ public class Player : MonoBehaviour
     }
 
     void OnJumpCancel() => isJumpHeld = false;
+
+    void TryParry()
+    {
+        if (!isGrounded || isParrying || isHealing || isDashing || isUsingSkill) return;
+
+        animator.ResetTrigger("GuardEnd");
+        animator.ResetTrigger("Parrying");
+        animator.ResetTrigger("Guarding");
+        hasBlockedThisParry = false;
+
+        StartCoroutine(ParryRoutine());
+    }
+
 
     void Update()
     {
@@ -198,7 +225,7 @@ public class Player : MonoBehaviour
             animator.SetBool("isFalling", rb.linearVelocity.y < -0.1f);
         }
 
-        if (!isWallJumping && !isExitingWallSlide)
+        if (!isWallJumping && !isExitingWallSlide && !isControlLocked)
         {
             if (moveInput.x > 0.01f)
             {
@@ -332,6 +359,12 @@ public class Player : MonoBehaviour
 
             rb.linearVelocity = new Vector2(targetX, velocity.y);
         }
+        if (isControlLocked)
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
     }
 
     public void AttackHitbox()
@@ -354,7 +387,7 @@ public class Player : MonoBehaviour
     void Attack()
     {
         float currentTime = Time.time;
-        if (!canAttack || (isWallSliding && !isWallJumping)) return;
+        if (!canAttack || isParrying || (isWallSliding && !isWallJumping)) return;
 
         if (currentTime - lastAttackTime > comboResetTime)
             nextAttackIndex = 1;
@@ -396,7 +429,7 @@ public class Player : MonoBehaviour
 
     void Skill()
     {
-        if (isUsingSkill) return;
+        if (isUsingSkill || isParrying) return;
         isUsingSkill = true;
         animator.SetTrigger("Skill");
     }
@@ -407,7 +440,7 @@ public class Player : MonoBehaviour
 
     void TryDash()
     {
-        if (!canDash || isDashing || isWallSliding) return;
+        if (!canDash || isDashing || isWallSliding || isParrying) return;
 
         isDashing = true;
         canDash = false;
@@ -450,7 +483,7 @@ public class Player : MonoBehaviour
         wallSlideExitTimer = wallSlideExitDelay;
     }
 
-
+    // 데미지 처리
     public void TakeDamage(int amount)
     {
         if (isInvincible) return;
@@ -470,10 +503,11 @@ public class Player : MonoBehaviour
         isInvincible = false;
     }
 
+    // 힐 관련
     void StartHeal()
     {
         // 기본 조건
-        if (isHealing || !isGrounded || Time.time - lastHealTime < healCooldown)
+        if (isHealing || !isGrounded || Time.time - lastHealTime < healCooldown || isParrying)
             return;
 
         if (moveInput.sqrMagnitude > 0.01f) // 이동 중 체크
@@ -544,7 +578,72 @@ public class Player : MonoBehaviour
         isHealing = false;
     }
 
+    // 패링 관련
+    IEnumerator ParryRoutine()
+    {
+        isControlLocked = true;
+        isParrying = true;
+        parryStartTime = Time.time;
 
+        // 이동/점프/공격/대쉬 무시
+        moveInput = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
+
+        animator.ResetTrigger("GuardEnd");
+        animator.SetTrigger("Guard");
+
+        isPerfectParryWindow = true;
+        isGuardSuccessWindow = true;
+
+        parryCollider.enabled = true;
+
+        Time.timeScale = 1f; // 슬로우모션 대비 초기화
+
+        yield return new WaitForSecondsRealtime(0.2f);
+        isPerfectParryWindow = false;
+
+        yield return new WaitForSecondsRealtime(0.3f);
+        isGuardSuccessWindow = false;
+
+        parryCollider.enabled = false;
+
+        yield return new WaitForSecondsRealtime(0.01f);
+        animator.SetTrigger("GuardEnd"); // 상태 복구
+        isParrying = false;
+        isControlLocked = false;
+    }
+
+    public void OnIncomingAttack(Vector2 attackerPos)
+    {
+        if (!isParrying) return;
+
+        if (isPerfectParryWindow)
+        {
+            animator.SetTrigger("Parrying");
+
+            if (switcher != null)
+                switcher.GainMana(50);
+
+            StartCoroutine(SlowTime(0.5f, 0.5f)); // 50% 속도, 0.5초
+
+            isParrying = false; // 즉시 종료
+        }
+        else if (isGuardSuccessWindow)
+        {
+            animator.SetTrigger("Guarding");
+
+            ApplyKnockback(attackerPos, 4f); // 넉백만
+
+            isParrying = false;
+        }
+    }
+
+    IEnumerator SlowTime(float duration, float slowScale)
+    {
+        Time.timeScale = slowScale;
+        yield return new WaitForSecondsRealtime(duration);
+        Time.timeScale = 1f;
+    }
 
     void OnDrawGizmosSelected()
     {
@@ -568,6 +667,35 @@ public class Player : MonoBehaviour
         {
             Gizmos.color = Color.yellow;
             Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (!parryCollider.enabled || hasBlockedThisParry) return;
+
+        Enemy enemy = other.GetComponent<Enemy>();
+        if (enemy != null)
+        {
+            Vector2 attackerPos = enemy.transform.position;
+
+            if (isPerfectParryWindow)
+            {
+                animator.SetTrigger("Parrying");
+                if (switcher != null) switcher.GainMana(50);
+                StartCoroutine(SlowTime(0.5f, 0.5f));
+            }
+            else if (isGuardSuccessWindow)
+            {
+                animator.SetTrigger("Guarding");
+                ApplyKnockback(attackerPos, 4f);
+            }
+
+            // 한 번 막았으면 종료
+            hasBlockedThisParry = true;
+            parryCollider.enabled = false;
+            isParrying = false;
+            isParryBlocked = true;
         }
     }
 }
