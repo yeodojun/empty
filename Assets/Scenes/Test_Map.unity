@@ -514,7 +514,7 @@ Sprite:
         format: 0
         dimension: 0
       m_DataSize: 80
-      _typelessdata: 000000bf0000003f000000000000003f0000003f00000000000000bf000000bf000000000000003f000000bf000000000000000000000000000000000000000000000000000000000000000000000000
+      _typelessdata: 000000bf0000003f000000000000003f0000003f00000000000000bf000000bf000000000000003f000000bf00000000000000000000803f0000803f0000803f00000000000000000000803f00000000
     m_Bindpose: []
     textureRect:
       serializedVersion: 2
@@ -92420,6 +92420,22 @@ PrefabInstance:
       propertyPath: parryCollider
       value: 
       objectReference: {fileID: 1381987105}
+    - target: {fileID: 2728168572555013237, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
+      propertyPath: m_Size.x
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728168572555013237, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
+      propertyPath: m_Size.y
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 2728168572555013237, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4723107735738678597, guid: 85ceb8333f67afc47bc48f9fd9baa4a4, type: 3}
+    - target: {fileID: 2728168572555013237, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5653035415026594394, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
       propertyPath: healthUI
       value: 
