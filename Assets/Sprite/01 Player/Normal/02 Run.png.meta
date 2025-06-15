@@ -3,77 +3,29 @@ guid: 77428dcf43ce75543a0dd418fd01123a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4944230376442633554
-    second: Run_0
+      213: -6301315346096341676
+    second: 02 Run_0
   - first:
-      213: -2274363484027164459
-    second: Run_1
+      213: -3727911020544140547
+    second: 02 Run_1
   - first:
-      213: 8284087734974297348
-    second: Run_2
+      213: -8185921431614401267
+    second: 02 Run_2
   - first:
-      213: 5304202850863732263
-    second: Run_3
+      213: 6296791454895602611
+    second: 02 Run_3
   - first:
-      213: 2833043080597125133
-    second: Run_4
+      213: 2651513775276804368
+    second: 02 Run_4
   - first:
-      213: -2217414122262695004
-    second: Run_5
+      213: 8968503424203905793
+    second: 02 Run_5
   - first:
-      213: -4440497016933152808
-    second: Run_6
+      213: 4300117823379625924
+    second: 02 Run_6
   - first:
-      213: 8676454946275842879
-    second: Run_7
-  - first:
-      213: -6351944509545543589
-    second: Run_8
-  - first:
-      213: 2158891789428380870
-    second: Run_9
-  - first:
-      213: 9151066736925549315
-    second: Run_10
-  - first:
-      213: -7266845314124737194
-    second: Run_11
-  - first:
-      213: -5168576596277122810
-    second: Run_12
-  - first:
-      213: -7303085922518154401
-    second: Run_13
-  - first:
-      213: -3387832490922303652
-    second: Run_14
-  - first:
-      213: 2196459547150753776
-    second: Run_15
-  - first:
-      213: -2969576599511150121
-    second: Run_16
-  - first:
-      213: -1100304572229716114
-    second: Run_17
-  - first:
-      213: -1286830556838052669
-    second: Run_18
-  - first:
-      213: -4740722875278701659
-    second: Run_19
-  - first:
-      213: -6219685122133649782
-    second: Run_20
-  - first:
-      213: -5210376377794636309
-    second: Run_21
-  - first:
-      213: -227415817694919712
-    second: Run_22
-  - first:
-      213: 2448761691846615139
-    second: Run_23
+      213: -8059694587662784564
+    second: 02 Run_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -182,7 +134,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Run_0
+      name: 02 Run_0
       rect:
         serializedVersion: 2
         x: 0
@@ -197,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25d1f8be45f6d9440800000000000000
-      internalID: 4944230376442633554
+      spriteID: 45db53a141b3d88a0800000000000000
+      internalID: -6301315346096341676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_1
+      name: 02 Run_1
       rect:
         serializedVersion: 2
         x: 512
@@ -219,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d8e07c1676df60e0800000000000000
-      internalID: -2274363484027164459
+      spriteID: dfad33a9dacc34cc0800000000000000
+      internalID: -3727911020544140547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_2
+      name: 02 Run_2
       rect:
         serializedVersion: 2
         x: 1024
@@ -241,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 405305b67edf6f270800000000000000
-      internalID: 8284087734974297348
+      spriteID: d05dd5d24d3c56e80800000000000000
+      internalID: -8185921431614401267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_3
+      name: 02 Run_3
       rect:
         serializedVersion: 2
         x: 0
@@ -263,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 726d856d3605c9940800000000000000
-      internalID: 5304202850863732263
+      spriteID: 3bb74c56772b26750800000000000000
+      internalID: 6296791454895602611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_4
+      name: 02 Run_4
       rect:
         serializedVersion: 2
         x: 512
@@ -285,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d08be54fbadf05720800000000000000
-      internalID: 2833043080597125133
+      spriteID: 019cd64fab11cc420800000000000000
+      internalID: 2651513775276804368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_5
+      name: 02 Run_5
       rect:
         serializedVersion: 2
         x: 1024
@@ -307,14 +259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4a3f89aaa992a31e0800000000000000
-      internalID: -2217414122262695004
+      spriteID: 10b5c8ed856867c70800000000000000
+      internalID: 8968503424203905793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_6
+      name: 02 Run_6
       rect:
         serializedVersion: 2
         x: 0
@@ -329,14 +281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d784876d7f2062c0800000000000000
-      internalID: -4440497016933152808
+      spriteID: 4c75eda90661dab30800000000000000
+      internalID: 4300117823379625924
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_7
+      name: 02 Run_7
       rect:
         serializedVersion: 2
         x: 512
@@ -351,8 +303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3bd376cdc5f86870800000000000000
-      internalID: 8676454946275842879
+      spriteID: cc7a8308976362090800000000000000
+      internalID: -8059694587662784564
       vertices: []
       indices: 
       edges: []
@@ -361,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 795a4fb23a6a76147bde8b5dd8a049ea
+    spriteID: f08d835f6ec751b45a57f14046730662
     internalID: 0
     vertices: []
     indices: 
@@ -371,14 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Run_0: 4944230376442633554
-      Run_1: -2274363484027164459
-      Run_2: 8284087734974297348
-      Run_3: 5304202850863732263
-      Run_4: 2833043080597125133
-      Run_5: -2217414122262695004
-      Run_6: -4440497016933152808
-      Run_7: 8676454946275842879
+      02 Run_0: -6301315346096341676
+      02 Run_1: -3727911020544140547
+      02 Run_2: -8185921431614401267
+      02 Run_3: 6296791454895602611
+      02 Run_4: 2651513775276804368
+      02 Run_5: 8968503424203905793
+      02 Run_6: 4300117823379625924
+      02 Run_7: -8059694587662784564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

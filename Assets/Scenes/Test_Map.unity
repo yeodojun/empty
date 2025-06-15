@@ -969,7 +969,7 @@ Transform:
   m_GameObject: {fileID: 415317873}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 55.96, y: -53.31, z: 0}
+  m_LocalPosition: {x: 54.559998, y: -49.980003, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1298,7 +1298,7 @@ Transform:
   m_GameObject: {fileID: 1003434175}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 55.96, y: -51.828003, z: -10}
+  m_LocalPosition: {x: 54.559998, y: -48.498005, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1482,7 +1482,7 @@ Transform:
   m_GameObject: {fileID: 1035417677}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 56.46, y: -52.81, z: -10}
+  m_LocalPosition: {x: 55.059998, y: -49.480003, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -92431,7 +92431,7 @@ PrefabInstance:
     - target: {fileID: 2728168572555013237, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 4723107735738678597, guid: 85ceb8333f67afc47bc48f9fd9baa4a4, type: 3}
+      objectReference: {fileID: 8482287774961058835, guid: 85ceb8333f67afc47bc48f9fd9baa4a4, type: 3}
     - target: {fileID: 2728168572555013237, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
@@ -92447,6 +92447,14 @@ PrefabInstance:
     - target: {fileID: 6961989744141430018, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7059899878663054370, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7059899878663054370, guid: fc458633b7e8a1948bf7341299da0f46, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.33
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
