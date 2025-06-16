@@ -52,6 +52,7 @@ public class PlayerModeSwitcher : MonoBehaviour
                 animator.ResetTrigger("Hit"); // 사망 전 Hit 무효화
                 animator.SetTrigger("Death");
             }
+            inputActions.Disable();
             return;
         }
 
