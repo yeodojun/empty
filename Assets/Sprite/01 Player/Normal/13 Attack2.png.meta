@@ -35,6 +35,75 @@ TextureImporter:
   - first:
       213: -1731854921231575948
     second: 13 Attack2_10
+  - first:
+      213: 449754141370439889
+    second: 13 Attack2_11
+  - first:
+      213: -6423313290157025194
+    second: 13 Attack2_12
+  - first:
+      213: -8986071932624391309
+    second: 13 Attack2_13
+  - first:
+      213: 287964207432643461
+    second: 13 Attack2_14
+  - first:
+      213: -8852166689605697566
+    second: 13 Attack2_15
+  - first:
+      213: -7604839314536480587
+    second: 13 Attack2_16
+  - first:
+      213: 2360301065161490526
+    second: 13 Attack2_17
+  - first:
+      213: -6465138811660000270
+    second: 13 Attack2_18
+  - first:
+      213: 1712350170189347984
+    second: 13 Attack2_19
+  - first:
+      213: 6228113953059932719
+    second: 13 Attack2_20
+  - first:
+      213: 5442106045287465573
+    second: 13 Attack2_21
+  - first:
+      213: -2573244947151433863
+    second: 13 Attack2_22
+  - first:
+      213: 1944643479839864934
+    second: 13 Attack2_23
+  - first:
+      213: -5511925895202049146
+    second: 13 Attack2_24
+  - first:
+      213: 7390719966057806488
+    second: 13 Attack2_25
+  - first:
+      213: 2634344641346922722
+    second: 13 Attack2_26
+  - first:
+      213: -4882478330127488058
+    second: 13 Attack2_27
+  - first:
+      213: -8977654995492028932
+    second: 13 Attack2_28
+  - first:
+      213: -8728171651740415314
+    second: 13 Attack2_29
+  - first:
+      213: -914561819781897181
+    second: 13 Attack2_30
+  - first:
+      213: 5010017472978449744
+    second: 13 Attack2_31
+  - first:
+      213: -6488187434904793033
+    second: 13 Attack2_32
+  - first:
+      213: 8218919944928970554
+    second: 13 Attack2_33
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,19 +208,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -225,8 +281,8 @@ TextureImporter:
       name: 13 Attack2_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 1536
+        y: 1024
         width: 512
         height: 512
       alignment: 0
@@ -247,7 +303,7 @@ TextureImporter:
       name: 13 Attack2_4
       rect:
         serializedVersion: 2
-        x: 512
+        x: 0
         y: 512
         width: 512
         height: 512
@@ -269,7 +325,7 @@ TextureImporter:
       name: 13 Attack2_5
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 512
         y: 512
         width: 512
         height: 512
@@ -291,8 +347,8 @@ TextureImporter:
       name: 13 Attack2_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 1024
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -313,8 +369,8 @@ TextureImporter:
       name: 13 Attack2_7
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -335,7 +391,7 @@ TextureImporter:
       name: 13 Attack2_8
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 0
         width: 512
         height: 512
@@ -353,11 +409,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 13 Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4aea9a61ececa0800000000000000
+      internalID: -5986161956700402406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13 Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474da79ff1737f7e0800000000000000
+      internalID: -1731854921231575948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 72e75490178f373439e99bd889a3b386
+    spriteID: 3be390ed9a809874eb00c89c32781670
     internalID: 0
     vertices: []
     indices: 
@@ -369,6 +469,7 @@ TextureImporter:
     nameFileIdTable:
       13 Attack2_0: -5681699909701395537
       13 Attack2_1: 8382479906940692190
+      13 Attack2_10: -1731854921231575948
       13 Attack2_2: -3894832205668036571
       13 Attack2_3: 65351643955882521
       13 Attack2_4: -3544654937178793943
@@ -376,6 +477,7 @@ TextureImporter:
       13 Attack2_6: -153042741494675149
       13 Attack2_7: 883628138682938382
       13 Attack2_8: -4487878187598112322
+      13 Attack2_9: -5986161956700402406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
