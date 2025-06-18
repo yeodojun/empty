@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
     private float lastAttackTime = -1f;
     private int nextAttackIndex = 1;
     private const float attackDelay = 0.5f;
-    private const float comboResetTime = 0.9f;
+    private const float comboResetTime = 0.8f;
     private bool canAttack = true;
     public Transform attackPoint;     // 검 끝 위치
     public float attackRange = 0.5f;  // 공격 범위
@@ -240,6 +240,7 @@ public class Player : MonoBehaviour
         animator.ResetTrigger("Attack1");
         animator.ResetTrigger("Attack2");
         animator.SetTrigger(triggerName);
+        isControlLocked = true;
 
         nextAttackIndex = (nextAttackIndex == 1) ? 2 : 1;
         lastAttackTime = currentTime;
@@ -250,11 +251,15 @@ public class Player : MonoBehaviour
     public void OnAttackEnd()
     {
         currentState = PlayerActionState.Idle;
+        isControlLocked = false;
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
         animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
     }
 
-    void ResetAttackDelay() => canAttack = true;
+    void ResetAttackDelay()
+    {
+        canAttack = true;
+    }
 
     // 스킬 1
     void Skill()
