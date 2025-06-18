@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
@@ -355,7 +356,7 @@ public class Player : MonoBehaviour
     // 패링
     void TryParry()
     {
-        if (!isGrounded || isParrying || isHealing || isDashing || isUsingSkill || (int)currentState > (int)PlayerActionState.Guard) return;
+        if (!isGrounded || isParrying || isHealing || isDashing || isUsingSkill || isInvincible || (int)currentState > (int)PlayerActionState.Guard) return;
 
         TrySetState(PlayerActionState.Guard);
         animator.ResetTrigger("GuardEnd");
@@ -433,6 +434,7 @@ public class Player : MonoBehaviour
         animator.SetBool("isRunning", isGrounded && Mathf.Abs(moveInput.x) > 0.1f);
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
         animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
+        Debug.Log(rb.linearVelocity.y);
 
         // 애니메이션 설정
         if (isGrounded)
@@ -654,6 +656,7 @@ public class Player : MonoBehaviour
         if (isHealing)
             StopHealing();
 
+        StartCoroutine(SlowTime(0.2f, 0.05f));
         isInvincible = true;
         StartCoroutine(InvincibilityTimer());
 
@@ -674,19 +677,23 @@ public class Player : MonoBehaviour
         if (isPerfectParryWindow)
         {
             animator.SetTrigger("Parrying");
+            isInvincible = true;
 
             if (switcher != null)
                 switcher.GainMana(50);
 
             StartCoroutine(SlowTime(0.5f, 0.5f)); // 50% 속도, 0.5초
+            StartCoroutine(InvincibilityTimer());
 
             isParrying = false; // 즉시 종료
         }
         else if (isGuardSuccessWindow)
         {
             animator.SetTrigger("Guarding");
+            isInvincible = true;
 
-            ApplyKnockback(attackerPos, 4f); // 넉백만
+            ApplyKnockback(attackerPos, 4f); // 넉백
+            StartCoroutine(InvincibilityTimer());
 
             isParrying = false;
         }
