@@ -9,7 +9,11 @@ public class HealthUIController : MonoBehaviour
     public const int absoluteMaxHealth = 15;
 
     private List<HeartUI> activeHearts = new List<HeartUI>();
+    public IReadOnlyList<HeartUI> ActiveHearts => activeHearts;
     private int lastHealth = -1;
+
+    private List<int> breakIndexes = new();
+    private int parrySuccessCount = 0;
 
     public void InitHearts()
     {
@@ -19,14 +23,13 @@ public class HealthUIController : MonoBehaviour
         {
             HeartUI heart = heartPool.Get();
 
-            // UI 좌표 기반 배치
             RectTransform rt = heart.GetComponent<RectTransform>();
             rt.SetParent(heartParent);
             rt.localScale = Vector3.one;
-            rt.anchorMin = new Vector2(0, 1); // 좌상단
+            rt.anchorMin = new Vector2(0, 1);
             rt.anchorMax = new Vector2(0, 1);
-            rt.pivot = new Vector2(0, 1); // 좌상단 기준
-            rt.anchoredPosition = new Vector2(i * 90f, 0); // 왼→오 정렬, 하트 간격 100px
+            rt.pivot = new Vector2(0, 1);
+            rt.anchoredPosition = new Vector2(i * 90f, 0);
 
             heart.gameObject.SetActive(true);
             heart.SetIdle();
@@ -44,31 +47,83 @@ public class HealthUIController : MonoBehaviour
             {
                 if (i == currentHealth - 1 && currentHealth == 1)
                 {
-                    activeHearts[i].SetTremble();
+                    if (breakIndexes.Contains(i))
+                        activeHearts[i].SetBreakTremble();
+                    else
+                        activeHearts[i].SetTremble();
                 }
                 else if (currentHealth > lastHealth && i >= lastHealth)
                 {
-                    activeHearts[i].SetFix(); // 새로 찬 하트
+                    activeHearts[i].SetFix();
                 }
                 else
                 {
-                    activeHearts[i].SetIdle(); // 기존에 차 있던 하트
+                    activeHearts[i].SetIdle();
                 }
             }
             else
             {
                 if (currentHealth < lastHealth && i < lastHealth && i >= currentHealth)
-                    activeHearts[i].SetReduce(); // 새로 닳은 하트만 애니메이션 재생
+                    activeHearts[i].SetReduce();
                 else if (currentHealth > lastHealth && i < currentHealth)
-                    activeHearts[i].SetFix();    // 새로 찬 하트만 애니메이션 재생
+                    activeHearts[i].SetFix();
                 else if (currentHealth <= i)
-                    activeHearts[i].SetNone();   // 닳아있는 하트는 None 상태로 유지
+                    activeHearts[i].SetNone();
             }
         }
 
         lastHealth = currentHealth;
     }
 
+    public void AddBreak()
+    {
+        for (int i = activeHearts.Count - 1; i >= 0; i--)
+        {
+            if (!breakIndexes.Contains(i))
+            {
+                activeHearts[i].SetBreak();
+                breakIndexes.Add(i);
+                return;
+            }
+        }
+    }
+
+    public void OnHitWhileBreak()
+    {
+        if (breakIndexes.Count == 0) return;
+
+        int targetIndex = breakIndexes[0];
+        breakIndexes.RemoveAt(0);
+
+        if (activeHearts[targetIndex] != null)
+            activeHearts[targetIndex].SetBreakDestroy();
+    }
+
+    public void OnParrySuccess()
+    {
+        if (breakIndexes.Count == 0) return;
+
+        parrySuccessCount++;
+        if (parrySuccessCount >= 2)
+        {
+            parrySuccessCount = 0;
+
+            int lastIdx = breakIndexes[breakIndexes.Count - 1];
+            breakIndexes.RemoveAt(breakIndexes.Count - 1);
+
+            if (activeHearts[lastIdx] != null)
+            {
+                if (activeHearts[lastIdx].IsBreakNoneState())
+                    activeHearts[lastIdx].SetBreakNoneFix();
+                else
+                    activeHearts[lastIdx].SetBreakFix();
+            }
+        }
+    }
+
+    public bool IsBreakFull() => breakIndexes.Count >= 3;
+    public bool HasBreak() => breakIndexes.Count > 0;
+    public bool IsLastHeartBreak() => breakIndexes.Contains(activeHearts.Count - 1);
 
     public void ClearHearts()
     {
@@ -76,6 +131,8 @@ public class HealthUIController : MonoBehaviour
             heartPool.Return(heart);
 
         activeHearts.Clear();
+        breakIndexes.Clear();
+        parrySuccessCount = 0;
     }
 
     public void SetMaxHealth(int newMax)

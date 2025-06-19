@@ -434,7 +434,6 @@ public class Player : MonoBehaviour
         animator.SetBool("isRunning", isGrounded && Mathf.Abs(moveInput.x) > 0.1f);
         animator.SetBool("isJumping", !isGrounded && rb.linearVelocity.y > 0.1f);
         animator.SetBool("isFalling", !isGrounded && rb.linearVelocity.y < -0.1f);
-        Debug.Log(rb.linearVelocity.y);
 
         // 애니메이션 설정
         if (isGrounded)
@@ -661,7 +660,10 @@ public class Player : MonoBehaviour
         StartCoroutine(InvincibilityTimer());
 
         TrySetState(PlayerActionState.Hit);
-        switcher.ApplyDamage(amount);
+        if (switcher.healthUI.HasBreak())
+            switcher.healthUI.OnHitWhileBreak();
+        else
+            switcher.ApplyDamage(amount);
     }
 
     private IEnumerator InvincibilityTimer()
@@ -672,7 +674,11 @@ public class Player : MonoBehaviour
 
     public void OnIncomingAttack(Vector2 attackerPos)
     {
-        if (!isParrying) return;
+        if (!isParrying)
+        {
+            isParryBlocked = false;
+            return;
+        }
 
         if (isPerfectParryWindow)
         {
@@ -681,11 +687,14 @@ public class Player : MonoBehaviour
 
             if (switcher != null)
                 switcher.GainMana(50);
+            switcher.healthUI.OnParrySuccess();
 
             StartCoroutine(SlowTime(0.5f, 0.5f)); // 50% 속도, 0.5초
             StartCoroutine(InvincibilityTimer());
 
             isParrying = false; // 즉시 종료
+            isParryBlocked = true;
+            return;
         }
         else if (isGuardSuccessWindow)
         {
@@ -696,7 +705,24 @@ public class Player : MonoBehaviour
             StartCoroutine(InvincibilityTimer());
 
             isParrying = false;
+            isParryBlocked = true;
+            if (switcher.healthUI.IsBreakFull())
+            {
+                if (switcher.currentHealth == 1 && switcher.healthUI.IsLastHeartBreak())
+                    switcher.healthUI.ActiveHearts[^1].SetBreakTremble();
+                else
+                    switcher.ApplyDamage(1);
+            }
+            else
+            {
+                switcher.healthUI.AddBreak();
+            }
         }
+        else
+        {
+            isParryBlocked = false;
+        }
+        return;
     }
 
     IEnumerator SlowTime(float duration, float slowScale)

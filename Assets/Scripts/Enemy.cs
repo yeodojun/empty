@@ -9,11 +9,15 @@ public class Enemy : MonoBehaviour
 
     public int health = 3;
     public float hitDelay = 0.5f;
+    [SerializeField] private Collider2D attackTrigger;
 
     void Awake()
     {
         animator = GetComponent<Animator>();
     }
+
+    public void EnableAttackTrigger() => attackTrigger.enabled = true;
+    public void DisableAttackTrigger() => attackTrigger.enabled = false;
 
     public void TakeDamage(int amount, Player sourceplayer)
     {
@@ -48,18 +52,35 @@ public class Enemy : MonoBehaviour
         Destroy(gameObject);
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (!attackTrigger.enabled) return;
+
+        Player player = other.GetComponent<Player>();
+        if (player == null) return;
+
+        player.OnIncomingAttack(transform.position);
+
+        if (!player.IsInvincible)
+        {
+            player.ApplyKnockback(transform.position, 5f);
+            player.TakeDamage(1);
+        }
+
+        attackTrigger.enabled = false;
+    }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Player player = collision.gameObject.GetComponent<Player>();
-        if (player != null)
-        {
-            if (player.IsInvincible || player.WasParryBlocked()) return; // 패리 성공 시 무시
+        Player player = collision.collider.GetComponent<Player>();
+        if (player == null) return;
 
+        player.OnIncomingAttack(transform.position);
+
+        if (!player.IsInvincible)
+        {
             player.ApplyKnockback(transform.position, 5f);
             player.TakeDamage(1);
         }
     }
-
-
-
 }

@@ -22,13 +22,22 @@ public class HeartUI : MonoBehaviour
         gameObject.SetActive(false);
     }
 
+    public bool IsBreakNoneState()
+    {
+        return animator.GetCurrentAnimatorStateInfo(0).IsName("BreakLife_None");
+    }
+
     public void SetIdle() => animator.Play("Life_Idle");
     public void SetNone() => animator.Play("Life_None");
     public void SetReduce() => animator.Play("Life_Reduce");
     public void SetFix()
     {
         animator.Play("Life_Fix");
-        animator.Play("Life_Glow", 1); // 병렬 레이어에서 실행
     }
     public void SetTremble() => animator.Play("Life_Trembling");
+    public void SetBreak() => animator.Play("BreakLife_Breaking");
+    public void SetBreakDestroy() => animator.Play("BreakLife_Destroy");
+    public void SetBreakFix() => animator.Play("BreakLife_Fix");
+    public void SetBreakNoneFix() => animator.Play("BreakLife_NoneFix");
+    public void SetBreakTremble() => animator.Play("BreakLife_Trembling");
 }
