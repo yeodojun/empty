@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: ace1544b20fc55f468b202214e57e4c5
+guid: 7f36fec9dd226324b927a761ae6eb3df
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1968875764386545468
-    second: 05 Breaked HP Fix_0
+      213: 6839012725551429680
+    second: 08 Breaked HP Trembling_0
   - first:
-      213: -1960335051779167164
-    second: 05 Breaked HP Fix_1
+      213: -4832296989843368827
+    second: 08 Breaked HP Trembling_1
   - first:
-      213: 1437722061828913589
-    second: 05 Breaked HP Fix_2
+      213: -3862300147988483508
+    second: 08 Breaked HP Trembling_2
   - first:
-      213: -7588125500195990955
-    second: 05 Breaked HP Fix_3
+      213: 3689310770481711023
+    second: 08 Breaked HP Trembling_3
   - first:
-      213: -7151338660402926373
-    second: 05 Breaked HP Fix_4
+      213: -5862965673921997758
+    second: 08 Breaked HP Trembling_4
   - first:
-      213: 4771905828863480405
-    second: 05 Breaked HP Fix_5
+      213: -3582197643156564378
+    second: 08 Breaked HP Trembling_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -124,17 +124,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 05 Breaked HP Fix_0
+      name: 08 Breaked HP Trembling_0
       rect:
         serializedVersion: 2
-        x: 121
-        y: 673
-        width: 22
-        height: 22
+        x: 170
+        y: 435
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,64 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3fb22f731ad25b10800000000000000
-      internalID: 1968875764386545468
+      spriteID: 0387ed8d6dd09ee50800000000000000
+      internalID: 6839012725551429680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 05 Breaked HP Fix_1
+      name: 08 Breaked HP Trembling_1
       rect:
         serializedVersion: 2
-        x: 361
-        y: 673
-        width: 23
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44ca4fd18ad7bc4e0800000000000000
-      internalID: -1960335051779167164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 05 Breaked HP Fix_2
-      rect:
-        serializedVersion: 2
-        x: 600
-        y: 673
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b9fd0d0990d3f310800000000000000
-      internalID: 1437722061828913589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 05 Breaked HP Fix_3
-      rect:
-        serializedVersion: 2
-        x: 121
+        x: 409
         y: 433
-        width: 23
-        height: 23
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +178,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5521cb9af0091b690800000000000000
-      internalID: -7588125500195990955
+      spriteID: 58452378d7b30fcb0800000000000000
+      internalID: -4832296989843368827
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 05 Breaked HP Fix_4
+      name: 08 Breaked HP Trembling_2
       rect:
         serializedVersion: 2
-        x: 361
-        y: 433
-        width: 22
-        height: 22
+        x: 651
+        y: 434
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdc6a26b06751cc90800000000000000
-      internalID: -7151338660402926373
+      spriteID: c42353f8a7a566ac0800000000000000
+      internalID: -3862300147988483508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 05 Breaked HP Fix_5
+      name: 08 Breaked HP Trembling_3
       rect:
         serializedVersion: 2
-        x: 601
-        y: 433
-        width: 22
-        height: 22
+        x: 169
+        y: 194
+        width: 20
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +222,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55216079117393240800000000000000
-      internalID: 4771905828863480405
+      spriteID: fa7c5945990133330800000000000000
+      internalID: 3689310770481711023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 08 Breaked HP Trembling_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244129b68cf82aea0800000000000000
+      internalID: -5862965673921997758
       vertices: []
       indices: 
       edges: []
@@ -263,7 +254,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 33551e918e1e5f14d92cc8ad73c864c0
     internalID: 0
     vertices: []
     indices: 
@@ -273,12 +264,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      05 Breaked HP Fix_0: 1968875764386545468
-      05 Breaked HP Fix_1: -1960335051779167164
-      05 Breaked HP Fix_2: 1437722061828913589
-      05 Breaked HP Fix_3: -7588125500195990955
-      05 Breaked HP Fix_4: -7151338660402926373
-      05 Breaked HP Fix_5: 4771905828863480405
+      08 Breaked HP Trembling_0: 6839012725551429680
+      08 Breaked HP Trembling_1: -4832296989843368827
+      08 Breaked HP Trembling_2: -3862300147988483508
+      08 Breaked HP Trembling_3: 3689310770481711023
+      08 Breaked HP Trembling_4: -5862965673921997758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
