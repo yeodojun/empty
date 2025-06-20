@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Enemy : MonoBehaviour
 {
@@ -15,9 +16,6 @@ public class Enemy : MonoBehaviour
     {
         animator = GetComponent<Animator>();
     }
-
-    public void EnableAttackTrigger() => attackTrigger.enabled = true;
-    public void DisableAttackTrigger() => attackTrigger.enabled = false;
 
     public void TakeDamage(int amount, Player sourceplayer)
     {
@@ -52,35 +50,24 @@ public class Enemy : MonoBehaviour
         Destroy(gameObject);
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    public void AttemptAttack()
     {
-        if (!attackTrigger.enabled) return;
+        Vector2 attackCenter = attackTrigger.bounds.center;
+        Vector2 attackSize = attackTrigger.bounds.size;
 
-        Player player = other.GetComponent<Player>();
-        if (player == null) return;
-
-        player.OnIncomingAttack(transform.position);
-
-        if (!player.IsInvincible)
+        Collider2D[] hits = Physics2D.OverlapBoxAll(attackCenter, attackSize, 0f, LayerMask.GetMask("Player"));
+        foreach (var hit in hits)
         {
-            player.ApplyKnockback(transform.position, 5f);
-            player.TakeDamage(1);
-        }
+            Player player = hit.GetComponentInParent<Player>();
+            if (player == null) continue;
 
-        attackTrigger.enabled = false;
-    }
+            player.OnIncomingAttack(transform.position);
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Player player = collision.collider.GetComponent<Player>();
-        if (player == null) return;
-
-        player.OnIncomingAttack(transform.position);
-
-        if (!player.IsInvincible)
-        {
-            player.ApplyKnockback(transform.position, 5f);
-            player.TakeDamage(1);
+            if (!player.WasParryBlocked() && !player.IsInvincible)
+            {
+                player.ApplyKnockback(transform.position, 5f);
+                player.TakeDamage(1);
+            }
         }
     }
 }
