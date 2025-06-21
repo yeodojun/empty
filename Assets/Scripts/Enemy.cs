@@ -70,4 +70,13 @@ public class Enemy : MonoBehaviour
             }
         }
     }
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        Player player = other.collider.GetComponent<Player>();
+        if (player != null)
+        {
+            player.ApplyKnockback(transform.position, 5f);
+            player.TakeDamage(1);
+        }
+    }
 }

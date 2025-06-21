@@ -763,6 +763,8 @@ public class Player : MonoBehaviour
     {
         if (!parryCollider.enabled || isParryBlocked) return;
 
+        if (!other.CompareTag("EnemyAttack")) return;
+
         if (!other.TryGetComponent(out Enemy enemy)) return;
 
         Vector2 attackerPos = enemy.transform.position;
