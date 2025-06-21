@@ -208,19 +208,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -470,7 +457,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3be390ed9a809874eb00c89c32781670
+    spriteID: 7cf0afc6422bd7b4a8454184fd8cd811
     internalID: 0
     vertices: []
     indices: 
