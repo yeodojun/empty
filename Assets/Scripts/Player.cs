@@ -673,7 +673,10 @@ public class Player : MonoBehaviour
 
         TrySetState(PlayerActionState.Hit);
         if (switcher.healthUI.HasBreak())
+        {
             switcher.healthUI.OnHitWhileBreak();
+            animator.SetTrigger("Hit");
+        }
         else
             switcher.ApplyDamage(amount);
     }
@@ -704,7 +707,7 @@ public class Player : MonoBehaviour
         {
             animator.SetTrigger("Guarding");
             isInvincible = true;
-            ApplyKnockback(attackerPos, 4f);    
+            ApplyKnockback(attackerPos, 4f);
             StartCoroutine(InvincibilityTimer());
             isParryBlocked = true;
 
@@ -712,8 +715,8 @@ public class Player : MonoBehaviour
             {
                 if (switcher.currentHealth == 1 && switcher.healthUI.IsLastHeartBreak())
                     switcher.healthUI.ActiveHearts[^1].SetBreakTremble();
-                //else
-                    //switcher.ApplyDamage(1);
+                else
+                    switcher.ApplyDamage(1);
             }
             else
             {

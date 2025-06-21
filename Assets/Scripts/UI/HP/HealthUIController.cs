@@ -43,32 +43,42 @@ public class HealthUIController : MonoBehaviour
     {
         for (int i = 0; i < activeHearts.Count; i++)
         {
+            HeartUI heart = activeHearts[i];
+            bool isBreak = breakIndexes.Contains(i);
+            bool isDestroyedBreak = heart.IsBreakNoneState();
+
             if (i < currentHealth)
             {
                 if (i == currentHealth - 1 && currentHealth == 1)
                 {
-                    if (breakIndexes.Contains(i))
-                        activeHearts[i].SetBreakTremble();
-                    else
-                        activeHearts[i].SetTremble();
+                    if (isBreak) heart.SetBreakTremble();
+                    else heart.SetTremble();
                 }
                 else if (currentHealth > lastHealth && i >= lastHealth)
                 {
-                    activeHearts[i].SetFix();
+                    if (isBreak) heart.SetBreakFix();
+                    else heart.SetFix();
                 }
                 else
                 {
-                    activeHearts[i].SetIdle();
+                    if (isBreak) heart.SetBreakIdle();
+                    else heart.SetIdle();
                 }
             }
             else
             {
                 if (currentHealth < lastHealth && i < lastHealth && i >= currentHealth)
-                    activeHearts[i].SetReduce();
+                {
+                    // 일반 Life만 Reduce, BreakLife는 Destroy만 별도로 실행됨
+                    if (!isBreak && !isDestroyedBreak)
+                        heart.SetReduce();
+                }
                 else if (currentHealth > lastHealth && i < currentHealth)
-                    activeHearts[i].SetFix();
-                else if (currentHealth <= i)
-                    activeHearts[i].SetNone();
+                {
+                    if (isBreak && heart.IsBreakNoneState()) heart.SetBreakNoneFix();
+                    else if (isBreak) heart.SetBreakFix();
+                    else heart.SetFix();
+                }
             }
         }
 
@@ -81,22 +91,31 @@ public class HealthUIController : MonoBehaviour
         {
             if (!breakIndexes.Contains(i))
             {
-                activeHearts[i].SetBreak();
                 breakIndexes.Add(i);
-                return;
+                activeHearts[i].SetBreakIdle();
+                break;
             }
         }
     }
 
     public void OnHitWhileBreak()
     {
-        if (breakIndexes.Count == 0) return;
+        for (int i = activeHearts.Count - 1; i >= 0; i--)
+        {
+            HeartUI heart = activeHearts[i];
 
-        int targetIndex = breakIndexes[0];
-        breakIndexes.RemoveAt(0);
-
-        if (activeHearts[targetIndex] != null)
-            activeHearts[targetIndex].SetBreakDestroy();
+            if (breakIndexes.Contains(i) && !heart.IsBreakNoneState())
+            {
+                heart.SetBreakDestroy();
+                breakIndexes.Remove(i);
+                return;
+            }
+            else if (!breakIndexes.Contains(i) && !heart.IsNoneState())
+            {
+                heart.SetReduce();
+                return;
+            }
+        }
     }
 
     public void OnParrySuccess()

@@ -26,6 +26,11 @@ public class HeartUI : MonoBehaviour
     {
         return animator.GetCurrentAnimatorStateInfo(0).IsName("BreakLife_None");
     }
+    public bool IsNoneState()
+    {
+        return animator.GetCurrentAnimatorStateInfo(0).IsName("Life_None");
+    }
+
 
     public void SetIdle() => animator.Play("Life_Idle");
     public void SetNone() => animator.Play("Life_None");
@@ -35,6 +40,8 @@ public class HeartUI : MonoBehaviour
         animator.Play("Life_Fix");
     }
     public void SetTremble() => animator.Play("Life_Trembling");
+
+    public void SetBreakIdle() => animator.Play("BreakLife_Idle");
     public void SetBreak() => animator.Play("BreakLife_Breaking");
     public void SetBreakDestroy() => animator.Play("BreakLife_Destroy");
     public void SetBreakFix() => animator.Play("BreakLife_Fix");
