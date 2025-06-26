@@ -63,8 +63,11 @@ public class Player : MonoBehaviour
     // 윗공
     public Transform upAttackBoxCenter;
     public Vector2 upAttackBoxSize = new Vector2(1.2f, 0.6f);
-    private enum AttackDirection { Forward, Upward }
+    private enum AttackDirection { Forward, Upward, Downward }
     private AttackDirection currentAttackDir = AttackDirection.Forward;
+    // 아랫공
+    public Transform downAttackBoxCenter;
+    public Vector2 downAttackBoxSize = new Vector2(1.2f, 0.6f);
 
 
 #endif
@@ -255,10 +258,20 @@ public class Player : MonoBehaviour
         float currentTime = Time.time;
         if (!canAttack || isParrying || (int)currentState > (int)PlayerActionState.Attack) return;
 
+        // 윗공
         if (moveInput.y > 0.5f)
         {
             currentAttackDir = AttackDirection.Upward;
             animator.SetTrigger("AttackUp");
+            canAttack = false;
+            Invoke(nameof(ResetAttackDelay), attackDelay);
+            return;
+        }
+        // 아랫공
+        else if (moveInput.y < -0.5f && !isGrounded)
+        {
+            currentAttackDir = AttackDirection.Downward;
+            animator.SetTrigger("AttackDown");
             canAttack = false;
             Invoke(nameof(ResetAttackDelay), attackDelay);
             return;
@@ -660,22 +673,23 @@ public class Player : MonoBehaviour
 
     public void AttackHitbox()
     {
+        Collider2D[] hitEnemies = null;
+
         if (currentAttackDir == AttackDirection.Forward)
         {
-            Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(attackPoint.position, attackBoxsize, enemyLayer);
-            foreach (var enemy in hitEnemies)
-            {
-                var enemyScript = enemy.GetComponent<Enemy>();
-                if (enemyScript != null)
-                {
-                    enemyScript.TakeDamage(attackDamage, this);
-                    ApplyKnockback(enemy.transform.position, 3f);
-                }
-            }
+            hitEnemies = Physics2D.OverlapBoxAll(attackPoint.position, attackBoxsize, 0f, enemyLayer);
         }
         else if (currentAttackDir == AttackDirection.Upward)
         {
-            Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(upAttackBoxCenter.position, upAttackBoxSize, 0f, enemyLayer);
+            hitEnemies = Physics2D.OverlapBoxAll(upAttackBoxCenter.position, upAttackBoxSize, 0f, enemyLayer);
+        }
+        else if (currentAttackDir == AttackDirection.Downward)
+        {
+            hitEnemies = Physics2D.OverlapBoxAll(downAttackBoxCenter.position, downAttackBoxSize, 0f, enemyLayer);
+        }
+
+        if (hitEnemies != null)
+        {
             foreach (var enemy in hitEnemies)
             {
                 var enemyScript = enemy.GetComponent<Enemy>();
@@ -810,6 +824,11 @@ public class Player : MonoBehaviour
         {
             Gizmos.color = Color.cyan;
             Gizmos.DrawWireCube(upAttackBoxCenter.position, upAttackBoxSize);
+        }
+        if (downAttackBoxCenter != null)
+        {
+            Gizmos.color = Color.magenta;
+            Gizmos.DrawWireCube(downAttackBoxCenter.position, downAttackBoxSize);
         }
 
     }
