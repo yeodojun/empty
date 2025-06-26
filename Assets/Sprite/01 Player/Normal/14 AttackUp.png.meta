@@ -74,6 +74,48 @@ TextureImporter:
   - first:
       213: -4550733685134541623
     second: 14 AttackUp_23
+  - first:
+      213: 7687206823612038884
+    second: 14 AttackUp_24
+  - first:
+      213: -6494037500064784713
+    second: 14 AttackUp_25
+  - first:
+      213: 9203152360228813269
+    second: 14 AttackUp_26
+  - first:
+      213: -8391711989033149124
+    second: 14 AttackUp_27
+  - first:
+      213: 1700254722930485227
+    second: 14 AttackUp_28
+  - first:
+      213: 4962278630059736291
+    second: 14 AttackUp_29
+  - first:
+      213: -4140760677448831133
+    second: 14 AttackUp_30
+  - first:
+      213: 3255699552901747859
+    second: 14 AttackUp_31
+  - first:
+      213: -4091565300868709483
+    second: 14 AttackUp_32
+  - first:
+      213: 2455540556185018537
+    second: 14 AttackUp_33
+  - first:
+      213: -2818081862573245150
+    second: 14 AttackUp_34
+  - first:
+      213: -8662594375819737140
+    second: 14 AttackUp_35
+  - first:
+      213: -6354482815814700420
+    second: 14 AttackUp_36
+  - first:
+      213: 6226774418244078604
+    second: 14 AttackUp_37
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -178,19 +220,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -264,8 +293,8 @@ TextureImporter:
       name: 14 AttackUp_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 1536
+        y: 1024
         width: 512
         height: 512
       alignment: 0
@@ -286,7 +315,7 @@ TextureImporter:
       name: 14 AttackUp_4
       rect:
         serializedVersion: 2
-        x: 512
+        x: 0
         y: 512
         width: 512
         height: 512
@@ -308,7 +337,7 @@ TextureImporter:
       name: 14 AttackUp_5
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 512
         y: 512
         width: 512
         height: 512
@@ -330,8 +359,8 @@ TextureImporter:
       name: 14 AttackUp_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 1024
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -352,8 +381,8 @@ TextureImporter:
       name: 14 AttackUp_7
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -374,7 +403,7 @@ TextureImporter:
       name: 14 AttackUp_8
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 0
         width: 512
         height: 512
@@ -392,11 +421,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 14 AttackUp_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5f4119f961c710800000000000000
+      internalID: 1711765851835686528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14 AttackUp_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af568af193757add0800000000000000
+      internalID: -2474913567360915974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d48ef1101db2ea740927b62bb3d0a302
+    spriteID: 60470537f82fde64d82cab4caa527d56
     internalID: 0
     vertices: []
     indices: 
@@ -408,6 +481,7 @@ TextureImporter:
     nameFileIdTable:
       14 AttackUp_0: 5191796764184591634
       14 AttackUp_1: -8825608123967892094
+      14 AttackUp_10: -2474913567360915974
       14 AttackUp_2: -3134575518096003616
       14 AttackUp_3: -4449506273729759391
       14 AttackUp_4: 740462197449317192
@@ -415,6 +489,7 @@ TextureImporter:
       14 AttackUp_6: 8488280057676156932
       14 AttackUp_7: 5754438362792254974
       14 AttackUp_8: 1705714501950285960
+      14 AttackUp_9: 1711765851835686528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

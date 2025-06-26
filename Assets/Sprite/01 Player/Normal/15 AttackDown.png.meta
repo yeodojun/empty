@@ -56,18 +56,6 @@ TextureImporter:
   - first:
       213: -6302939036965167146
     second: 15 AttackDown_17
-  - first:
-      213: -4917943758995996435
-    second: 15 AttackDown_18
-  - first:
-      213: 2144710911274107813
-    second: 15 AttackDown_19
-  - first:
-      213: -2558003814968836839
-    second: 15 AttackDown_20
-  - first:
-      213: -3834246997869949383
-    second: 15 AttackDown_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -172,19 +160,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -258,8 +233,8 @@ TextureImporter:
       name: 15 AttackDown_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 512
+        x: 1536
+        y: 1024
         width: 512
         height: 512
       alignment: 0
@@ -280,7 +255,7 @@ TextureImporter:
       name: 15 AttackDown_4
       rect:
         serializedVersion: 2
-        x: 512
+        x: 0
         y: 512
         width: 512
         height: 512
@@ -302,7 +277,7 @@ TextureImporter:
       name: 15 AttackDown_5
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 512
         y: 512
         width: 512
         height: 512
@@ -324,8 +299,8 @@ TextureImporter:
       name: 15 AttackDown_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 1024
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -346,8 +321,8 @@ TextureImporter:
       name: 15 AttackDown_7
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
+        x: 1536
+        y: 512
         width: 512
         height: 512
       alignment: 0
@@ -368,7 +343,7 @@ TextureImporter:
       name: 15 AttackDown_8
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 0
         y: 0
         width: 512
         height: 512
@@ -386,11 +361,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 15 AttackDown_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea98b113a618e20800000000000000
+      internalID: 3351076356888309343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: aa7f19c408b0c8d49b28b7c0e71a8067
+    spriteID: 3e7ba0c3349611347931119649d7edd0
     internalID: 0
     vertices: []
     indices: 
@@ -409,6 +406,7 @@ TextureImporter:
       15 AttackDown_6: -1679964407244574092
       15 AttackDown_7: 5199983172261248018
       15 AttackDown_8: 2783975354093945800
+      15 AttackDown_9: 3351076356888309343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
