@@ -57,12 +57,14 @@ public class Player : MonoBehaviour
     private const float comboResetTime = 0.8f;
     private bool canAttack = true;
     public Transform attackPoint;     // 검 끝 위치
-    public float attackRange = 0.5f;  // 공격 범위
+    public Vector2 attackBoxsize = new Vector2(1.2f, 0.6f);  // 공격 범위
     public LayerMask enemyLayer;      // 공격 대상 레이어
     public int attackDamage = 10;
     // 윗공
     public Transform upAttackBoxCenter;
     public Vector2 upAttackBoxSize = new Vector2(1.2f, 0.6f);
+    private enum AttackDirection { Forward, Upward }
+    private AttackDirection currentAttackDir = AttackDirection.Forward;
 
 
 #endif
@@ -255,9 +257,14 @@ public class Player : MonoBehaviour
 
         if (moveInput.y > 0.5f)
         {
-            UpwardAttack();
+            currentAttackDir = AttackDirection.Upward;
+            animator.SetTrigger("AttackUp");
+            canAttack = false;
+            Invoke(nameof(ResetAttackDelay), attackDelay);
             return;
         }
+
+        currentAttackDir = AttackDirection.Forward;
 
         TrySetState(PlayerActionState.Attack);
 
@@ -273,31 +280,6 @@ public class Player : MonoBehaviour
         lastAttackTime = currentTime;
         canAttack = false;
         Invoke(nameof(ResetAttackDelay), attackDelay);
-    }
-
-    void UpwardAttack()
-    {
-        TrySetState(PlayerActionState.Attack);
-        animator.SetTrigger("AttackUp");
-        canAttack = false;
-        Invoke(nameof(ResetAttackDelay), attackDelay);
-
-        Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(
-            upAttackBoxCenter.position,
-            upAttackBoxSize,
-            0f,
-            enemyLayer
-        );
-
-        foreach (Collider2D enemy in hitEnemies)
-        {
-            var enemyScript = enemy.GetComponent<Enemy>();
-            if (enemyScript != null)
-            {
-                enemyScript.TakeDamage(attackDamage, this);
-                ApplyKnockback(enemy.transform.position, 3f);
-            }
-        }
     }
 
     public void OnAttackEnd()
@@ -678,17 +660,30 @@ public class Player : MonoBehaviour
 
     public void AttackHitbox()
     {
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
-
-        foreach (Collider2D enemy in hitEnemies)
+        if (currentAttackDir == AttackDirection.Forward)
         {
-            var enemyScript = enemy.GetComponent<Enemy>();
-            if (enemyScript != null)
+            Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(attackPoint.position, attackBoxsize, enemyLayer);
+            foreach (var enemy in hitEnemies)
             {
-                enemyScript.TakeDamage(attackDamage, this);
-
-                // 넉백
-                ApplyKnockback(enemy.transform.position, 3f);
+                var enemyScript = enemy.GetComponent<Enemy>();
+                if (enemyScript != null)
+                {
+                    enemyScript.TakeDamage(attackDamage, this);
+                    ApplyKnockback(enemy.transform.position, 3f);
+                }
+            }
+        }
+        else if (currentAttackDir == AttackDirection.Upward)
+        {
+            Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(upAttackBoxCenter.position, upAttackBoxSize, 0f, enemyLayer);
+            foreach (var enemy in hitEnemies)
+            {
+                var enemyScript = enemy.GetComponent<Enemy>();
+                if (enemyScript != null)
+                {
+                    enemyScript.TakeDamage(attackDamage, this);
+                    ApplyKnockback(enemy.transform.position, 3f);
+                }
             }
         }
     }
@@ -809,7 +804,7 @@ public class Player : MonoBehaviour
         if (attackPoint != null)
         {
             Gizmos.color = Color.yellow;
-            Gizmos.DrawWireSphere(attackPoint.position, attackRange);
+            Gizmos.DrawWireCube(attackPoint.position, attackBoxsize);
         }
         if (upAttackBoxCenter != null)
         {
