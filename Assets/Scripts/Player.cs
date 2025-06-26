@@ -50,6 +50,7 @@ public class Player : MonoBehaviour
     private PlayerActionState currentState = PlayerActionState.Idle;
 
     // 공격 관련
+#if true
     private float lastAttackTime = -1f;
     private int nextAttackIndex = 1;
     private const float attackDelay = 0.5f;
@@ -59,15 +60,25 @@ public class Player : MonoBehaviour
     public float attackRange = 0.5f;  // 공격 범위
     public LayerMask enemyLayer;      // 공격 대상 레이어
     public int attackDamage = 10;
+    // 윗공
+    public Transform upAttackBoxCenter;
+    public Vector2 upAttackBoxSize = new Vector2(1.2f, 0.6f);
 
+
+#endif
+
+    // 넉백 관련
+#if true
     private bool isKnockbacked = false;
     private float knockbackTimer = 0f;
     private float knockbackDuration = 0.2f;
+#endif
 
     private bool isUsingSkill = false;
     private bool canDoubleJump = false;
 
     // 벽 관련
+#if true
     public Transform wallCheck;
     public float wallCheckDistance = 0.5f;
     public LayerMask wallLayer;
@@ -84,8 +95,10 @@ public class Player : MonoBehaviour
     private float wallJumpBufferTime = 0.15f;
     private float lastWallSlideTime = -999f;
     private int lastWallSlideDir = 0; // 1 = 오른쪽 벽, -1 = 왼쪽 벽
+#endif
 
 
+#if true
     // 대쉬 관련
     private bool isDashing = false;
     private bool canDash = true;
@@ -94,20 +107,27 @@ public class Player : MonoBehaviour
     private Vector2 dashDir;
     private float dashDuration = 0.2f;
     private float dashTimer = 0f;
+#endif
 
     // 생존 관련
+#if true
     public PlayerModeSwitcher switcher;
     private bool isInvincible = false;
     public bool IsInvincible => isInvincible;
     private float invincibleDuration = 0.5f;
+#endif
 
     // 힐 관련
+#if true
     private Coroutine healCoroutine;
     private bool isHealing = false;
     private float healCooldown = 0.5f;
     private float lastHealTime = -Mathf.Infinity;
 
+#endif
+
     // 패링 관련
+#if true
     [SerializeField] private Collider2D parryCollider;
     private bool isParrying;
     private bool isPerfectParryWindow;
@@ -117,6 +137,7 @@ public class Player : MonoBehaviour
     private bool isGuardHeld;
     private Coroutine parryCoroutine;
     public bool WasParryBlocked() => isParryBlocked;
+#endif
 
     void Start()
     {
@@ -232,6 +253,12 @@ public class Player : MonoBehaviour
         float currentTime = Time.time;
         if (!canAttack || isParrying || (int)currentState > (int)PlayerActionState.Attack) return;
 
+        if (moveInput.y > 0.5f)
+        {
+            UpwardAttack();
+            return;
+        }
+
         TrySetState(PlayerActionState.Attack);
 
         if (currentTime - lastAttackTime > comboResetTime)
@@ -241,12 +268,36 @@ public class Player : MonoBehaviour
         animator.ResetTrigger("Attack1");
         animator.ResetTrigger("Attack2");
         animator.SetTrigger(triggerName);
-        isControlLocked = true;
 
         nextAttackIndex = (nextAttackIndex == 1) ? 2 : 1;
         lastAttackTime = currentTime;
         canAttack = false;
         Invoke(nameof(ResetAttackDelay), attackDelay);
+    }
+
+    void UpwardAttack()
+    {
+        TrySetState(PlayerActionState.Attack);
+        animator.SetTrigger("AttackUp");
+        canAttack = false;
+        Invoke(nameof(ResetAttackDelay), attackDelay);
+
+        Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(
+            upAttackBoxCenter.position,
+            upAttackBoxSize,
+            0f,
+            enemyLayer
+        );
+
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            var enemyScript = enemy.GetComponent<Enemy>();
+            if (enemyScript != null)
+            {
+                enemyScript.TakeDamage(attackDamage, this);
+                ApplyKnockback(enemy.transform.position, 3f);
+            }
+        }
     }
 
     public void OnAttackEnd()
@@ -760,6 +811,12 @@ public class Player : MonoBehaviour
             Gizmos.color = Color.yellow;
             Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         }
+        if (upAttackBoxCenter != null)
+        {
+            Gizmos.color = Color.cyan;
+            Gizmos.DrawWireCube(upAttackBoxCenter.position, upAttackBoxSize);
+        }
+
     }
 
     void OnTriggerEnter2D(Collider2D other)
