@@ -31,6 +31,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2911035578087410309}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &295562185223151846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6847475027134056189}
+  m_Layer: 3
+  m_Name: AttackUpCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6847475027134056189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 295562185223151846}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.12, y: 1.84, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7059899878663054370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &685281319141433478
 GameObject:
   m_ObjectHideFlags: 0
@@ -237,11 +268,15 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   attackPoint: {fileID: 5515854734419023337}
-  attackRange: 0.6
+  attackBoxsize: {x: 1.2, y: 0.6}
   enemyLayer:
     serializedVersion: 2
     m_Bits: 256
   attackDamage: 10
+  upAttackBoxCenter: {fileID: 0}
+  upAttackBoxSize: {x: 1.2, y: 0.6}
+  downAttackBoxCenter: {fileID: 0}
+  downAttackBoxSize: {x: 1.2, y: 0.6}
   wallCheck: {fileID: 4894959885151680591}
   wallCheckDistance: 0.2
   wallLayer:
@@ -453,6 +488,37 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.11800954, y: 0.25528336}
   m_EdgeRadius: 0
+--- !u!1 &3170681686481065927
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 403257715771629153}
+  m_Layer: 3
+  m_Name: AttackDownCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &403257715771629153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3170681686481065927}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.11, y: -1.92, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7059899878663054370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4495434625131427765
 GameObject:
   m_ObjectHideFlags: 0
@@ -556,7 +622,7 @@ Transform:
   m_GameObject: {fileID: 4782801448085117008}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.092, y: -0.053000003, z: 0}
+  m_LocalPosition: {x: 2.033, y: -0.237, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -654,7 +720,7 @@ Transform:
   m_GameObject: {fileID: 6961989744141430018}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.18, y: 0.1, z: 0}
+  m_LocalPosition: {x: 8.18, y: 0.32, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -663,6 +729,8 @@ Transform:
   - {fileID: 8276561686659326545}
   - {fileID: 2655254327539965946}
   - {fileID: 7648162287342105289}
+  - {fileID: 6847475027134056189}
+  - {fileID: 403257715771629153}
   m_Father: {fileID: 1649983901586789205}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2728168572555013237
@@ -745,11 +813,15 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   attackPoint: {fileID: 2655254327539965946}
-  attackRange: 0.6
+  attackBoxsize: {x: 4, y: 1.2}
   enemyLayer:
     serializedVersion: 2
     m_Bits: 256
   attackDamage: 10
+  upAttackBoxCenter: {fileID: 6847475027134056189}
+  upAttackBoxSize: {x: 4, y: 4}
+  downAttackBoxCenter: {fileID: 403257715771629153}
+  downAttackBoxSize: {x: 4.3, y: 4}
   wallCheck: {fileID: 6925274655844246734}
   wallCheckDistance: 0.3
   wallLayer:

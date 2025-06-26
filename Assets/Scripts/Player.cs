@@ -238,7 +238,7 @@ public class Player : MonoBehaviour
 
         // 시선 전환
         isFacingRight = wallDir == -1;
-        transform.localScale = new Vector3(isFacingRight ? 4 : -4, 4, 4);
+        transform.localScale = new Vector3(isFacingRight ? 1 : -1, 1, 1);
 
         Invoke(nameof(EndWallJump), wallJumpDuration);
     }
