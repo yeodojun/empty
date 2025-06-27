@@ -8,13 +8,13 @@ public enum PlayerActionState
     None = 0,
     Idle = 1,
     Run = 2,
-    Land = 3,
-    Jump = 4,
-    Fall = 5,
-    WallSlide = 6,
-    WallJump = 7,
-    DoubleJump = 7,
-    Heal = 8,
+    Heal = 3,
+    Land = 4,
+    Jump = 5,
+    Fall = 6,
+    WallSlide = 7,
+    WallJump = 8,
+    DoubleJump = 8,
     Attack = 9,
     Charge = 9,
     Skill = 9,
@@ -63,12 +63,14 @@ public class Player : MonoBehaviour
     // 윗공
     public Transform upAttackBoxCenter;
     public Vector2 upAttackBoxSize = new Vector2(1.2f, 0.6f);
-    private enum AttackDirection { Forward, Upward, Downward }
+    private enum AttackDirection { Forward, Upward, Downward, Wall }
     private AttackDirection currentAttackDir = AttackDirection.Forward;
     // 아랫공
     public Transform downAttackBoxCenter;
     public Vector2 downAttackBoxSize = new Vector2(1.2f, 0.6f);
-
+    // 벽공
+    public Transform wallAttackBoxCenter;
+    public Vector2 wallAttackBoxSize = new Vector2(1.2f, 0.6f);
 
 #endif
 
@@ -257,6 +259,17 @@ public class Player : MonoBehaviour
     {
         float currentTime = Time.time;
         if (!canAttack || isParrying || (int)currentState > (int)PlayerActionState.Attack) return;
+
+        // 벽공
+        if (isWallSliding)
+        {
+            currentAttackDir = AttackDirection.Wall;
+            animator.SetTrigger("AttackWall");
+            TrySetState(PlayerActionState.Attack);
+            canAttack = false;
+            Invoke(nameof(ResetAttackDelay), attackDelay);
+            return;
+        }
 
         // 윗공
         if (moveInput.y > 0.5f)
@@ -527,6 +540,8 @@ public class Player : MonoBehaviour
             animator.SetBool("isJumping", rb.linearVelocity.y > 0.1f);
             animator.SetBool("isFalling", rb.linearVelocity.y < -0.1f);
         }
+        if ((int)currentState >= (int)PlayerActionState.Attack && (int)currentState < (int)PlayerActionState.Hit)
+            return;
 
         if (!isWallJumping && !isExitingWallSlide && !isControlLocked)
         {
@@ -562,6 +577,7 @@ public class Player : MonoBehaviour
                 if (!isWallSliding)
                 {
                     isWallSliding = true;
+                    lastWallSlideTime = Time.time;
                     animator.ResetTrigger("wallSlide");
                     animator.SetTrigger("wallSlide");
                     canDoubleJump = true;
@@ -686,6 +702,10 @@ public class Player : MonoBehaviour
         else if (currentAttackDir == AttackDirection.Downward)
         {
             hitEnemies = Physics2D.OverlapBoxAll(downAttackBoxCenter.position, downAttackBoxSize, 0f, enemyLayer);
+        }
+        else if (currentAttackDir == AttackDirection.Wall)
+        {
+            hitEnemies = Physics2D.OverlapBoxAll(wallAttackBoxCenter.position, wallAttackBoxSize, 0f, enemyLayer);
         }
 
         if (hitEnemies != null)
@@ -829,6 +849,11 @@ public class Player : MonoBehaviour
         {
             Gizmos.color = Color.magenta;
             Gizmos.DrawWireCube(downAttackBoxCenter.position, downAttackBoxSize);
+        }
+        if (wallAttackBoxCenter != null)
+        {
+            Gizmos.color = Color.gray;
+            Gizmos.DrawWireCube(wallAttackBoxCenter.position, wallAttackBoxSize);
         }
 
     }
