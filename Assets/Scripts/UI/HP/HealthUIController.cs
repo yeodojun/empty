@@ -14,6 +14,10 @@ public class HealthUIController : MonoBehaviour
 
     private List<int> breakIndexes = new();
     private int parrySuccessCount = 0;
+    public int CurrentHealth => lastHealth;
+    public int MaxHealth => maxHealth;
+    public int BreakCount => breakIndexes.Count;
+    private List<int> normalDamageStack = new List<int>();
 
     public void InitHearts()
     {
@@ -29,7 +33,7 @@ public class HealthUIController : MonoBehaviour
             rt.anchorMin = new Vector2(0, 1);
             rt.anchorMax = new Vector2(0, 1);
             rt.pivot = new Vector2(0, 1);
-            rt.anchoredPosition = new Vector2(i * 90f, 0);
+            rt.anchoredPosition = new Vector2(i * 50f, 0);
 
             heart.gameObject.SetActive(true);
             heart.SetIdle();
@@ -37,6 +41,25 @@ public class HealthUIController : MonoBehaviour
         }
 
         lastHealth = clampedMax;
+    }
+
+    public void RecordNormalDamage(int index)
+    {
+        normalDamageStack.Add(index);
+    }
+
+    public bool HealLatestNormal()
+    {
+        if (normalDamageStack.Count == 0)
+            return false;
+
+        int idx = normalDamageStack[normalDamageStack.Count - 1];
+        normalDamageStack.RemoveAt(normalDamageStack.Count - 1);
+
+        // heart ui 복구
+        activeHearts[idx].SetFix();
+
+        return true;
     }
 
     public void UpdateHealthUI(int currentHealth)
@@ -71,7 +94,13 @@ public class HealthUIController : MonoBehaviour
                 {
                     // 일반 Life만 Reduce, BreakLife는 Destroy만 별도로 실행됨
                     if (!isBreak && !isDestroyedBreak)
+                    {
+                        RecordNormalDamage(i);
+
                         heart.SetReduce();
+                    }
+                    else if (isBreak && !isDestroyedBreak)
+                        heart.SetBreakDestroy();
                 }
                 else if (currentHealth > lastHealth && i < currentHealth)
                 {
@@ -89,33 +118,67 @@ public class HealthUIController : MonoBehaviour
     {
         for (int i = activeHearts.Count - 1; i >= 0; i--)
         {
-            if (!breakIndexes.Contains(i))
+            HeartUI heart = activeHearts[i];
+
+            bool isBreak = breakIndexes.Contains(i);
+            bool isNone = heart.IsNoneState();
+
+            if (!isBreak && !isNone)
             {
                 breakIndexes.Add(i);
-                activeHearts[i].SetBreakIdle();
+                heart.SetBreak();
                 break;
             }
         }
     }
 
-    public void OnHitWhileBreak()
+    public bool OnHitWhileBreak()
     {
         for (int i = activeHearts.Count - 1; i >= 0; i--)
         {
             HeartUI heart = activeHearts[i];
 
-            if (breakIndexes.Contains(i) && !heart.IsBreakNoneState())
+            bool isBreak = breakIndexes.Contains(i);
+            bool isBreakNone = heart.IsBreakNoneState();
+            bool isNone = heart.IsNoneState();
+
+            // 1. 내상 처리
+            if (isBreak && !isBreakNone)
             {
                 heart.SetBreakDestroy();
                 breakIndexes.Remove(i);
-                return;
+                return true;
             }
-            else if (!breakIndexes.Contains(i) && !heart.IsNoneState())
+
+            // 2. 일반 체력 처리
+            if (!isBreak && !isNone)
             {
                 heart.SetReduce();
-                return;
+                return true;
             }
         }
+
+        return false;
+    }
+
+    public bool HealNormalOnce()
+    {
+        int missingTotal = maxHealth - lastHealth;
+        int missingNormal = missingTotal - breakIndexes.Count;
+        if (missingNormal <= 0)
+            return false;
+
+        for (int i = lastHealth - 1; i >= 0; i--)
+        {
+            if (!breakIndexes.Contains(i))
+            {
+                lastHealth++;
+                activeHearts[lastHealth - 1].SetIdle();
+                return true;
+            }
+        }
+
+        return false;
     }
 
     public void OnParrySuccess()

@@ -16,10 +16,9 @@ public class BatteryPoolManager : MonoBehaviour
         batteryParent.transform.SetParent(heartsContainer.transform.parent, false);
 
         RectTransform rt = batteryParent.GetComponent<RectTransform>();
-        rt.anchorMin = new Vector2(0, 1);
-        rt.anchorMax = new Vector2(0, 1);
-        rt.pivot = new Vector2(0, 1);
-        rt.anchoredPosition = new Vector2(20f, -100f);
+        rt.anchorMin = new Vector2(0.3f, 0.08f);
+        rt.anchorMax = new Vector2(0.3f, 0.08f);
+        rt.pivot = new Vector2(0.5f, 0.5f);
 
         BatteryUI battery = batteryPool.Get(rt);
         battery.Init(defaultMana, cellPool);

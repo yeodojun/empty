@@ -11,9 +11,9 @@ public class BatteryPool : MonoBehaviour
         BatteryUI ui = pool.Count > 0 ? pool.Dequeue() : Instantiate(batteryPrefab).GetComponent<BatteryUI>();
         RectTransform rt = ui.GetComponent<RectTransform>();
         rt.SetParent(parent, false);
-        rt.anchorMin = new Vector2(0, 1);
-        rt.anchorMax = new Vector2(0, 1);
-        rt.pivot = new Vector2(0, 1);
+        rt.anchorMin = new Vector2(0.5f, 0.5f);
+        rt.anchorMax = new Vector2(0.5f, 0.5f);
+        rt.pivot = new Vector2(0.5f, 0.5f);
         rt.anchoredPosition = Vector2.zero;
         ui.transform.localScale = Vector3.one;
         ui.gameObject.SetActive(true);

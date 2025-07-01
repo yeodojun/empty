@@ -384,15 +384,20 @@ public class Player : MonoBehaviour
 
         if (switcher != null)
         {
-            if (switcher.currentHealth < switcher.maxHealth && switcher.SpendMana(30))
+            if (switcher.SpendMana(30))
             {
-                switcher.currentHealth++;
-                switcher.healthUI.UpdateHealthUI(switcher.currentHealth);
-                animator.SetTrigger("HealStop");
-            }
-            else if (switcher.SpendMana(30))
-            {
-                StopHealing();
+                // 가장 최근 일반 하트 회복 시도
+                bool healed = switcher.healthUI.HealLatestNormal();
+                if (healed)
+                {
+                    // 일반 하트 회복에 성공했으면 현재 체력 +1
+                    switcher.currentHealth++;
+                    animator.SetTrigger("HealStop");
+                }
+                else
+                {
+                    StopHealing();
+                }
             }
         }
 
@@ -752,13 +757,8 @@ public class Player : MonoBehaviour
         StartCoroutine(InvincibilityTimer());
 
         TrySetState(PlayerActionState.Hit);
-        if (switcher.healthUI.HasBreak())
-        {
-            switcher.healthUI.OnHitWhileBreak();
-            animator.SetTrigger("Hit");
-        }
-        else
-            switcher.ApplyDamage(amount);
+        switcher.ApplyDamage(amount);
+        animator.SetTrigger("Hit");
     }
 
     private IEnumerator InvincibilityTimer()
