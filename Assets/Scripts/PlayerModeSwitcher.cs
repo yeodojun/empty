@@ -13,12 +13,11 @@ public class PlayerModeSwitcher : MonoBehaviour
     private float lastSwitchTime = -Mathf.Infinity;
     private float switchCooldown = 3f;
 
-    public int maxHealth = 4;
-    public int currentHealth = 4;
-
-    public BatteryUI batteryUI; // BatteryUI 연결
+    public int maxHealth = 5;
+    public int currentHealth = 5;
     public int maxMana = 100;
     public int currentMana = 100;
+    public ManaUIManager manaUIManager;
 
     void Awake()
     {
@@ -31,6 +30,12 @@ public class PlayerModeSwitcher : MonoBehaviour
         inputActions.Enable();
         healthUI.SetMaxHealth(maxHealth);
         healthUI.UpdateHealthUI(currentHealth);
+        if (manaUIManager != null)
+        {
+            int initialSlots = Mathf.Clamp(maxMana / manaUIManager.cellsPerSlot, 1, manaUIManager.slotCount);
+            manaUIManager.ResetSlots(initialSlots);
+            manaUIManager.SetMana(currentMana);
+        }
     }
 
     void OnDisable() => inputActions.Disable();
@@ -64,21 +69,28 @@ public class PlayerModeSwitcher : MonoBehaviour
     {
         if (currentMana < amount) return false;
         currentMana -= amount;
-        batteryUI?.SpendMana(amount);
+        Debug.Log($"[Mana] After Spend: {currentMana}");
+        UpdateManaUI();
         return true;
     }
 
     public bool GainMana(int amount)
     {
-        if (currentMana == maxMana) return false;
-        currentMana += amount;
-        batteryUI?.GainMana(amount);
+        if (currentMana >= maxMana) return false;
+        currentMana = Mathf.Min(currentMana + amount, maxMana);
+        UpdateManaUI();
         return true;
+    }
+
+    private void UpdateManaUI()
+    {
+        if (manaUIManager != null)
+            manaUIManager.SetMana(currentMana);
     }
 
     public void SyncManaUI()
     {
-        batteryUI?.GainMana(0); // 강제 업데이트
+        UpdateManaUI();
     }
 
     void TryToggleMode()
@@ -110,6 +122,7 @@ public class PlayerModeSwitcher : MonoBehaviour
         to.position = from.position;
 
         // 먼저 켜주고 물리 정보 복사
+        to.position = from.position;
         toObj.SetActive(true);
 
         // 컴포넌트 캐싱 방식 (최적화)

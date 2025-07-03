@@ -386,6 +386,7 @@ public class Player : MonoBehaviour
         {
             if (switcher.SpendMana(30))
             {
+                switcher.SyncManaUI();
                 // 가장 최근 일반 하트 회복 시도
                 bool healed = switcher.healthUI.HealLatestNormal();
                 if (healed)
@@ -730,7 +731,7 @@ public class Player : MonoBehaviour
     public void AttackHit()
     {
         if (switcher.GainMana(10))
-        { }
+        { switcher.SyncManaUI(); }
     }
 
     public void ApplyKnockback(Vector2 sourcePosition, float knockbackForce = 3f)
@@ -871,7 +872,8 @@ public class Player : MonoBehaviour
         if (isPerfectParryWindow)
         {
             animator.SetTrigger("Parrying");
-            switcher?.GainMana(50);
+            if (switcher.GainMana(50))
+                switcher.SyncManaUI();
             StartCoroutine(SlowTime(0.5f, 0.5f));
         }
         else if (isGuardSuccessWindow)
