@@ -89,7 +89,7 @@ public class HealthUIController : MonoBehaviour
             if (i < currentHealth)
             {
                 // 살아있는 구간: 마지막 1칸 떨림 처리
-                if (i == currentHealth - 1 && currentHealth == 1)
+                if (currentHealth == 1 && i == 0)
                 {
                     if (isBreak) heart.SetBreakTremble();
                     else heart.SetTremble();

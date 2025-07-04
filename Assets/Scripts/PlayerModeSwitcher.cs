@@ -52,12 +52,12 @@ public class PlayerModeSwitcher : MonoBehaviour
         if (currentHealth <= 0)
         {
             Debug.Log("플레이어 사망");
+            inputActions.Disable();
             if (animator != null)
             {
                 animator.ResetTrigger("Hit"); // 사망 전 Hit 무효화
                 animator.SetTrigger("Death");
             }
-            inputActions.Disable();
             return;
         }
 
