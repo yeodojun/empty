@@ -57,7 +57,13 @@ public class HealthUIController : MonoBehaviour
         normalDamageStack.RemoveAt(normalDamageStack.Count - 1);
 
         // heart ui 복구
+        if (activeHearts[idx].IsTrembling())
+            activeHearts[idx].SetIdle();
         activeHearts[idx].SetFix();
+
+        // 회복된 체력 반영 및 최종 상태 고정
+        int newHealth = lastHealth + 1;
+        UpdateHealthUI(newHealth);
 
         return true;
     }
@@ -103,10 +109,13 @@ public class HealthUIController : MonoBehaviour
             else
             {
                 // 없는 구간: 반드시 None으로
-                if (isBreak) heart.IsBreakNoneState();
+                if (normalDamageStack.Contains(i))
+                    continue;
+                if (isBreak) heart.SetBreakIdle();  // 내상 None 상태라면 Idle로
                 else heart.SetNone();
             }
         }
+        lastHealth = currentHealth;
     }
 
     private void ApplyDamageAnimation(int idx)

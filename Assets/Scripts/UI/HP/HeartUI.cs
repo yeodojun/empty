@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class HeartUI : MonoBehaviour
@@ -31,10 +32,28 @@ public class HeartUI : MonoBehaviour
         return animator.GetCurrentAnimatorStateInfo(0).IsName("Life_None");
     }
 
+    public bool IsTrembling()
+        => animator.GetCurrentAnimatorStateInfo(0).IsName("Life_Trembling");
+
 
     public void SetIdle() => animator.Play("Life_Idle");
     public void SetNone() => animator.Play("Life_None");
-    public void SetReduce() => animator.Play("Life_Reduce");
+    public void SetReduce()
+    {
+        animator.Play("Life_Reduce");
+        StartCoroutine(DelayedNone());
+    }
+
+    private IEnumerator DelayedNone()
+    {
+        // 애니메이션 길이만큼 기다렸다가 None으로
+        float len = 0f;
+        foreach (var clip in animator.runtimeAnimatorController.animationClips)
+            if (clip.name == "Life_Reduce") { len = clip.length; break; }
+        yield return new WaitForSeconds(len);
+        animator.Play("Life_None");
+    }
+
     public void SetFix()
     {
         animator.Play("Life_Fix");
