@@ -33,7 +33,7 @@ public class HealthUIController : MonoBehaviour
             rt.anchorMin = new Vector2(0, 1);
             rt.anchorMax = new Vector2(0, 1);
             rt.pivot = new Vector2(0, 1);
-            rt.anchoredPosition = new Vector2(i * 50f, 0);
+            rt.anchoredPosition = new Vector2(i * 20f, 0);
 
             heart.gameObject.SetActive(true);
             heart.SetIdle();
