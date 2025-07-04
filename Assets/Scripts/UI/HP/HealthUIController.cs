@@ -64,23 +64,35 @@ public class HealthUIController : MonoBehaviour
 
     public void UpdateHealthUI(int currentHealth)
     {
+        int previousHealth = lastHealth;
+        lastHealth = currentHealth;
+
+        // 1) 피해 처리: previousHealth → currentHealth 까지
+        if (currentHealth < previousHealth)
+        {
+            for (int i = previousHealth - 1; i >= currentHealth; i--)
+                ApplyDamageAnimation(i);
+        }
+        // 2) 회복 처리: previousHealth → currentHealth 까지
+        else if (currentHealth > previousHealth)
+        {
+            for (int i = previousHealth; i < currentHealth; i++)
+                ApplyHealAnimation(i);
+        }
+
+        // 3) 최종 상태 고정: 깜빡임 방지용
         for (int i = 0; i < activeHearts.Count; i++)
         {
-            HeartUI heart = activeHearts[i];
+            var heart = activeHearts[i];
             bool isBreak = breakIndexes.Contains(i);
-            bool isDestroyedBreak = heart.IsBreakNoneState();
 
             if (i < currentHealth)
             {
+                // 살아있는 구간: 마지막 1칸 떨림 처리
                 if (i == currentHealth - 1 && currentHealth == 1)
                 {
                     if (isBreak) heart.SetBreakTremble();
                     else heart.SetTremble();
-                }
-                else if (currentHealth > lastHealth && i >= lastHealth)
-                {
-                    if (isBreak) heart.SetBreakFix();
-                    else heart.SetFix();
                 }
                 else
                 {
@@ -90,28 +102,53 @@ public class HealthUIController : MonoBehaviour
             }
             else
             {
-                if (currentHealth < lastHealth && i < lastHealth && i >= currentHealth)
-                {
-                    // 일반 Life만 Reduce, BreakLife는 Destroy만 별도로 실행됨
-                    if (!isBreak && !isDestroyedBreak)
-                    {
-                        RecordNormalDamage(i);
-
-                        heart.SetReduce();
-                    }
-                    else if (isBreak && !isDestroyedBreak)
-                        heart.SetBreakDestroy();
-                }
-                else if (currentHealth > lastHealth && i < currentHealth)
-                {
-                    if (isBreak && heart.IsBreakNoneState()) heart.SetBreakNoneFix();
-                    else if (isBreak) heart.SetBreakFix();
-                    else heart.SetFix();
-                }
+                // 없는 구간: 반드시 None으로
+                if (isBreak) heart.IsBreakNoneState();
+                else heart.SetNone();
             }
         }
+    }
 
-        lastHealth = currentHealth;
+    private void ApplyDamageAnimation(int idx)
+    {
+        var heart = activeHearts[idx];
+        bool isBreak = breakIndexes.Contains(idx);
+        bool isAlreadyDestroyedBreak = heart.IsBreakNoneState();
+
+        if (isBreak && !isAlreadyDestroyedBreak)
+        {
+            // 내상 우선 파괴
+            heart.SetBreakDestroy();
+            breakIndexes.Remove(idx);
+        }
+        else if (!isBreak && !heart.IsNoneState())
+        {
+            // 일반 데미지
+            normalDamageStack.Add(idx);
+            heart.SetReduce();
+        }
+    }
+
+    private void ApplyHealAnimation(int idx)
+    {
+        var heart = activeHearts[idx];
+        bool isBreak = breakIndexes.Contains(idx);
+
+        if (isBreak)
+        {
+            // 내상 회복
+            if (heart.IsBreakNoneState())
+                heart.SetBreakNoneFix();
+            else
+                heart.SetBreakFix();
+        }
+        else if (normalDamageStack.Contains(idx))
+        {
+            // 일반 체력 회복
+            normalDamageStack.Remove(idx);
+            heart.SetFix();
+        }
+        // 그 외(예: MaxHealth 확장) 는 InitHearts 또는 HealNormalOnce 등에서 처리
     }
 
     public void AddBreak()
