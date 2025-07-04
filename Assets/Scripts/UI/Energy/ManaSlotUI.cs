@@ -59,6 +59,18 @@ public class ManaSlotUI : MonoBehaviour
         }
     }
 
+    public void GlowAllCells()
+    {
+        foreach (var cell in cells)
+            cell.Glow();
+    }
+
+    public void ResetGlowAllCells()
+    {
+        foreach (var cell in cells)
+            cell.ResetState();
+    }
+
     // 반환할 때
     public void Cleanup()
     {

@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -33,7 +34,14 @@ public class ManaUIManager : MonoBehaviour
 
     public bool Spend(int amount)
     {
-        if (currentMana < amount) return false;
+        if (currentMana < amount)
+        {
+            // 마나 부족 시: 기존 셀들 Glow 애니메이션 실행 후 원상 복구
+            foreach (var slot in slots)
+                slot.GlowAllCells();
+            StartCoroutine(RevertCellGlow());
+            return false;
+        }
 
         // 얼마나 셀을 제거할지 계산
         int removeCells = amount / manaPerCell;
@@ -49,6 +57,12 @@ public class ManaUIManager : MonoBehaviour
             if (remain <= 0) break;
         }
         return true;
+    }
+    private IEnumerator RevertCellGlow()
+    {
+        yield return new WaitForSeconds(0.5f);
+        foreach (var slot in slots)
+            slot.ResetGlowAllCells();
     }
 
     public void Gain(int amount)
@@ -96,7 +110,6 @@ public class ManaUIManager : MonoBehaviour
             remain -= desiredCells * manaPerCell;
         }
     }
-
 
     // 슬롯 수 변경 시 호출
     public void ResetSlots(int newCount)

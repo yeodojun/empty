@@ -348,8 +348,15 @@ public class Player : MonoBehaviour
             return;
 
         // 마나 부족 시 힐 불가
-        if (switcher == null || switcher.currentMana < 30)
+        if (switcher == null)
             return;
+        if (switcher.currentMana < 30)
+        {
+            // 마나 UI에 글로우 효과 트리거
+            if (switcher.manaUIManager != null)
+                switcher.manaUIManager.Spend(30);
+            return;
+        }
 
         TrySetState(PlayerActionState.Heal);
         animator.ResetTrigger("HealStop");

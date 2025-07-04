@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8830736642798960465}
   - component: {fileID: 7023229328759601285}
   - component: {fileID: 1633949440997646137}
+  - component: {fileID: 7621832188175790635}
   m_Layer: 5
   m_Name: ManaCellUI
   m_TagString: Untagged
@@ -90,3 +91,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   image: {fileID: 7023229328759601285}
   filledSprite: {fileID: 21300000, guid: 85941c4b0e8c9f547bbcd61cf4ae182c, type: 3}
+--- !u!95 &7621832188175790635
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7176200537811355270}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b45d5292cb795294b830a2c133edf255, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
