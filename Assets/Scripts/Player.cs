@@ -756,7 +756,9 @@ public class Player : MonoBehaviour
         rb.linearVelocity = new Vector2(direction * knockbackForce, rb.linearVelocity.y);
 
         isKnockbacked = true;
-        knockbackTimer = knockbackDuration;
+        knockbackTimer = (currentState == PlayerActionState.Death)
+                    ? 0.05f
+                    : knockbackDuration;
     }
 
     public void landEnd() => animator.ResetTrigger("land");
