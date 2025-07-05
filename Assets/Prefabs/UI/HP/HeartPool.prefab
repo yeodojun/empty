@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2937283197569097607}
   - component: {fileID: 4782266143783922018}
-  - component: {fileID: 6013186808530236421}
   m_Layer: 0
   m_Name: HeartPool
   m_TagString: Untagged
@@ -46,18 +45,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   heartPrefab: {fileID: 5321234328756423924, guid: 258afc5b6961a594c86947f9e1f84781, type: 3}
---- !u!114 &6013186808530236421
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3081163785077876678}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 331239e0b20056b4e8e0dd4e6161a99d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  heartPool: {fileID: 4782266143783922018}
-  heartParent: {fileID: 0}
-  maxHealth: 4
