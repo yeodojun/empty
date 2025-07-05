@@ -47,7 +47,7 @@ public class Player : MonoBehaviour
     private bool isGrounded;
     private bool wasGroundedLastFrame = true;
 
-    private PlayerActionState currentState = PlayerActionState.Idle;
+    public PlayerActionState currentState = PlayerActionState.Idle;
 
     // 공격 관련
 #if true
@@ -487,6 +487,12 @@ public class Player : MonoBehaviour
         currentState = PlayerActionState.Idle;
     }
 
+    // dEATH
+    public void HandleDeath()
+    {
+        currentState = PlayerActionState.Death;
+    }
+
     private void TrySetState(PlayerActionState newState)
     {
         if ((int)newState >= (int)currentState)
@@ -497,6 +503,8 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        if (currentState == PlayerActionState.Death)
+            return;  // 사망 상태면 애니메이션 제어 중단
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
         bool hitCeiling = Physics2D.OverlapCircle(headCheck.position, headCheckRadius, ceilingLayer);
 
@@ -767,6 +775,8 @@ public class Player : MonoBehaviour
 
         TrySetState(PlayerActionState.Hit);
         switcher.ApplyDamage(amount);
+        if (switcher.currentHealth <= 0)
+            return;
         animator.SetTrigger("Hit");
     }
 

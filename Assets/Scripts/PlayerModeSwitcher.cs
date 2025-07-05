@@ -53,10 +53,17 @@ public class PlayerModeSwitcher : MonoBehaviour
         {
             Debug.Log("플레이어 사망");
             inputActions.Disable();
+
             if (animator != null)
             {
                 animator.ResetTrigger("Hit"); // 사망 전 Hit 무효화
                 animator.SetTrigger("Death");
+            }
+            var playerScript = active.GetComponent<Player>();
+            if (playerScript != null)
+            {
+                playerScript.currentState = PlayerActionState.Death;
+                playerScript.enabled = false;
             }
             return;
         }
