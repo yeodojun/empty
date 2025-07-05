@@ -13,8 +13,8 @@ public enum PlayerActionState
     Jump = 5,
     Fall = 6,
     WallSlide = 7,
-    WallJump = 8,
     DoubleJump = 8,
+    WallJump = 9,
     Attack = 9,
     Charge = 9,
     Skill = 9,
@@ -197,12 +197,13 @@ public class Player : MonoBehaviour
     {
         bool recentlyWallSliding = (Time.time - lastWallSlideTime) <= wallJumpBufferTime;
 
-        if (isParrying || (int)currentState > (int)PlayerActionState.Jump) return;
         if (isWallSliding || recentlyWallSliding)
         {
             PerformWallJump();
             return;
         }
+
+        if (isParrying || (int)currentState > (int)PlayerActionState.Jump) return;
 
         if (isGrounded)
         {
