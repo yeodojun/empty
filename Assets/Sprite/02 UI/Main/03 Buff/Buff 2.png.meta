@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: bca4e022788917b468756b20af59b075
+guid: c067bc4685ed09b49a4997d6d67edf7a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5495167088150320407
-    second: Buff 1_0
+      213: -877528717421948848
+    second: Buff 2_0
   - first:
-      213: 2458866602488204747
-    second: Buff 1_1
+      213: 9008740339691995388
+    second: Buff 2_1
   - first:
-      213: 4230109779325785174
-    second: Buff 1_2
+      213: 69763504781814896
+    second: Buff 2_2
   - first:
-      213: -3258555159494318582
-    second: Buff 1_3
+      213: -7825013181165319952
+    second: Buff 2_3
   - first:
-      213: 5308420113896279411
-    second: Buff 1_4
+      213: -6987597405706916065
+    second: Buff 2_4
   - first:
-      213: -1369638160248605012
-    second: Buff 1_5
+      213: 4890201200544116071
+    second: Buff 2_5
   - first:
-      213: 5757515658096020061
-    second: Buff 1_6
+      213: -6948137719097545424
+    second: Buff 2_6
   - first:
-      213: -4832218061893365476
-    second: Buff 1_7
+      213: -2791593335879034112
+    second: Buff 2_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -134,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Buff 1_0
+      name: Buff 2_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 12
-        width: 24
-        height: 24
+        x: 11
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9eae161e5ae3db3b0800000000000000
-      internalID: -5495167088150320407
+      spriteID: 0505cd5e74462d3f0800000000000000
+      internalID: -877528717421948848
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_1
+      name: Buff 2_1
       rect:
         serializedVersion: 2
-        x: 60
-        y: 12
-        width: 24
-        height: 24
+        x: 59
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcd8167b526af1220800000000000000
-      internalID: 2458866602488204747
+      spriteID: cf0c21dcb99750d70800000000000000
+      internalID: 9008740339691995388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_2
+      name: Buff 2_2
       rect:
         serializedVersion: 2
-        x: 108
-        y: 12
-        width: 24
-        height: 24
+        x: 107
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6549e95ae6e54ba30800000000000000
-      internalID: 4230109779325785174
+      spriteID: 07c6ec8b989d7f000800000000000000
+      internalID: 69763504781814896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_3
+      name: Buff 2_3
       rect:
         serializedVersion: 2
-        x: 156
-        y: 12
-        width: 24
-        height: 24
+        x: 155
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a062355d85947c2d0800000000000000
-      internalID: -3258555159494318582
+      spriteID: 0f844ed68f7f76390800000000000000
+      internalID: -7825013181165319952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_4
+      name: Buff 2_4
       rect:
         serializedVersion: 2
-        x: 204
-        y: 12
-        width: 24
-        height: 24
+        x: 203
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 37d8357e7fb4ba940800000000000000
-      internalID: 5308420113896279411
+      spriteID: f1fe56f6e21170f90800000000000000
+      internalID: -6987597405706916065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_5
+      name: Buff 2_5
       rect:
         serializedVersion: 2
-        x: 252
-        y: 12
-        width: 24
-        height: 24
+        x: 251
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,20 +259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca6ff8399511efce0800000000000000
-      internalID: -1369638160248605012
+      spriteID: 76dee9e151c7dd340800000000000000
+      internalID: 4890201200544116071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_6
+      name: Buff 2_6
       rect:
         serializedVersion: 2
-        x: 300
-        y: 12
-        width: 24
-        height: 24
+        x: 299
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5a00958cfdc6ef40800000000000000
-      internalID: 5757515658096020061
+      spriteID: 03da2baae81439f90800000000000000
+      internalID: -6948137719097545424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Buff 1_7
+      name: Buff 2_7
       rect:
         serializedVersion: 2
-        x: 348
-        y: 12
-        width: 24
-        height: 24
+        x: 347
+        y: 11
+        width: 26
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c119e9f564380fcb0800000000000000
-      internalID: -4832218061893365476
+      spriteID: 00b1599c6a44249d0800000000000000
+      internalID: -2791593335879034112
       vertices: []
       indices: 
       edges: []
@@ -323,14 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Buff 1_0: -5495167088150320407
-      Buff 1_1: 2458866602488204747
-      Buff 1_2: 4230109779325785174
-      Buff 1_3: -3258555159494318582
-      Buff 1_4: 5308420113896279411
-      Buff 1_5: -1369638160248605012
-      Buff 1_6: 5757515658096020061
-      Buff 1_7: -4832218061893365476
+      Buff 2_0: -877528717421948848
+      Buff 2_1: 9008740339691995388
+      Buff 2_2: 69763504781814896
+      Buff 2_3: -7825013181165319952
+      Buff 2_4: -6987597405706916065
+      Buff 2_5: 4890201200544116071
+      Buff 2_6: -6948137719097545424
+      Buff 2_7: -2791593335879034112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
