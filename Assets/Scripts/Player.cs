@@ -799,6 +799,7 @@ public class Player : MonoBehaviour
             isInvincible = true;
             switcher?.GainMana(50);
             switcher?.healthUI.OnParrySuccess();
+            BuffManager.Instance.ActivateBuff(BuffType.DamageUp);
             StartCoroutine(SlowTime(0.5f, 0.5f));
             StartCoroutine(InvincibilityTimer());
             isParryBlocked = true;
