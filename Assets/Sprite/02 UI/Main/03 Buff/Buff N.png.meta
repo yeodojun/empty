@@ -137,10 +137,10 @@ TextureImporter:
       name: Buff N_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 13
-        width: 22
-        height: 22
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: Buff N_1
       rect:
         serializedVersion: 2
-        x: 61
-        y: 13
-        width: 22
-        height: 22
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Buff N_2
       rect:
         serializedVersion: 2
-        x: 109
-        y: 13
-        width: 22
-        height: 22
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: Buff N_3
       rect:
         serializedVersion: 2
-        x: 157
-        y: 13
-        width: 22
-        height: 22
+        x: 144
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: Buff N_4
       rect:
         serializedVersion: 2
-        x: 205
-        y: 13
-        width: 22
-        height: 22
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: Buff N_5
       rect:
         serializedVersion: 2
-        x: 253
-        y: 13
-        width: 22
-        height: 22
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: Buff N_6
       rect:
         serializedVersion: 2
-        x: 301
-        y: 13
-        width: 22
-        height: 22
+        x: 288
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Buff N_7
       rect:
         serializedVersion: 2
-        x: 349
-        y: 13
-        width: 22
-        height: 22
+        x: 336
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4391b7620fd39924e9f7ebfe70cfa41b
     internalID: 0
     vertices: []
     indices: 
