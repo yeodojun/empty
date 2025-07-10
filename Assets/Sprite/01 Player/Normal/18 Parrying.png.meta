@@ -20,6 +20,12 @@ TextureImporter:
   - first:
       213: -1757329429598849656
     second: 18 Parrying_5
+  - first:
+      213: 7912372999300261176
+    second: 18 Parrying_6
+  - first:
+      213: -8077694323320358601
+    second: 18 Parrying_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,19 +123,6 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -250,11 +243,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 18 Parrying_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885bb6bc136bc97e0800000000000000
+      internalID: -1757329429598849656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 928ed8615e2ae5e4f9bea3ded463bcd0
+    spriteID: 0b3dae019779d7d4cb0289e400c3f788
     internalID: 0
     vertices: []
     indices: 
@@ -269,6 +284,7 @@ TextureImporter:
       18 Parrying_2: -835816021650277645
       18 Parrying_3: 8607068788526194710
       18 Parrying_4: 3063338666039668938
+      18 Parrying_5: -1757329429598849656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

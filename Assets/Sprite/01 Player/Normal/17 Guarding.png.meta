@@ -23,6 +23,21 @@ TextureImporter:
   - first:
       213: -3167809455955624465
     second: 17 Guarding_6
+  - first:
+      213: -1773089767551551263
+    second: 17 Guarding_7
+  - first:
+      213: -7589581717727798108
+    second: 17 Guarding_8
+  - first:
+      213: -1899956353118454176
+    second: 17 Guarding_9
+  - first:
+      213: -7482218412903852562
+    second: 17 Guarding_10
+  - first:
+      213: -5866762300084086136
+    second: 17 Guarding_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -120,19 +135,6 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -253,11 +255,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 17 Guarding_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b39988900ab7560800000000000000
+      internalID: 7312614382773025582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: feeb1430ec75f2c47a0a97cf16d9d226
+    spriteID: 471d1048cc0972c41b7f14afe778edf1
     internalID: 0
     vertices: []
     indices: 
@@ -272,6 +296,7 @@ TextureImporter:
       17 Guarding_2: -7733383769618444765
       17 Guarding_3: -6419454551124963236
       17 Guarding_4: -3737606739583504603
+      17 Guarding_5: 7312614382773025582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
