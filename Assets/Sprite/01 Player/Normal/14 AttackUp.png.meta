@@ -113,9 +113,6 @@ TextureImporter:
   - first:
       213: -6354482815814700420
     second: 14 AttackUp_36
-  - first:
-      213: 6226774418244078604
-    second: 14 AttackUp_37
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -469,7 +466,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 60470537f82fde64d82cab4caa527d56
+    spriteID: ffb90b8fd6831c541897c4a769f1927b
     internalID: 0
     vertices: []
     indices: 

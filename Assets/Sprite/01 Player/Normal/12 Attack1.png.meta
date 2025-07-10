@@ -92,12 +92,6 @@ TextureImporter:
   - first:
       213: -1078679937781976296
     second: 12 Attack1_29
-  - first:
-      213: 1575405409536405768
-    second: 12 Attack1_30
-  - first:
-      213: 8496548050617745283
-    second: 12 Attack1_31
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -195,19 +189,6 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -464,7 +445,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a18126ed3ebcbc649995cd94b335ccb3
+    spriteID: 7bee5b9ce97c8af4fb68897180719767
     internalID: 0
     vertices: []
     indices: 
