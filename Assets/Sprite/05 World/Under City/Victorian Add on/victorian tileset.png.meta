@@ -153,7 +153,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -202,7 +202,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: victorian tileset_0
+      name: victorian tileset_Chiar
       rect:
         serializedVersion: 2
         x: 6
@@ -224,7 +224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_1
+      name: victorian tileset_Chiar2
       rect:
         serializedVersion: 2
         x: 38
@@ -246,7 +246,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_2
+      name: victorian tileset_lamp2
       rect:
         serializedVersion: 2
         x: 68
@@ -268,7 +268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_3
+      name: victorian tileset_lamp3
       rect:
         serializedVersion: 2
         x: 87
@@ -290,7 +290,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_4
+      name: victorian tileset_lamp4
       rect:
         serializedVersion: 2
         x: 112
@@ -312,7 +312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_5
+      name: victorian tileset_lamp5
       rect:
         serializedVersion: 2
         x: 133
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_6
+      name: victorian tileset_wood
       rect:
         serializedVersion: 2
         x: 192
@@ -356,7 +356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_7
+      name: victorian tileset_Chiar3
       rect:
         serializedVersion: 2
         x: 4
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_8
+      name: victorian tileset_Person
       rect:
         serializedVersion: 2
         x: 121
@@ -400,7 +400,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_9
+      name: victorian tileset_Small Person
       rect:
         serializedVersion: 2
         x: 146
@@ -422,7 +422,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_10
+      name: victorian tileset_BigFlower
       rect:
         serializedVersion: 2
         x: 12
@@ -444,7 +444,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_11
+      name: victorian tileset_Small Flower
       rect:
         serializedVersion: 2
         x: 0
@@ -466,7 +466,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_12
+      name: victorian tileset_Small Flower2
       rect:
         serializedVersion: 2
         x: 32
@@ -488,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_13
+      name: victorian tileset_lamp
       rect:
         serializedVersion: 2
         x: 66
@@ -510,7 +510,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_14
+      name: victorian tileset_weed7
       rect:
         serializedVersion: 2
         x: 112
@@ -532,7 +532,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_15
+      name: victorian tileset_weed8
       rect:
         serializedVersion: 2
         x: 124
@@ -554,7 +554,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_16
+      name: victorian tileset_weed9
       rect:
         serializedVersion: 2
         x: 129
@@ -576,7 +576,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_17
+      name: victorian tileset_weed11
       rect:
         serializedVersion: 2
         x: 163
@@ -598,7 +598,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_18
+      name: victorian tileset_weed2
       rect:
         serializedVersion: 2
         x: 113
@@ -620,7 +620,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_19
+      name: victorian tileset_weed3
       rect:
         serializedVersion: 2
         x: 129
@@ -642,7 +642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_20
+      name: victorian tileset_weed6
       rect:
         serializedVersion: 2
         x: 171
@@ -664,7 +664,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_21
+      name: victorian tileset_Black weed3
       rect:
         serializedVersion: 2
         x: 129
@@ -686,7 +686,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_22
+      name: victorian tileset_Street lamp
       rect:
         serializedVersion: 2
         x: 134
@@ -708,7 +708,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_23
+      name: victorian tileset_Black weed4
       rect:
         serializedVersion: 2
         x: 138
@@ -730,7 +730,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_24
+      name: victorian tileset_Black weed5
       rect:
         serializedVersion: 2
         x: 145
@@ -752,7 +752,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_25
+      name: victorian tileset_Street lamp4
       rect:
         serializedVersion: 2
         x: 168
@@ -774,7 +774,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_26
+      name: victorian tileset_Street lamp5
       rect:
         serializedVersion: 2
         x: 174
@@ -796,7 +796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_27
+      name: victorian tileset_Street lamp6
       rect:
         serializedVersion: 2
         x: 180
@@ -818,7 +818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_28
+      name: victorian tileset_wood2
       rect:
         serializedVersion: 2
         x: 192
@@ -840,7 +840,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_29
+      name: victorian tileset_wall
       rect:
         serializedVersion: 2
         x: 0
@@ -862,7 +862,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_30
+      name: victorian tileset_wood4
       rect:
         serializedVersion: 2
         x: 105
@@ -884,7 +884,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_31
+      name: victorian tileset_wood3
       rect:
         serializedVersion: 2
         x: 226
@@ -906,7 +906,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_32
+      name: victorian tileset_wall3
       rect:
         serializedVersion: 2
         x: 1
@@ -928,7 +928,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_33
+      name: victorian tileset_wood5
       rect:
         serializedVersion: 2
         x: 178
@@ -950,7 +950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_34
+      name: victorian tileset_wood6
       rect:
         serializedVersion: 2
         x: 216
@@ -972,7 +972,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_35
+      name: victorian tileset_Flower
       rect:
         serializedVersion: 2
         x: 0
@@ -980,7 +980,7 @@ TextureImporter:
         width: 32
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -994,7 +994,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_36
+      name: victorian tileset_BigFlower2
       rect:
         serializedVersion: 2
         x: 48
@@ -1002,7 +1002,7 @@ TextureImporter:
         width: 20
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1016,7 +1016,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_37
+      name: victorian tileset_Flower2
       rect:
         serializedVersion: 2
         x: 48
@@ -1024,7 +1024,7 @@ TextureImporter:
         width: 32
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1038,7 +1038,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_38
+      name: victorian tileset_Black weed
       rect:
         serializedVersion: 2
         x: 85
@@ -1046,7 +1046,7 @@ TextureImporter:
         width: 23
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1060,7 +1060,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_39
+      name: victorian tileset_weeds
       rect:
         serializedVersion: 2
         x: 82
@@ -1068,7 +1068,7 @@ TextureImporter:
         width: 26
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1082,7 +1082,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_40
+      name: victorian tileset_weed4
       rect:
         serializedVersion: 2
         x: 147
@@ -1090,7 +1090,7 @@ TextureImporter:
         width: 11
         height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1104,7 +1104,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_41
+      name: victorian tileset_weed5
       rect:
         serializedVersion: 2
         x: 161
@@ -1112,7 +1112,7 @@ TextureImporter:
         width: 10
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1126,7 +1126,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_42
+      name: victorian tileset_Street lamp2
       rect:
         serializedVersion: 2
         x: 147
@@ -1134,7 +1134,7 @@ TextureImporter:
         width: 5
         height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1148,7 +1148,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_43
+      name: victorian tileset_Street lamp3
       rect:
         serializedVersion: 2
         x: 153
@@ -1156,7 +1156,7 @@ TextureImporter:
         width: 5
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1170,7 +1170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_44
+      name: victorian tileset_Black weed2
       rect:
         serializedVersion: 2
         x: 111
@@ -1178,7 +1178,7 @@ TextureImporter:
         width: 15
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1192,7 +1192,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_45
+      name: victorian tileset_Big lamp
       rect:
         serializedVersion: 2
         x: 2
@@ -1200,7 +1200,7 @@ TextureImporter:
         width: 124
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1214,7 +1214,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_46
+      name: victorian tileset_Black weed6
       rect:
         serializedVersion: 2
         x: 161
@@ -1222,7 +1222,7 @@ TextureImporter:
         width: 14
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1236,15 +1236,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_47
+      name: victorian tileset_wall4
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 53
+        width: 48
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1258,7 +1258,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_48
+      name: victorian tileset_wall2
       rect:
         serializedVersion: 2
         x: 48
@@ -1266,7 +1266,7 @@ TextureImporter:
         width: 48
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1280,7 +1280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: victorian tileset_49
+      name: victorian tileset_weed10
       rect:
         serializedVersion: 2
         x: 144
@@ -1288,7 +1288,7 @@ TextureImporter:
         width: 16
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1315,56 +1315,57 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      victorian tileset_0: 1099888379614613586
-      victorian tileset_1: -5338392816851284351
-      victorian tileset_10: 4767472758515063675
-      victorian tileset_11: 2674775886093553418
-      victorian tileset_12: -9044010343316158654
-      victorian tileset_13: -1505299616465198564
-      victorian tileset_14: 5820662870363724131
-      victorian tileset_15: -396939503800975533
-      victorian tileset_16: 7711964305678380603
-      victorian tileset_17: -3841190726301362904
-      victorian tileset_18: 2195635203523981690
-      victorian tileset_19: -4948505574553853598
-      victorian tileset_2: 8739307914059130910
-      victorian tileset_20: 4718368582662022351
-      victorian tileset_21: 1092970554114876517
-      victorian tileset_22: -7962707484605655863
-      victorian tileset_23: 2975406506653099687
-      victorian tileset_24: -2262807693065571660
-      victorian tileset_25: 5798551531739489713
-      victorian tileset_26: -8223943861651149424
-      victorian tileset_27: -9042412741718903306
-      victorian tileset_28: 15439491351468887
-      victorian tileset_29: 5725893925948521869
-      victorian tileset_3: -4925556316990548080
-      victorian tileset_30: -7202911670082428227
-      victorian tileset_31: 5021102691697835561
-      victorian tileset_32: -3638471769866129938
-      victorian tileset_33: -1700720617947771090
-      victorian tileset_34: -4767700939595716649
-      victorian tileset_35: 1834933934
-      victorian tileset_36: -604457327
-      victorian tileset_37: -980581470
-      victorian tileset_38: 1111259774
-      victorian tileset_39: 46941836
-      victorian tileset_4: 7403761549449531445
-      victorian tileset_40: 2047158368
-      victorian tileset_41: 774905619
-      victorian tileset_42: -145954671
-      victorian tileset_43: 1572161410
-      victorian tileset_44: 1426360334
-      victorian tileset_45: -1393271701
-      victorian tileset_46: -1165804181
-      victorian tileset_47: 157942770
-      victorian tileset_48: -597800316
-      victorian tileset_49: 2057834413
-      victorian tileset_5: 8412162258186642548
-      victorian tileset_6: 5459232029322353531
-      victorian tileset_7: 5022892254096087193
-      victorian tileset_8: -7867881634068650436
-      victorian tileset_9: 4327942412104830107
+      victorian tileset_Big lamp: -1393271701
+      victorian tileset_BigFlower: 4767472758515063675
+      victorian tileset_BigFlower2: -604457327
+      victorian tileset_Black weed: 1111259774
+      victorian tileset_Black weed2: 1426360334
+      victorian tileset_Black weed3: 1092970554114876517
+      victorian tileset_Black weed4: 2975406506653099687
+      victorian tileset_Black weed5: -2262807693065571660
+      victorian tileset_Black weed6: -1165804181
+      victorian tileset_Chiar: 1099888379614613586
+      victorian tileset_Chiar2: -5338392816851284351
+      victorian tileset_Chiar3: 5022892254096087193
+      victorian tileset_Flower: 1834933934
+      victorian tileset_Flower2: -980581470
+      victorian tileset_Person: -7867881634068650436
+      victorian tileset_Small Flower: 2674775886093553418
+      victorian tileset_Small Flower2: -9044010343316158654
+      victorian tileset_Small Person: 4327942412104830107
+      victorian tileset_Street lamp: -7962707484605655863
+      victorian tileset_Street lamp2: -145954671
+      victorian tileset_Street lamp3: 1572161410
+      victorian tileset_Street lamp4: 5798551531739489713
+      victorian tileset_Street lamp5: -8223943861651149424
+      victorian tileset_Street lamp6: -9042412741718903306
+      victorian tileset_lamp: -1505299616465198564
+      victorian tileset_lamp2: 8739307914059130910
+      victorian tileset_lamp3: -4925556316990548080
+      victorian tileset_lamp4: 7403761549449531445
+      victorian tileset_lamp5: 8412162258186642548
+      victorian tileset_wall: 5725893925948521869
+      victorian tileset_wall2: -597800316
+      victorian tileset_wall3: -3638471769866129938
+      victorian tileset_wall4: 157942770
+      victorian tileset_weed10: 2057834413
+      victorian tileset_weed11: -3841190726301362904
+      victorian tileset_weed2: 2195635203523981690
+      victorian tileset_weed3: -4948505574553853598
+      victorian tileset_weed4: 2047158368
+      victorian tileset_weed5: 774905619
+      victorian tileset_weed6: 4718368582662022351
+      victorian tileset_weed7: 5820662870363724131
+      victorian tileset_weed8: -396939503800975533
+      victorian tileset_weed9: 7711964305678380603
+      victorian tileset_weeds: 46941836
+      victorian tileset_wood: 5459232029322353531
+      victorian tileset_wood2: 15439491351468887
+      victorian tileset_wood3: 5021102691697835561
+      victorian tileset_wood4: -7202911670082428227
+      victorian tileset_wood5: -1700720617947771090
+      victorian tileset_wood6: -4767700939595716649
+      w: -3841190726301362904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
