@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 449f1f3984bff7a4bb0a313bea6cedd9
+guid: 51d8af5c4fd15704ca41358f54aa6a3d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3090156997194052750
-    second: layer 3_0
-  - first:
-      213: 345903015829488348
-    second: layer 3_1
-  - first:
-      213: -1842832432868323586
-    second: layer 3_2
-  - first:
-      213: 4368126589294166549
-    second: layer 3_3
+      213: -1229023917278035334
+    second: tile master1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 12
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,89 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: layer 3_0
+      name: tile master1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 400
-        height: 106
+        width: 576
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e8470f5aa6172ea20800000000000000
-      internalID: 3090156997194052750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: layer 3_1
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 91
-        width: 60
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd2c041d5f4ecc400800000000000000
-      internalID: 345903015829488348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: layer 3_2
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 90
-        width: 48
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: efe80528aa1fc66e0800000000000000
-      internalID: -1842832432868323586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: layer 3_3
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 85
-        width: 37
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51241d85df3be9c30800000000000000
-      internalID: 4368126589294166549
+      spriteID: a720f264241a1fee0800000000000000
+      internalID: -1229023917278035334
       vertices: []
       indices: 
       edges: []
@@ -213,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a39c92faa4d832419bae16c057de1d9
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      layer 3_0: 3090156997194052750
-      layer 3_1: 345903015829488348
-      layer 3_2: -1842832432868323586
-      layer 3_3: 4368126589294166549
+      tile master1_0: -1229023917278035334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

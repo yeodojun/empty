@@ -1,160 +1,184 @@
 fileFormatVersion: 2
-guid: bcaffca4a31392b40a85b444755ead8f
+guid: 1da1a801f6ad5164fa5827c2f24351c0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6316403135351456796
-    second: boss door_0
+      213: 5441223297315994465
+    second: Tileset_0
   - first:
-      213: 1193170069951952909
-    second: boss door_1
+      213: -3309781605116015348
+    second: Tileset_1
   - first:
-      213: -6678369695466818496
-    second: boss door_2
+      213: -6108889420429456849
+    second: Tileset_2
   - first:
-      213: -8488576365194426114
-    second: boss door_3
+      213: 5682393469540925955
+    second: Tileset_3
   - first:
-      213: 7302147943048739534
-    second: boss door_4
+      213: 2403724249865808194
+    second: Tileset_4
   - first:
-      213: 7926526751130018783
-    second: boss door_5
+      213: 8040196581939011165
+    second: Tileset_5
   - first:
-      213: 5389939055911736806
-    second: boss door_6
+      213: -6056380807486736462
+    second: Tileset_6
   - first:
-      213: 4267473538554879352
-    second: boss door_7
+      213: -8480404140891905064
+    second: Tileset_7
   - first:
-      213: 3799058877648970054
-    second: boss door_8
+      213: -72156938504300551
+    second: Tileset_8
   - first:
-      213: 8837828586301774014
-    second: boss door_9
+      213: 7769453424612927293
+    second: Tileset_9
   - first:
-      213: 2265653179730879255
-    second: boss door_10
+      213: -8025435653959805260
+    second: Tileset_10
   - first:
-      213: 4227430975004027273
-    second: boss door_11
+      213: 4938342473259674171
+    second: Tileset_11
   - first:
-      213: 3437702997020234086
-    second: boss door_12
+      213: -6315978382755026507
+    second: Tileset_12
   - first:
-      213: -2171826043557003354
-    second: boss door_13
+      213: -1010255394613501995
+    second: Tileset_13
   - first:
-      213: 101254353747944860
-    second: boss door_14
+      213: -7933298228110686459
+    second: Tileset_14
   - first:
-      213: -635109282316419858
-    second: boss door_15
+      213: 2167505942708378944
+    second: Tileset_15
   - first:
-      213: -6695474233493419655
-    second: boss door_16
+      213: -9164683769879867358
+    second: Tileset_16
   - first:
-      213: -6275520364878898883
-    second: boss door_17
+      213: -4087309676702264633
+    second: Tileset_17
   - first:
-      213: -4212035193973619671
-    second: boss door_18
+      213: 3931779560235752176
+    second: Tileset_18
   - first:
-      213: 7942313236476994076
-    second: boss door_19
+      213: -1865757787562490331
+    second: Tileset_19
   - first:
-      213: 6015114876958881705
-    second: boss door_20
+      213: -7869403223043187030
+    second: Tileset_20
   - first:
-      213: 7035325868551384052
-    second: boss door_21
+      213: 6408231970667830406
+    second: Tileset_21
   - first:
-      213: 6962603476702894173
-    second: boss door_22
+      213: 511961965738296472
+    second: Tileset_22
   - first:
-      213: 4649711093191426350
-    second: boss door_23
+      213: -8442174482077232629
+    second: Tileset_23
   - first:
-      213: 8650512282835891037
-    second: boss door_24
+      213: -6936079216851816805
+    second: Tileset_24
   - first:
-      213: -3898409748910404753
-    second: boss door_25
+      213: 7810936717752353743
+    second: Tileset_25
   - first:
-      213: 7655128062773644792
-    second: boss door_26
+      213: 3419707775326841495
+    second: Tileset_26
   - first:
-      213: -3264437112898802463
-    second: boss door_27
+      213: -7245433517681746672
+    second: Tileset_27
   - first:
-      213: 1616392534512031557
-    second: boss door_28
+      213: -251839660766796828
+    second: Tileset_28
   - first:
-      213: -8492216588618723126
-    second: boss door_29
+      213: 6498308080520882553
+    second: Tileset_29
   - first:
-      213: 732451157484407384
-    second: boss door_30
+      213: -4153462369580933767
+    second: Tileset_30
   - first:
-      213: 2427838950476308710
-    second: boss door_31
+      213: 5252699531460982423
+    second: Tileset_31
   - first:
-      213: -4064105965390508923
-    second: boss door_32
+      213: -1995710985900991969
+    second: Tileset_32
   - first:
-      213: 4725374341223545012
-    second: boss door_33
+      213: -6790877635778163277
+    second: Tileset_33
   - first:
-      213: 6575820394523554237
-    second: boss door_34
+      213: -8485852519046724033
+    second: Tileset_34
   - first:
-      213: -497261301567100229
-    second: boss door_35
+      213: 4060682636331337571
+    second: Tileset_35
   - first:
-      213: 5824670966912367787
-    second: boss door_36
+      213: -5244482664123065748
+    second: Tileset_36
   - first:
-      213: -5586827578709177763
-    second: boss door_37
+      213: 3355423005436571770
+    second: Tileset_37
   - first:
-      213: 7905845525961992354
-    second: boss door_38
+      213: 7000084741650100059
+    second: Tileset_38
   - first:
-      213: -7320740541533095941
-    second: boss door_39
+      213: -3708064732922258302
+    second: Tileset_39
   - first:
-      213: -2078646258016352804
-    second: boss door_40
+      213: -6845586650278806490
+    second: Tileset_40
   - first:
-      213: 7552763551725668915
-    second: boss door_41
+      213: 9050836684853675456
+    second: Tileset_41
   - first:
-      213: 19007002853896323
-    second: boss door_42
+      213: 5286604566695674614
+    second: Tileset_42
   - first:
-      213: 3524655198381795552
-    second: boss door_43
+      213: -6175098468129261796
+    second: Tileset_43
   - first:
-      213: -6041672864536435054
-    second: boss door_44
+      213: -1764967261314419617
+    second: Tileset_44
   - first:
-      213: -8042301374290415856
-    second: boss door_45
+      213: 4097243551642442831
+    second: Tileset_45
   - first:
-      213: 2000819542913377014
-    second: boss door_46
+      213: -4553793528244279247
+    second: Tileset_46
   - first:
-      213: 3562443923363022635
-    second: boss door_47
+      213: -1788890817464930820
+    second: Tileset_47
   - first:
-      213: -723931551333681329
-    second: boss door_48
+      213: 8964647865480036123
+    second: Tileset_48
   - first:
-      213: 1875008866123925758
-    second: boss door_49
+      213: 7504058923700220638
+    second: Tileset_49
   - first:
-      213: -4634016632333893755
-    second: boss door_50
+      213: 6576249790921849821
+    second: Tileset_50
+  - first:
+      213: 6842110584453081141
+    second: Tileset_51
+  - first:
+      213: 1883419416733562292
+    second: Tileset_52
+  - first:
+      213: -1745280011730706991
+    second: Tileset_53
+  - first:
+      213: -784972302168420868
+    second: Tileset_54
+  - first:
+      213: 5734892399885210946
+    second: Tileset_55
+  - first:
+      213: -3099550750896681144
+    second: Tileset_56
+  - first:
+      213: 4617657777311919784
+    second: Tileset_57
+  - first:
+      213: -2458843072021148632
+    second: Tileset_58
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -187,7 +211,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -201,7 +225,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 12
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -225,7 +249,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -263,12 +287,188 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: boss door_0
+      name: Tileset_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 62
-        width: 15
+        x: 4
+        y: 287
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b791492cb138b40800000000000000
+      internalID: 5441223297315994465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d00f68a2b4112d0800000000000000
+      internalID: -3309781605116015348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a092b307dd83ba0800000000000000
+      internalID: -6108889420429456849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 287
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3028cf101caebde40800000000000000
+      internalID: 5682393469540925955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2496e33487ebb5120800000000000000
+      internalID: 2403724249865808194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed8c64134849f60800000000000000
+      internalID: 8040196581939011165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 239
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b772416eb963fba0800000000000000
+      internalID: -6056380807486736462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 239
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e26e6d5d8f4a80800000000000000
+      internalID: -8480404140891905064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 223
+        width: 21
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -278,20 +478,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1489c49f2f58a750800000000000000
-      internalID: 6316403135351456796
+      spriteID: 9f71f5095a5affef0800000000000000
+      internalID: -72156938504300551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_1
+      name: Tileset_9
       rect:
         serializedVersion: 2
-        x: 84
-        y: 62
-        width: 15
-        height: 13
+        x: 97
+        y: 223
+        width: 30
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +500,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d083d106bddfe8010800000000000000
-      internalID: 1193170069951952909
+      spriteID: d37eef0b9b4a2db60800000000000000
+      internalID: 7769453424612927293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_2
+      name: Tileset_10
       rect:
         serializedVersion: 2
-        x: 145
-        y: 62
-        width: 15
-        height: 13
+        x: 224
+        y: 191
+        width: 64
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,20 +522,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04477fe352aa153a0800000000000000
-      internalID: -6678369695466818496
+      spriteID: 4b698f51bccef9090800000000000000
+      internalID: -8025435653959805260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_3
+      name: Tileset_11
       rect:
         serializedVersion: 2
-        x: 206
-        y: 62
-        width: 15
-        height: 13
+        x: 1
+        y: 191
+        width: 62
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,20 +544,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef84fcf25c4823a80800000000000000
-      internalID: -8488576365194426114
+      spriteID: b3aedd1a054888440800000000000000
+      internalID: 4938342473259674171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_4
+      name: Tileset_12
       rect:
         serializedVersion: 2
-        x: 267
-        y: 62
-        width: 15
-        height: 13
+        x: 63
+        y: 207
+        width: 24
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,20 +566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ecaf4c2add0765560800000000000000
-      internalID: 7302147943048739534
+      spriteID: 5b927d6df132958a0800000000000000
+      internalID: -6315978382755026507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_5
+      name: Tileset_13
       rect:
         serializedVersion: 2
-        x: 325
-        y: 66
-        width: 18
-        height: 9
+        x: 63
+        y: 191
+        width: 50
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,172 +588,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fd36cb7651ea00e60800000000000000
-      internalID: 7926526751130018783
+      spriteID: 5dfd3a7321adaf1f0800000000000000
+      internalID: -1010255394613501995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_6
+      name: Tileset_14
       rect:
         serializedVersion: 2
-        x: 329
-        y: 62
-        width: 13
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e59f94a309ecca40800000000000000
-      internalID: 5389939055911736806
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_7
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 62
-        width: 20
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87d51f1c29c193b30800000000000000
-      internalID: 4267473538554879352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_8
-      rect:
-        serializedVersion: 2
-        x: 450
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 641af03cbe7f8b430800000000000000
-      internalID: 3799058877648970054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_9
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 62
-        width: 16
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb85f40464646aa70800000000000000
-      internalID: 8837828586301774014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_10
-      rect:
-        serializedVersion: 2
-        x: 572
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 713e7122097317f10800000000000000
-      internalID: 2265653179730879255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_11
-      rect:
-        serializedVersion: 2
-        x: 633
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9892999e21adaaa30800000000000000
-      internalID: 4227430975004027273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_12
-      rect:
-        serializedVersion: 2
-        x: 694
-        y: 68
-        width: 15
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 661dfac79ac25bf20800000000000000
-      internalID: 3437702997020234086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_13
-      rect:
-        serializedVersion: 2
-        x: 694
-        y: 62
+        x: 96
+        y: 207
         width: 17
         height: 8
       alignment: 0
@@ -564,19 +610,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6afb7df58bf1cd1e0800000000000000
-      internalID: -2171826043557003354
+      spriteID: 5070a304b4347e190800000000000000
+      internalID: -7933298228110686459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_14
+      name: Tileset_15
       rect:
         serializedVersion: 2
-        x: 755
-        y: 62
-        width: 15
+        x: 113
+        y: 191
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5ea3cb27841e10800000000000000
+      internalID: 2167505942708378944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 191
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220d589faa080d080800000000000000
+      internalID: -9164683769879867358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 175
+        width: 21
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -586,19 +676,195 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c95ab1b5c4ab76100800000000000000
-      internalID: 101254353747944860
+      spriteID: 7c215292185f647c0800000000000000
+      internalID: -4087309676702264633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_15
+      name: Tileset_18
       rect:
         serializedVersion: 2
-        x: 816
-        y: 62
-        width: 15
+        x: 97
+        y: 175
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5ef6bdac709630800000000000000
+      internalID: 3931779560235752176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5264b6b6d2f7b16e0800000000000000
+      internalID: -1865757787562490331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae523866734ac290800000000000000
+      internalID: -7869403223043187030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c15f9660d9ee850800000000000000
+      internalID: 6408231970667830406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894875202bada1700800000000000000
+      internalID: 511961965738296472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b025bef790f57da80800000000000000
+      internalID: -8442174482077232629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ee39183b81ebf90800000000000000
+      internalID: -6936079216851816805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 143
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34fa88f85066c60800000000000000
+      internalID: 7810936717752353743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 21
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -608,20 +874,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eecf9f10973af27f0800000000000000
-      internalID: -635109282316419858
+      spriteID: 79a6fff6a1e357f20800000000000000
+      internalID: 3419707775326841495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_16
+      name: Tileset_27
       rect:
         serializedVersion: 2
-        x: 877
-        y: 62
-        width: 15
-        height: 13
+        x: 97
+        y: 127
+        width: 30
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,20 +896,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 97908d5a8a5e413a0800000000000000
-      internalID: -6695474233493419655
+      spriteID: 01dded68a9c037b90800000000000000
+      internalID: -7245433517681746672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_17
+      name: Tileset_28
       rect:
         serializedVersion: 2
-        x: 938
-        y: 62
-        width: 15
-        height: 13
+        x: 224
+        y: 95
+        width: 64
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,20 +918,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d39d9ae2a7fd8e8a0800000000000000
-      internalID: -6275520364878898883
+      spriteID: 4e3e3afa929418cf0800000000000000
+      internalID: -251839660766796828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_18
+      name: Tileset_29
       rect:
         serializedVersion: 2
-        x: 999
-        y: 62
-        width: 15
-        height: 13
+        x: 1
+        y: 95
+        width: 62
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,20 +940,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92442c1be48db85c0800000000000000
-      internalID: -4212035193973619671
+      spriteID: 9796f7c05c0ae2a50800000000000000
+      internalID: 6498308080520882553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_19
+      name: Tileset_30
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 62
-        width: 15
-        height: 13
+        x: 63
+        y: 111
+        width: 24
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,20 +962,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c122813fec3c83e60800000000000000
-      internalID: 7942313236476994076
+      spriteID: 97d1d291bffeb56c0800000000000000
+      internalID: -4153462369580933767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_20
+      name: Tileset_31
       rect:
         serializedVersion: 2
-        x: 1121
-        y: 62
-        width: 15
-        height: 13
+        x: 63
+        y: 95
+        width: 50
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,20 +984,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a73d447c1bf97350800000000000000
-      internalID: 6015114876958881705
+      spriteID: 796b794d46655e840800000000000000
+      internalID: 5252699531460982423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_21
+      name: Tileset_32
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 62
-        width: 15
-        height: 13
+        x: 96
+        y: 111
+        width: 17
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,20 +1006,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4fb2f1a4a9f72a160800000000000000
-      internalID: 7035325868551384052
+      spriteID: f1ad60b9e6fcd44e0800000000000000
+      internalID: -1995710985900991969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_22
+      name: Tileset_33
       rect:
         serializedVersion: 2
-        x: 1243
-        y: 62
-        width: 15
-        height: 13
+        x: 113
+        y: 95
+        width: 63
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,20 +1028,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5896ccf8f220a060800000000000000
-      internalID: 6962603476702894173
+      spriteID: 3bd4c4615c4f1c1a0800000000000000
+      internalID: -6790877635778163277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_23
+      name: Tileset_34
       rect:
         serializedVersion: 2
-        x: 1304
-        y: 62
-        width: 15
-        height: 13
+        x: 179
+        y: 95
+        width: 42
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,196 +1050,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e214ed1aa97178040800000000000000
-      internalID: 4649711093191426350
+      spriteID: f36cdd908123c3a80800000000000000
+      internalID: -8485852519046724033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_24
+      name: Tileset_35
       rect:
         serializedVersion: 2
-        x: 1365
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d53369fb61bcc0870800000000000000
-      internalID: 8650512282835891037
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_25
-      rect:
-        serializedVersion: 2
-        x: 1426
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6b864fecf016e9c0800000000000000
-      internalID: -3898409748910404753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_26
-      rect:
-        serializedVersion: 2
-        x: 1487
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fd4fbb1a6a7c3a60800000000000000
-      internalID: 7655128062773644792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_27
-      rect:
-        serializedVersion: 2
-        x: 1548
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1eca016ddb362b2d0800000000000000
-      internalID: -3264437112898802463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_28
-      rect:
-        serializedVersion: 2
-        x: 1609
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 547de2532749e6610800000000000000
-      internalID: 1616392534512031557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_29
-      rect:
-        serializedVersion: 2
-        x: 1670
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac093bf9106952a80800000000000000
-      internalID: -8492216588618723126
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_30
-      rect:
-        serializedVersion: 2
-        x: 1731
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85a8e2172703a2a00800000000000000
-      internalID: 732451157484407384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_31
-      rect:
-        serializedVersion: 2
-        x: 1792
-        y: 62
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e06ff689aa61b120800000000000000
-      internalID: 2427838950476308710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: boss door_32
-      rect:
-        serializedVersion: 2
-        x: 1852
-        y: 62
+        x: 0
+        y: 63
         width: 16
-        height: 13
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,20 +1072,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58c4a5338256997c0800000000000000
-      internalID: -4064105965390508923
+      spriteID: 3674024e7517a5830800000000000000
+      internalID: 4060682636331337571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_33
+      name: Tileset_36
       rect:
         serializedVersion: 2
-        x: 1914
-        y: 62
-        width: 15
-        height: 13
+        x: 16
+        y: 79
+        width: 16
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,20 +1094,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4b8ff5f5de6e39140800000000000000
-      internalID: 4725374341223545012
+      spriteID: c6a104eadcad737b0800000000000000
+      internalID: -5244482664123065748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_34
+      name: Tileset_37
       rect:
         serializedVersion: 2
-        x: 1975
-        y: 62
-        width: 15
-        height: 13
+        x: 31
+        y: 31
+        width: 18
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,20 +1116,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db178520fc1024b50800000000000000
-      internalID: 6575820394523554237
+      spriteID: a707836127bd09e20800000000000000
+      internalID: 3355423005436571770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_35
+      name: Tileset_38
       rect:
         serializedVersion: 2
-        x: 2036
-        y: 62
-        width: 15
-        height: 13
+        x: 34
+        y: 79
+        width: 12
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,20 +1138,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bba6b871b7f5919f0800000000000000
-      internalID: -497261301567100229
+      spriteID: b5fafa70cfb452160800000000000000
+      internalID: 7000084741650100059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_36
+      name: Tileset_39
       rect:
         serializedVersion: 2
-        x: 2097
-        y: 62
-        width: 15
-        height: 13
+        x: 49
+        y: 79
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,20 +1160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bacb75c426365d050800000000000000
-      internalID: 5824670966912367787
+      spriteID: 28cd30685ce4a8cc0800000000000000
+      internalID: -3708064732922258302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_37
+      name: Tileset_40
       rect:
         serializedVersion: 2
-        x: 2158
-        y: 62
-        width: 15
-        height: 13
+        x: 83
+        y: 63
+        width: 26
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,20 +1182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5a0faddae99772b0800000000000000
-      internalID: -5586827578709177763
+      spriteID: 62cb9f606379ff0a0800000000000000
+      internalID: -6845586650278806490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_38
+      name: Tileset_41
       rect:
         serializedVersion: 2
-        x: 2219
-        y: 62
-        width: 15
-        height: 13
+        x: 128
+        y: 63
+        width: 38
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,20 +1204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2a863107e9437bd60800000000000000
-      internalID: 7905845525961992354
+      spriteID: 0c507c0f2080b9d70800000000000000
+      internalID: 9050836684853675456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_39
+      name: Tileset_42
       rect:
         serializedVersion: 2
-        x: 2280
-        y: 62
-        width: 15
-        height: 13
+        x: 163
+        y: 63
+        width: 30
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,20 +1226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf77e11b341876a90800000000000000
-      internalID: -7320740541533095941
+      spriteID: 6f28ad108dacd5940800000000000000
+      internalID: 5286604566695674614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_40
+      name: Tileset_43
       rect:
         serializedVersion: 2
-        x: 2341
-        y: 62
-        width: 15
-        height: 13
+        x: 2
+        y: 31
+        width: 28
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,20 +1248,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd58d31dd3a2723e0800000000000000
-      internalID: -2078646258016352804
+      spriteID: c17b81a09a4ad4aa0800000000000000
+      internalID: -6175098468129261796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_41
+      name: Tileset_44
       rect:
         serializedVersion: 2
-        x: 2402
-        y: 62
+        x: 56
+        y: 47
         width: 15
-        height: 13
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,20 +1270,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33a402d1f6ec0d860800000000000000
-      internalID: 7552763551725668915
+      spriteID: f54f82580a39187e0800000000000000
+      internalID: -1764967261314419617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_42
+      name: Tileset_45
       rect:
         serializedVersion: 2
-        x: 2463
-        y: 62
-        width: 15
-        height: 13
+        x: 79
+        y: 0
+        width: 34
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1202,20 +1292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 380f955b4c6834000800000000000000
-      internalID: 19007002853896323
+      spriteID: f4c58e55d455cd830800000000000000
+      internalID: 4097243551642442831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_43
+      name: Tileset_46
       rect:
         serializedVersion: 2
-        x: 2524
-        y: 62
-        width: 15
-        height: 13
+        x: 113
+        y: 0
+        width: 46
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,20 +1314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e8e74f7a371ae030800000000000000
-      internalID: 3524655198381795552
+      spriteID: 138e680c9ecadc0c0800000000000000
+      internalID: -4553793528244279247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_44
+      name: Tileset_47
       rect:
         serializedVersion: 2
-        x: 2585
-        y: 62
-        width: 15
-        height: 13
+        x: 207
+        y: 31
+        width: 34
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,20 +1336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29660343a8aa72ca0800000000000000
-      internalID: -6041672864536435054
+      spriteID: cfd6b0b87459c27e0800000000000000
+      internalID: -1788890817464930820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_45
+      name: Tileset_48
       rect:
         serializedVersion: 2
-        x: 2646
-        y: 62
-        width: 15
-        height: 13
+        x: 246
+        y: 31
+        width: 36
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,19 +1358,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01fa8c09281046090800000000000000
-      internalID: -8042301374290415856
+      spriteID: b1fb666acb3d86c70800000000000000
+      internalID: 8964647865480036123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_46
+      name: Tileset_49
       rect:
         serializedVersion: 2
-        x: 2707
-        y: 62
-        width: 15
+        x: 48
+        y: 31
+        width: 31
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1290,20 +1380,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f2e20306c654cb10800000000000000
-      internalID: 2000819542913377014
+      spriteID: ed270c835d5c32860800000000000000
+      internalID: 7504058923700220638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_47
+      name: Tileset_50
       rect:
         serializedVersion: 2
-        x: 2768
-        y: 62
-        width: 15
-        height: 13
+        x: 179
+        y: 0
+        width: 10
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,20 +1402,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b274d48afd7507130800000000000000
-      internalID: 3562443923363022635
+      spriteID: ddb3226a758834b50800000000000000
+      internalID: 6576249790921849821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_48
+      name: Tileset_51
       rect:
         serializedVersion: 2
-        x: 2829
-        y: 62
-        width: 15
-        height: 13
+        x: 194
+        y: 0
+        width: 14
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,20 +1424,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f47fe01f61414f5f0800000000000000
-      internalID: -723931551333681329
+      spriteID: 5382444535f04fe50800000000000000
+      internalID: 6842110584453081141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_49
+      name: Tileset_52
       rect:
         serializedVersion: 2
-        x: 2890
-        y: 62
-        width: 15
-        height: 13
+        x: 255
+        y: 15
+        width: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,20 +1446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef8460821ae550a10800000000000000
-      internalID: 1875008866123925758
+      spriteID: 4b53a711bff332a10800000000000000
+      internalID: 1883419416733562292
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: boss door_50
+      name: Tileset_53
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2928
-        height: 62
+        width: 10
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,8 +1468,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58f7c7acc6aa0bfb0800000000000000
-      internalID: -4634016632333893755
+      spriteID: 1dd9333831587c7e0800000000000000
+      internalID: -1745280011730706991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd0bb2a9d73b15f0800000000000000
+      internalID: -784972302168420868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245de30c04e669f40800000000000000
+      internalID: 5734892399885210946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f0281a30f2cf4d0800000000000000
+      internalID: -3099550750896681144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae2ff67847351040800000000000000
+      internalID: 4617657777311919784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ccfb5e04f60edd0800000000000000
+      internalID: -2458843072021148632
       vertices: []
       indices: 
       edges: []
@@ -1398,57 +1598,65 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      boss door_0: 6316403135351456796
-      boss door_1: 1193170069951952909
-      boss door_10: 2265653179730879255
-      boss door_11: 4227430975004027273
-      boss door_12: 3437702997020234086
-      boss door_13: -2171826043557003354
-      boss door_14: 101254353747944860
-      boss door_15: -635109282316419858
-      boss door_16: -6695474233493419655
-      boss door_17: -6275520364878898883
-      boss door_18: -4212035193973619671
-      boss door_19: 7942313236476994076
-      boss door_2: -6678369695466818496
-      boss door_20: 6015114876958881705
-      boss door_21: 7035325868551384052
-      boss door_22: 6962603476702894173
-      boss door_23: 4649711093191426350
-      boss door_24: 8650512282835891037
-      boss door_25: -3898409748910404753
-      boss door_26: 7655128062773644792
-      boss door_27: -3264437112898802463
-      boss door_28: 1616392534512031557
-      boss door_29: -8492216588618723126
-      boss door_3: -8488576365194426114
-      boss door_30: 732451157484407384
-      boss door_31: 2427838950476308710
-      boss door_32: -4064105965390508923
-      boss door_33: 4725374341223545012
-      boss door_34: 6575820394523554237
-      boss door_35: -497261301567100229
-      boss door_36: 5824670966912367787
-      boss door_37: -5586827578709177763
-      boss door_38: 7905845525961992354
-      boss door_39: -7320740541533095941
-      boss door_4: 7302147943048739534
-      boss door_40: -2078646258016352804
-      boss door_41: 7552763551725668915
-      boss door_42: 19007002853896323
-      boss door_43: 3524655198381795552
-      boss door_44: -6041672864536435054
-      boss door_45: -8042301374290415856
-      boss door_46: 2000819542913377014
-      boss door_47: 3562443923363022635
-      boss door_48: -723931551333681329
-      boss door_49: 1875008866123925758
-      boss door_5: 7926526751130018783
-      boss door_50: -4634016632333893755
-      boss door_6: 5389939055911736806
-      boss door_7: 4267473538554879352
-      boss door_8: 3799058877648970054
-      boss door_9: 8837828586301774014
+      Tileset_0: 5441223297315994465
+      Tileset_1: -3309781605116015348
+      Tileset_10: -8025435653959805260
+      Tileset_11: 4938342473259674171
+      Tileset_12: -6315978382755026507
+      Tileset_13: -1010255394613501995
+      Tileset_14: -7933298228110686459
+      Tileset_15: 2167505942708378944
+      Tileset_16: -9164683769879867358
+      Tileset_17: -4087309676702264633
+      Tileset_18: 3931779560235752176
+      Tileset_19: -1865757787562490331
+      Tileset_2: -6108889420429456849
+      Tileset_20: -7869403223043187030
+      Tileset_21: 6408231970667830406
+      Tileset_22: 511961965738296472
+      Tileset_23: -8442174482077232629
+      Tileset_24: -6936079216851816805
+      Tileset_25: 7810936717752353743
+      Tileset_26: 3419707775326841495
+      Tileset_27: -7245433517681746672
+      Tileset_28: -251839660766796828
+      Tileset_29: 6498308080520882553
+      Tileset_3: 5682393469540925955
+      Tileset_30: -4153462369580933767
+      Tileset_31: 5252699531460982423
+      Tileset_32: -1995710985900991969
+      Tileset_33: -6790877635778163277
+      Tileset_34: -8485852519046724033
+      Tileset_35: 4060682636331337571
+      Tileset_36: -5244482664123065748
+      Tileset_37: 3355423005436571770
+      Tileset_38: 7000084741650100059
+      Tileset_39: -3708064732922258302
+      Tileset_4: 2403724249865808194
+      Tileset_40: -6845586650278806490
+      Tileset_41: 9050836684853675456
+      Tileset_42: 5286604566695674614
+      Tileset_43: -6175098468129261796
+      Tileset_44: -1764967261314419617
+      Tileset_45: 4097243551642442831
+      Tileset_46: -4553793528244279247
+      Tileset_47: -1788890817464930820
+      Tileset_48: 8964647865480036123
+      Tileset_49: 7504058923700220638
+      Tileset_5: 8040196581939011165
+      Tileset_50: 6576249790921849821
+      Tileset_51: 6842110584453081141
+      Tileset_52: 1883419416733562292
+      Tileset_53: -1745280011730706991
+      Tileset_54: -784972302168420868
+      Tileset_55: 5734892399885210946
+      Tileset_56: -3099550750896681144
+      Tileset_57: 4617657777311919784
+      Tileset_58: -2458843072021148632
+      Tileset_6: -6056380807486736462
+      Tileset_7: -8480404140891905064
+      Tileset_8: -72156938504300551
+      Tileset_9: 7769453424612927293
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
