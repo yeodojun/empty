@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 760188dd4e6debf49b5e2e6e0938e49f
+guid: 0570add4203b45c438e65ccda5776ece
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2186886623536767770
-    second: tile master2_0
+      213: -7121309101972749489
+    second: gears_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tile master2_0
+      name: gears_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 49
+        width: 576
         height: 128
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a1366f72cc1695e10800000000000000
-      internalID: 2186886623536767770
+      spriteID: f4388212a170c2d90800000000000000
+      internalID: -7121309101972749489
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 388e30029ddebed499a5a5a9ef61f97b
+    spriteID: c180a8a79dad5d340b4ab1dd86f9b1d9
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tile master2_0: 2186886623536767770
+      gears_0: -7121309101972749489
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

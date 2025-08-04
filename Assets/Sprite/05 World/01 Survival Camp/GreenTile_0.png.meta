@@ -1,43 +1,10 @@
 fileFormatVersion: 2
-guid: ee0e7fd4ff5d68d4c801e587cbfd9d92
+guid: 65fbfd8853233aa42a55d3014e1c1d10
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2358557618526449089
-    second: Deco examples_0
-  - first:
-      213: 3765365190706112477
-    second: Deco examples_1
-  - first:
-      213: 609646008465965851
-    second: Deco examples_2
-  - first:
-      213: -8561551881215746304
-    second: Deco examples_3
-  - first:
-      213: -7633874025346150344
-    second: Deco examples_4
-  - first:
-      213: -2126932791906471896
-    second: Deco examples_5
-  - first:
-      213: -8164976314853814240
-    second: Deco examples_6
-  - first:
-      213: 4777390000320336952
-    second: Deco examples_7
-  - first:
-      213: 6335704846937531037
-    second: Deco examples_8
-  - first:
-      213: -5635602356489797791
-    second: Deco examples_9
-  - first:
-      213: 5931093962537783509
-    second: Deco examples_10
-  - first:
-      213: 8153771161023265986
-    second: Deco examples_11
+      213: 5638019250450136578
+    second: tile master_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 12
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -146,265 +113,265 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Deco examples_0
+      name: GreenTile_0_0
       rect:
         serializedVersion: 2
-        x: 77
-        y: 443
-        width: 38
-        height: 28
+        x: 444
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1cd6f8a68a74bb020800000000000000
-      internalID: 2358557618526449089
+      spriteID: 84e7c861907cd6a4eabebb9a46f46362
+      internalID: -2118966333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_1
+      name: GreenTile_0_1
       rect:
         serializedVersion: 2
-        x: 269
-        y: 443
-        width: 38
-        height: 28
+        x: 409
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dd7a8a1f0b3414430800000000000000
-      internalID: 3765365190706112477
+      spriteID: 96aa1e975b4429e4ea672ff31a94a5a6
+      internalID: -1932936361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_2
+      name: GreenTile_0_2
       rect:
         serializedVersion: 2
-        x: 461
-        y: 443
-        width: 38
-        height: 28
+        x: 347
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b13495d80d5e57800800000000000000
-      internalID: 609646008465965851
+      spriteID: b6b72e2b45a071548a4f82a6c9f3f372
+      internalID: 1925337719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_3
+      name: GreenTile_0_3
       rect:
         serializedVersion: 2
-        x: 653
-        y: 443
-        width: 38
-        height: 28
+        x: 323
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 00fde02dce14f2980800000000000000
-      internalID: -8561551881215746304
+      spriteID: 01ae7ae6529ca6846a6b9303b6462a9b
+      internalID: 2105032320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_4
+      name: GreenTile_0_4
       rect:
         serializedVersion: 2
-        x: 77
-        y: 251
-        width: 38
-        height: 28
+        x: 299
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 830592b15080f0690800000000000000
-      internalID: -7633874025346150344
+      spriteID: 0f26f994b58b5514ca9897678e4fd40c
+      internalID: -1447420657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_5
+      name: GreenTile_0_5
       rect:
         serializedVersion: 2
-        x: 269
-        y: 251
-        width: 38
-        height: 28
+        x: 179
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 820f84d05ed9b72e0800000000000000
-      internalID: -2126932791906471896
+      spriteID: 43bc2cebb065ff44d99149e36d6a6700
+      internalID: 1797743664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_6
+      name: GreenTile_0_6
       rect:
         serializedVersion: 2
-        x: 461
-        y: 251
-        width: 38
-        height: 28
+        x: 155
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 02019a13d4d20be80800000000000000
-      internalID: -8164976314853814240
+      spriteID: 2b79981ea97676c48ae41f4793598046
+      internalID: 2083639457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_7
+      name: GreenTile_0_7
       rect:
         serializedVersion: 2
-        x: 653
-        y: 251
-        width: 38
-        height: 28
+        x: 131
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 834d892c4e2bc4240800000000000000
-      internalID: 4777390000320336952
+      spriteID: bdb95345b29e160408e114a32b72be7c
+      internalID: 1644700134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_8
+      name: GreenTile_0_8
       rect:
         serializedVersion: 2
-        x: 77
-        y: 59
-        width: 38
-        height: 28
+        x: 107
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d92ae638df1fce750800000000000000
-      internalID: 6335704846937531037
+      spriteID: ca9b2e106f580d04d80665629d73c17a
+      internalID: 1254533466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_9
+      name: GreenTile_0_9
       rect:
         serializedVersion: 2
-        x: 269
-        y: 59
-        width: 38
-        height: 28
+        x: 83
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 16f3216f3815ac1b0800000000000000
-      internalID: -5635602356489797791
+      spriteID: 946dd936f5ed4d14eb068afc2fa61541
+      internalID: -676517666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_10
+      name: GreenTile_0_10
       rect:
         serializedVersion: 2
-        x: 461
-        y: 59
-        width: 38
-        height: 28
+        x: 59
+        y: 0
+        width: 24
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d0578ed88a7f4250800000000000000
-      internalID: 5931093962537783509
+      spriteID: 632c63dac9a017d468a0e6139ba65d24
+      internalID: -919251787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Deco examples_11
+      name: GreenTile_0_11
       rect:
         serializedVersion: 2
-        x: 653
-        y: 59
-        width: 38
-        height: 28
+        x: 0
+        y: 0
+        width: 576
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2ccbd90aba3082170800000000000000
-      internalID: 8153771161023265986
+      spriteID: 26c02cf4e55b9ad46aa519caea7fd1ad
+      internalID: 690414308
       vertices: []
       indices: 
       edges: []
@@ -413,7 +380,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2b0bc6cd358ecf34481abcf9d1c0580e
     internalID: 0
     vertices: []
     indices: 
@@ -423,18 +390,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Deco examples_0: 2358557618526449089
-      Deco examples_1: 3765365190706112477
-      Deco examples_10: 5931093962537783509
-      Deco examples_11: 8153771161023265986
-      Deco examples_2: 609646008465965851
-      Deco examples_3: -8561551881215746304
-      Deco examples_4: -7633874025346150344
-      Deco examples_5: -2126932791906471896
-      Deco examples_6: -8164976314853814240
-      Deco examples_7: 4777390000320336952
-      Deco examples_8: 6335704846937531037
-      Deco examples_9: -5635602356489797791
+      GreenTile_0_0: -2118966333
+      GreenTile_0_1: -1932936361
+      GreenTile_0_10: -919251787
+      GreenTile_0_11: 690414308
+      GreenTile_0_2: 1925337719
+      GreenTile_0_3: 2105032320
+      GreenTile_0_4: -1447420657
+      GreenTile_0_5: 1797743664
+      GreenTile_0_6: 2083639457
+      GreenTile_0_7: 1644700134
+      GreenTile_0_8: 1254533466
+      GreenTile_0_9: -676517666
+      tile master_0: 5638019250450136578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
