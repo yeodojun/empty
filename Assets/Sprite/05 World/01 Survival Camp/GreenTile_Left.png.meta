@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 65fbfd8853233aa42a55d3014e1c1d10
+guid: 387c17157238dc94aae4ead232c490bd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5638019250450136578
-    second: tile master_0
+      213: -8588263742711131132
+    second: GreenTile_0-sheet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 12
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenTile_0_0
+      name: GreenTile_Left_0
       rect:
         serializedVersion: 2
-        x: 74
-        y: 64
-        width: 32
-        height: 64
+        x: 0
+        y: 449
+        width: 64
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,20 +128,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1b1ee0911c94fc4b91093deddd9fdb9
-      internalID: -2118966333
+      spriteID: 25d394594101a3f43bd9b8c092a63155
+      internalID: 4903480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_1
+      name: GreenTile_Left_1
       rect:
         serializedVersion: 2
-        x: 112
-        y: 64
-        width: 35
-        height: 64
+        x: 0
+        y: 409
+        width: 64
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84d5c7ae46a3d4a4190d156e38aa9468
-      internalID: -1932936361
+      spriteID: 4a026e47d630d284486368a964499f82
+      internalID: -939523157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_2
+      name: GreenTile_Left_2
       rect:
         serializedVersion: 2
-        x: 178
-        y: 64
-        width: 45
-        height: 64
+        x: 0
+        y: 349
+        width: 64
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74b534b15b9e9604ebaaa9fda28d87fa
-      internalID: 1925337719
+      spriteID: 6f9ec36746abeda40aa76726b653d2ab
+      internalID: -632370143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_3
+      name: GreenTile_Left_3
       rect:
         serializedVersion: 2
-        x: 147
-        y: 64
-        width: 31
-        height: 64
+        x: 0
+        y: 305
+        width: 64
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b61042666899b7498603757980eb1ad
-      internalID: 2105032320
+      spriteID: c305671dc5aab234f83f4d18e5b893dd
+      internalID: -813104691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_4
+      name: GreenTile_Left_4
       rect:
         serializedVersion: 2
-        x: 226
-        y: 64
-        width: 39
-        height: 64
+        x: 0
+        y: 240
+        width: 64
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40d5068a50c903343ae158f6609d337a
-      internalID: -1447420657
+      spriteID: 90b5d53793aba144dadc2129af0e2e02
+      internalID: -287129529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_5
+      name: GreenTile_Left_5
       rect:
         serializedVersion: 2
-        x: 270
-        y: 64
-        width: 28
-        height: 64
+        x: 0
+        y: 195
+        width: 64
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,20 +238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b58260866bca80b43b8c9f24b274ecb8
-      internalID: 1797743664
+      spriteID: ea33f5fa82055904ea0cdb7727b9b56e
+      internalID: -2015812646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_6
+      name: GreenTile_Left_6
       rect:
         serializedVersion: 2
-        x: 303
-        y: 64
-        width: 28
-        height: 64
+        x: 0
+        y: 136
+        width: 64
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,20 +260,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9257698a8ef43aa49ab30faa02f74557
-      internalID: 2083639457
+      spriteID: d1c89807a7a945f4082398ff2e2e439f
+      internalID: 1744371481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_7
+      name: GreenTile_Left_7
       rect:
         serializedVersion: 2
-        x: 330
-        y: 64
-        width: 22
-        height: 64
+        x: 0
+        y: 99
+        width: 64
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,20 +282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a30b7d9db74cfdf469874d35c1a819f2
-      internalID: 1644700134
+      spriteID: be4e7fca0fec0b044886e62777d38254
+      internalID: -1746507044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: GreenTile_0_8
+      name: GreenTile_Left_8
       rect:
         serializedVersion: 2
-        x: 350
-        y: 64
-        width: 23
-        height: 64
+        x: 0
+        y: 58
+        width: 64
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,96 +304,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44f2b005cd14d2c4da2dc0279eb65dc0
-      internalID: 1254533466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_0_9
-      rect:
-        serializedVersion: 2
-        x: 377
-        y: 64
-        width: 26
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d4e97ea02b579f42b829a5344b1c30a
-      internalID: -676517666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_0_10
-      rect:
-        serializedVersion: 2
-        x: 403
-        y: 64
-        width: 30
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b69c8e1bcce7b624dadec6da966881c4
-      internalID: -919251787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_0_11
-      rect:
-        serializedVersion: 2
-        x: 413
-        y: 64
-        width: 31
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26dea9e01fd8c2846a2897b6725f3013
-      internalID: 690414308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_0_12
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 64
-        width: 31
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e30b635cf3057894d8a80f009912008f
-      internalID: 1350765105
+      spriteID: e07b08024abc37d4db201cabfe406fd4
+      internalID: -504124924
       vertices: []
       indices: 
       edges: []
@@ -402,7 +314,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2b0bc6cd358ecf34481abcf9d1c0580e
+    spriteID: 5b58befbe87183c4ea353242e43ffe02
     internalID: 0
     vertices: []
     indices: 
@@ -412,20 +324,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GreenTile_0_0: -2118966333
-      GreenTile_0_1: -1932936361
-      GreenTile_0_10: -919251787
-      GreenTile_0_11: 690414308
-      GreenTile_0_12: 1350765105
-      GreenTile_0_2: 1925337719
-      GreenTile_0_3: 2105032320
-      GreenTile_0_4: -1447420657
-      GreenTile_0_5: 1797743664
-      GreenTile_0_6: 2083639457
-      GreenTile_0_7: 1644700134
-      GreenTile_0_8: 1254533466
-      GreenTile_0_9: -676517666
-      tile master_0: 5638019250450136578
+      GreenTile_0-sheet_0: -8588263742711131132
+      GreenTile_Left_0: 4903480
+      GreenTile_Left_1: -939523157
+      GreenTile_Left_2: -632370143
+      GreenTile_Left_3: -813104691
+      GreenTile_Left_4: -287129529
+      GreenTile_Left_5: -2015812646
+      GreenTile_Left_6: 1744371481
+      GreenTile_Left_7: -1746507044
+      GreenTile_Left_8: -504124924
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

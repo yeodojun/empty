@@ -113,169 +113,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenTile_1_0
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 050988e889a69194cb736932ee0a4837
-      internalID: -1311955263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_1_1
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a304056bb85e804982f92f12db0e65c
-      internalID: 1983372736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_1_2
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a3816d57aee5fc46aeeb54472150da9
-      internalID: -2104844119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_1_3
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79f6f160e819f4b4180357f9e1ec2808
-      internalID: -1064379356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_1_4
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ff233772ebc1d74429c7a7e7403f8ef7
-      internalID: 1801716106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_1_5
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 64
-        width: 64
-        height: 64
-      alignment: 9
-      pivot: {x: 0.3084569, y: 0.5327023}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6907cc4506bdfca4d9240dcca0d60585
-      internalID: -720206429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GreenTile_1_6
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a5425f10b9c63746889c4be119ee587
-      internalID: -31699098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: GreenTile_1_7
       rect:
         serializedVersion: 2
-        x: 176
-        y: 0
+        x: 177
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,11 +139,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 0
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,11 +161,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 0
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,11 +183,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 273
-        y: 0
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,11 +205,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 337
-        y: 0
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,11 +227,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 401
-        y: 0
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,11 +249,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 465
-        y: 0
+        y: 64
         width: 64
-        height: 128
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -416,6 +262,28 @@ TextureImporter:
       bones: []
       spriteID: 08e59133baf127544bb425da803c285f
       internalID: -1646710569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenTile_1_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b04d72f1fb6de64cb7125fd10eadd19
+      internalID: -1311955263
       vertices: []
       indices: 
       edges: []
@@ -440,6 +308,7 @@ TextureImporter:
       GreenTile_1_11: -260337264
       GreenTile_1_12: -831502268
       GreenTile_1_13: -1646710569
+      GreenTile_1_14: -222317790
       GreenTile_1_2: -2104844119
       GreenTile_1_3: -1064379356
       GreenTile_1_4: 1801716106
