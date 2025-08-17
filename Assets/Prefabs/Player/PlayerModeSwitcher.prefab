@@ -113,9 +113,9 @@ MonoBehaviour:
   healthUI: {fileID: 0}
   maxHealth: 4
   currentHealth: 4
-  batteryUI: {fileID: 5723452335302272360, guid: 8a90249f71a18b14284d07f03c9b03ae, type: 3}
   maxMana: 100
   currentMana: 100
+  manaUIManager: {fileID: 0}
 --- !u!1 &1152479515154018834
 GameObject:
   m_ObjectHideFlags: 0
@@ -267,6 +267,7 @@ MonoBehaviour:
   ceilingLayer:
     serializedVersion: 2
     m_Bits: 128
+  currentState: 1
   attackPoint: {fileID: 5515854734419023337}
   attackBoxsize: {x: 1.2, y: 0.6}
   enemyLayer:
@@ -277,6 +278,8 @@ MonoBehaviour:
   upAttackBoxSize: {x: 1.2, y: 0.6}
   downAttackBoxCenter: {fileID: 0}
   downAttackBoxSize: {x: 1.2, y: 0.6}
+  wallAttackBoxCenter: {fileID: 0}
+  wallAttackBoxSize: {x: 1.2, y: 0.6}
   wallCheck: {fileID: 4894959885151680591}
   wallCheckDistance: 0.2
   wallLayer:
@@ -800,7 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 096dbc4b2aa289649a4548ea6a85ce9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 6
   jumpForce: 13
   groundCheck: {fileID: 6697771342791579719}
   groundCheckRadius: 0.2
@@ -812,6 +815,7 @@ MonoBehaviour:
   ceilingLayer:
     serializedVersion: 2
     m_Bits: 128
+  currentState: 1
   attackPoint: {fileID: 2655254327539965946}
   attackBoxsize: {x: 4, y: 1.2}
   enemyLayer:
@@ -822,6 +826,8 @@ MonoBehaviour:
   upAttackBoxSize: {x: 4, y: 4}
   downAttackBoxCenter: {fileID: 403257715771629153}
   downAttackBoxSize: {x: 4.3, y: 4}
+  wallAttackBoxCenter: {fileID: 0}
+  wallAttackBoxSize: {x: 1.2, y: 0.6}
   wallCheck: {fileID: 6925274655844246734}
   wallCheckDistance: 0.3
   wallLayer:
